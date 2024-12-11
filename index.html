@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Téléchargement de index.tfl</title>
+</head>
+<body>
+    <h1>Votre téléchargement commence...</h1>
+    <p>Si le téléchargement ne démarre pas automatiquement, <a href="index.tfl" download>cliquez ici pour télécharger le fichier.</a></p>
+
+    <script>
+        // Forcer le téléchargement du fichier
+        window.onload = function() {
+            const link = document.createElement('a');
+            link.href = 'index.tfl';
+            link.download = 'index.tfl';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        };
+    </script>
+</body>
+</html>
