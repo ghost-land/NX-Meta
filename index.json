@@ -1,9 +1,9 @@
 {
-    "success": "NX META UP",
     "titledb": {
         "01006D0017F7A000": {
             "id": "01006D0017F7A000",
             "name": "Mario & Luigi Brothership"
         }
-    }
+    },
+    "success": "NX META UP"
 }
