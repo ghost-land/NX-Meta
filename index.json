@@ -2,15 +2,5 @@
     "files": [],
     "headers": ["1111111111111111: 2222222222222222"],
     "directories": [],
-    "success": "NX META UP",
-    "titledb": {
-        "01006D0017F7A000": {
-            "id": "01006D0017F7A000",
-            "name": "Mario & Luigi Brothership",
-            "releaseDate": 20241107,
-            "version": 0,
-            "description": "test",
-            "publisher": "Nintendo"
-        }
-    }
+    "success": "NX META UP"
 }
