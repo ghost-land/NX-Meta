@@ -21,11 +21,13 @@ for file_name in os.listdir(data_dir):
                 content = json.load(file)
                 tid = file_name.split(".")[0]
                 title_name = content.get("title", "Unknown Title")
+                region = content.get("region", "Unknown Region")
                 description = content.get("description", "No description available")
                 # Add the entry to the index data
                 index_data["titledb"][tid] = {
                     "id": tid,
                     "name": title_name,
+                    "region": region,
                     "description": description
                 }
             except json.JSONDecodeError:
