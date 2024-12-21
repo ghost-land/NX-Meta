@@ -7,7 +7,6 @@ output_file = "index.json"
 
 # Initialize the main dictionary
 index_data = {
-    "success": "NX META UP",
     "titledb": {}
 }
 

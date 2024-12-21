@@ -1,6 +1,13 @@
 {
-    "success": "NX META UP",
     "titledb": {
+        "010015401FFE0000": {
+            "id": "010015401FFE0000",
+            "name": "MySims Kingdom"
+        },
+        "010040601FFDE000": {
+            "id": "010040601FFDE000",
+            "name": "MySims"
+        },
         "01006D0017F7A000": {
             "id": "01006D0017F7A000",
             "name": "Mario & Luigi Brothership",
