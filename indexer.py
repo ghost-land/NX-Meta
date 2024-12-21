@@ -19,16 +19,18 @@ for file_name in os.listdir(data_dir):
             try:
                 content = json.load(file)
                 tid = file_name.split(".")[0]
-                title_name = content.get("title", "Unknown Title")
-                region = content.get("region", "Unknown Region")
-                description = content.get("description", "No description available")
+                
+                # Prepare the entry dynamically based on available fields
+                entry = {"id": tid}
+                if "title" in content:
+                    entry["name"] = content["title"]
+                if "region" in content:
+                    entry["region"] = content["region"]
+                if "description" in content:
+                    entry["description"] = content["description"]
+
                 # Add the entry to the index data
-                index_data["titledb"][tid] = {
-                    "id": tid,
-                    "name": title_name,
-                    "region": region,
-                    "description": description
-                }
+                index_data["titledb"][tid] = entry
             except json.JSONDecodeError:
                 print(f"Skipping invalid JSON file: {file_name}")
 
