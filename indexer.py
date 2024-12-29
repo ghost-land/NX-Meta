@@ -1,8 +1,9 @@
 import os
 import json
 
-# Define the path to the data directory
+# Define the paths
 data_dir = "data"
+retro_file = "./data_retro/retrorom-titles.json"
 output_file = "index.json"
 
 # Initialize the main dictionary
@@ -33,6 +34,23 @@ for file_name in os.listdir(data_dir):
                 index_data["titledb"][tid] = entry
             except json.JSONDecodeError:
                 print(f"Skipping invalid JSON file: {file_name}")
+
+# Add content from retrorom-titles.json
+if os.path.exists(retro_file):
+    with open(retro_file, "r", encoding="utf-8") as retro:
+        try:
+            retro_data = json.load(retro)
+            for tid, entry in retro_data.items():
+                # Merge or add new entries
+                if tid not in index_data["titledb"]:
+                    index_data["titledb"][tid] = entry
+                else:
+                    # Update existing entry with missing fields
+                    for key, value in entry.items():
+                        if key not in index_data["titledb"][tid]:
+                            index_data["titledb"][tid][key] = value
+        except json.JSONDecodeError:
+            print("Invalid JSON in retrorom-titles.json, skipping its content.")
 
 # Write the aggregated data to index.json
 with open(output_file, "w", encoding="utf-8") as output:
