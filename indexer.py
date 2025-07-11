@@ -20,15 +20,13 @@ for file_name in os.listdir(data_dir):
             try:
                 content = json.load(file)
                 tid = file_name.split(".")[0]
-                
-                # Prepare the entry dynamically based on available fields
+
+                # Prepare the entry with the ID
                 entry = {"id": tid}
-                if "title" in content:
-                    entry["name"] = content["title"]
-                if "region" in content:
-                    entry["region"] = content["region"]
-                if "description" in content:
-                    entry["description"] = content["description"]
+
+                # Merge all fields from content into entry
+                for key, value in content.items():
+                    entry[key] = value
 
                 # Add the entry to the index data
                 index_data["titledb"][tid] = entry
@@ -41,11 +39,9 @@ if os.path.exists(retro_file):
         try:
             retro_data = json.load(retro)
             for tid, entry in retro_data.items():
-                # Merge or add new entries
                 if tid not in index_data["titledb"]:
                     index_data["titledb"][tid] = entry
                 else:
-                    # Update existing entry with missing fields
                     for key, value in entry.items():
                         if key not in index_data["titledb"][tid]:
                             index_data["titledb"][tid][key] = value
