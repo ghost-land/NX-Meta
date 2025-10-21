@@ -42,6 +42,9 @@ async function fetchMetadata(tid: string): Promise<GameMetadata | null> {
     
     const data: NlibResponse = await response.json();
     
+    // Use custom icon URL with /200 size when icon is available
+    const iconUrl = data.icon ? `https://api.nlib.cc/nx/${tid}/icon/200` : "";
+    
     return {
       name: data.name || "",
       publisher: data.publisher || "",
@@ -49,7 +52,7 @@ async function fetchMetadata(tid: string): Promise<GameMetadata | null> {
       intro: data.intro || "",
       description: data.description || "",
       bannerUrl: data.banner || "",
-      iconUrl: data.icon || "",
+      iconUrl: iconUrl,
       screenshots: data.screens || []
     };
   } catch (error) {
