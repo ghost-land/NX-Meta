@@ -1,5 +1,20 @@
 {
-    "name": "Mario & Luigi Brothership",
-    "region": "US",
-    "description": "The \"Mario & Luigi RPG\" Series Returns with a Brand-New Title After 9 Years!\nSet on islands floating in the vast ocean, the brothers embark on an all-new adventure.\n\n▼ A Story Unfolding in Another World\nThe story takes place in a land called \"Korinkutaru,\" a world different from the Mushroom Kingdom.\nMario and Luigi will venture to various unknown islands floating on the sea.\n\n▼ \"Brother Actions\" to Expand Exploration\nTo embark on their adventure in Korinkutaru, the two brothers must work together.\nBy learning special cooperative skills called \"Brother Actions,\" they will be able to explore a variety of areas.\n\n▼ Timing and Cooperation Are Key in Battles\nThe battles feature command-based combat infused with Mario-style action elements.\nBy pressing specific buttons at the right time during attacks, players can increase the damage dealt and unleash powerful \"Brother Attacks.\"\nSimilarly, pressing buttons with precise timing during defense allows the brothers to dodge enemy attacks or counter effectively.\n\n▼ A Variety of New Characters Appearing\nIn the land of Korinkutaru, players will encounter a wide range of characters. In addition to allies who join Mario and Luigi on their journey, unique characters also stand in their way as enemies.\nFamiliar faces like Princess Peach from the Mushroom Kingdom and Mario's eternal rival Bowser will also make appearances, adding even more charm to the story."
+  "name": "Mario & Luigi™: Brothership",
+  "publisher": "Nintendo",
+  "releaseDate": "20241107",
+  "intro": "Set sail on an island-hopping adventure starring Mario and Luigi",
+  "description": "The brothers return for a brand-new adventure on the high seas! A mysterious power has fractured the world of Concordia into many scattered islands, and it’s up to Mario and Luigi to reconnect them. Venture out on Shipshape Island (part ship, part island) and launch out of its cannon to visit, explore, and quest your way through islands that range from tropical rainforests to bustling cities. Meet new friends along the way, like Connie and Snoutlet (definitely not a pig), and encounter familiar faces from the Mushroom Kingdom like Peach and Bowser, who may help—or hinder—you on your journey.\n\nMake choices about the order you visit islands in, and your approach to the challenges you’ll face, as you chart your path through the story!\n\nRely on Mario and Luigi’s brotherly bond and abilities to succeed \n\nUnleash the mighty power of Mario and Luigi’s brotherly bond to overcome adversity and thwart foes! Use Bros. Moves to bypass obstacles while you explore by turning into a ball or UFO, or even throwing fire and ice balls to melt or freeze something in your way. Take advantage of powerful Bros. Attacks like Zapperator in a dynamic twist on turn-based combat, where well-timed attacks, dodges, and counterattacks are key to defeating foes! \n\nEquip Battle Plugs for extra abilities, like guaranteed critical hits against flying targets, to get a strategic advantage on your enemies. Swap Battle Plugs whenever you want, and experiment with creative combinations to create different effects—you’ll need every edge this “brothership” gives you to save the day!\n\nDiscover the power of Luigi’s inventive mind with Luigi Logic\n\nLuigi’s got lots of ideas for handling problems. His flashes of inspiration will help Mario explore, solve puzzles, collect items, and more. He’s also got some, er, unconventional approaches that might take you by surprise. Wait until you see the tricks he comes up with to help you deal big damage in boss battles!",
+  "bannerUrl": "http://api.nlib.cc/nx/01006D0017F7A000/banner",
+  "iconUrl": "http://api.nlib.cc/nx/01006D0017F7A000/icon",
+  "screenshots": {
+    "count": 6,
+    "screenshots": [
+      "http://api.nlib.cc/nx/01006D0017F7A000/screen/1",
+      "http://api.nlib.cc/nx/01006D0017F7A000/screen/2",
+      "http://api.nlib.cc/nx/01006D0017F7A000/screen/3",
+      "http://api.nlib.cc/nx/01006D0017F7A000/screen/4",
+      "http://api.nlib.cc/nx/01006D0017F7A000/screen/5",
+      "http://api.nlib.cc/nx/01006D0017F7A000/screen/6"
+    ]
+  }
 }

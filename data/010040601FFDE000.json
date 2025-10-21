@@ -1,3 +1,18 @@
 {
-    "name": "MySims"
+  "name": "MySims™: Cozy Bundle",
+  "publisher": "Electronic Arts",
+  "releaseDate": "20241119",
+  "intro": "Two adorable adventures!\n",
+  "description": "Befriend cute characters and discover creative adventures across retro re-releases of two lovable games in MySims™: Cozy Bundle. Use your imagination to rebuild a town in MySims™ and help a cute magical land become an even better place in MySims™ Kingdom. There are stories to uncover, locations to explore, and lots of characters with big personalities to meet.\n\nRediscover the charm of two classic MySims™ games, now on Nintendo Switch™. Fan-favorite characters are waiting to meet you, and a lot of them need your help! There is just one key element missing from these games – your creative touch! It’s time to craft the cutest worlds you can imagine.\n\n\nPlay Two Charming Stories — Relax with charming tales of creativity and discovery. Explore two worlds full of puzzles to solve, locations to unlock, and quirky townies in need of help.\n\nCustomize Cute Sims & Decorate Their Worlds — Create adorable Sims and customize the worlds around them! Unlock clothes and build options as you complete different tasks; there are so many options to discover in both games.\n\nBefriend Cute Characters — Meet funny, friendly characters filled with personality! Some will be with you the whole time, and others you’ll meet as you play and explore. Help them, and they’ll inspire you to get even more creative. You’re not only building houses, you’re building communities of memorable, adorable townies!",
+  "bannerUrl": "http://api.nlib.cc/nx/010040601FFDE000/banner",
+  "iconUrl": "http://api.nlib.cc/nx/010040601FFDE000/icon",
+  "screenshots": {
+    "count": 4,
+    "screenshots": [
+      "http://api.nlib.cc/nx/010040601FFDE000/screen/1",
+      "http://api.nlib.cc/nx/010040601FFDE000/screen/2",
+      "http://api.nlib.cc/nx/010040601FFDE000/screen/3",
+      "http://api.nlib.cc/nx/010040601FFDE000/screen/4"
+    ]
+  }
 }
