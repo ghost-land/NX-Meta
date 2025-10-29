@@ -59,16 +59,6 @@ if os.path.exists(retro_file):
         except json.JSONDecodeError:
             print("Invalid JSON in retrorom-titles.json, skipping its content.")
 
-# Sort entries by release date (most recent first)
-sorted_entries = sorted(
-    index_data["titledb"].items(),
-    key=lambda x: x[1].get("releaseDate", "00000000"),
-    reverse=True
-)
-
-# Rebuild the titledb with sorted entries
-index_data["titledb"] = {tid: entry for tid, entry in sorted_entries}
-
 # Write the aggregated data to index.json
 with open(output_file, "w", encoding="utf-8") as output:
     json.dump(index_data, output, ensure_ascii=False, indent=4)
