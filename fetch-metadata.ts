@@ -8,7 +8,10 @@ interface NlibResponse {
   description?: string;
   banner?: string;
   icon?: string;
-  screens?: string[];
+  screens?: {
+    count?: number;
+    screenshots?: string[];
+  } | string[];
 }
 
 interface GameMetadata {
@@ -45,6 +48,16 @@ async function fetchMetadata(tid: string): Promise<GameMetadata | null> {
     // Use custom icon URL with /200 size when icon is available
     const iconUrl = data.icon ? `https://api.nlib.cc/nx/${tid}/icon/200` : "";
     
+    // Extract screenshots array from the API response
+    let screenshots: string[] = [];
+    if (data.screens) {
+      if (Array.isArray(data.screens)) {
+        screenshots = data.screens;
+      } else if (data.screens.screenshots) {
+        screenshots = data.screens.screenshots;
+      }
+    }
+    
     return {
       name: data.name || "",
       publisher: data.publisher || "",
@@ -53,7 +66,7 @@ async function fetchMetadata(tid: string): Promise<GameMetadata | null> {
       description: data.description || "",
       bannerUrl: data.banner || "",
       iconUrl: iconUrl,
-      screenshots: data.screens || []
+      screenshots: screenshots
     };
   } catch (error) {
     console.error(`❌ Error fetching ${tid}:`, error);
