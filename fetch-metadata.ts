@@ -4,7 +4,6 @@ interface NlibResponse {
   name?: string;
   publisher?: string;
   releaseDate?: string;
-  intro?: string;
   description?: string;
   banner?: string;
   icon?: string;
@@ -18,7 +17,6 @@ interface GameMetadata {
   name: string;
   publisher: string;
   releaseDate: string;
-  intro: string;
   description: string;
   bannerUrl: string;
   iconUrl: string;
@@ -33,7 +31,7 @@ function formatDate(date: string | undefined): string {
 
 // Fetch metadata for a TID
 async function fetchMetadata(tid: string): Promise<GameMetadata | null> {
-  const url = `https://api.nlib.cc/nx/${tid}?fields=name,publisher,releaseDate,intro,description,banner,icon,screens`;
+  const url = `https://api.nlib.cc/nx/${tid}?fields=name,publisher,releaseDate,description,banner,icon,screens`;
   
   try {
     const response = await fetch(url);
@@ -62,7 +60,6 @@ async function fetchMetadata(tid: string): Promise<GameMetadata | null> {
       name: data.name || "",
       publisher: data.publisher || "",
       releaseDate: formatDate(data.releaseDate),
-      intro: data.intro || "",
       description: data.description || "",
       bannerUrl: data.banner || "",
       iconUrl: iconUrl,

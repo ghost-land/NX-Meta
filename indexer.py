@@ -26,7 +26,11 @@ for file_name in os.listdir(data_dir):
 
                 # Merge all fields from content into entry
                 for key, value in content.items():
-                    entry[key] = value
+                    # Limit screenshots to first 4
+                    if key == "screenshots" and isinstance(value, list):
+                        entry[key] = value[:4]
+                    else:
+                        entry[key] = value
 
                 # Add the entry to the index data
                 index_data["titledb"][tid] = entry
@@ -40,13 +44,30 @@ if os.path.exists(retro_file):
             retro_data = json.load(retro)
             for tid, entry in retro_data.items():
                 if tid not in index_data["titledb"]:
+                    # Limit screenshots to first 4 for new entries
+                    if "screenshots" in entry and isinstance(entry["screenshots"], list):
+                        entry["screenshots"] = entry["screenshots"][:4]
                     index_data["titledb"][tid] = entry
                 else:
                     for key, value in entry.items():
                         if key not in index_data["titledb"][tid]:
-                            index_data["titledb"][tid][key] = value
+                            # Limit screenshots to first 4
+                            if key == "screenshots" and isinstance(value, list):
+                                index_data["titledb"][tid][key] = value[:4]
+                            else:
+                                index_data["titledb"][tid][key] = value
         except json.JSONDecodeError:
             print("Invalid JSON in retrorom-titles.json, skipping its content.")
+
+# Sort entries by release date (most recent first)
+sorted_entries = sorted(
+    index_data["titledb"].items(),
+    key=lambda x: x[1].get("releaseDate", "00000000"),
+    reverse=True
+)
+
+# Rebuild the titledb with sorted entries
+index_data["titledb"] = {tid: entry for tid, entry in sorted_entries}
 
 # Write the aggregated data to index.json
 with open(output_file, "w", encoding="utf-8") as output:
