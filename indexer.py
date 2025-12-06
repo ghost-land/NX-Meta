@@ -6,6 +6,20 @@ data_dir = "data"
 retro_file = "./data_retro/retrorom-titles.json"
 output_file = "index.json"
 
+# Function to convert HTTP URLs to HTTPS recursively
+def convert_http_to_https(data):
+    """
+    Recursively convert all HTTP URLs to HTTPS in the data structure.
+    """
+    if isinstance(data, dict):
+        return {key: convert_http_to_https(value) for key, value in data.items()}
+    elif isinstance(data, list):
+        return [convert_http_to_https(item) for item in data]
+    elif isinstance(data, str) and data.startswith("http://"):
+        return data.replace("http://", "https://", 1)
+    else:
+        return data
+
 # Initialize the main dictionary
 index_data = {
     "titledb": {}
@@ -58,6 +72,9 @@ if os.path.exists(retro_file):
                                 index_data["titledb"][tid][key] = value
         except json.JSONDecodeError:
             print("Invalid JSON in retrorom-titles.json, skipping its content.")
+
+# Convert all HTTP URLs to HTTPS
+index_data = convert_http_to_https(index_data)
 
 # Write the aggregated data to index.json
 with open(output_file, "w", encoding="utf-8") as output:
