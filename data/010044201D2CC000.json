@@ -1,0 +1,16 @@
+{
+  "name": "Felix the Cat",
+  "publisher": "KONAMI",
+  "releaseDate": "20240328",
+  "description": "The  iconic cartoon Felix embarks on a heroic journey to rescue his girlfriend Kitty from the Professor. Players will battle various enemies utilizing cannon balls, flying discs, and other maneuvers to save the day. \n\nGamers will be transported into this iconic cartoon world where players become the beloved and worldwide character. The key features of the game will be: \n>2 games within the franchise are available \n       >Felix the Cat (Nintendo Entertainment System™)\n       >Felix the Cat (Game Boy™) \n>Save game (progression) at any time\n>Rewind feature",
+  "bannerUrl": "http://api.nlib.cc/nx/010044201D2CC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010044201D2CC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010044201D2CC000/screen/1",
+    "http://api.nlib.cc/nx/010044201D2CC000/screen/2",
+    "http://api.nlib.cc/nx/010044201D2CC000/screen/3",
+    "http://api.nlib.cc/nx/010044201D2CC000/screen/4",
+    "http://api.nlib.cc/nx/010044201D2CC000/screen/5",
+    "http://api.nlib.cc/nx/010044201D2CC000/screen/6"
+  ]
+}

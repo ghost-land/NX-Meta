@@ -1,0 +1,16 @@
+{
+  "name": "Eekeemoo - Splinters of the Dark Shard",
+  "publisher": "Cooply",
+  "releaseDate": "20180802",
+  "description": "In this awesome third person adventure game you will help Eekeemoo rescue his friends from the clutches of the evil Dark Shard! Your quest will take you deep into the Dark Shards four corrupted splinter worlds.\n \nYou'll help Eekeemoo solve puzzles, complete tasks and battle monsters, legions of the undead and hugely terrifying boss monsters!\n \nTake heart though! As you find and release each of Eekeemoo's friends (there are 4 unlockable characters with different powers) you will be able use their powers to solve the next set of problems.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01006F900A298000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006F900A298000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006F900A298000/screen/1",
+    "http://api.nlib.cc/nx/01006F900A298000/screen/2",
+    "http://api.nlib.cc/nx/01006F900A298000/screen/3",
+    "http://api.nlib.cc/nx/01006F900A298000/screen/4",
+    "http://api.nlib.cc/nx/01006F900A298000/screen/5",
+    "http://api.nlib.cc/nx/01006F900A298000/screen/6"
+  ]
+}

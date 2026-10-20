@@ -1,0 +1,16 @@
+{
+  "name": "Terror Mansion",
+  "publisher": "Domynyo",
+  "releaseDate": "20240528",
+  "description": "Terror Mansion is an exciting first person Horror video game that catapults you into a  frightening Mansion. \nYour main objective is to escape the infested Mansion, finding objects and challenging riddles while exploring incredible scenarios.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005DD01EF88000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005DD01EF88000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005DD01EF88000/screen/1",
+    "http://api.nlib.cc/nx/01005DD01EF88000/screen/2",
+    "http://api.nlib.cc/nx/01005DD01EF88000/screen/3",
+    "http://api.nlib.cc/nx/01005DD01EF88000/screen/4",
+    "http://api.nlib.cc/nx/01005DD01EF88000/screen/5",
+    "http://api.nlib.cc/nx/01005DD01EF88000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Marble Power Blast",
+  "publisher": "EntwicklerX",
+  "releaseDate": "20190110",
+  "description": "Play Marble Power Blast, a Match-3 Bubble shooter game! Get beautiful HD backgrounds in 50 levels and 7 different locations/themes.\nUnlock the shuffle gaming mode and generate your own levels with random calculated difficulty, marble waves, length and number of colors.",
+  "bannerUrl": "http://api.nlib.cc/nx/01008E800D1FE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008E800D1FE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008E800D1FE000/screen/1",
+    "http://api.nlib.cc/nx/01008E800D1FE000/screen/2",
+    "http://api.nlib.cc/nx/01008E800D1FE000/screen/3",
+    "http://api.nlib.cc/nx/01008E800D1FE000/screen/4",
+    "http://api.nlib.cc/nx/01008E800D1FE000/screen/5",
+    "http://api.nlib.cc/nx/01008E800D1FE000/screen/6"
+  ]
+}

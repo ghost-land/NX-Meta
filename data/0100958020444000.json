@@ -1,0 +1,15 @@
+{
+  "name": "Comic Store Arcade",
+  "publisher": "Entity3",
+  "releaseDate": "20241019",
+  "description": "Grow your comic book store business from the ground up \n\nStack comics, unlock table games, arcade machines and upgrades \n\nEntertain the customers and build a successful franchise",
+  "bannerUrl": "http://api.nlib.cc/nx/0100958020444000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100958020444000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100958020444000/screen/1",
+    "http://api.nlib.cc/nx/0100958020444000/screen/2",
+    "http://api.nlib.cc/nx/0100958020444000/screen/3",
+    "http://api.nlib.cc/nx/0100958020444000/screen/4",
+    "http://api.nlib.cc/nx/0100958020444000/screen/5"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "I Am Setsuna",
+  "publisher": "SQUARE ENIX",
+  "releaseDate": "20170303",
+  "description": "I AM SETSUNA introduces the authentic JRPG style of yesteryear to Nintendo Switch™! Journey with Setsuna as she prepares to make the ultimate sacrifice and save the people of her land. A powerfully nostalgic experience, blending a classic style of story-telling, battle system and gameplay.\n\nAn emotionally impactful story which immerses players in the narrative of Setsuna, whose story portrays heartrending sorrow\nA new battle system inspired by the timeless JRPG classic, Chrono Trigger\nA great homage to JRPG masterpieces of yesteryear, beautiful character designs and varied in-game locales evoke nostalgia for classic RPGs",
+  "bannerUrl": "http://api.nlib.cc/nx/0100849000BDA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100849000BDA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100849000BDA000/screen/1",
+    "http://api.nlib.cc/nx/0100849000BDA000/screen/2",
+    "http://api.nlib.cc/nx/0100849000BDA000/screen/3",
+    "http://api.nlib.cc/nx/0100849000BDA000/screen/4",
+    "http://api.nlib.cc/nx/0100849000BDA000/screen/5",
+    "http://api.nlib.cc/nx/0100849000BDA000/screen/6"
+  ]
+}

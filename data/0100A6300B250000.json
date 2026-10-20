@@ -1,0 +1,16 @@
+{
+  "name": "SEGA Genesis Classics",
+  "publisher": "SEGA",
+  "releaseDate": "20181207",
+  "description": "Including over 50 titles across all genres, from all-time classics like Sonic and Streets of Rage 2 to deep RPGs like the Phantasy Star series; arcade action, shooters, beat’m ups, puzzles, old favorites and hidden gems. There is a classic title for every player to enjoy! \n\nNew features also bring modern convenience to the classics. Save your game at any time, rewind those slip-ups, or customize your controls. Earn bragging rights with online multiplayer and achievements. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A6300B250000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A6300B250000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A6300B250000/screen/1",
+    "http://api.nlib.cc/nx/0100A6300B250000/screen/2",
+    "http://api.nlib.cc/nx/0100A6300B250000/screen/3",
+    "http://api.nlib.cc/nx/0100A6300B250000/screen/4",
+    "http://api.nlib.cc/nx/0100A6300B250000/screen/5",
+    "http://api.nlib.cc/nx/0100A6300B250000/screen/6"
+  ]
+}

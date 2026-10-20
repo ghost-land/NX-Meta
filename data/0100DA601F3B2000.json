@@ -1,0 +1,15 @@
+{
+  "name": "Spring Time",
+  "publisher": "Entity3",
+  "releaseDate": "20240622",
+  "description": "Hop on your bike and race you way to the finish! \n\nUse springs to take short cuts and hit boosts to speed up\n\nExperience fast paced, fun and addictive racing with springs!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DA601F3B2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DA601F3B2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DA601F3B2000/screen/1",
+    "http://api.nlib.cc/nx/0100DA601F3B2000/screen/2",
+    "http://api.nlib.cc/nx/0100DA601F3B2000/screen/3",
+    "http://api.nlib.cc/nx/0100DA601F3B2000/screen/4",
+    "http://api.nlib.cc/nx/0100DA601F3B2000/screen/5"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Outpost Delta",
+  "publisher": "Hidden Achievement",
+  "releaseDate": "20201020",
+  "description": "An abandoned research station has gone unnoticed in the depths of space for years, until now. With an army of invasive aliens boarding the station, the outpost AI has rebooted its last remaining defense drone: Delta. Now Delta needs to repel the Klaath threat, save the outpost, and head out into space to search for answers.\n\n* Classic platforming blended with twin-stick shooting\n* Explore an interconnected space station under attack by a relentless horde\n* Control the station’s gravity; float in 0G, or turn up the force and bring your enemies to their knees\n* Discover an arsenal of weapons and tools and equip the right ones for the job\n* Upgrade your suit to help survive the might of the Klaath",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CCF00F5BC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CCF00F5BC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CCF00F5BC000/screen/1",
+    "http://api.nlib.cc/nx/0100CCF00F5BC000/screen/2",
+    "http://api.nlib.cc/nx/0100CCF00F5BC000/screen/3",
+    "http://api.nlib.cc/nx/0100CCF00F5BC000/screen/4",
+    "http://api.nlib.cc/nx/0100CCF00F5BC000/screen/5",
+    "http://api.nlib.cc/nx/0100CCF00F5BC000/screen/6"
+  ]
+}

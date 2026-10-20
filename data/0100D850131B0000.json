@@ -1,0 +1,16 @@
+{
+  "name": "Touhou Luna Nights",
+  "publisher": "PLAYISM",
+  "releaseDate": "20201217",
+  "description": "Touhou Luna Nights is a Metroidvania title with a heavy emphasis on exploration and action.　\nDeveloped by Team Ladybug, creators of multiple fantastic action games thus far.\n\n~ Story ~\n\n“...Now, let’s begin my world.”\n\nRemilia Scarlet, head vampire of the Scarlet Devil Mansion sends her maid Sakuya Izayoi with no warning to a world much like Gensokyo, but not quite.\n\nA world full of strange places, filled with strange youkai and her time manipulation sealed.\nWhat could Remilia’s end game be...?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D850131B0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D850131B0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D850131B0000/screen/1",
+    "http://api.nlib.cc/nx/0100D850131B0000/screen/2",
+    "http://api.nlib.cc/nx/0100D850131B0000/screen/3",
+    "http://api.nlib.cc/nx/0100D850131B0000/screen/4",
+    "http://api.nlib.cc/nx/0100D850131B0000/screen/5",
+    "http://api.nlib.cc/nx/0100D850131B0000/screen/6"
+  ]
+}

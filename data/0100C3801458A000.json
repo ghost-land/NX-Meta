@@ -1,0 +1,14 @@
+{
+  "name": "Night Vision",
+  "publisher": "Sabec",
+  "releaseDate": "20210224",
+  "description": "Night Vision let's you see in complete darkness! \n\nNight Vision works by using the IR camera built into the right Joy-Con™ (how cool is that!). See anything in complete darkness upto 0.5 metres away.  White and reflective things show up better and further away, but hey, why not experiment yourself. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C3801458A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C3801458A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C3801458A000/screen/1",
+    "http://api.nlib.cc/nx/0100C3801458A000/screen/2",
+    "http://api.nlib.cc/nx/0100C3801458A000/screen/3",
+    "http://api.nlib.cc/nx/0100C3801458A000/screen/4"
+  ]
+}

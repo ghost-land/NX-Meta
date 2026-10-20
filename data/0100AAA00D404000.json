@@ -1,0 +1,16 @@
+{
+  "name": "Magic Scroll Tactics",
+  "publisher": "Mediascape",
+  "releaseDate": "20190207",
+  "description": "Magic Scroll Tactics is a side-scrolling tactical RPG where height is key. But be warned, simply holding the high ground won't ensure victory! Raining arrows down on your hapless foes is only one part of this simple yet deep strategy game; you'll need to master a wide variety of abilities and units if you wish to conquer your perilous foes.\n\nAnd who are these foes, you ask? Why, ancient wizards, greedy pirates, and more!\nAs the Summoner, Nash, team up with a young priestess to vanquish the diabolical forces of darkness. Only under your expert guidance will these two brave heroes be victorious!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AAA00D404000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AAA00D404000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AAA00D404000/screen/1",
+    "http://api.nlib.cc/nx/0100AAA00D404000/screen/2",
+    "http://api.nlib.cc/nx/0100AAA00D404000/screen/3",
+    "http://api.nlib.cc/nx/0100AAA00D404000/screen/4",
+    "http://api.nlib.cc/nx/0100AAA00D404000/screen/5",
+    "http://api.nlib.cc/nx/0100AAA00D404000/screen/6"
+  ]
+}

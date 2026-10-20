@@ -1,0 +1,16 @@
+{
+  "name": "Chronicles of 2 Heroes: Amaterasu's Wrath",
+  "publisher": "Catness Game",
+  "releaseDate": "20230526",
+  "description": "Amaterasu and her disciple, Empress Himiko, tyrannize feudal Japan with their mighty army of yokai.\n\nEach character plays very differently. Kensei masters close combat, but he cannot jump, while Ayame is way more agile thanks to her jumps and long-ranged attacks. Switch between both heroes and combine their skills to overcome tough platforming challenges and face epic boss fights.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EB901AE40000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EB901AE40000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EB901AE40000/screen/1",
+    "http://api.nlib.cc/nx/0100EB901AE40000/screen/2",
+    "http://api.nlib.cc/nx/0100EB901AE40000/screen/3",
+    "http://api.nlib.cc/nx/0100EB901AE40000/screen/4",
+    "http://api.nlib.cc/nx/0100EB901AE40000/screen/5",
+    "http://api.nlib.cc/nx/0100EB901AE40000/screen/6"
+  ]
+}

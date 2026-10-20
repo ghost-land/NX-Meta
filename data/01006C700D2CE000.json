@@ -1,0 +1,15 @@
+{
+  "name": "Pizza Parking",
+  "publisher": "Arach Games",
+  "releaseDate": "20190219",
+  "description": "Pizza Parking is a challenging arcade parking simulator. \nYou are a pizza delivery driver, and your goal is to park precisely and fast! Time is running out and the road is winding and full of obstacles.\n\n\nKey features:\n- single player\n- challenging gameplay\n- 4 cars of various driving characteristics\n- 72 unique levels\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01006C700D2CE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006C700D2CE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006C700D2CE000/screen/1",
+    "http://api.nlib.cc/nx/01006C700D2CE000/screen/2",
+    "http://api.nlib.cc/nx/01006C700D2CE000/screen/3",
+    "http://api.nlib.cc/nx/01006C700D2CE000/screen/4",
+    "http://api.nlib.cc/nx/01006C700D2CE000/screen/5"
+  ]
+}

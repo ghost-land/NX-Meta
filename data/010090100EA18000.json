@@ -1,0 +1,15 @@
+{
+  "name": "ミツバチ シミュレーター",
+  "publisher": "Untold Tales",
+  "releaseDate": "20200423",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/010090100EA18000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010090100EA18000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010090100EA18000/screen/1",
+    "http://api.nlib.cc/nx/010090100EA18000/screen/2",
+    "http://api.nlib.cc/nx/010090100EA18000/screen/3",
+    "http://api.nlib.cc/nx/010090100EA18000/screen/4",
+    "http://api.nlib.cc/nx/010090100EA18000/screen/5"
+  ]
+}

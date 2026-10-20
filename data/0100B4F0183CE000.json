@@ -1,0 +1,16 @@
+{
+  "name": "My Life: Pet Vet",
+  "publisher": "TREVA",
+  "releaseDate": "20221006",
+  "description": "Take care of sick and injured animals in your own small animal practice. Use various examination techniques, make the right diagnosis and give your little patients the right treatment – just like a real-life vet. Aftercare and nursing care are also your responsibility. The cuddly animals will soon be fit and healthy again!\n\n• 7 cute animal species: Hamsters, guinea pigs, tortoises, budgies, rabbits, cats and dogs\n• Modern practice with animal shelters in the outdoor enclosure \n• 50 illnesses – from eye infections to tick bites\n• Examination and treatment methods just like the pros\n• Move on foot, on horseback or by car\n• Customisable player character\n• Large, open 3D world",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B4F0183CE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B4F0183CE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B4F0183CE000/screen/1",
+    "http://api.nlib.cc/nx/0100B4F0183CE000/screen/2",
+    "http://api.nlib.cc/nx/0100B4F0183CE000/screen/3",
+    "http://api.nlib.cc/nx/0100B4F0183CE000/screen/4",
+    "http://api.nlib.cc/nx/0100B4F0183CE000/screen/5",
+    "http://api.nlib.cc/nx/0100B4F0183CE000/screen/6"
+  ]
+}

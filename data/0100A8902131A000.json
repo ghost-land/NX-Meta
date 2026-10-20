@@ -1,0 +1,16 @@
+{
+  "name": "Chained Heroes",
+  "publisher": "Fun Games Studio",
+  "releaseDate": "20250203",
+  "description": "Step into the post-apocalyptic world of Chained Heroes, a thrilling 3D platformer where every jump could be your last! As a player, your mission is to leap across crumbling surfaces, dodge dangerous obstacles, and climb to new heights in a desolate, dystopian landscape. Your goal? Reach the final destination—but what awaits you there is a mystery you'll uncover as you progress through the game.\n\nIn this unforgiving world, falling into the water means starting over, so precise timing and sharp reflexes are key to survival. Team up with friends in multiplayer mode, where working together can make all the difference in reaching the top.\n\nChoose from 4 unique skins to personalize your character as you navigate through this hostile environment. Will you conquer the ruins and emerge victorious, or will the waters claim you before you reach the end? Dive into Chained Heroes and find out!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A8902131A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A8902131A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A8902131A000/screen/1",
+    "http://api.nlib.cc/nx/0100A8902131A000/screen/2",
+    "http://api.nlib.cc/nx/0100A8902131A000/screen/3",
+    "http://api.nlib.cc/nx/0100A8902131A000/screen/4",
+    "http://api.nlib.cc/nx/0100A8902131A000/screen/5",
+    "http://api.nlib.cc/nx/0100A8902131A000/screen/6"
+  ]
+}

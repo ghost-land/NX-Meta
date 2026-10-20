@@ -1,0 +1,18 @@
+{
+  "name": "Let's Aim! Crane Game",
+  "publisher": "SAT-BOX",
+  "releaseDate": "20260625",
+  "description": "Enjoy an authentic crane game experience on Nintendo Switch™!\nTake on realistic physics and a wide variety of stages!\nIn addition to standard crane claws, special machines featuring suction cups, hooks, chains, and water-based stages also appear!\nCollect every prize and become a true crane game master!\n\n【Free Play】\nChallenge all 36 stages!\nClear a stage by collecting every prize!\nAim for a 3-star rating with the fastest clear times!\n\n【Challenge】\nTake on 6 stages in a row!\nCompete for the fastest times and climb the global rankings!\n\n【Collection Room】\nDisplay and admire the prizes you've collected!\nCreate your very own original room!",
+  "bannerUrl": "http://api.nlib.cc/nx/01001FF0281E0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001FF0281E0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001FF0281E0000/screen/1",
+    "http://api.nlib.cc/nx/01001FF0281E0000/screen/2",
+    "http://api.nlib.cc/nx/01001FF0281E0000/screen/3",
+    "http://api.nlib.cc/nx/01001FF0281E0000/screen/4",
+    "http://api.nlib.cc/nx/01001FF0281E0000/screen/5",
+    "http://api.nlib.cc/nx/01001FF0281E0000/screen/6"
+  ],
+  "version": 0,
+  "size": 93545751
+}

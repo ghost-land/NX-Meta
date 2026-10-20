@@ -1,0 +1,16 @@
+{
+  "name": "Super Tennis",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20200127",
+  "description": "Simply tap in the right time to launch ball across the court! Fun quick matches awaits you in cities like Tokyo, Berlin, New York City and London. Unlock new characters to play and take part in various game modes.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01002950102CE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002950102CE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002950102CE000/screen/1",
+    "http://api.nlib.cc/nx/01002950102CE000/screen/2",
+    "http://api.nlib.cc/nx/01002950102CE000/screen/3",
+    "http://api.nlib.cc/nx/01002950102CE000/screen/4",
+    "http://api.nlib.cc/nx/01002950102CE000/screen/5",
+    "http://api.nlib.cc/nx/01002950102CE000/screen/6"
+  ]
+}

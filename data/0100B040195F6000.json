@@ -1,0 +1,16 @@
+{
+  "name": "Beeny",
+  "publisher": "Diplodocus Games",
+  "releaseDate": "20221014",
+  "description": "A vertical 2D platformer featuring a round bee in an early 90s prerendered environment. Roll and hop up to the precious honey.\n\nFeatures:\n- early 90s prerendered graphics\n- 9 levels with replay value\n- a few secrets to discover\n- a very round bee\n- a prelude to Super Kiwi 64",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B040195F6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B040195F6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B040195F6000/screen/1",
+    "http://api.nlib.cc/nx/0100B040195F6000/screen/2",
+    "http://api.nlib.cc/nx/0100B040195F6000/screen/3",
+    "http://api.nlib.cc/nx/0100B040195F6000/screen/4",
+    "http://api.nlib.cc/nx/0100B040195F6000/screen/5",
+    "http://api.nlib.cc/nx/0100B040195F6000/screen/6"
+  ]
+}

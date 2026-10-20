@@ -1,0 +1,15 @@
+{
+  "name": "Understand",
+  "publisher": "mazette!",
+  "releaseDate": "20220707",
+  "description": "Understand is an experimental puzzle game in which every level has a different ruleset.\n\nEach dot below the screen represents a rule.\nYou have to figure out their meaning through trial and error, then draw a line satisfying all rules.\n\nFeatures:\n * 100+ levels with ever-changing rules\n * Language independent\n * Some \"think outside the box\" stuff\n * An unexplored puzzle genre",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C80018C0C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C80018C0C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C80018C0C000/screen/1",
+    "http://api.nlib.cc/nx/0100C80018C0C000/screen/2",
+    "http://api.nlib.cc/nx/0100C80018C0C000/screen/3",
+    "http://api.nlib.cc/nx/0100C80018C0C000/screen/4",
+    "http://api.nlib.cc/nx/0100C80018C0C000/screen/5"
+  ]
+}

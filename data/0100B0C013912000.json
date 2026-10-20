@@ -1,0 +1,16 @@
+{
+  "name": "Among Us",
+  "publisher": "Innersloth",
+  "releaseDate": "20201215",
+  "description": "Play with 4-15 players online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B0C013912000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B0C013912000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B0C013912000/screen/1",
+    "http://api.nlib.cc/nx/0100B0C013912000/screen/2",
+    "http://api.nlib.cc/nx/0100B0C013912000/screen/3",
+    "http://api.nlib.cc/nx/0100B0C013912000/screen/4",
+    "http://api.nlib.cc/nx/0100B0C013912000/screen/5",
+    "http://api.nlib.cc/nx/0100B0C013912000/screen/6"
+  ]
+}

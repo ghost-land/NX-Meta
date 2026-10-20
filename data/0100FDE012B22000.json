@@ -1,0 +1,16 @@
+{
+  "name": "Tengam",
+  "publisher": "Rochester Institute of Technology MAGIC Spell Studios",
+  "releaseDate": "20201120",
+  "description": "Tengam is a warehouse robot with one problem -- her magnets won't turn off. But she's not going to let that stop her from getting the job done.\n* 50 challenging rooms, with meshes, carts, holes, switches.\n* Can you solve them all?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FDE012B22000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FDE012B22000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FDE012B22000/screen/1",
+    "http://api.nlib.cc/nx/0100FDE012B22000/screen/2",
+    "http://api.nlib.cc/nx/0100FDE012B22000/screen/3",
+    "http://api.nlib.cc/nx/0100FDE012B22000/screen/4",
+    "http://api.nlib.cc/nx/0100FDE012B22000/screen/5",
+    "http://api.nlib.cc/nx/0100FDE012B22000/screen/6"
+  ]
+}

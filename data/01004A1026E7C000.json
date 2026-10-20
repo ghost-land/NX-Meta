@@ -1,0 +1,18 @@
+{
+  "name": "Tiny Auto Knights",
+  "publisher": "Mumpitz Games",
+  "releaseDate": "20260430",
+  "description": "Build a team\nRecruit heroes with unique skills and place them strategically on the field. Merge the same heroes to level them up and get access to more powerful skills. Optimize your team and create strong synergies.\n\nFight against other players\nWhen the battle starts, your heroes will fight automatically and use their skills. Where they are on the battlefield determines the order of attacks and skills. Status effects like armor, poison, or freezing make the combat even deeper.\n\nCustomize your decks\nWin battles to earn Unlock Tokens! Use these tokens to get new heroes and add them to your custom deck. Find unexpected combinations and perfect your strategy. Share your decks with the community and friends ‒ and try out their creations.\n\nChoose relics\nGet these passive bonuses to complement your team. Relics can make every run into a unique experience.\n\nLevel up rewards\nPick a reward whenever you level up one of your heroes. With a bit of luck, you will be able to boost your team's strength by a lot.\n\nLeaderboards\nPlay ranked games to climb the leaderboard among all players globally or compete with your friends.\n\nDetailed player stats\nYou can always have a look at this comprehensive list of all your in game actions and results.\n\nFeatures:\n- Play against teams of other players: Discover and learn new strategies\n- No turn timer: Take as much time as you want\n- Ranked and Casual mode: Play competitive or have a relaxing time\n- Compete in weekly challenges: Find the strongest build from a curated deck\n- Find relics: Get passive bonuses to complement your team\n- Create custom decks: Choose from dozens of unique heroes",
+  "bannerUrl": "http://api.nlib.cc/nx/01004A1026E7C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004A1026E7C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004A1026E7C000/screen/1",
+    "http://api.nlib.cc/nx/01004A1026E7C000/screen/2",
+    "http://api.nlib.cc/nx/01004A1026E7C000/screen/3",
+    "http://api.nlib.cc/nx/01004A1026E7C000/screen/4",
+    "http://api.nlib.cc/nx/01004A1026E7C000/screen/5",
+    "http://api.nlib.cc/nx/01004A1026E7C000/screen/6"
+  ],
+  "version": 0,
+  "size": 140790325
+}

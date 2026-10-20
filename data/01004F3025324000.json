@@ -1,0 +1,18 @@
+{
+  "name": "Atomic Owl",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20260520",
+  "description": "An avian story of a bird and a chatty blade unfurls its feathers! Hidalgo Bladewing and his companions return to their favorite ramen spot following a perilous mission, only to be confronted by the vengeful void crow Omega Wing. Two years later, Hidalgo must rescue his fallen companions from the clutches of this ruthless old foe with the help of a chaotic, brash-talking sword.\n\nAtomic Owl is a pixel art-based single-player, side-scrolling roguelike that combines fast-paced platforming with dynamic hack-and-slash combat and a variety of weapons, powerups and a demonic blade. Journey through 8 roguelite zones, save your friends and take up arms against Omega Wing!\n\nThis definitive version of the game includes a \"NO ROGUELITE\" mode to experience the game in classic side-scrolling style, plus enjoy rebalanced weapons, improved sound and more across all modes!\n\nFeatures:\n\n• Defeat hordes of menacing Tengu across 8 side-scrolling stages!\n• Attempt runs, try again, get stronger and prevail in roguelike style.\n• Choose from a wide variety of weapons, from swords and hammers to whips and more!\n• Take flight in winged sections and enjoy the serenity of gliding through the world of Judanest.\n• Enjoy dynamic dialogue with a voice-acted cast!\n• Transform into the powerful Void Crow to wreak havoc on your enemies.\n• Switch to non-roguelike mode to enjoy the game as a normal side-scroller!",
+  "bannerUrl": "http://api.nlib.cc/nx/01004F3025324000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004F3025324000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004F3025324000/screen/1",
+    "http://api.nlib.cc/nx/01004F3025324000/screen/2",
+    "http://api.nlib.cc/nx/01004F3025324000/screen/3",
+    "http://api.nlib.cc/nx/01004F3025324000/screen/4",
+    "http://api.nlib.cc/nx/01004F3025324000/screen/5",
+    "http://api.nlib.cc/nx/01004F3025324000/screen/6"
+  ],
+  "version": 0,
+  "size": 490103433
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Tetraminos",
+  "publisher": "Nacon",
+  "releaseDate": "20190103",
+  "description": "For beginners or veterans, Tetraminos offers an easy-to-learn, limitless challenge. Give your brain a workout with the 50 Puzzle mode levels, survive as long as possible in Endless mode and rack up the combos and same-colour lines to climb to first place in the online ranking. Challenge your friends in local Versus mode with up to 4 players and sabotage their boards in wild games.",
+  "bannerUrl": "http://api.nlib.cc/nx/010037A00BB02000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010037A00BB02000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010037A00BB02000/screen/1",
+    "http://api.nlib.cc/nx/010037A00BB02000/screen/2",
+    "http://api.nlib.cc/nx/010037A00BB02000/screen/3",
+    "http://api.nlib.cc/nx/010037A00BB02000/screen/4",
+    "http://api.nlib.cc/nx/010037A00BB02000/screen/5"
+  ]
+}

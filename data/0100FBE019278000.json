@@ -1,0 +1,14 @@
+{
+  "name": "Pillar Builder Puzzle",
+  "publisher": "Megame",
+  "releaseDate": "20220825",
+  "description": "Build the highest tower in the world and try to hold it! Just press and release to place the block on the ground. Stack each block in turn to build the tallest tower. Keep the center of mass of the entire building in such a position that the tower does not fall to the ground!\n\nGame Features:\n- Many interesting levels;\n- Addictive gameplay and incredibly high towers;\n- Simple and convenient management;\n- Colorful graphics and pleasant music;",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FBE019278000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FBE019278000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FBE019278000/screen/1",
+    "http://api.nlib.cc/nx/0100FBE019278000/screen/2",
+    "http://api.nlib.cc/nx/0100FBE019278000/screen/3",
+    "http://api.nlib.cc/nx/0100FBE019278000/screen/4"
+  ]
+}

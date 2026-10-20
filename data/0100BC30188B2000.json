@@ -1,0 +1,16 @@
+{
+  "name": "Hover Racer",
+  "publisher": "Pix Arts",
+  "releaseDate": "20220722",
+  "description": "Take control of your Hovercrafts in this fantastic arcade racing game, based on real physics.\n\n* Drive and blast your way through a variety of space and city highways.\n* Chase elite vehicles and go on diamond quests.\n* Get new Hovercrafts and upgrade their performance using your diamonds.\n* Collect weapons and use them to slow down AI vehicles\n* Dodge and weave through traffic at breakneck speeds! Are your reflexes fast enough?\n* Cause chain collisions and watch the hovercrafts fly away!\n* Experiment with physics-based hovering, crashing and destruction.\n* Earn huge rewards by piloting your hovercraft with dexterity!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BC30188B2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BC30188B2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BC30188B2000/screen/1",
+    "http://api.nlib.cc/nx/0100BC30188B2000/screen/2",
+    "http://api.nlib.cc/nx/0100BC30188B2000/screen/3",
+    "http://api.nlib.cc/nx/0100BC30188B2000/screen/4",
+    "http://api.nlib.cc/nx/0100BC30188B2000/screen/5",
+    "http://api.nlib.cc/nx/0100BC30188B2000/screen/6"
+  ]
+}

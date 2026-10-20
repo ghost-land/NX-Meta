@@ -1,0 +1,15 @@
+{
+  "name": "FPS Bullet Storm",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20250719",
+  "description": "Step into the action with a high-intensity first-person shooter built for fast, competitive matches.\n\nChoose your class, enter one of several epic battlegrounds, and unleash your full potential. Precision is everything — miss no shot, leave no enemy standing.\n\nWith adrenaline-pumping gunfights, tactical decision-making, and razor-sharp reflexes, dominate the battlefield your way and prove you're a true elite combatant.",
+  "bannerUrl": "http://api.nlib.cc/nx/010035502462A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010035502462A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010035502462A000/screen/1",
+    "http://api.nlib.cc/nx/010035502462A000/screen/2",
+    "http://api.nlib.cc/nx/010035502462A000/screen/3",
+    "http://api.nlib.cc/nx/010035502462A000/screen/4",
+    "http://api.nlib.cc/nx/010035502462A000/screen/5"
+  ]
+}

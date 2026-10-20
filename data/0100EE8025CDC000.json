@@ -1,0 +1,16 @@
+{
+  "name": "Tank Battle Arena Combat",
+  "publisher": "INVECTOR GAME STUDIO",
+  "releaseDate": "20260312",
+  "description": "Jump into explosive tank battles in Tank Battle Arena Combat! Take control of powerful war machines and fight your way through action-packed missions filled with enemy tanks, obstacles, and intense firefights.\n\nDrive across dynamic battlefields, aim carefully, and unleash devastating attacks to destroy opponents and complete challenging objectives. Upgrade your tank, improve your combat performance, and adapt your strategy to overcome increasingly difficult encounters.\n\nEasy to learn and fun to master, the game delivers fast-paced action with simple controls and satisfying physics-based combat. Every battle rewards skillful movement, precise shooting, and smart positioning.\n\nPrepare for nonstop tank warfare and prove your dominance on the battlefield!\n\nFeatures:\nAction-packed tank combat\nMultiple challenging missions\nUpgradeable tanks and combat abilities\nSimple controls with dynamic gameplay\nExplosive battles and satisfying destruction",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EE8025CDC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EE8025CDC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EE8025CDC000/screen/1",
+    "http://api.nlib.cc/nx/0100EE8025CDC000/screen/2",
+    "http://api.nlib.cc/nx/0100EE8025CDC000/screen/3",
+    "http://api.nlib.cc/nx/0100EE8025CDC000/screen/4",
+    "http://api.nlib.cc/nx/0100EE8025CDC000/screen/5",
+    "http://api.nlib.cc/nx/0100EE8025CDC000/screen/6"
+  ]
+}

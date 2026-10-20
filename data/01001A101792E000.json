@@ -1,0 +1,16 @@
+{
+  "name": "Shark Adventure",
+  "publisher": "Gametry",
+  "releaseDate": "20220203",
+  "description": "Shark Adventure puts you in the role of a shark and your primary focus is to acquire as many stars as you can, while avoiding obstacles that come your way. It’s a very engaging and impressive game with lots of fun and enjoyable mechanics. \n\nThis is not a simple game, it requires a lot of precision and attention. But it goes to show how exciting and fun this type of experience actually is. Try it out and see if you can become the ultimate shark!\n\nFeatures:\nTake the role of a shark on the open water\nAvoid obstacles and accumulate stars\nFast paced gameplay",
+  "bannerUrl": "http://api.nlib.cc/nx/01001A101792E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001A101792E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001A101792E000/screen/1",
+    "http://api.nlib.cc/nx/01001A101792E000/screen/2",
+    "http://api.nlib.cc/nx/01001A101792E000/screen/3",
+    "http://api.nlib.cc/nx/01001A101792E000/screen/4",
+    "http://api.nlib.cc/nx/01001A101792E000/screen/5",
+    "http://api.nlib.cc/nx/01001A101792E000/screen/6"
+  ]
+}

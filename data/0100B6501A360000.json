@@ -1,0 +1,16 @@
+{
+  "name": "Samurai Warrior",
+  "publisher": "Gametry",
+  "releaseDate": "20230203",
+  "description": "Samurai Warrior is an exciting and engaging game that offers players the opportunity to experience an adventure as a samurai fighting for honor and survival in a mysterious world. The game offers intense and thrilling battles against opponents, using different fighting styles and special abilities. Players can explore different locations, solving puzzles and fighting bosses to uncover the secrets of this world. Additionally, the game features beautiful, atmospheric graphics that allow for full immersion in the game world and an unforgettable adventure as a samurai.\n\nWill you take on the challenge and reach the final goal?\n\nFeatures:\n\n-Intense and thrilling battles against opponents\n-Beautiful, atmospheric graphics\n-Single-player gameplay",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B6501A360000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B6501A360000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B6501A360000/screen/1",
+    "http://api.nlib.cc/nx/0100B6501A360000/screen/2",
+    "http://api.nlib.cc/nx/0100B6501A360000/screen/3",
+    "http://api.nlib.cc/nx/0100B6501A360000/screen/4",
+    "http://api.nlib.cc/nx/0100B6501A360000/screen/5",
+    "http://api.nlib.cc/nx/0100B6501A360000/screen/6"
+  ]
+}

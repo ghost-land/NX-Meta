@@ -1,0 +1,16 @@
+{
+  "name": "Chained Towards Heaven",
+  "publisher": "TrueMotion Interactive",
+  "releaseDate": "20250109",
+  "description": "Embark on an epic journey from the fiery depths of hell to the lofty heights of paradise in “Chained Towards Heaven.” In this thrilling multiplayer co-op game, you and your friends start your adventure bound together by chains, making teamwork and precise coordination essential for survival.\n\nThe chain isn’t just a visual element—it’s governed by a dynamic physics simulation. This means it wraps around platforms and interacts with the environment in realistic ways, adding an extra layer of challenge and strategy to every move you make.\n\nYour mission? To escape the infernal realms by ascending through a series of treacherous platforms and challenging worlds. Each leap requires perfect timing and synergy with your companions to overcome obstacles and avoid the searing heat below.\n\nWith diverse worlds offering unique trials, every climb is a test of skill and collaboration. Will you and your friends master the chains and reach the heavens?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ADB0212A2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ADB0212A2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ADB0212A2000/screen/1",
+    "http://api.nlib.cc/nx/0100ADB0212A2000/screen/2",
+    "http://api.nlib.cc/nx/0100ADB0212A2000/screen/3",
+    "http://api.nlib.cc/nx/0100ADB0212A2000/screen/4",
+    "http://api.nlib.cc/nx/0100ADB0212A2000/screen/5",
+    "http://api.nlib.cc/nx/0100ADB0212A2000/screen/6"
+  ]
+}

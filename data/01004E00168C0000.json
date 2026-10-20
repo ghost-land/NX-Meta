@@ -1,0 +1,16 @@
+{
+  "name": "Dungeons of Dreadrock",
+  "publisher": "ChristophMinnameier",
+  "releaseDate": "20220512",
+  "description": "The Spirit of 1980's home computer adventure games revived for contemporary audiences and platforms. Fight and puzzle your way through 100 handcrafted levels into the ancient depths of Dreadrock Mountain. Relive memories of oldschool dungeon crawlers from a new perspective.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004E00168C0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004E00168C0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004E00168C0000/screen/1",
+    "http://api.nlib.cc/nx/01004E00168C0000/screen/2",
+    "http://api.nlib.cc/nx/01004E00168C0000/screen/3",
+    "http://api.nlib.cc/nx/01004E00168C0000/screen/4",
+    "http://api.nlib.cc/nx/01004E00168C0000/screen/5",
+    "http://api.nlib.cc/nx/01004E00168C0000/screen/6"
+  ]
+}

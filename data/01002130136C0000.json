@@ -1,0 +1,16 @@
+{
+  "name": "Dungeonoid",
+  "publisher": "SuperPowerUpGames",
+  "releaseDate": "20201225",
+  "description": "Your mission is to cross the dungeons of the Infernal Castle with the aim of recovering the 3 sacred gems and defeating the Demon Master and his henchmen. Are you ready?\n\n-40 game levels\n-Time attack levels\n-Power-ups\n-Final Bosses\n-Classic RPG system with level-ups and skills\n-Co-op mode\n-Online ranking",
+  "bannerUrl": "http://api.nlib.cc/nx/01002130136C0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002130136C0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002130136C0000/screen/1",
+    "http://api.nlib.cc/nx/01002130136C0000/screen/2",
+    "http://api.nlib.cc/nx/01002130136C0000/screen/3",
+    "http://api.nlib.cc/nx/01002130136C0000/screen/4",
+    "http://api.nlib.cc/nx/01002130136C0000/screen/5",
+    "http://api.nlib.cc/nx/01002130136C0000/screen/6"
+  ]
+}

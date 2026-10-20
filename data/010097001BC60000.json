@@ -1,0 +1,16 @@
+{
+  "name": "Eventide 2: Sorcerer's Mirror",
+  "publisher": "Artifex Mundi",
+  "releaseDate": "20230831",
+  "description": "Embark on a mystical adventure in a forgotten mountain village ruled by an immortal sorcerer. Can you unravel his secret?\n\nExplore an enchanted world full of imps, apparitions, magical animals, and other mysterious creatures taken directly from Eastern European folk and fairy tales.\n\nThe decisions you make will influence the fate of characters and the end of the game.",
+  "bannerUrl": "http://api.nlib.cc/nx/010097001BC60000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010097001BC60000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010097001BC60000/screen/1",
+    "http://api.nlib.cc/nx/010097001BC60000/screen/2",
+    "http://api.nlib.cc/nx/010097001BC60000/screen/3",
+    "http://api.nlib.cc/nx/010097001BC60000/screen/4",
+    "http://api.nlib.cc/nx/010097001BC60000/screen/5",
+    "http://api.nlib.cc/nx/010097001BC60000/screen/6"
+  ]
+}

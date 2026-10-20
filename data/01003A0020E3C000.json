@@ -1,0 +1,16 @@
+{
+  "name": "Rattle Royale",
+  "publisher": "Entity3",
+  "releaseDate": "20241123",
+  "description": "Rattle your tails and get ready to do battle with your friends!\n\nUp to 4 player can compete in an addictive and super fun snake battle!\n\nEat the dots to grow longer and longer, see how long you can get!\n\nEnjoy a challenging 1 play level mode with many tricky turns and moving parts to stop you eating all the dots!",
+  "bannerUrl": "http://api.nlib.cc/nx/01003A0020E3C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003A0020E3C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003A0020E3C000/screen/1",
+    "http://api.nlib.cc/nx/01003A0020E3C000/screen/2",
+    "http://api.nlib.cc/nx/01003A0020E3C000/screen/3",
+    "http://api.nlib.cc/nx/01003A0020E3C000/screen/4",
+    "http://api.nlib.cc/nx/01003A0020E3C000/screen/5",
+    "http://api.nlib.cc/nx/01003A0020E3C000/screen/6"
+  ]
+}

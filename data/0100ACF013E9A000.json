@@ -1,0 +1,16 @@
+{
+  "name": "Skul: The Hero Slayer",
+  "publisher": "NEOWIZ",
+  "releaseDate": "20211021",
+  "description": "Skul is a fast-paced action rogue-lite where losing your head is encouraged. Featuring 100 playable characters each with their own unique abilities and a ton of items that can create wild synergies, the battles are as electrifying as they are challenging.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ACF013E9A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ACF013E9A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ACF013E9A000/screen/1",
+    "http://api.nlib.cc/nx/0100ACF013E9A000/screen/2",
+    "http://api.nlib.cc/nx/0100ACF013E9A000/screen/3",
+    "http://api.nlib.cc/nx/0100ACF013E9A000/screen/4",
+    "http://api.nlib.cc/nx/0100ACF013E9A000/screen/5",
+    "http://api.nlib.cc/nx/0100ACF013E9A000/screen/6"
+  ]
+}

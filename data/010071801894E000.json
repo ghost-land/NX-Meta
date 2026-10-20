@@ -1,0 +1,16 @@
+{
+  "name": "Zumba Garden",
+  "publisher": "Silesia Games",
+  "releaseDate": "20220818",
+  "description": "Zumba Garden is a match-3 marble shooter puzzle game.\n\nYour goal is to protect your beautiful garden from evil golems. Special projectiles and other bonuses, which you upgrade by spending collected stars, are there to help.\n\nGame features:\n- 60 beautiful levels\n- 14 upgradable power-ups\n- Natural environment\n- Epic music",
+  "bannerUrl": "http://api.nlib.cc/nx/010071801894E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010071801894E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010071801894E000/screen/1",
+    "http://api.nlib.cc/nx/010071801894E000/screen/2",
+    "http://api.nlib.cc/nx/010071801894E000/screen/3",
+    "http://api.nlib.cc/nx/010071801894E000/screen/4",
+    "http://api.nlib.cc/nx/010071801894E000/screen/5",
+    "http://api.nlib.cc/nx/010071801894E000/screen/6"
+  ]
+}

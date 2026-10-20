@@ -1,0 +1,16 @@
+{
+  "name": "Starlair",
+  "publisher": "FSO Publishing",
+  "releaseDate": "20250116",
+  "description": "Starlair is a never-ending adventure game where you'll take on an entire galaxy's worth of planets. Fly your ship through an infinite galaxy finding new challenges along the way. Every planet in the galaxy was created by a player. \n\nWhen you land on a planet, the game turns into a side-scrolling adventure filled with puzzles, bosses, and power-ups. Each world houses a secret relic which can be used to unravel the mystery surrounding the ever-expanding universe.\n\nYou can play or create - or both! Build massive worlds, write music, create bosses, and share them with the world.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002CC021422000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002CC021422000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002CC021422000/screen/1",
+    "http://api.nlib.cc/nx/01002CC021422000/screen/2",
+    "http://api.nlib.cc/nx/01002CC021422000/screen/3",
+    "http://api.nlib.cc/nx/01002CC021422000/screen/4",
+    "http://api.nlib.cc/nx/01002CC021422000/screen/5",
+    "http://api.nlib.cc/nx/01002CC021422000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Buggy Racer",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20230831",
+  "description": "In this game you need to beat track records in all 6 parts of the planet to earn title of the world champion. You will face hard turns, fast straits and incredible jumping ramps. Upgrade your car and see immediate changes in its look. So what are you wating for? Get into one of the buggies and become the greatest Buggy Racer!",
+  "bannerUrl": "http://api.nlib.cc/nx/010068B019ABC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010068B019ABC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010068B019ABC000/screen/1",
+    "http://api.nlib.cc/nx/010068B019ABC000/screen/2",
+    "http://api.nlib.cc/nx/010068B019ABC000/screen/3",
+    "http://api.nlib.cc/nx/010068B019ABC000/screen/4",
+    "http://api.nlib.cc/nx/010068B019ABC000/screen/5",
+    "http://api.nlib.cc/nx/010068B019ABC000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Return to Shironagasu Island",
+  "publisher": "room6",
+  "releaseDate": "20221117",
+  "description": "A mystery adventure game and visual novel set on solitary Shironagasu Island.\n\nExplore the island and discover its sinister secrets as detective Sen Ikeda and your assistant Neneko Izumozaki.\n\n- STORY -\nSen Ikeda, a detective in New York, receives a mysterious invitation to Shironagasu Island in the testament of a millionaire. Together with Neneko Izumozaki, a girl with special abilities, he travels to the secluded island.\nSolve numerous mysteries and murders!\nMeet enigmatic and captivating characters!\nDiscover the hidden secret of Shironagasu Island!\nStay alive and escape from the ominous island!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E5C018B4A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E5C018B4A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E5C018B4A000/screen/1",
+    "http://api.nlib.cc/nx/0100E5C018B4A000/screen/2",
+    "http://api.nlib.cc/nx/0100E5C018B4A000/screen/3",
+    "http://api.nlib.cc/nx/0100E5C018B4A000/screen/4",
+    "http://api.nlib.cc/nx/0100E5C018B4A000/screen/5",
+    "http://api.nlib.cc/nx/0100E5C018B4A000/screen/6"
+  ]
+}

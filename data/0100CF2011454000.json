@@ -1,0 +1,16 @@
+{
+  "name": "Skull Rogue",
+  "publisher": "Drageus Games",
+  "releaseDate": "20200228",
+  "description": "Skull Rogue is a rogue-like RPG inspired by the classics. Start with an ordinary skeleton and skill up to an incredible warrior. Dive into a world of eternal battles and endless progression. The further you are, the harder and more unique your enemies become...and so do you!\n\nFeatures:\n- Equip a wide variety of weapons and uniforms.\n- Discover 6 biomes with randomly generated levels.\n- Level up your character endlessly and in multi-direction.\n- Capture items directly from the hands of the enemy.\n- Enjoy refined pixel graphics.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CF2011454000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CF2011454000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CF2011454000/screen/1",
+    "http://api.nlib.cc/nx/0100CF2011454000/screen/2",
+    "http://api.nlib.cc/nx/0100CF2011454000/screen/3",
+    "http://api.nlib.cc/nx/0100CF2011454000/screen/4",
+    "http://api.nlib.cc/nx/0100CF2011454000/screen/5",
+    "http://api.nlib.cc/nx/0100CF2011454000/screen/6"
+  ]
+}

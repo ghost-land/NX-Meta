@@ -1,0 +1,16 @@
+{
+  "name": "Arc of Alchemist",
+  "publisher": "Idea Factory",
+  "releaseDate": "20200130",
+  "description": "Newly Polished - In the Western release, players can now choose from 7 playable characters each specializing in unique weapons, attacks, and abilities! \n\nFour Orbs to Rule Them All - Wielding the Lunagear allows players to combine two of the four elemental orbs (fire, water, wind, earth) to solve puzzles, manipulate environments, and blast any foe.\n\nBased Blessings - Construct your base and conquer! Customize Troop Formations, purchase gear, and build facilities to strengthen attacks and learn new abilities.\n\nAmass Items & Exchange - There are treasures to be found everywhere. Seek out items to equip and strengthen your party. Exchange materials for even more powerful weapons!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C7D00E6A0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C7D00E6A0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C7D00E6A0000/screen/1",
+    "http://api.nlib.cc/nx/0100C7D00E6A0000/screen/2",
+    "http://api.nlib.cc/nx/0100C7D00E6A0000/screen/3",
+    "http://api.nlib.cc/nx/0100C7D00E6A0000/screen/4",
+    "http://api.nlib.cc/nx/0100C7D00E6A0000/screen/5",
+    "http://api.nlib.cc/nx/0100C7D00E6A0000/screen/6"
+  ]
+}

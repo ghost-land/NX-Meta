@@ -1,0 +1,16 @@
+{
+  "name": "Everdeep Aurora",
+  "publisher": "Ysbryd Games",
+  "releaseDate": "20250710",
+  "description": "This narrative exploration and platform game inspired by 16-bit aesthetics will take you back to the simplicity and excitement of the classics of that era. There’s a vibrant and dynamic world to explore, and lots of peculiar characters to meet and varied puzzles to solve. Will you discover the secrets hidden in the Everdeep?\n\nAs you descend, your decisions determine Shell’s route through the depths, from secret caverns to sprawling underground dwellings.\n\nEncounter characters along the way with unique personalities and, sometimes, optional side quests.\n\nRevel in atmospheric pixel art and an evocative soundtrack, with palettes and musical themes shifting from one location to the next.",
+  "bannerUrl": "http://api.nlib.cc/nx/010058E0224C2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010058E0224C2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010058E0224C2000/screen/1",
+    "http://api.nlib.cc/nx/010058E0224C2000/screen/2",
+    "http://api.nlib.cc/nx/010058E0224C2000/screen/3",
+    "http://api.nlib.cc/nx/010058E0224C2000/screen/4",
+    "http://api.nlib.cc/nx/010058E0224C2000/screen/5",
+    "http://api.nlib.cc/nx/010058E0224C2000/screen/6"
+  ]
+}

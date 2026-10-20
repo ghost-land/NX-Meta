@@ -1,0 +1,14 @@
+{
+  "name": "Blocky Puzzle",
+  "publisher": "Kistler Studios",
+  "releaseDate": "20210623",
+  "description": "BLOCKY PUZZLE is a challenging puzzle game where you need to fit all the shapes in the grid to complete the level. Put the shapes to the right place on the game board without empty spaces and every shape in place. \n\nFeatures:\n- Supports Square, Triangle, and Hexagon shaped levels.\n- Starts simple and gets progressively more difficult",
+  "bannerUrl": "http://api.nlib.cc/nx/01008B7015532000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008B7015532000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008B7015532000/screen/1",
+    "http://api.nlib.cc/nx/01008B7015532000/screen/2",
+    "http://api.nlib.cc/nx/01008B7015532000/screen/3",
+    "http://api.nlib.cc/nx/01008B7015532000/screen/4"
+  ]
+}

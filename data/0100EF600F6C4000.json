@@ -1,0 +1,16 @@
+{
+  "name": "Still There",
+  "publisher": "Iceberg Interactive",
+  "releaseDate": "20191120",
+  "description": "STILL THERE is a story-driven psychological adventure game about lingering grief, technical puzzles, wacky AIs and dark humour. Evade the past, welcome oblivion, make the perfect Italian coffee.\n\nLEARN THE TRUTH\nAfter receiving an emergency radio transmission, the routines of an isolated space-lighthouse keeper and his AI companion are broken forever. Confront, console and confess through dialogues with rich and compelling characters. A classic, humane, sci-fi mystery.\n\nSOLVE CHALLENGING PUZZLES\nYou’ll earn a living as Karl Hamba, sole operator of The Bento; monitoring and repairing its core systems alongside Gorky, your on-board artificial intelligence. Study your environment to understand the complex functions of the station, report back to your inept employers and discover your true purpose.\n\nPASS THE TIME\nIn between your daily tasks you’ll find plenty to occupy yourself with. Challenge Gorky to a game of chess, nurture a pet tuatara and recycle your own urine into another “delicious” meal. The Bento is brimming with detail and interesting ways to interact with everything you see.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EF600F6C4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EF600F6C4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EF600F6C4000/screen/1",
+    "http://api.nlib.cc/nx/0100EF600F6C4000/screen/2",
+    "http://api.nlib.cc/nx/0100EF600F6C4000/screen/3",
+    "http://api.nlib.cc/nx/0100EF600F6C4000/screen/4",
+    "http://api.nlib.cc/nx/0100EF600F6C4000/screen/5",
+    "http://api.nlib.cc/nx/0100EF600F6C4000/screen/6"
+  ]
+}

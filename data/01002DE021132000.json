@@ -1,0 +1,16 @@
+{
+  "name": "Cubic Run",
+  "publisher": "Webnetic",
+  "releaseDate": "20250130",
+  "description": "Navigate, Survive, Score! In Cubic Run, you control a vibrant blue cube speeding through an endless corridor filled with geometric obstacles. Your objective is simple: avoid the obstacles, stay on course, and rack up points as the speed increases. But don’t be fooled—this game is far from easy. Each level introduces new challenges, pushing your reflexes to the limit. Turn left or right with the joystick, find the perfect rhythm, and brace yourself for the ever-increasing pace!",
+  "bannerUrl": "http://api.nlib.cc/nx/01002DE021132000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002DE021132000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002DE021132000/screen/1",
+    "http://api.nlib.cc/nx/01002DE021132000/screen/2",
+    "http://api.nlib.cc/nx/01002DE021132000/screen/3",
+    "http://api.nlib.cc/nx/01002DE021132000/screen/4",
+    "http://api.nlib.cc/nx/01002DE021132000/screen/5",
+    "http://api.nlib.cc/nx/01002DE021132000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Awesome Pea",
+  "publisher": "Sometimes You",
+  "releaseDate": "20190301",
+  "description": "Welcome to the Awesome Islands World!\n\nAwesome Pea is a classic run-and-jump platformer, where you must jump through many challenging levels and help the greedy Pea, who is ready to undergo any trials for the sake of gold. Dangerous dungeons, deceptively beautiful nature, hidden deadly traps, and many MANY coins await you!\n\nWhat you will definitely find in this game:\n- Stylish pixel graphics inspired by Game Boy games\n- 30 different levels\n- Stunning retro soundtrack",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B8C00CFCE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B8C00CFCE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B8C00CFCE000/screen/1",
+    "http://api.nlib.cc/nx/0100B8C00CFCE000/screen/2",
+    "http://api.nlib.cc/nx/0100B8C00CFCE000/screen/3",
+    "http://api.nlib.cc/nx/0100B8C00CFCE000/screen/4",
+    "http://api.nlib.cc/nx/0100B8C00CFCE000/screen/5",
+    "http://api.nlib.cc/nx/0100B8C00CFCE000/screen/6"
+  ]
+}

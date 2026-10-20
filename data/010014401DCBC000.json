@@ -1,0 +1,14 @@
+{
+  "name": "Pirates: Caribbean Chronicles",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20240208",
+  "description": "Navigate the perilous life of a swashbuckler under the command of the notorious Pirate Lord. Sail through the Caribbean's treacherous waters, engaging in daring treasure hunts, fierce ship battles, and shadowy tavern dealings. As different characters, present your cases to the Pirate Lord, whose decisions will shape your crew's destiny. Manage wealth, morale, provisions, and fleet strength wisely. Each choice you make as the Pirate Lord affects the course of your reign, with the threat of mutiny or treachery ever-present. Will your legacy be that of a feared ruler of the seas or will you be overthrown by your own crew?",
+  "bannerUrl": "http://api.nlib.cc/nx/010014401DCBC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010014401DCBC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010014401DCBC000/screen/1",
+    "http://api.nlib.cc/nx/010014401DCBC000/screen/2",
+    "http://api.nlib.cc/nx/010014401DCBC000/screen/3",
+    "http://api.nlib.cc/nx/010014401DCBC000/screen/4"
+  ]
+}

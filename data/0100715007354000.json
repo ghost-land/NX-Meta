@@ -1,0 +1,16 @@
+{
+  "name": "NARUTO: Ultimate Ninja STORM",
+  "publisher": "BANDAI NAMCO Entertainment",
+  "releaseDate": "20180426",
+  "description": "NARUTO: Ultimate Ninja STORM allows players to battle in full 3D across massive environments. Players will unleash powerful jutsu attacks, perform acrobatic evasive maneuvers and even run up walls and over water as they pursue their opponent for ninja supremacy. Players will be able to customize their character's fighting style and recruit up to two support characters to put their own stamp on the action.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100715007354000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100715007354000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100715007354000/screen/1",
+    "http://api.nlib.cc/nx/0100715007354000/screen/2",
+    "http://api.nlib.cc/nx/0100715007354000/screen/3",
+    "http://api.nlib.cc/nx/0100715007354000/screen/4",
+    "http://api.nlib.cc/nx/0100715007354000/screen/5",
+    "http://api.nlib.cc/nx/0100715007354000/screen/6"
+  ]
+}

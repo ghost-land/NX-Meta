@@ -1,0 +1,16 @@
+{
+  "name": "猫様の山小屋からの脱出",
+  "publisher": "レジスタ",
+  "releaseDate": "20210218",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C7F014010000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C7F014010000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C7F014010000/screen/1",
+    "http://api.nlib.cc/nx/0100C7F014010000/screen/2",
+    "http://api.nlib.cc/nx/0100C7F014010000/screen/3",
+    "http://api.nlib.cc/nx/0100C7F014010000/screen/4",
+    "http://api.nlib.cc/nx/0100C7F014010000/screen/5",
+    "http://api.nlib.cc/nx/0100C7F014010000/screen/6"
+  ]
+}

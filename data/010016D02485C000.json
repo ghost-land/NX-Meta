@@ -1,0 +1,16 @@
+{
+  "name": "Blippo+",
+  "publisher": "Panic",
+  "releaseDate": "20250923",
+  "description": "Congratulations! Blippo+ is now available in your area.\n\nBlippo+ is a live-action, new wave, off-cable TV simulator. Channel-surf the stars and discover the staticky, radical world of Planet Blip through its soaps, sitcoms, news, weather, and talk shows. But don’t touch that remote—because everything’s about to get bent.\n\nPlanet Blip is brought to life through a cast of lovable characters, vibrant costumes and makeup, original music, extensive lore, and writing that pays homage to the offbeat, idiosyncratic, and often-forgotten margins of TV history, from pirate television and cable access to public broadcasting and video art. Whether you’re a punk, new waver, sproinger or a bender: there’s something for you on Blippo+.\n\nFeatures:\n- Channel-surf your way through a wide variety of funny, freaky, and wholly original live-action programs on the Blippo+ Electronic Program Guide!\nFall in love with a diverse cast of alien TV personalities, from cloned soap opera stars and spooky raconteurs to mad professors, quizmasters, scientists, and action sheroes. \n- Immersive yourself in Blippo+ to unlock data packettes, update the Electronic Program Guide with new episodes and messages, and piece together the planet-shaking story unfolding between the channels.\n- Expand your knowledge of Blippian culture by lurking the Femtofax “videotext” forums.\n- Fiddle with extensive TV settings to personalize your Blippo+ experience.\n- Enjoy a genre-spanning original soundtrack by Grammy-nominated composers Rob Kieswetter and Jona Bechtolt of YACHT.",
+  "bannerUrl": "http://api.nlib.cc/nx/010016D02485C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010016D02485C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010016D02485C000/screen/1",
+    "http://api.nlib.cc/nx/010016D02485C000/screen/2",
+    "http://api.nlib.cc/nx/010016D02485C000/screen/3",
+    "http://api.nlib.cc/nx/010016D02485C000/screen/4",
+    "http://api.nlib.cc/nx/010016D02485C000/screen/5",
+    "http://api.nlib.cc/nx/010016D02485C000/screen/6"
+  ]
+}

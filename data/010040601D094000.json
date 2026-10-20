@@ -1,0 +1,15 @@
+{
+  "name": "Wings",
+  "publisher": "Entity3",
+  "releaseDate": "20230930",
+  "description": "Fly through rings, amazing worlds in a small yet speedy plane\n\nHit all the rings to bump up your score\n\nEnsure a smooth landing and aim for perfect!",
+  "bannerUrl": "http://api.nlib.cc/nx/010040601D094000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010040601D094000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010040601D094000/screen/1",
+    "http://api.nlib.cc/nx/010040601D094000/screen/2",
+    "http://api.nlib.cc/nx/010040601D094000/screen/3",
+    "http://api.nlib.cc/nx/010040601D094000/screen/4",
+    "http://api.nlib.cc/nx/010040601D094000/screen/5"
+  ]
+}

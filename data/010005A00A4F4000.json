@@ -1,0 +1,14 @@
+{
+  "name": "Air Hockey",
+  "publisher": "Sabec",
+  "releaseDate": "20180228",
+  "description": "Play Air Hockey and re-discover the fun and excitement of this classic arcade game anywhere.\n\nWith stunning 3D graphics, you'll be transported straight back to the arcades of your youth.\n\nAir Hockey takes full advantage of HD giving you stunning crisp graphics.\n\nPlay against another player in TWO player mode or against the smart artificial intelligent (Ai) player, but be warned, winning won't come easy.",
+  "bannerUrl": "http://api.nlib.cc/nx/010005A00A4F4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010005A00A4F4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010005A00A4F4000/screen/1",
+    "http://api.nlib.cc/nx/010005A00A4F4000/screen/2",
+    "http://api.nlib.cc/nx/010005A00A4F4000/screen/3",
+    "http://api.nlib.cc/nx/010005A00A4F4000/screen/4"
+  ]
+}

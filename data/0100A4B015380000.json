@@ -1,0 +1,13 @@
+{
+  "name": "Strike Daz Cans",
+  "publisher": "Pix Arts",
+  "releaseDate": "20210529",
+  "description": "Aim! Strike! Knock Down! The target of the game is knocking down the cans with as less throws as possible.\n\nThis may sound easy, and it is early levels, but you'll have to cope with moving objects in higher levels making the game increasingly difficult.\n\nThe game stores your progression in persistant storage alllowing you to suspend a play and take it over whenever your want.\n\n- 90 challenging levels.\n- Xtra Can (Green) - you will get Xtra ball.\n- Explosive Can(Red) - when you hit this can an explosion will occur.\n- Bomb ball - you will get a bomb ball which lets you to knock down as many cans with single strike.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A4B015380000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A4B015380000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A4B015380000/screen/1",
+    "http://api.nlib.cc/nx/0100A4B015380000/screen/2",
+    "http://api.nlib.cc/nx/0100A4B015380000/screen/3"
+  ]
+}

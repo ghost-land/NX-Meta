@@ -1,0 +1,16 @@
+{
+  "name": "Azure Reflections",
+  "publisher": "Phoenixx",
+  "releaseDate": "20180830",
+  "description": "Now on Nintendo Switch™: A side-scrolling bullet hell fangame based on one of the hottest shooting game series to come out of Japan, the Touhou Project!\n\nEnemies come at you from all directions with relentless hails of bullets! Fight back with a well-timed Danmaku Rush to tear your way through bullets and enemies alike!\n\nNot that great at bullet hell games? That's okay! We've got you covered with a Practice Mode that lets you practice boss fights, and a Tutorial Mode that holds your hand and walks you through the basics of how to play a bullet hell shooting game.\n\nIt's got tons of collectibles, too! Mix and match accessories for your favorite look! Collect action figures of the Gensokyo girls, with a dedicated viewer mode.\n\nCan you accomplish every goal?!",
+  "bannerUrl": "http://api.nlib.cc/nx/01006FB00990E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006FB00990E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006FB00990E000/screen/1",
+    "http://api.nlib.cc/nx/01006FB00990E000/screen/2",
+    "http://api.nlib.cc/nx/01006FB00990E000/screen/3",
+    "http://api.nlib.cc/nx/01006FB00990E000/screen/4",
+    "http://api.nlib.cc/nx/01006FB00990E000/screen/5",
+    "http://api.nlib.cc/nx/01006FB00990E000/screen/6"
+  ]
+}

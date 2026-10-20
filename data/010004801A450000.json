@@ -1,0 +1,16 @@
+{
+  "name": "NCL: USA Bowl",
+  "publisher": "REDDEER.GAMES",
+  "releaseDate": "20230203",
+  "description": "Blow the competition away and give in to your sporting spirit.\n\nTake part in the exciting races of NCL: USA Bowl. Run straight into a series of stylized challenges and races. Enjoy it by yourself or with a couple of friends. Only one of you can win. Make sure all the glory is yours!",
+  "bannerUrl": "http://api.nlib.cc/nx/010004801A450000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010004801A450000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010004801A450000/screen/1",
+    "http://api.nlib.cc/nx/010004801A450000/screen/2",
+    "http://api.nlib.cc/nx/010004801A450000/screen/3",
+    "http://api.nlib.cc/nx/010004801A450000/screen/4",
+    "http://api.nlib.cc/nx/010004801A450000/screen/5",
+    "http://api.nlib.cc/nx/010004801A450000/screen/6"
+  ]
+}

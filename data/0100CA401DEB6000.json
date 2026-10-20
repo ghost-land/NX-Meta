@@ -1,0 +1,16 @@
+{
+  "name": "Slimeboo",
+  "publisher": "Zakym",
+  "releaseDate": "20240222",
+  "description": "Slimeboo is a simple and fun platformer game that is perfect for children of all ages. The game is controlled with a single button, making it accessible to even the youngest players.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CA401DEB6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CA401DEB6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CA401DEB6000/screen/1",
+    "http://api.nlib.cc/nx/0100CA401DEB6000/screen/2",
+    "http://api.nlib.cc/nx/0100CA401DEB6000/screen/3",
+    "http://api.nlib.cc/nx/0100CA401DEB6000/screen/4",
+    "http://api.nlib.cc/nx/0100CA401DEB6000/screen/5",
+    "http://api.nlib.cc/nx/0100CA401DEB6000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Prison Alone",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20250612",
+  "description": "Prison Alone is a psychological horror game set up in an empty prison. Some strange things started happening in this place, including disappearance of some people. While trying to investigate this further, the authorities ordered that all the prisoners should be transferred, but you bribed one of the guards to be left behind and use this opportunity to escape from the prison. But it won't be that easy.\n\nPrison Alone focuses on exploration with a tense environment. you must find ways to enter places you usually wouldn't have access to, solve puzzles to unlock new areas, find access keys left behind, all while the atmosphere of suspense and tension dominate you.\n\nThe game does not contain jumpscare! But that doesn't mean that you won't feel afraid, or be scared by something while playing, everything was designed to leave you frightened and tense.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F100228CE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F100228CE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F100228CE000/screen/1",
+    "http://api.nlib.cc/nx/0100F100228CE000/screen/2",
+    "http://api.nlib.cc/nx/0100F100228CE000/screen/3",
+    "http://api.nlib.cc/nx/0100F100228CE000/screen/4",
+    "http://api.nlib.cc/nx/0100F100228CE000/screen/5",
+    "http://api.nlib.cc/nx/0100F100228CE000/screen/6"
+  ]
+}

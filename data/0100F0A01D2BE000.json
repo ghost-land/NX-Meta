@@ -1,0 +1,16 @@
+{
+  "name": "Stilt Fella",
+  "publisher": "Pineapple Works",
+  "releaseDate": "20241024",
+  "description": "A highly challenging physics-based arcade game about walking on stilts and overcoming obstacles.\n\nFeatures:\n- Increasingly difficult stilt walking challenges spread across over 50 LEVELS!\n- Show off your unique style with a CUSTOMIZABLE FELLA!\n- Compete with other players on the ONLINE LEADERBOARDS!\n- Compete with friends in the LOCAL HOTSEAT MULTIPLAYER MODE!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F0A01D2BE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F0A01D2BE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F0A01D2BE000/screen/1",
+    "http://api.nlib.cc/nx/0100F0A01D2BE000/screen/2",
+    "http://api.nlib.cc/nx/0100F0A01D2BE000/screen/3",
+    "http://api.nlib.cc/nx/0100F0A01D2BE000/screen/4",
+    "http://api.nlib.cc/nx/0100F0A01D2BE000/screen/5",
+    "http://api.nlib.cc/nx/0100F0A01D2BE000/screen/6"
+  ]
+}

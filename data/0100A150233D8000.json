@@ -1,0 +1,16 @@
+{
+  "name": "Demonspire",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20251218",
+  "description": "Demonspire is a dark fantasy action-platformer that throws you into the depths of a cursed tower, where only the strongest survive. You are a warrior trapped in the Demon Spire, a towering inferno of chaos and death. Your only way out? Climb. Fight. Endure.\nEach level begins with a fast-paced, deadly platforming section where you’ll leap over traps, dash across collapsing ledges, and follow glowing soul shards that replenish your mana and stamina. Survive this gauntlet, and you'll reach a floating arena where the real challenge begins—three brutal waves of demon enemies await.\nSwitch between two playable heroes, each with their own strengths and combat style. Unleash devastating melee combos, magic attacks, dashes, dodges, and a powerful rage mode that can turn the tide of battle. Manage your health, stamina, and mana as you defeat each wave and collect the precious demon soul within.\nOnly those who gather enough souls can ascend to the next floor. Are you worthy to escape the Demon Spire?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A150233D8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A150233D8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A150233D8000/screen/1",
+    "http://api.nlib.cc/nx/0100A150233D8000/screen/2",
+    "http://api.nlib.cc/nx/0100A150233D8000/screen/3",
+    "http://api.nlib.cc/nx/0100A150233D8000/screen/4",
+    "http://api.nlib.cc/nx/0100A150233D8000/screen/5",
+    "http://api.nlib.cc/nx/0100A150233D8000/screen/6"
+  ]
+}

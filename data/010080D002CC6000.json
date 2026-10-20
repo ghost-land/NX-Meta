@@ -1,0 +1,16 @@
+{
+  "name": "Johnny Turbo's Arcade: Two Crude Dudes",
+  "publisher": "Golem Entertainment",
+  "releaseDate": "20180705",
+  "description": "Play one or two mercenaries hired by the American government to stop the terrorist organization \"Big Valley\". Take control of post-apocalyptic New York City away from the Big Valley terrorists.",
+  "bannerUrl": "http://api.nlib.cc/nx/010080D002CC6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010080D002CC6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010080D002CC6000/screen/1",
+    "http://api.nlib.cc/nx/010080D002CC6000/screen/2",
+    "http://api.nlib.cc/nx/010080D002CC6000/screen/3",
+    "http://api.nlib.cc/nx/010080D002CC6000/screen/4",
+    "http://api.nlib.cc/nx/010080D002CC6000/screen/5",
+    "http://api.nlib.cc/nx/010080D002CC6000/screen/6"
+  ]
+}

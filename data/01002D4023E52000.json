@@ -1,0 +1,16 @@
+{
+  "name": "SUPER BOMBERMAN COLLECTION",
+  "publisher": "KONAMI",
+  "releaseDate": "20260205",
+  "description": "Party battle game \"SUPER BOMBERMAN\" is now available as a collection featuring a total of 7 titles with 12 versions across JP, EUR and USA, including the long-awaited localised versions of the unreleased SUPER BOMBERMAN 4 and 5!\nIncluding Boss Rush mode to time attack against all the bosses in each title, support functions, libraries and more!\n\n【Included Titles】\n\n① SUPER BOMBERMAN [Japanese Version / US Version / European Version]\nMr. Karat, the evil power-hungry tyrant, and scientist Dr.Mukk! Defeat the robot army they command and thwart their ambitions!\n\n② SUPER BOMBERMAN 2 [Japanese Version / US Version / European Version]\nOur Bomberman has been captured by the sudden appearance of the vicious Bomber Quintet. For the sake of Earth's peace and his own destiny, he must confront them!\n\n③ SUPER BOMBERMAN 3 [Japanese Version / European Version]\nThe evil Professor Bugler has revived the vicious Five Dastardly Bombers, once defeated by Bomberman, and has begun his march towards cosmic conquest.\n\n④ SUPER BOMBERMAN 4 [Japanese Version (English localised version available)]\nBomberman has been transported to different eras by the Four Bomber Kings. What is their purpose? And what is the mysterious entity lurking in the shadows?\n\n⑤ SUPER BOMBERMAN 5 [Japanese Version (English localised version available)]\nA mysterious man calling himself the Emperor of another world, ‘Terrorin’. He has freed eight ‘Vicious Bombers’ from prison and begun an invasion with them as his subordinates.\n\n⑥ Bomberman [Japanese Version]\nThe commemorative work that laid the foundation for the series. Conquer all 50 stages!\n\n⑦ Bomberman II [Japanese Version]\nThe sequel to Bomberman. The work that implemented versus play.\n\n【Support Features, Helpful Functions and New Modes】\n\n‘Boss Rush’\nA challenge mode where you battle bosses from each game consecutively in a time attack!\n\n‘Save/Load Anytime’\nSave or load your game at any point during gameplay\n\n‘Rewind Function’\nA handy feature allowing you to rewind and retry at any point\n\n‘Screen Filtering Function’\nAdjust resolution or apply screen filters to play with your preferred visual settings\n\n‘BOMB Radio’\nListen to original soundtracks from each title. You can also create your own playlists\n\n‘Gallery’\nBrowse art works and development materials. Over 200 items in total!",
+  "bannerUrl": "http://api.nlib.cc/nx/01002D4023E52000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002D4023E52000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002D4023E52000/screen/1",
+    "http://api.nlib.cc/nx/01002D4023E52000/screen/2",
+    "http://api.nlib.cc/nx/01002D4023E52000/screen/3",
+    "http://api.nlib.cc/nx/01002D4023E52000/screen/4",
+    "http://api.nlib.cc/nx/01002D4023E52000/screen/5",
+    "http://api.nlib.cc/nx/01002D4023E52000/screen/6"
+  ]
+}

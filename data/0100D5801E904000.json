@@ -1,0 +1,16 @@
+{
+  "name": "Caravan SandWitch",
+  "publisher": "Plug In Digital",
+  "releaseDate": "20240912",
+  "description": "In Caravan SandWitch, embark on a journey across a Sci-Fi Provence-like world, driven by a mystery through your missing sister that unfolds with each step you take. \nInteract with the communities on Cigalo, help them with their tasks and meet new people along the way. Take your time to explore the world, whether in your van or on foot. \nLife is simple: no combat, no death, no timer, just you, your van, and the world.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D5801E904000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D5801E904000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D5801E904000/screen/1",
+    "http://api.nlib.cc/nx/0100D5801E904000/screen/2",
+    "http://api.nlib.cc/nx/0100D5801E904000/screen/3",
+    "http://api.nlib.cc/nx/0100D5801E904000/screen/4",
+    "http://api.nlib.cc/nx/0100D5801E904000/screen/5",
+    "http://api.nlib.cc/nx/0100D5801E904000/screen/6"
+  ]
+}

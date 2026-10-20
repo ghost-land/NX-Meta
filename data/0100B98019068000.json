@@ -1,0 +1,16 @@
+{
+  "name": "Pepper Grinder",
+  "publisher": "Devolver Digital",
+  "releaseDate": "20240328",
+  "description": "Pepper Grinder is an action-packed pirate adventure starring the titular Pepper, a seafaring soul with a passion for prospecting, and Grinder, her super-powered drilling device.\n\nShipwrecked and robbed of her treasure, Pepper must spin up her trusty sidearm to reclaim what the mischievous Narlings stole. Armed with Grinder, Pepper burrows through terrain & water, controls machines, and pulverises all enemies blocking the way towards recovering her missing fortune - with interest!\n\nPepper's progress will not be that simple, however, as mysterious beings begin to emerge from the shadows...\n\nGritty Gameplay\nCruise through a colorfully animated world with precise movements, fluid drilling, and thrilling leaps.\n\nThrilling Drilling\nChew through the world with Grinder and find new drill bits to ramp up the chaos and solve clever puzzles.\n\nConquer & Collect\nPick up jewels and other riches during your adventure and cash them in at shops to power up Pepper, open up new paths on the world map, and snag collectible stickers for your stickerbook.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B98019068000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B98019068000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B98019068000/screen/1",
+    "http://api.nlib.cc/nx/0100B98019068000/screen/2",
+    "http://api.nlib.cc/nx/0100B98019068000/screen/3",
+    "http://api.nlib.cc/nx/0100B98019068000/screen/4",
+    "http://api.nlib.cc/nx/0100B98019068000/screen/5",
+    "http://api.nlib.cc/nx/0100B98019068000/screen/6"
+  ]
+}

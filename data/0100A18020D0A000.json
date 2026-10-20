@@ -1,0 +1,15 @@
+{
+  "name": "Ramp Bike Racing",
+  "publisher": "Gametry",
+  "releaseDate": "20241220",
+  "description": "Get ready for an adrenaline-charged adventure with Ramp Bike Racing! Hop on your bike and navigate towering mega ramps that challenge your skill and push your limits. Perform daring stunts as you tackle impossible tracks and gravity-defying jumps. Conquer a range of obstacles, from zig-zag paths to blazing fire-lit tracks, all while experiencing addictive, edge-of-your-seat gameplay.\n\nUnlock powerful bikes and race through exhilarating loops and complex puzzle tracks that test your racing and problem-solving abilities. Take on uniquely crafted courses that demand precision and boldness. \n\nAre you prepared to defy the odds, master the ramps, and claim your title as the ultimate race champion?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A18020D0A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A18020D0A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A18020D0A000/screen/1",
+    "http://api.nlib.cc/nx/0100A18020D0A000/screen/2",
+    "http://api.nlib.cc/nx/0100A18020D0A000/screen/3",
+    "http://api.nlib.cc/nx/0100A18020D0A000/screen/4",
+    "http://api.nlib.cc/nx/0100A18020D0A000/screen/5"
+  ]
+}

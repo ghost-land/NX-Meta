@@ -1,0 +1,16 @@
+{
+  "name": "Chameleon",
+  "publisher": "UFO Interactive",
+  "releaseDate": "20191126",
+  "description": "Play as one of four magical sisters as you battle to conquer your territory for the chance to play against the ultimate puzzle master! Utilize unique special moves, power ups, and combos to get one step closer to becoming the champion!\n\n\nFeatures:\n\n•\t4 Different Game Modes – Basic, King, Race, and Random Modes, each with its own unique objectives and challenges\n\n•\tMultiplayer Mode – Two players can battle and test each other’s ability to think and react fast. The optional settings offer various modes that change the battle experience giving players a numerous amount of multiplayer functions\n\n•\tRandom Puzzle Generator – No two games will ever be the same!\n\n•\tMultiple Characters – Choose from 4 unique sisters along with a secret unlockable character",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DA900FCEA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DA900FCEA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DA900FCEA000/screen/1",
+    "http://api.nlib.cc/nx/0100DA900FCEA000/screen/2",
+    "http://api.nlib.cc/nx/0100DA900FCEA000/screen/3",
+    "http://api.nlib.cc/nx/0100DA900FCEA000/screen/4",
+    "http://api.nlib.cc/nx/0100DA900FCEA000/screen/5",
+    "http://api.nlib.cc/nx/0100DA900FCEA000/screen/6"
+  ]
+}

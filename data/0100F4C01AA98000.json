@@ -1,0 +1,16 @@
+{
+  "name": "BroodStar",
+  "publisher": "Schmidthoffer David",
+  "releaseDate": "20230624",
+  "description": "BroodStar is a classic arcade shoot’em up with heavy roguelike elements. Careful, though… the vastness of space contains many formidable enemies. If you fall along the way, you have to start over — the only thing you’ll bring with you are the upgrade modules you collected in your past runs, in the form of research points that augment your ship. Will they be enough to get you through hordes of unknown creatures and monstrous bosses, and fulfill your quest of defeating the living planet — the BroodStar?\n\nFeatures\n・12 Procedurally Generated Levels with Random Enemies, Events and Bosses\n・Challenges and Leaderboards\n・7 Main and 6 Sub Weapon Types\n・200 Unique Upgrades\n・Research System\n・Seed System\n・Challenging Bosses and Boss Variations\n・Stage Modifiers and Events",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F4C01AA98000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F4C01AA98000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F4C01AA98000/screen/1",
+    "http://api.nlib.cc/nx/0100F4C01AA98000/screen/2",
+    "http://api.nlib.cc/nx/0100F4C01AA98000/screen/3",
+    "http://api.nlib.cc/nx/0100F4C01AA98000/screen/4",
+    "http://api.nlib.cc/nx/0100F4C01AA98000/screen/5",
+    "http://api.nlib.cc/nx/0100F4C01AA98000/screen/6"
+  ]
+}

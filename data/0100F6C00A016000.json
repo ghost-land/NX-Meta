@@ -1,0 +1,16 @@
+{
+  "name": "Chicken Range",
+  "publisher": "Funbox Media",
+  "releaseDate": "20181025",
+  "description": "Fun and Quirky shoot-em-up game.\n\nThe object of the game is to shoot the chickens using an array of different weaponry, from pistols, to AK47, RPG’s to Alien Ray Guns! Gameplay is set over a field twice as wide as the screen, so you must be constantly moving your aim side to side in order to reach the whole game field.\n\nTo increase the difficulty, the chickens throw eggs at the screen to obscure the player’s field of view. Once your screen is covered….GAME OVER!\n\nDuring each level, ammo crates drop at varying intervals which will refresh your ammo levels and “Shino”.\n\nCarry up to 3 weapons with you; only 4 are available in the earlier levels, the remaining weapons will unlock as you progress through the levels.\n\nThe game contains 15 different levels. Each level introduces different baddie chickens with varying difficulties to kill them due to enhanced protection gear. Chicken types include Riot Police Chickens, Tank Chickens, Ninja Chickens, Helicopter Chickens and many more!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F6C00A016000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F6C00A016000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F6C00A016000/screen/1",
+    "http://api.nlib.cc/nx/0100F6C00A016000/screen/2",
+    "http://api.nlib.cc/nx/0100F6C00A016000/screen/3",
+    "http://api.nlib.cc/nx/0100F6C00A016000/screen/4",
+    "http://api.nlib.cc/nx/0100F6C00A016000/screen/5",
+    "http://api.nlib.cc/nx/0100F6C00A016000/screen/6"
+  ]
+}

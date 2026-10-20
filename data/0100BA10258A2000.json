@@ -1,0 +1,16 @@
+{
+  "name": "Obby Kingdom",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20251017",
+  "description": "Welcome to Obby Kingdom, an exciting parkour challenge set in the ruins of a once-great castle. The castle grounds are crumbling and flooded, and only the best players can jump, climb, and run their way to freedom!\n\nCastle-Themed Obby – Traverse broken walls, collapsing bridges, and waterlogged ruins.\n\nChoose Your Path!\n>Easy Mode: With checkpoints to help you along the way.\n>Hardcore Mode: No checkpoints—only true skill! But if you survive, you unlock a bonus level.\n\nParkour Adventure – Put your jumping and timing skills to the test across tricky obstacles.\n\nDo you have what it takes to conquer the kingdom’s broken halls and rise as a true Obby Champion?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BA10258A2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BA10258A2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BA10258A2000/screen/1",
+    "http://api.nlib.cc/nx/0100BA10258A2000/screen/2",
+    "http://api.nlib.cc/nx/0100BA10258A2000/screen/3",
+    "http://api.nlib.cc/nx/0100BA10258A2000/screen/4",
+    "http://api.nlib.cc/nx/0100BA10258A2000/screen/5",
+    "http://api.nlib.cc/nx/0100BA10258A2000/screen/6"
+  ]
+}

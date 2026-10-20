@@ -1,0 +1,16 @@
+{
+  "name": "MetaDude",
+  "publisher": "DillyFrame",
+  "releaseDate": "20230720",
+  "description": "Welcome to the new reality!\n\nThis visual novel dares to fantasize about this topic in an attempt to predict one of the likely developments in the near future.\n\nWe are approaching the threshold of a new era of technological development, but only God knows where the abundance of new technologies and ways of interacting with the real and virtual worlds will lead humanity.\n\nOur hero Meta-Dude explores the rapidly growing digital world through the prism of irony over the modern consumer society. He's armed with sarcasm, a deciphering blaster, and references to classic comics. And may the St. Admin help those who stand in his way...\n\nFeatures:\n- 6 bright episodes\n- cover recovery mini-games",
+  "bannerUrl": "http://api.nlib.cc/nx/01000F301C20C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000F301C20C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000F301C20C000/screen/1",
+    "http://api.nlib.cc/nx/01000F301C20C000/screen/2",
+    "http://api.nlib.cc/nx/01000F301C20C000/screen/3",
+    "http://api.nlib.cc/nx/01000F301C20C000/screen/4",
+    "http://api.nlib.cc/nx/01000F301C20C000/screen/5",
+    "http://api.nlib.cc/nx/01000F301C20C000/screen/6"
+  ]
+}

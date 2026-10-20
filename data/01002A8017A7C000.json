@@ -1,0 +1,18 @@
+{
+  "name": "Foreign Sun",
+  "publisher": "Brian Farina",
+  "releaseDate": "20260421",
+  "description": "A HANDCRAFTED DYNAMIC ADVENTURE\nTraverse an interconnected world and cross paths with factions, each with their own agenda. Use your wits to learn different ways to traverse the sinking city, and in turn discover many possible outcomes for its denizens depending on your actions and choices.\n\nCUT DOWN AN EXPANSIVE ARRAY OF FOES\nWhile you might make a few friends during this dangerous journey, far more foes stand in your way. Find and utilize a variety of weapons to clash with an defeat all manner of man and monsters. Shift your allegiances to different factions when convenient.\n\nAQUIRE FORBIDDEN POWERS AND SECRETS\nThere are many secret abilities discover as you journey to the eternal lighthouse. But the power to alter your form and traverse the world may have a heavy price.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002A8017A7C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002A8017A7C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002A8017A7C000/screen/1",
+    "http://api.nlib.cc/nx/01002A8017A7C000/screen/2",
+    "http://api.nlib.cc/nx/01002A8017A7C000/screen/3",
+    "http://api.nlib.cc/nx/01002A8017A7C000/screen/4",
+    "http://api.nlib.cc/nx/01002A8017A7C000/screen/5",
+    "http://api.nlib.cc/nx/01002A8017A7C000/screen/6"
+  ],
+  "version": 0,
+  "size": 802459802
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Love Pop!",
+  "publisher": "Neon2",
+  "releaseDate": "20211216",
+  "description": "Draw lines on the screen to send love and kisses to your neighbors.\n\nGuide the heart through more than 100 levels full of obstacles and evil neighbors who will want to keep your love. And this is not the only thing! On your way you will find other caged hearts waiting to be rescued so you can play with them.\n\nLet love be unleashed in the neighborhood!",
+  "bannerUrl": "http://api.nlib.cc/nx/010072D0167D0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010072D0167D0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010072D0167D0000/screen/1",
+    "http://api.nlib.cc/nx/010072D0167D0000/screen/2",
+    "http://api.nlib.cc/nx/010072D0167D0000/screen/3",
+    "http://api.nlib.cc/nx/010072D0167D0000/screen/4",
+    "http://api.nlib.cc/nx/010072D0167D0000/screen/5",
+    "http://api.nlib.cc/nx/010072D0167D0000/screen/6"
+  ]
+}

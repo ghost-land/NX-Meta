@@ -1,0 +1,16 @@
+{
+  "name": "Hunter's Legacy: Purrfect Edition",
+  "publisher": "Lienzo",
+  "releaseDate": "20181213",
+  "description": "Embark on a feline-filled quest set in an action-packed fantasy universe brimming with fierce enemies, intense sword-fighting, and the classic feeling of a Metroidvania adventure! Hunter’s Legacy is a 2D platformer where you control Ikki, a powerful huntress cat equipped with twin swords, a bow, and magical abilities, who must save the Kingdom of Iripur from the evil Morodir.\n\nHunter’s Legacy Purrfect Edition features new story sequences, more character dialogues, new animations, an updated level design, a brand new mini-map feature, improved melee combat, and a new game plus mode! Explore all regions of this fantastical open world kingdom, from peaceful forests to snowed volcanos, while slashing your enemies with your mighty twin swords, and follow the legacy of the legendary hunter.",
+  "bannerUrl": "http://api.nlib.cc/nx/010068000CAC0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010068000CAC0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010068000CAC0000/screen/1",
+    "http://api.nlib.cc/nx/010068000CAC0000/screen/2",
+    "http://api.nlib.cc/nx/010068000CAC0000/screen/3",
+    "http://api.nlib.cc/nx/010068000CAC0000/screen/4",
+    "http://api.nlib.cc/nx/010068000CAC0000/screen/5",
+    "http://api.nlib.cc/nx/010068000CAC0000/screen/6"
+  ]
+}

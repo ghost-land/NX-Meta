@@ -1,0 +1,16 @@
+{
+  "name": "PHOGS!",
+  "publisher": "Coatsink Software",
+  "releaseDate": "20201203",
+  "description": "In PHOGS! you play as a duo of dogs on a captivating, puzzle-filled adventure. Linked by a stretchy belly, you’ll need to bark, bite and bounce your way through obstacles set across the themed worlds of Food, Sleep and Play, in co-op or single-player.\n\nForage through Food World, teeming with tasty treats. From hot buttered toast to chopped celery... even a river of chocolate!\n\nStroll through Sleep World, complete with teddy bears, cushions and quilts, all nestled in the glow of the soothing night-light. \n\nPounce through the crazy toybox of Play World, exploring a beach amusement park, a retro arcade, and everything in between. Woof!\n\nSupporting single-player and shared-controller gameplay, plus local and online co-op, Red and Blue are always ready to play!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DA400F624000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DA400F624000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DA400F624000/screen/1",
+    "http://api.nlib.cc/nx/0100DA400F624000/screen/2",
+    "http://api.nlib.cc/nx/0100DA400F624000/screen/3",
+    "http://api.nlib.cc/nx/0100DA400F624000/screen/4",
+    "http://api.nlib.cc/nx/0100DA400F624000/screen/5",
+    "http://api.nlib.cc/nx/0100DA400F624000/screen/6"
+  ]
+}

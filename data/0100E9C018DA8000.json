@@ -1,0 +1,16 @@
+{
+  "name": "Farming Life",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20230127",
+  "description": "Set up your own farm and fill it with farmhouses, sheds and granaries. Build roads and design optimal fields for your crops. Choose what you want to plant or sow: apples, beets, cabbage, carrots, corn, leeks, onions, peppers, pumpkins, sunflowers, tomatoes, wheat.\nRemember to water them and keep them away from pests!\n\nRunning a large farm will teach you how to manage finances, recruit human resources and, most importantly, take responsibility for your crops and animals. Generate profits from your farm and get resources to grow it!\n\nAnd remember: Two farms are better than one!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E9C018DA8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E9C018DA8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E9C018DA8000/screen/1",
+    "http://api.nlib.cc/nx/0100E9C018DA8000/screen/2",
+    "http://api.nlib.cc/nx/0100E9C018DA8000/screen/3",
+    "http://api.nlib.cc/nx/0100E9C018DA8000/screen/4",
+    "http://api.nlib.cc/nx/0100E9C018DA8000/screen/5",
+    "http://api.nlib.cc/nx/0100E9C018DA8000/screen/6"
+  ]
+}

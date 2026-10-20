@@ -1,0 +1,16 @@
+{
+  "name": "DRAGON BALL FIGHTERZ - Open Beta",
+  "publisher": "BANDAI NAMCO Entertainment",
+  "releaseDate": "20180809",
+  "description": "This is the Open Beta for DRAGON BALL FighterZ.\n\nThe Open Beta servers are scheduled to be on at the following times:\n\nAugust 9, 2018 at 9:00 PM to August 11, 2018 at 11:59 PM (PDT)\n\nGo head to head in VS Online with no less than 23 characters and 13 stages. But don't forget to also stop by the Battle Tutorial to sharpen your skills and master all kinds of devastating techniques! \n\nOn top of this, get a taste at some additional features like Lobby Avatar Customization, Stamps and Replay Channel.\n\nAnd no matter what happens, always remember that TRUE POWER KNOWS NO LIMIT!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F6000BC6C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F6000BC6C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F6000BC6C000/screen/1",
+    "http://api.nlib.cc/nx/0100F6000BC6C000/screen/2",
+    "http://api.nlib.cc/nx/0100F6000BC6C000/screen/3",
+    "http://api.nlib.cc/nx/0100F6000BC6C000/screen/4",
+    "http://api.nlib.cc/nx/0100F6000BC6C000/screen/5",
+    "http://api.nlib.cc/nx/0100F6000BC6C000/screen/6"
+  ]
+}

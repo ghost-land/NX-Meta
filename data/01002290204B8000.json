@@ -1,0 +1,16 @@
+{
+  "name": "Necro Story",
+  "publisher": "Rablo Games",
+  "releaseDate": "20241007",
+  "description": "Necro Story is a light-hearted creature collection RPG where you play as a powerful and (kind of) evil Necromancer. Helped by the ghost of a playful white mage, you must sneak into the Underworld to save humanity.\nOver 20 necromancy spells are available, spread across 5 schools of magic: Affliction, Darkness, Life Stealing, Summoning and Dark Pacts. Each spell has its own dedicated skill tree. Upgrade them wisely to carve out your own path learning Necromancy.\nCapture your enemies' sousl! Don’t let them fly away! Take control of them and turn your enemies into powerful allies. Choose which teammates to bring into battle, manage their equipment and their skills to get the most out of them. Don’t forget to summon zombies and skeletons to further fill out your ranks.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002290204B8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002290204B8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002290204B8000/screen/1",
+    "http://api.nlib.cc/nx/01002290204B8000/screen/2",
+    "http://api.nlib.cc/nx/01002290204B8000/screen/3",
+    "http://api.nlib.cc/nx/01002290204B8000/screen/4",
+    "http://api.nlib.cc/nx/01002290204B8000/screen/5",
+    "http://api.nlib.cc/nx/01002290204B8000/screen/6"
+  ]
+}

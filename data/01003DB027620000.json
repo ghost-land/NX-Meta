@@ -1,0 +1,18 @@
+{
+  "name": "Cozy Snow Friends",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20260501",
+  "description": "Embark on a journey through snowy mountains, racing against rivals as you compete for rewards. Reach the base of the mountain first by dodging obstacles and keeping your momentum as you glide downhill. Meet charming characters, unlock new outfits, and enjoy this simple, cosy game for all ages.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003DB027620000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003DB027620000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003DB027620000/screen/1",
+    "http://api.nlib.cc/nx/01003DB027620000/screen/2",
+    "http://api.nlib.cc/nx/01003DB027620000/screen/3",
+    "http://api.nlib.cc/nx/01003DB027620000/screen/4",
+    "http://api.nlib.cc/nx/01003DB027620000/screen/5",
+    "http://api.nlib.cc/nx/01003DB027620000/screen/6"
+  ],
+  "version": 0,
+  "size": 232704962
+}

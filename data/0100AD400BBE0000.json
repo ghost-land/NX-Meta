@@ -1,0 +1,16 @@
+{
+  "name": "BlazeRush",
+  "publisher": "Smart Space Solutions",
+  "releaseDate": "20190219",
+  "description": "BlazeRush is a dynamic arcade racing survival game with no health, no levelling and no brakes!\nYou can assemble a team of friends to play in local or online multiplayer, choose a car to your taste and chase, blow up and cut off!\nAdapt your style and tactics to new enemies, obstacles and tracks.\n\nWelcome to the World Of Racing and Frantic Fun!\n\nKey features:\n*Simple multiplayer. Up to 4 players locally and up to 8 players over the Internet;\n*Couch vs. couch. Start races with local players;\n*Connect to the game at any time;\n*Dozens of fun tracks on three planets, 16 cars and a variety of cool guns;\n*Lots of medals for various tricks and antics.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AD400BBE0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AD400BBE0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AD400BBE0000/screen/1",
+    "http://api.nlib.cc/nx/0100AD400BBE0000/screen/2",
+    "http://api.nlib.cc/nx/0100AD400BBE0000/screen/3",
+    "http://api.nlib.cc/nx/0100AD400BBE0000/screen/4",
+    "http://api.nlib.cc/nx/0100AD400BBE0000/screen/5",
+    "http://api.nlib.cc/nx/0100AD400BBE0000/screen/6"
+  ]
+}

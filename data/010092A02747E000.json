@@ -1,0 +1,15 @@
+{
+  "name": "VoidFront: Galactic Warfare",
+  "publisher": "GazeGames Interactive",
+  "releaseDate": "20260305",
+  "description": "VoidFront: Galactic Warfare is an intense team-based FPS\ninspired by classic tactical shooters, set\nin the heart of an interstellar war.\n\nTwo combat cyborg factions clash in battles\nacross diverse space locations:\nlunar bases, scorching desert planets,\nand orbital space stations.\n\nPlayers gain access to a massive arsenal of futuristic plasma weapons —\nfrom devastating shotguns\nto precise sniper rifles.\n\nVictory depends not only on accuracy,\nbut also on tactics, positioning,\nand team coordination.",
+  "bannerUrl": "http://api.nlib.cc/nx/010092A02747E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010092A02747E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010092A02747E000/screen/1",
+    "http://api.nlib.cc/nx/010092A02747E000/screen/2",
+    "http://api.nlib.cc/nx/010092A02747E000/screen/3",
+    "http://api.nlib.cc/nx/010092A02747E000/screen/4",
+    "http://api.nlib.cc/nx/010092A02747E000/screen/5"
+  ]
+}

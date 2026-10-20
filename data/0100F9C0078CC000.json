@@ -1,0 +1,16 @@
+{
+  "name": "Deathstate : Abyssal Edition",
+  "publisher": "Bread Machine",
+  "releaseDate": "20190917",
+  "description": "Deathstate is a roguelike bullet hell action RPG set in a bizarre world of dimensional exploration. Play as a number of unique characters trying to discover the fate of Professor Elinberg who opened a portal to the void. Are you ready to venture deep into the abyss?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F9C0078CC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F9C0078CC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F9C0078CC000/screen/1",
+    "http://api.nlib.cc/nx/0100F9C0078CC000/screen/2",
+    "http://api.nlib.cc/nx/0100F9C0078CC000/screen/3",
+    "http://api.nlib.cc/nx/0100F9C0078CC000/screen/4",
+    "http://api.nlib.cc/nx/0100F9C0078CC000/screen/5",
+    "http://api.nlib.cc/nx/0100F9C0078CC000/screen/6"
+  ]
+}

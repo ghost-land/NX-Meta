@@ -1,0 +1,16 @@
+{
+  "name": "Pirate Bloopers",
+  "publisher": "Gameplay First",
+  "releaseDate": "20240125",
+  "description": "Your goal is to stay alive as long as possible in a dynamic time survival action. Choose a flag to your liking and the color under which you will sail the sea. Use your crossbow to fight with pesky pirates. Collect gold and upgrade your ship.\n\nBrave sailors onboard are ready to travel. The sea is calling!",
+  "bannerUrl": "http://api.nlib.cc/nx/010021E01DB76000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010021E01DB76000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010021E01DB76000/screen/1",
+    "http://api.nlib.cc/nx/010021E01DB76000/screen/2",
+    "http://api.nlib.cc/nx/010021E01DB76000/screen/3",
+    "http://api.nlib.cc/nx/010021E01DB76000/screen/4",
+    "http://api.nlib.cc/nx/010021E01DB76000/screen/5",
+    "http://api.nlib.cc/nx/010021E01DB76000/screen/6"
+  ]
+}

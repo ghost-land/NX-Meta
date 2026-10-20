@@ -1,0 +1,18 @@
+{
+  "name": "FORENSIC - M.E. Protocol",
+  "publisher": "JanduSoft",
+  "releaseDate": "20260611",
+  "description": "Put on your gloves and enter the crime scene. In this investigation sim, you will have to solve 9 unique cases full of plot twists.\n\nFrom dark alleys to quiet suburban streets, every location hides secrets. Use advanced forensic tools and evidence reconstruction to piece together what really happened. There are no shootouts, no action clichés, only logic, observation, and investigation. Here, you don’t hunt criminals with guns… you catch them with science\n\nFeatures:\n\n- 9 forensic cases with complete narratives and multiple twists.\n- Advanced investigation tools: drones, ground robots, and chemical analysis.\n- Mature, dark stories including crimes of passion, kidnappings, and conspiracies.\n- Every clue can change the entire case.\n- Stress-free pacing with no timers. Investigate, analyze, and solve at your own rhythm.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100222028430000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100222028430000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100222028430000/screen/1",
+    "http://api.nlib.cc/nx/0100222028430000/screen/2",
+    "http://api.nlib.cc/nx/0100222028430000/screen/3",
+    "http://api.nlib.cc/nx/0100222028430000/screen/4",
+    "http://api.nlib.cc/nx/0100222028430000/screen/5",
+    "http://api.nlib.cc/nx/0100222028430000/screen/6"
+  ],
+  "version": 0,
+  "size": 5267138702
+}

@@ -1,0 +1,15 @@
+{
+  "name": "scribbled",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20210717",
+  "description": "A 100% handmade art, It was created with pencil and paper.\nJoin this wonderful adventure in a world full of challenges and creatures.\nThis game is made for all ages",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C4A015516000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C4A015516000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C4A015516000/screen/1",
+    "http://api.nlib.cc/nx/0100C4A015516000/screen/2",
+    "http://api.nlib.cc/nx/0100C4A015516000/screen/3",
+    "http://api.nlib.cc/nx/0100C4A015516000/screen/4",
+    "http://api.nlib.cc/nx/0100C4A015516000/screen/5"
+  ]
+}

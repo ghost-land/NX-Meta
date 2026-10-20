@@ -1,0 +1,16 @@
+{
+  "name": "the Knight & the Dragon",
+  "publisher": "Naps Team",
+  "releaseDate": "20190418",
+  "description": "During a date with Arthur the chevalier, Princess Daphne is kidnapped by Synge the Dragon \nShe’ll be turned into a Lady Dragon once Synge finds all the magic Crystals !\nTime is running out ! Do you got what it takes to rescue Daphne?\nTemple Tower is right ahead, go and face the Dungeon Boss",
+  "bannerUrl": "http://api.nlib.cc/nx/010031B00DB34000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010031B00DB34000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010031B00DB34000/screen/1",
+    "http://api.nlib.cc/nx/010031B00DB34000/screen/2",
+    "http://api.nlib.cc/nx/010031B00DB34000/screen/3",
+    "http://api.nlib.cc/nx/010031B00DB34000/screen/4",
+    "http://api.nlib.cc/nx/010031B00DB34000/screen/5",
+    "http://api.nlib.cc/nx/010031B00DB34000/screen/6"
+  ]
+}

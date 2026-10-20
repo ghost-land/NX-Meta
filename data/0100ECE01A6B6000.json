@@ -1,0 +1,16 @@
+{
+  "name": "Magic Klondike",
+  "publisher": "Soroka Games",
+  "releaseDate": "20230121",
+  "description": "Magic Klondike is a classic card game for people who love to spend time on solving puzzles. \n\nYou can choose different combinations of backgrounds and card covers. \n\nEnjoy the game!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ECE01A6B6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ECE01A6B6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ECE01A6B6000/screen/1",
+    "http://api.nlib.cc/nx/0100ECE01A6B6000/screen/2",
+    "http://api.nlib.cc/nx/0100ECE01A6B6000/screen/3",
+    "http://api.nlib.cc/nx/0100ECE01A6B6000/screen/4",
+    "http://api.nlib.cc/nx/0100ECE01A6B6000/screen/5",
+    "http://api.nlib.cc/nx/0100ECE01A6B6000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Constellations",
+  "publisher": "RAWRLAB Games",
+  "releaseDate": "20230601",
+  "description": "Constellations is a meditative, minimalist puzzle game about finding patterns in the stars. Increase mindfulness, concentration and focus through a conversation with the stars. Evade yourself from everyday life as you build constellations in the sky.\n\nIn each level, connect the stars without the lines crossing and slowly fill the sky with constellations. Explore a starmap full of carefully designed levels with diverse mechanics, or go to the black hole to play endless puzzles.\n\nDiscover something that only the stars hold. \nTake a comfy spot and enjoy this experience!\n\nFeatures:\n- Simple and intuitive puzzle mechanics for all ages.\n- Polished controls for a satisfying experience.\n- Meditative astronomic chill visuals and music.\n- Solidly designed campaign with over 100 levels with varied mechanics.\n- Level generator with infinite combinations.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D4901B41C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D4901B41C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D4901B41C000/screen/1",
+    "http://api.nlib.cc/nx/0100D4901B41C000/screen/2",
+    "http://api.nlib.cc/nx/0100D4901B41C000/screen/3",
+    "http://api.nlib.cc/nx/0100D4901B41C000/screen/4",
+    "http://api.nlib.cc/nx/0100D4901B41C000/screen/5",
+    "http://api.nlib.cc/nx/0100D4901B41C000/screen/6"
+  ]
+}

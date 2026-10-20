@@ -1,0 +1,16 @@
+{
+  "name": "Dungeons & Bombs",
+  "publisher": "Sometimes You",
+  "releaseDate": "20210226",
+  "description": "This is dynamic fusion of classic puzzles with boxes and bombs. When enemies drag people into their dark lair and do their vile deeds there, the hero and his faithful sword always come to the rescue. But what if the hero does not have a sword, but only a lot of enthusiasm and an endless supply of explosives? Well, bad for them. Go through dark labyrinths of dungeons and try not to blast yourself up!\n\nFeatures:\n- 50 entangled puzzle-levels\n- Limited number of moves to complete each puzzle\n- Unbreakable laws of logic\n- Bombs and explosions!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BE801360E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BE801360E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BE801360E000/screen/1",
+    "http://api.nlib.cc/nx/0100BE801360E000/screen/2",
+    "http://api.nlib.cc/nx/0100BE801360E000/screen/3",
+    "http://api.nlib.cc/nx/0100BE801360E000/screen/4",
+    "http://api.nlib.cc/nx/0100BE801360E000/screen/5",
+    "http://api.nlib.cc/nx/0100BE801360E000/screen/6"
+  ]
+}

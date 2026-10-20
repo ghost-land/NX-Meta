@@ -1,0 +1,16 @@
+{
+  "name": "Rage Swarm",
+  "publisher": "QubicGames",
+  "releaseDate": "20241129",
+  "description": "Armed with powerful weapons, blast through waves of fierce enemies to reach the ultimate boss. Collect upgrades along the way to power up and make every shot count!\n\nUnleash a diverse arsenal – from classic firearms to devastating rocket launchers – each with unique abilities for unstoppable action. Gear up with special outfits, each boosting your strength and making every battle more dynamic.\n\nFeatures:\n- Navigate through various landscapes\n- Defend yourself from the fierce invaders\n- Pick up upgrades to get stronger\n- Level up and buy awesome talents\n- Complete quests for useful loot\n- Open epic loot boxes and enhance your gear\n\nDodge, shoot, and strategize your moves. Are you ready to conquer the swarm?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100827020752000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100827020752000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100827020752000/screen/1",
+    "http://api.nlib.cc/nx/0100827020752000/screen/2",
+    "http://api.nlib.cc/nx/0100827020752000/screen/3",
+    "http://api.nlib.cc/nx/0100827020752000/screen/4",
+    "http://api.nlib.cc/nx/0100827020752000/screen/5",
+    "http://api.nlib.cc/nx/0100827020752000/screen/6"
+  ]
+}

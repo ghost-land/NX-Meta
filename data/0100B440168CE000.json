@@ -1,0 +1,16 @@
+{
+  "name": "Slipstream",
+  "publisher": "BlitWorks",
+  "releaseDate": "20220407",
+  "description": "Slipstream is a racing game inspired by the visuals, music, games and cars from the late 80s and early 90s. It's built on a custom game engine, with an authentic retro feel and unique graphics that allows the player to -literally- go back in time. The soundtrack, drawing from synth pop and jazz fusion influences, sets the tone for a race across a variety of exotic locations from all around the world, including cities, deserts, forests, mountains and beaches. Drifting, rewind and slipstreaming mechanics add depth to the driving gameplay, and the result is a challenging and exciting experience.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B440168CE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B440168CE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B440168CE000/screen/1",
+    "http://api.nlib.cc/nx/0100B440168CE000/screen/2",
+    "http://api.nlib.cc/nx/0100B440168CE000/screen/3",
+    "http://api.nlib.cc/nx/0100B440168CE000/screen/4",
+    "http://api.nlib.cc/nx/0100B440168CE000/screen/5",
+    "http://api.nlib.cc/nx/0100B440168CE000/screen/6"
+  ]
+}

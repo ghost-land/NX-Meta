@@ -1,0 +1,16 @@
+{
+  "name": "Monument",
+  "publisher": "Andrei Ivashentsev",
+  "releaseDate": "20210708",
+  "description": "Old-school first person shooter. Hardcore classic gameplay. Huge hordes of monsters. Send evil chickens, aliens and other evil spirits to the grave, like the good old days. Play with your best friends: shotgun, machine gun, plasma gun and a homemade rifle",
+  "bannerUrl": "http://api.nlib.cc/nx/010091C013F6E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010091C013F6E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010091C013F6E000/screen/1",
+    "http://api.nlib.cc/nx/010091C013F6E000/screen/2",
+    "http://api.nlib.cc/nx/010091C013F6E000/screen/3",
+    "http://api.nlib.cc/nx/010091C013F6E000/screen/4",
+    "http://api.nlib.cc/nx/010091C013F6E000/screen/5",
+    "http://api.nlib.cc/nx/010091C013F6E000/screen/6"
+  ]
+}

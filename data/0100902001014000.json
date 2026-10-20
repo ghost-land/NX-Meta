@@ -1,0 +1,16 @@
+{
+  "name": "Othello",
+  "publisher": "ARC SYSTEM WORKS",
+  "releaseDate": "20170323",
+  "description": "The well-acclaimed boardgame for all ages, Othello is now on Nintendo Switch!\nPlay in the comfort of your home or outside, and play in a style that suits you best!\n\nA total of 16 levels of computer AI difficulty are available for Single Player Modes!\nHints on where the stones can be placed, and displays to show which tiles will be flipped in this move are also available to help new players understand the game better!\n\nTwo-player mode is also available!\nBoth players can play together on 1 Nintendo Switch by simply sharing the Joy-con, or simply operate directly on the Touch Screen!\nDo play with your family and friends!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100902001014000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100902001014000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100902001014000/screen/1",
+    "http://api.nlib.cc/nx/0100902001014000/screen/2",
+    "http://api.nlib.cc/nx/0100902001014000/screen/3",
+    "http://api.nlib.cc/nx/0100902001014000/screen/4",
+    "http://api.nlib.cc/nx/0100902001014000/screen/5",
+    "http://api.nlib.cc/nx/0100902001014000/screen/6"
+  ]
+}

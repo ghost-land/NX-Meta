@@ -1,0 +1,16 @@
+{
+  "name": "Mutant Express",
+  "publisher": "Happy Player",
+  "releaseDate": "20240516",
+  "description": "Classic yet challenging platformer game with 4 areas with different styles: city, dance hall, forest and desert.\n\n53 levels, each with completely different mechanics and difficulty.\n\nEach level has a limited time, and the count of orders delivered on time will lead to 2 different endings. \n\nWill your best friend Kiki turn into a fox?\"",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A3401ED12000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A3401ED12000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A3401ED12000/screen/1",
+    "http://api.nlib.cc/nx/0100A3401ED12000/screen/2",
+    "http://api.nlib.cc/nx/0100A3401ED12000/screen/3",
+    "http://api.nlib.cc/nx/0100A3401ED12000/screen/4",
+    "http://api.nlib.cc/nx/0100A3401ED12000/screen/5",
+    "http://api.nlib.cc/nx/0100A3401ED12000/screen/6"
+  ]
+}

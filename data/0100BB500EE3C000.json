@@ -1,0 +1,16 @@
+{
+  "name": "Oddworld: Munch's Oddysee",
+  "publisher": "Oddworld Inhabitants",
+  "releaseDate": "20200514",
+  "description": "How would you feel if you broke your leg in a scrab trap, were abducted by soulless scientists, had an alien device implanted in your skull, and found out your race had been hunted to extinction?\n\nIt's up to you to help guide Munch in efforts to rescue fellow test creatures. These critters will be forever loyal to Munch and in turn enable his escape . Once free, Munch teams up with Abe and together they are guided by the wisdom of the Almighty Raisin. They are informed as to how to accomplish their goals, but in order to do so, they must work together. For Munch, his dream is to bring back his species from the brink of extinction. For Abe, it is to rescue his Mudokon buddies.\n\nUsing special powers, cool power-ups, and other special abilities to deliver payback to the Vykkers, Abe and Munch reclaim the last gabbit eggs on Oddworld, which have been packaged in a can of gabbiar. May Odd help you!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BB500EE3C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BB500EE3C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BB500EE3C000/screen/1",
+    "http://api.nlib.cc/nx/0100BB500EE3C000/screen/2",
+    "http://api.nlib.cc/nx/0100BB500EE3C000/screen/3",
+    "http://api.nlib.cc/nx/0100BB500EE3C000/screen/4",
+    "http://api.nlib.cc/nx/0100BB500EE3C000/screen/5",
+    "http://api.nlib.cc/nx/0100BB500EE3C000/screen/6"
+  ]
+}

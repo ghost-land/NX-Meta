@@ -1,0 +1,16 @@
+{
+  "name": "Passing By - A Tailwind Journey",
+  "publisher": "Plug In Digital",
+  "releaseDate": "20240312",
+  "description": "Take to the skies in your balloon ship and explore a colorful world of floating islands. Befriend fellow travelers and quirky islanders, use your wits to solve immersive puzzles, and gather resources to continue your journey towards an unknown destination.",
+  "bannerUrl": "http://api.nlib.cc/nx/010013F01E6D2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010013F01E6D2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010013F01E6D2000/screen/1",
+    "http://api.nlib.cc/nx/010013F01E6D2000/screen/2",
+    "http://api.nlib.cc/nx/010013F01E6D2000/screen/3",
+    "http://api.nlib.cc/nx/010013F01E6D2000/screen/4",
+    "http://api.nlib.cc/nx/010013F01E6D2000/screen/5",
+    "http://api.nlib.cc/nx/010013F01E6D2000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Visit Once",
+  "publisher": "Titanite Games",
+  "releaseDate": "20210305",
+  "description": "Visit Once is a simple yet engaging puzzle game. \n\nYour goal is to reach the end point and visit all possible middle points just once.\n\nIt's easy to learn and gets more challenging as you progress. \n\nIn a nutshell: \n- One touch mechanic\n- Easy to pick up\n- Violence free\n- Dozens of playable levels",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D78013A60000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D78013A60000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D78013A60000/screen/1",
+    "http://api.nlib.cc/nx/0100D78013A60000/screen/2",
+    "http://api.nlib.cc/nx/0100D78013A60000/screen/3",
+    "http://api.nlib.cc/nx/0100D78013A60000/screen/4",
+    "http://api.nlib.cc/nx/0100D78013A60000/screen/5",
+    "http://api.nlib.cc/nx/0100D78013A60000/screen/6"
+  ]
+}

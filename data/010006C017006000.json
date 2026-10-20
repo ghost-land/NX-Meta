@@ -1,0 +1,16 @@
+{
+  "name": "Frightence",
+  "publisher": "Playstige Interactive",
+  "releaseDate": "20220310",
+  "description": "Frighthence is a short, intense first-person horror experience.\nYou are the janitor who works at the infamous Apartment #17, which is the seed of many eeire tales and bloodcurdling urban legends... \nThe apartment recently got an eviction notice and tonight, you must check every resident’s flat to make sure that everybody has left. \nSoon you will realize that things are not the way they seem in this dreadful apartment…\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010006C017006000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010006C017006000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010006C017006000/screen/1",
+    "http://api.nlib.cc/nx/010006C017006000/screen/2",
+    "http://api.nlib.cc/nx/010006C017006000/screen/3",
+    "http://api.nlib.cc/nx/010006C017006000/screen/4",
+    "http://api.nlib.cc/nx/010006C017006000/screen/5",
+    "http://api.nlib.cc/nx/010006C017006000/screen/6"
+  ]
+}

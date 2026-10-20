@@ -1,0 +1,14 @@
+{
+  "name": "Millionaire Escape",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20250628",
+  "description": "\nChase the slippery bandit through a creaky old mansion filled with more traps than your grandma's attic. Jump, dodge, and maybe trip a little as you race to catch the most annoyingly agile criminal in London.\nFeeling clever? You could try to take a shortcut through the elevator — assuming it doesn’t stop between floors for a dramatic pause.\nWill justice be served — or will he slip away with your dignity and the loot?",
+  "bannerUrl": "http://api.nlib.cc/nx/01009B7023B1E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009B7023B1E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009B7023B1E000/screen/1",
+    "http://api.nlib.cc/nx/01009B7023B1E000/screen/2",
+    "http://api.nlib.cc/nx/01009B7023B1E000/screen/3",
+    "http://api.nlib.cc/nx/01009B7023B1E000/screen/4"
+  ]
+}

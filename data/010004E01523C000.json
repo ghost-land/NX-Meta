@@ -1,0 +1,16 @@
+{
+  "name": "Loop Hero",
+  "publisher": "Devolver Digital",
+  "releaseDate": "20211209",
+  "description": "Wield an expanding deck of mystical cards to place enemies, buildings, and terrain along each unique expedition loop for the brave hero. Recover and equip powerful loot for each class of hero for their battles and expand the survivors' camp to reinforce each adventure through the loop. Unlock new classes, new cards, perks and devious guardians on your quest to shatter the endless cycle of despair. \n\nInfinite Adventure: Select from unlockable character classes and deck cards before setting out on each expedition along a randomly generated loop path. No expedition is ever the same as the ones before it.\n\nPlan Your Struggle: Strategically place building, terrain, and enemy cards along each loop to create your own dangerous path. Find balance between the cards to increase your chances of survival while recovering valuable loot and resources for your camp.\n\nLoot and Upgrade: Strike down menacing creatures, recover stronger loot to equip on the fly and unlock new perks along the way.\n\nExpand Your Camp: Turn hard-earned resources into campsite upgrades and gain valueable reinforcements with each completed loop along the expedition path.  \n\nSave the Lost World: Overcome a series of unholy guardian bosses over a grand saga to save the world and break the time loop of the Lich!\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010004E01523C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010004E01523C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010004E01523C000/screen/1",
+    "http://api.nlib.cc/nx/010004E01523C000/screen/2",
+    "http://api.nlib.cc/nx/010004E01523C000/screen/3",
+    "http://api.nlib.cc/nx/010004E01523C000/screen/4",
+    "http://api.nlib.cc/nx/010004E01523C000/screen/5",
+    "http://api.nlib.cc/nx/010004E01523C000/screen/6"
+  ]
+}

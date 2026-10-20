@@ -1,0 +1,16 @@
+{
+  "name": "Laraan",
+  "publisher": "Flynns Arcade",
+  "releaseDate": "20200709",
+  "description": "Created with a minimalist low poly style. Accompanied by a splendid movie soundtrack.\nYou’re about to enter an old world of computer entertainment. Laraan bridges the gap between Cinema and Action/Adventure games with a completely old style of fluid, cinematic storytelling. \n\nUsing a completely old graphic system of cinematic zooms, pans, close-ups, and cuts, Laraan gets you involved in a breathtaking story of inter-dimensional travel.\n\nYou’ll have to run, fight, investigate, solve puzzles and ride futuristic bikes. The complete musical score and realistic, digitized sound effects will make you feel like you’re on a movie sound stage.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AFE00E882000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AFE00E882000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AFE00E882000/screen/1",
+    "http://api.nlib.cc/nx/0100AFE00E882000/screen/2",
+    "http://api.nlib.cc/nx/0100AFE00E882000/screen/3",
+    "http://api.nlib.cc/nx/0100AFE00E882000/screen/4",
+    "http://api.nlib.cc/nx/0100AFE00E882000/screen/5",
+    "http://api.nlib.cc/nx/0100AFE00E882000/screen/6"
+  ]
+}

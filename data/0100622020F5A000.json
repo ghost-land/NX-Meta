@@ -1,0 +1,18 @@
+{
+  "name": "Clockwork Rabbit",
+  "publisher": "OnionMilk",
+  "releaseDate": "20260910",
+  "description": "Clockwork Rabbit is a relaxing single-player isometric puzzle game set in a steampunk world inhabited by adorable bunnies.\n\nMeet Tessa, a young mechanic working in a textile factory in Clockwork Town, where every room hides a new challenge.\n\nThe game blends time manipulation, action planning, helper robot programming, and creative puzzle solving. With no time limits, you can play at your own pace and enjoy a calm, laid-back experience.\n\nKey features:\nA calm and thoughtful puzzle experience\nSingle-player adventure with narrative background\nIsometric perspective\nTime manipulation mechanics\nNo violence, no ads, no microtransactions\nStylized visuals and a unique atmosphere\nSuitable for both experienced and new players\nCrafted with passion by an independent team\n\nJump into the rabbit hole with Tessa and try to catch that bunny!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100622020F5A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100622020F5A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100622020F5A000/screen/1",
+    "http://api.nlib.cc/nx/0100622020F5A000/screen/2",
+    "http://api.nlib.cc/nx/0100622020F5A000/screen/3",
+    "http://api.nlib.cc/nx/0100622020F5A000/screen/4",
+    "http://api.nlib.cc/nx/0100622020F5A000/screen/5",
+    "http://api.nlib.cc/nx/0100622020F5A000/screen/6"
+  ],
+  "version": 0,
+  "size": 120831911
+}

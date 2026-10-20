@@ -1,0 +1,16 @@
+{
+  "name": "Laboratory Rat Escape Simulator Pro",
+  "publisher": "Clockwork Moon",
+  "releaseDate": "20220818",
+  "description": "Explore countless laboratory rooms!\nCrawl into the wall space and navigate through the randomly generated maze.\nUse your tail to propel your rat friends at enemies!\nTell the time with the inbuilt clock! The TIME!!",
+  "bannerUrl": "http://api.nlib.cc/nx/01004F901907C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004F901907C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004F901907C000/screen/1",
+    "http://api.nlib.cc/nx/01004F901907C000/screen/2",
+    "http://api.nlib.cc/nx/01004F901907C000/screen/3",
+    "http://api.nlib.cc/nx/01004F901907C000/screen/4",
+    "http://api.nlib.cc/nx/01004F901907C000/screen/5",
+    "http://api.nlib.cc/nx/01004F901907C000/screen/6"
+  ]
+}

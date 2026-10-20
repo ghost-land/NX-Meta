@@ -1,0 +1,16 @@
+{
+  "name": "Tank Mechanic Simulator",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20200827",
+  "description": "Tank Mechanic Simulator is a game about World War II tanks, their crews and their contribution in military history. As a tank museum owner your task is to recover destroyed or abandoned tanks and renovate them. Use your offroad vehicle to locate forgotten tanks. With final area found, determine the exact position of the tank by using special equipment like metal detector. Set up excavation area and extract the tank!\n\nTransport freshly extracted tanks to your warehouse. Then start working on renovation process. Detach rusted elements and replace them with new parts. Buy them or fix them by yourself! Finally, the tank lands on the display at the museum, where the visitors can admire it - you can also get inside and start its engine to the visitors’ delight!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E06012BB4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E06012BB4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E06012BB4000/screen/1",
+    "http://api.nlib.cc/nx/0100E06012BB4000/screen/2",
+    "http://api.nlib.cc/nx/0100E06012BB4000/screen/3",
+    "http://api.nlib.cc/nx/0100E06012BB4000/screen/4",
+    "http://api.nlib.cc/nx/0100E06012BB4000/screen/5",
+    "http://api.nlib.cc/nx/0100E06012BB4000/screen/6"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Screw Master",
+  "publisher": "Webnetic",
+  "releaseDate": "20260205",
+  "description": "Screw Master is a fun and engaging puzzle game where players must strategically remove screws to dismantle intricate wooden structures. Each level presents a new challenge requiring logical thinking and precise actions. With 50 levels of increasing difficulty, can you master the art of unscrewing?\n\nGameplay Features:\n- Challenging Puzzle Mechanics - Unscrew, remove planks, and clear the board!\n- Realistic Physics - Every screw holds the structure together, so plan your moves wisely.\n- Strategic Thinking - Remove screws in the right order to prevent getting stuck.\n- Time-Based Challenges - Beat the clock to complete levels efficiently!\n\nPower-Ups to Help You! \n- Hammer - Instantly removes a plank, clearing the way.\n- Drill - Adds an extra hole to free trapped pieces.\n- Screwdriver - Removes a screw completely, bypassing any restrictions.\n- Freeze - Stops time, giving you more time to think and solve the puzzle.\n\nUse these tools wisely to tackle tougher puzzles and progress through levels!\n\nLevels & Progression \n- 50 unique levels, each introducing new mechanics and increasing complexity.\n-  Unlock power-ups as you advance to help with more intricate puzzles.\n- Dismantle creative wooden structures, testing your logic and precision.\n\nWhy You’ll Love Screw Master!\n- Addictive and relaxing gameplay\n- Satisfying visuals and realistic sound effects\n- Simple controls but deep strategy\n\nAre you ready to become the Screw Master? Start unscrewing now and see if you can clear all 50 levels!",
+  "bannerUrl": "http://api.nlib.cc/nx/010012102683E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010012102683E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010012102683E000/screen/1",
+    "http://api.nlib.cc/nx/010012102683E000/screen/2",
+    "http://api.nlib.cc/nx/010012102683E000/screen/3",
+    "http://api.nlib.cc/nx/010012102683E000/screen/4",
+    "http://api.nlib.cc/nx/010012102683E000/screen/5",
+    "http://api.nlib.cc/nx/010012102683E000/screen/6"
+  ],
+  "version": 0,
+  "size": 46500409
+}

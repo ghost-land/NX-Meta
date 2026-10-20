@@ -1,0 +1,16 @@
+{
+  "name": "Home Sweet Home",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20230527",
+  "description": "In this Real Life kind of game, you can work, have fun and even work out to get fit. It's your duty to take care of your house. Remember to clean it everyday, and don't forget to work, otherwise you will have no money. You don't want to get hungry or sick, right? ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E3301ACE2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E3301ACE2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E3301ACE2000/screen/1",
+    "http://api.nlib.cc/nx/0100E3301ACE2000/screen/2",
+    "http://api.nlib.cc/nx/0100E3301ACE2000/screen/3",
+    "http://api.nlib.cc/nx/0100E3301ACE2000/screen/4",
+    "http://api.nlib.cc/nx/0100E3301ACE2000/screen/5",
+    "http://api.nlib.cc/nx/0100E3301ACE2000/screen/6"
+  ]
+}

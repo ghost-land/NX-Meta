@@ -1,0 +1,16 @@
+{
+  "name": "Gomoku Let's Go",
+  "publisher": "Studio Amateur",
+  "releaseDate": "20220127",
+  "description": "Gomoku Let's Go is a classic strategy board game. The goal is to make a line of five stones in any direction.\n\n-Stunning Zen style Gomoku set and beautiful environment\n-World-class AI with 8 difficulty levels, suits for both beginners and advanced players.\n-Demonstrate your skills in 50 carefully selected challenges\n-Includes both standard and Renju rules",
+  "bannerUrl": "http://api.nlib.cc/nx/01003BF016A00000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003BF016A00000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003BF016A00000/screen/1",
+    "http://api.nlib.cc/nx/01003BF016A00000/screen/2",
+    "http://api.nlib.cc/nx/01003BF016A00000/screen/3",
+    "http://api.nlib.cc/nx/01003BF016A00000/screen/4",
+    "http://api.nlib.cc/nx/01003BF016A00000/screen/5",
+    "http://api.nlib.cc/nx/01003BF016A00000/screen/6"
+  ]
+}

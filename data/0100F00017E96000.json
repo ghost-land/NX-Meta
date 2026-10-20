@@ -1,0 +1,16 @@
+{
+  "name": "Bunny Mahjo",
+  "publisher": "DillyFrame",
+  "releaseDate": "20220414",
+  "description": "Classic Mahjong Solitaire is not single-player game anymore. You can play solo or in couch co-op in 3d-environment. Play together, win together, unlock more figures together.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F00017E96000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F00017E96000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F00017E96000/screen/1",
+    "http://api.nlib.cc/nx/0100F00017E96000/screen/2",
+    "http://api.nlib.cc/nx/0100F00017E96000/screen/3",
+    "http://api.nlib.cc/nx/0100F00017E96000/screen/4",
+    "http://api.nlib.cc/nx/0100F00017E96000/screen/5",
+    "http://api.nlib.cc/nx/0100F00017E96000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Dungeon Nightmares 1+2 Collection",
+  "publisher": "K Monkey",
+  "releaseDate": "20210118",
+  "description": "The game is inspired by classic roguelike games which include 100% procedural-generated maps and permadeath.\n\nThese features play an important part in making this game tense with the feeling of dread & terror as you walk the hallways of the dungeon.\n\nEvery time you play, the dungeons are randomised which guarantees unlimited replay value.\n\nThe game is simple. Get through each dungeon by surviving the horrors that lurk deep within and making your way to the exit.\n\nFEATURES\n- Dungeon Nightmares 1 Remastered\n- Dungeon Nightmares 2 : The Memory\n- Intense scary atmosphere\n- Combat-less gameplay\n- 100% procedural-generated maps\n- Permadeath\n- Rich 3D surround sound\n- Intelligent AI that changes based on the way you behave each night\n- Unlockable extras",
+  "bannerUrl": "http://api.nlib.cc/nx/01009020135FE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009020135FE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009020135FE000/screen/1",
+    "http://api.nlib.cc/nx/01009020135FE000/screen/2",
+    "http://api.nlib.cc/nx/01009020135FE000/screen/3",
+    "http://api.nlib.cc/nx/01009020135FE000/screen/4",
+    "http://api.nlib.cc/nx/01009020135FE000/screen/5",
+    "http://api.nlib.cc/nx/01009020135FE000/screen/6"
+  ]
+}

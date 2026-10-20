@@ -1,0 +1,16 @@
+{
+  "name": "Amber City",
+  "publisher": "Gamirror Games",
+  "releaseDate": "20230316",
+  "description": "A girl in a white dress wakes up in a ruined city. She uses her light to light up mysterious cocoons, reverse time, and restore the city to its former splendor. You take on the role of this mysterious girl. As you restore Amber City, more and more of its history will unfurl before you.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002A3019AB0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002A3019AB0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002A3019AB0000/screen/1",
+    "http://api.nlib.cc/nx/01002A3019AB0000/screen/2",
+    "http://api.nlib.cc/nx/01002A3019AB0000/screen/3",
+    "http://api.nlib.cc/nx/01002A3019AB0000/screen/4",
+    "http://api.nlib.cc/nx/01002A3019AB0000/screen/5",
+    "http://api.nlib.cc/nx/01002A3019AB0000/screen/6"
+  ]
+}

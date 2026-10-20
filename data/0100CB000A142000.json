@@ -1,0 +1,16 @@
+{
+  "name": "Phoenix Wright: Ace Attorney Trilogy",
+  "publisher": "CAPCOM",
+  "releaseDate": "20190409",
+  "description": "The classic courtroom adventure series that has sold over 6.7 million copies worldwide is finally here. Become Phoenix Wright and experience the thrill of battle as you fight to save your innocent clients in a court of law. Play all 14 episodes, spanning the first three games, in one gorgeous collection. Solve the intriguing mysteries behind each case and witness the final truth for yourself!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CB000A142000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CB000A142000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CB000A142000/screen/1",
+    "http://api.nlib.cc/nx/0100CB000A142000/screen/2",
+    "http://api.nlib.cc/nx/0100CB000A142000/screen/3",
+    "http://api.nlib.cc/nx/0100CB000A142000/screen/4",
+    "http://api.nlib.cc/nx/0100CB000A142000/screen/5",
+    "http://api.nlib.cc/nx/0100CB000A142000/screen/6"
+  ]
+}

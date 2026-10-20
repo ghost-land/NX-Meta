@@ -1,0 +1,16 @@
+{
+  "name": "The Walking Dead: A New Frontier",
+  "publisher": "Skybound Games",
+  "releaseDate": "20200121",
+  "description": "When family is all you have left…how far will you go to protect it?\n\nAfter society was ripped apart by undead hands, pockets of civilization emerge from the chaos. But at what cost? Can the living be trusted on this new frontier?\n\nAs Javier, a young man determined to find the family taken from him, you meet a young girl who has experienced her own unimaginable loss. Her name is Clementine, and your fates are bound together in a story where every choice you make could be your last.",
+  "bannerUrl": "http://api.nlib.cc/nx/010056E00B4F4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010056E00B4F4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010056E00B4F4000/screen/1",
+    "http://api.nlib.cc/nx/010056E00B4F4000/screen/2",
+    "http://api.nlib.cc/nx/010056E00B4F4000/screen/3",
+    "http://api.nlib.cc/nx/010056E00B4F4000/screen/4",
+    "http://api.nlib.cc/nx/010056E00B4F4000/screen/5",
+    "http://api.nlib.cc/nx/010056E00B4F4000/screen/6"
+  ]
+}

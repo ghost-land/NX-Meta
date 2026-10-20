@@ -1,0 +1,16 @@
+{
+  "name": "Shing!",
+  "publisher": "We Dig Games",
+  "releaseDate": "20210121",
+  "description": "Join a band of wisecracking warriors in a bloody adventure through the land of mythical monsters and mysterious machines.\n\nFEATURES:\n- Play solo or with friends: up to 4 players in local co-op\n- Experience immersive and intuitive controls: right stick controls your weapon giving you instant access to extensive moveset\n- Enjoy gameplay that never gets old: master the multilayered combat, overcome clever enemies and face epic bosses\n- Experiment with freestyle combat system: mix and match combos, switch characters on the fly and turn enemy abilities against them\n\nWitness the glory of beat-em-up 2.0!",
+  "bannerUrl": "http://api.nlib.cc/nx/01007C200FC64000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007C200FC64000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007C200FC64000/screen/1",
+    "http://api.nlib.cc/nx/01007C200FC64000/screen/2",
+    "http://api.nlib.cc/nx/01007C200FC64000/screen/3",
+    "http://api.nlib.cc/nx/01007C200FC64000/screen/4",
+    "http://api.nlib.cc/nx/01007C200FC64000/screen/5",
+    "http://api.nlib.cc/nx/01007C200FC64000/screen/6"
+  ]
+}

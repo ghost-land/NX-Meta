@@ -1,0 +1,15 @@
+{
+  "name": "Who is Here?",
+  "publisher": "CGI LAB GAMES",
+  "releaseDate": "20260305",
+  "description": "Who is Here? is a psychological horror game where the player is trapped in an abandoned hospital. The protagonist must survive 8 long and terrifying days, exploring corridors, wards, and hidden rooms to uncover the presence of strange anomalies.\n\nEach day, the player must search the entire location and carefully observe the environment. Sometimes the walls seem to breathe, a shadow flashes by the window, or whispers echo from an empty ward. But sometimes… everything looks normal.\n\nAt the end of each day, the player must make a choice:\n\nGreen Sphere — if no anomaly was detected that day.\n\nRed Sphere — if an anomaly was present.\n\nThe choice determines the outcome:\n\nA correct decision advances the player to the next day.\n\nA wrong decision resets all progress, and the cycle begins from Day 1.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C800263F6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C800263F6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C800263F6000/screen/1",
+    "http://api.nlib.cc/nx/0100C800263F6000/screen/2",
+    "http://api.nlib.cc/nx/0100C800263F6000/screen/3",
+    "http://api.nlib.cc/nx/0100C800263F6000/screen/4",
+    "http://api.nlib.cc/nx/0100C800263F6000/screen/5"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Family Tennis SP",
+  "publisher": "ARC SYSTEM WORKS",
+  "releaseDate": "20191128",
+  "description": "■About Family Tennis SP\nEight unique characters going wild on the tennis court!\nEach one of them has their own special move and abilities, \nso look for the one who suits your playstyle the most!\n\n●Tournament\nChoose your character and challenge the rest of the family to singles \nor doubles matches. There are 3 difficulties to choose from. Every \ntournament consists of four matches.\n\n●Free Play\nChallenge other characters to a match of singles or doubles. \nYou can freely choose the number of sets and games and the court.\n\n●Mini Games\nThe game features 3 mini-games: \"Human Backboard,\" \"Roulette Rally\" and \"Survivor.\"\nFeel free to enjoy tennis with slightly different rules in these fun mini-games.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010049A00F5AC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010049A00F5AC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010049A00F5AC000/screen/1",
+    "http://api.nlib.cc/nx/010049A00F5AC000/screen/2",
+    "http://api.nlib.cc/nx/010049A00F5AC000/screen/3",
+    "http://api.nlib.cc/nx/010049A00F5AC000/screen/4",
+    "http://api.nlib.cc/nx/010049A00F5AC000/screen/5",
+    "http://api.nlib.cc/nx/010049A00F5AC000/screen/6"
+  ]
+}

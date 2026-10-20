@@ -1,0 +1,16 @@
+{
+  "name": "Akinofa",
+  "publisher": "Pixel Lantern",
+  "releaseDate": "20210715",
+  "description": "Take control of Akinofa, a mysterious undead fish of green flames, in this difficult Roguelite shoot em' up! Beat as many enemies and get the highest score possible. Challenge your friends and the world Rankings!\n\nEvery action counts! Even if you don't finish a level, every coin you collect will be in your treasury to use for permanent upgrades.\n\n\n-Key Features-\n\n*Rogue-lite - With the gold, you collect you will be able to *upgrade your ship's stats on the Game Over screen. These *upgrades are permanent and will help you with future playthroughs.\n*Extremely challenging, yet rewarding gameplay\n*Beautifully designed retro-inspired graphics\nOnline Rankings",
+  "bannerUrl": "http://api.nlib.cc/nx/010039201520E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010039201520E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010039201520E000/screen/1",
+    "http://api.nlib.cc/nx/010039201520E000/screen/2",
+    "http://api.nlib.cc/nx/010039201520E000/screen/3",
+    "http://api.nlib.cc/nx/010039201520E000/screen/4",
+    "http://api.nlib.cc/nx/010039201520E000/screen/5",
+    "http://api.nlib.cc/nx/010039201520E000/screen/6"
+  ]
+}

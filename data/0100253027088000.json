@@ -1,0 +1,18 @@
+{
+  "name": "Manafinder",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20260403",
+  "description": "Manafinder is a RPG with rich exploration, nostalgic turn-based combat, and original pixel art.\n\nIn a vast and untapped world, powerful wild beasts roam the dangerous lands. A community of survivors known as the exiles depends on heroes like Lambda to obtain the power of manastones to keep their civilization safe.\n\nFight your way against ferocious beasts and other enemies in the quest for manastones as you define the fate of the exiled! \n\n\nFeatures\n* Nostalgic fantasy role-playing game\n* Explore the fantastical world of Aevi\n* Meet diverse and interesting characters\n* Collect items, weapons, and elemental ores\n* Your choices matter",
+  "bannerUrl": "http://api.nlib.cc/nx/0100253027088000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100253027088000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100253027088000/screen/1",
+    "http://api.nlib.cc/nx/0100253027088000/screen/2",
+    "http://api.nlib.cc/nx/0100253027088000/screen/3",
+    "http://api.nlib.cc/nx/0100253027088000/screen/4",
+    "http://api.nlib.cc/nx/0100253027088000/screen/5",
+    "http://api.nlib.cc/nx/0100253027088000/screen/6"
+  ],
+  "version": 0,
+  "size": 499250619
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Reknum",
+  "publisher": "JanduSoft",
+  "releaseDate": "20200131",
+  "description": "In Reknum you play the rol of the princess Cheri, who must advance through 6 different completely explorable zones, loot chests with crystals that will increase her passive skills in order to advance.\nEach zone introduces different elements which must be evaluated in order to be able to advance, to examine how to advance, to examine the behavior of the enemies and to fight bosses.\n\nKEY FEATURES\n•        2 Different weapons\n•        New auto upgrade passive skill system\n•        6 different exploration zones with lot of looting\n•        Hardcore platform based levels\n•        Autosave feature\n•        Hardcore fastfight bosses\n•        8 to 16bit graphics\n•        8bit to modern soundtrack",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A1D00FE54000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A1D00FE54000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A1D00FE54000/screen/1",
+    "http://api.nlib.cc/nx/0100A1D00FE54000/screen/2",
+    "http://api.nlib.cc/nx/0100A1D00FE54000/screen/3",
+    "http://api.nlib.cc/nx/0100A1D00FE54000/screen/4",
+    "http://api.nlib.cc/nx/0100A1D00FE54000/screen/5",
+    "http://api.nlib.cc/nx/0100A1D00FE54000/screen/6"
+  ]
+}

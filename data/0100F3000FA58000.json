@@ -1,0 +1,16 @@
+{
+  "name": "Roombo: First Blood",
+  "publisher": "Samurai Punk",
+  "releaseDate": "20191223",
+  "description": "Roombo: First Blood is a comedic, top-down, stealth-action game about being a robot vacuum cleaner and fending off burglars from your home. \n\nHack smart-home gadgets like lights, doors and various appliances to set up traps, or improvised weapons from objects around the house. Hide under furniture, set your trajectory and plow into your enemies, knocking them over with such force that they go flying, then munch them up when they’re down. \n\nBut make sure you don’t leave too much blood on the carpet, because you’ll need to make sure the house is clean before the family gets home. Only you can save Christmas and show these burglars that justice sucks.\n\nThis is a short experimental game featuring 6 difficulty scenarios set in one stage and an unlockable gallery of concept art. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F3000FA58000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F3000FA58000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F3000FA58000/screen/1",
+    "http://api.nlib.cc/nx/0100F3000FA58000/screen/2",
+    "http://api.nlib.cc/nx/0100F3000FA58000/screen/3",
+    "http://api.nlib.cc/nx/0100F3000FA58000/screen/4",
+    "http://api.nlib.cc/nx/0100F3000FA58000/screen/5",
+    "http://api.nlib.cc/nx/0100F3000FA58000/screen/6"
+  ]
+}

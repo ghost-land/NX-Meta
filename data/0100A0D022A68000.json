@@ -1,0 +1,16 @@
+{
+  "name": "DELTARUNE",
+  "publisher": "8-4",
+  "releaseDate": "20250604",
+  "description": "Dive into the long-awaited parallel story to UNDERTALE! Fight or spare your way through action-packed battles as you explore a mysterious world alongside an endearing cast of new and familiar characters. Create your avatar, meet strange friends, and jump into the darkness: DELTARUNE is waiting!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A0D022A68000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A0D022A68000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A0D022A68000/screen/1",
+    "http://api.nlib.cc/nx/0100A0D022A68000/screen/2",
+    "http://api.nlib.cc/nx/0100A0D022A68000/screen/3",
+    "http://api.nlib.cc/nx/0100A0D022A68000/screen/4",
+    "http://api.nlib.cc/nx/0100A0D022A68000/screen/5",
+    "http://api.nlib.cc/nx/0100A0D022A68000/screen/6"
+  ]
+}

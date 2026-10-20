@@ -1,0 +1,16 @@
+{
+  "name": "Skies Above",
+  "publisher": "Flynns Arcade",
+  "releaseDate": "20250417",
+  "description": "A fast-paced, 2D action game, where your goal is to destroy the endless waves of flying orb bots and fly higher with every run, until the Leviathan is saved!\n\nFAST-PACED COMBAT\nDash swiftly from enemy to enemy while chaining together special attacks, obtaining combos, and exploiting the power of your enemies!\n\nUPGRADES\nForge and upgrade runes in the camp to obtain special skills and make the Leviathan even more powerful, so you can ascend even further!\n\nMINIGAMES\nComplete challenges, collect fish and meet new friends to make the journey easier.",
+  "bannerUrl": "http://api.nlib.cc/nx/010076C022D6C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010076C022D6C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010076C022D6C000/screen/1",
+    "http://api.nlib.cc/nx/010076C022D6C000/screen/2",
+    "http://api.nlib.cc/nx/010076C022D6C000/screen/3",
+    "http://api.nlib.cc/nx/010076C022D6C000/screen/4",
+    "http://api.nlib.cc/nx/010076C022D6C000/screen/5",
+    "http://api.nlib.cc/nx/010076C022D6C000/screen/6"
+  ]
+}

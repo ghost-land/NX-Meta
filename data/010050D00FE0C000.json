@@ -1,0 +1,16 @@
+{
+  "name": "Portal Dogs",
+  "publisher": "Brain Connected",
+  "releaseDate": "20200226",
+  "description": "As king of the dogs, your mission is to find all your loyal subjects and guide them to the portal. The second you wake up another dog, he will simultaneously follow your movements. You succeed by finding your way to the portal. You are mastering the mission if you save all your loyal subjects, find the golden bone and get to the portal.",
+  "bannerUrl": "http://api.nlib.cc/nx/010050D00FE0C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010050D00FE0C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010050D00FE0C000/screen/1",
+    "http://api.nlib.cc/nx/010050D00FE0C000/screen/2",
+    "http://api.nlib.cc/nx/010050D00FE0C000/screen/3",
+    "http://api.nlib.cc/nx/010050D00FE0C000/screen/4",
+    "http://api.nlib.cc/nx/010050D00FE0C000/screen/5",
+    "http://api.nlib.cc/nx/010050D00FE0C000/screen/6"
+  ]
+}

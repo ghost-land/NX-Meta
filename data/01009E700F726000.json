@@ -1,0 +1,16 @@
+{
+  "name": "Edgar - Bokbok in Boulzac",
+  "publisher": "La Poule Noire",
+  "releaseDate": "20200226",
+  "description": "You are eccentric outcast Edgar, living in the woods with your chicken and beloved squash crops.\n\nUnfortunately, a sudden disaster forces you out of your shack and towards the bright lights of the big city, Boulzac, where an 800 year old fire rages beneath the surface, and weird things are afoot.\n\nExplore a strange and comic universe, meeting its unhinged (and unforgettable) inhabitants and discovering ancient secrets.\nUnveil the surreal conspiracy holding Boulzac together. Trek above and below the light city.\nEnjoy whip-smart dialogue, surreal adventures and satire.\nEqual parts whimsical and dark: you’ve not met a cosmic horror like this before.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009E700F726000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009E700F726000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009E700F726000/screen/1",
+    "http://api.nlib.cc/nx/01009E700F726000/screen/2",
+    "http://api.nlib.cc/nx/01009E700F726000/screen/3",
+    "http://api.nlib.cc/nx/01009E700F726000/screen/4",
+    "http://api.nlib.cc/nx/01009E700F726000/screen/5",
+    "http://api.nlib.cc/nx/01009E700F726000/screen/6"
+  ]
+}

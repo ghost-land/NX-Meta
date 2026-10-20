@@ -1,0 +1,16 @@
+{
+  "name": "Birds and Blocks 2",
+  "publisher": "Sprakelsoft",
+  "releaseDate": "20230323",
+  "description": "In \"Birds and Blocks 2\" you still have to help the birds! They can´t fly because of their tiny wings.\nYou have to remove the blocks without the birds touching the ground (because they don´t like the ground or there might be cats around). If they are falling on the ground you lose!\nIt features 120 levels and an addictive gameplay.\nThere are different kinds of blocks with different properties (\"normal\", \"bouncy\", \"icy\" and \"safe for birds\").\nYou can remove blocks by tapping them!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CBD01AC72000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CBD01AC72000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CBD01AC72000/screen/1",
+    "http://api.nlib.cc/nx/0100CBD01AC72000/screen/2",
+    "http://api.nlib.cc/nx/0100CBD01AC72000/screen/3",
+    "http://api.nlib.cc/nx/0100CBD01AC72000/screen/4",
+    "http://api.nlib.cc/nx/0100CBD01AC72000/screen/5",
+    "http://api.nlib.cc/nx/0100CBD01AC72000/screen/6"
+  ]
+}

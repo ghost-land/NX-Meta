@@ -1,0 +1,16 @@
+{
+  "name": "Storm Boy",
+  "publisher": "Blowfish Studios",
+  "releaseDate": "20181120",
+  "description": "Based on Colin Thiele's 1964 children’s book of the same name, Storm Boy takes place on the beaches of South Australia near the mouth of the Murray River, where the titular protagonist rescues orphaned pelican chicks, one of whom later becomes the child’s pet and faithful companion, Mr. Percival.\n\nExperience an interactive retelling of the classic tale by taking control of both Storm Boy and Mr. Percival in key moments, such as when the pair rescued stranded sailors during a storm. Relive their friendship and enjoy seaside activities across a wide assortment of fun and relaxing mini-games, including sand drawing, sailing, cockle hunting, playing fetch, sand surfing, pelican feeding, and more.",
+  "bannerUrl": "http://api.nlib.cc/nx/010040D00BCF4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010040D00BCF4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010040D00BCF4000/screen/1",
+    "http://api.nlib.cc/nx/010040D00BCF4000/screen/2",
+    "http://api.nlib.cc/nx/010040D00BCF4000/screen/3",
+    "http://api.nlib.cc/nx/010040D00BCF4000/screen/4",
+    "http://api.nlib.cc/nx/010040D00BCF4000/screen/5",
+    "http://api.nlib.cc/nx/010040D00BCF4000/screen/6"
+  ]
+}

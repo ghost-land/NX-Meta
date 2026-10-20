@@ -1,0 +1,16 @@
+{
+  "name": "Happy Birthdays",
+  "publisher": "NIS America",
+  "releaseDate": "20180605",
+  "description": "From legendary creator Mr. Yasuhiro Wada (TOYBOX Inc.) comes Happy Birthdays: a sandbox game in which players create cube-shaped worlds that give rise to diverse and unique lifeforms. With careful experimentation, players can shape the geography and alter the temperature of the world to create the conditions for life and witness the birth of an entire ecosystem!",
+  "bannerUrl": "http://api.nlib.cc/nx/010083600AE9E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010083600AE9E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010083600AE9E000/screen/1",
+    "http://api.nlib.cc/nx/010083600AE9E000/screen/2",
+    "http://api.nlib.cc/nx/010083600AE9E000/screen/3",
+    "http://api.nlib.cc/nx/010083600AE9E000/screen/4",
+    "http://api.nlib.cc/nx/010083600AE9E000/screen/5",
+    "http://api.nlib.cc/nx/010083600AE9E000/screen/6"
+  ]
+}

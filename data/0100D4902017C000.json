@@ -1,0 +1,16 @@
+{
+  "name": "Crash Puzzle Hammer-San",
+  "publisher": "SUCCESS",
+  "releaseDate": "20241024",
+  "description": "The basic controls are just the D-pad and A button.\nA tutorial that teaches you how to play in 5 minutes is included.\nCreate your own stages with the edit feature, upload them, and let people from around the world play them.\nYou can also download and play stages created by other users.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D4902017C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D4902017C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D4902017C000/screen/1",
+    "http://api.nlib.cc/nx/0100D4902017C000/screen/2",
+    "http://api.nlib.cc/nx/0100D4902017C000/screen/3",
+    "http://api.nlib.cc/nx/0100D4902017C000/screen/4",
+    "http://api.nlib.cc/nx/0100D4902017C000/screen/5",
+    "http://api.nlib.cc/nx/0100D4902017C000/screen/6"
+  ]
+}

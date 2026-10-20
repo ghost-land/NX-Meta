@@ -1,0 +1,16 @@
+{
+  "name": "Rugrats: Adventures in Gameland",
+  "publisher": "The MIX Games",
+  "releaseDate": "20240910",
+  "description": "Everyone's favorite babies are back in action! When Tommy, Chuckie, Phil and Lil see a commercial for the new Reptar video game, they pretend that they're in a video game of their own. Through the power of imagination, the babies transform Tommy's house into a video game world full of action, excitement, and adventure. Toggle between beautiful 8-bit and HD art, select your favorite baby and play this neo-retro platformer! Rugrats: Adventures in Gameland can be played solo, or team up with a friend for some two-player co-op fun!",
+  "bannerUrl": "http://api.nlib.cc/nx/01001F401F6CA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001F401F6CA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001F401F6CA000/screen/1",
+    "http://api.nlib.cc/nx/01001F401F6CA000/screen/2",
+    "http://api.nlib.cc/nx/01001F401F6CA000/screen/3",
+    "http://api.nlib.cc/nx/01001F401F6CA000/screen/4",
+    "http://api.nlib.cc/nx/01001F401F6CA000/screen/5",
+    "http://api.nlib.cc/nx/01001F401F6CA000/screen/6"
+  ]
+}

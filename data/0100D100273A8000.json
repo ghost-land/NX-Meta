@@ -1,0 +1,16 @@
+{
+  "name": "UFOPHILIA",
+  "publisher": "JanduSoft",
+  "releaseDate": "20260312",
+  "description": "UFOPHILIA is a first-person psychological horror game where you explore areas marked by alien phenomena. Use specialized equipment to detect, identify, and photograph aliens, but do so at your own risk... They are watching you too.\n\nEquipped with advanced tools, your mission is to detect, identify, and photograph extraterrestrials, each encounter involving unique behaviors and unpredictable dangers.\n\nEach mission is different: spawn areas, alien types, and phenomena are constantly changing. Some aliens are hostile, others are curious or even playful, but they are all watching you. \n\nFeatures\n\n- Atmospheric horror with unpredictable dynamic encounters.\n- Nine alien types with distinct behaviors, reactions, and weaknesses.\n- Specialized investigation tools, such as EMF detectors, night vision, and more.\n- Real device synergies that enhance gameplay when tools are combined.\n- Roswell point system to unlock upgrades, new tools, and missions.\n- High replayability with random alien appearances and mission outcomes.\n- Multiple endings and performance ranks, from “Forum Conspiracy Theorist” to “Roswell Agent\".",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D100273A8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D100273A8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D100273A8000/screen/1",
+    "http://api.nlib.cc/nx/0100D100273A8000/screen/2",
+    "http://api.nlib.cc/nx/0100D100273A8000/screen/3",
+    "http://api.nlib.cc/nx/0100D100273A8000/screen/4",
+    "http://api.nlib.cc/nx/0100D100273A8000/screen/5",
+    "http://api.nlib.cc/nx/0100D100273A8000/screen/6"
+  ]
+}

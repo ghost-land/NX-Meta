@@ -1,0 +1,16 @@
+{
+  "name": "Sea Horizon",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20221020",
+  "description": "In the world of Sea Horizon, every step counts in a journey of survival and high adventure! Sea Horizon is a roguelike turn-based RPG presented in a 3D bird’s eye view of a hex grid map that’s different every time you set out to explore the shattered archipelago of Myrihyn.\n\nChoose between a wide variety of characters with their own storied backgrounds and personal motivations. Chart a path across diverse landscapes and treacherous seas as you equip weapons, carefully manage your hunger and health, weigh risk against the potential reward of each side quest, activate blessings to help you along the way and make life-or-death choices in combat!\n\nWill you give rise to new legends in this perilous realm, or will you be among the nameless fallen adventurers who came before?\n\nFeatures:\n\n• Traverse a hex map in traditional role-playing style!\n• Carefully choose your actions using cards and dice rolls in turn-based combat.\n• Discover hidden locations and unearth treasures to aid in your journey!\n• Unlock and play as multiple characters, each with unique stories and motivations.\n• Manage your hunger and health as you weigh risk versus reward in each scenario.\n• Explore multiple endings as you face randomized locations and events!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ED401918A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ED401918A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ED401918A000/screen/1",
+    "http://api.nlib.cc/nx/0100ED401918A000/screen/2",
+    "http://api.nlib.cc/nx/0100ED401918A000/screen/3",
+    "http://api.nlib.cc/nx/0100ED401918A000/screen/4",
+    "http://api.nlib.cc/nx/0100ED401918A000/screen/5",
+    "http://api.nlib.cc/nx/0100ED401918A000/screen/6"
+  ]
+}

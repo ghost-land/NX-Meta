@@ -1,0 +1,16 @@
+{
+  "name": "Totes the Goat",
+  "publisher": "Atooi",
+  "releaseDate": "20180301",
+  "description": "Happily hop your little goat through this modernized vision of classic and beloved arcade gameplay. Totes the Goat is a charming game with vibrant voxel art and a cast of fun playable characters to unlock. It will have you leaping like a kid in no time!\n\nJump from platform to platform – bringing each one back to life – while avoiding hazardous Wily Wolves, Cranky Crows, and Bully Bears – oh my! Once a level is fully rejuvenated, hop down to the next level for an endless journey of jumps!\n\nHow low can you leap? How totes is your goat?",
+  "bannerUrl": "http://api.nlib.cc/nx/01003D3009996000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003D3009996000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003D3009996000/screen/1",
+    "http://api.nlib.cc/nx/01003D3009996000/screen/2",
+    "http://api.nlib.cc/nx/01003D3009996000/screen/3",
+    "http://api.nlib.cc/nx/01003D3009996000/screen/4",
+    "http://api.nlib.cc/nx/01003D3009996000/screen/5",
+    "http://api.nlib.cc/nx/01003D3009996000/screen/6"
+  ]
+}

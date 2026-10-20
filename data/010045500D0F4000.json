@@ -1,0 +1,16 @@
+{
+  "name": "Dread Nautical",
+  "publisher": "Zen Studios",
+  "releaseDate": "20200429",
+  "description": "Your cruise was so relaxing until the monsters from another dimension showed up to kill everyone.\n\nA tactical turn-based RPG with roguelike elements, Dread Nautical combines immersive gameplay with a cartoonish—yet captivatingly eerie—tone. Supernatural forces have overwhelmed a cruise liner called Hope with mysterious malevolent monstrosities. Fight them off as one of four unlikely heroes. Manage your scarce resources effectively, and convince scattered survivors to fight alongside you. You’ll need them for any hope of escaping this “vacation” alive. \n\nTraverse all 20 decks to unlock the mysteries of the Hope. Think several steps ahead during each battle, plotting the optimal use of each character’s action points. Your weapons, bandages, and other items deteriorate, and your resources are very limited. Make sure your companions rest, or panic may overtake them.\n\nOh… And expect to die. A lot.",
+  "bannerUrl": "http://api.nlib.cc/nx/010045500D0F4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010045500D0F4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010045500D0F4000/screen/1",
+    "http://api.nlib.cc/nx/010045500D0F4000/screen/2",
+    "http://api.nlib.cc/nx/010045500D0F4000/screen/3",
+    "http://api.nlib.cc/nx/010045500D0F4000/screen/4",
+    "http://api.nlib.cc/nx/010045500D0F4000/screen/5",
+    "http://api.nlib.cc/nx/010045500D0F4000/screen/6"
+  ]
+}

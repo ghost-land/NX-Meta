@@ -1,0 +1,16 @@
+{
+  "name": "Townscaper",
+  "publisher": "Raw Fury",
+  "releaseDate": "20210826",
+  "description": "No goal. No real gameplay. Just plenty of building and plenty of beauty. That's it. \n\nTownscaper is an experimental passion project. More of a toy than a game. Pick colors from the palette, plop down colored blocks of houses on the irregular grid, and watch Townscaper's underlying algorithm automatically turn those blocks into cute little houses, arches, stairways, bridges, and lush backyards, depending on their configuration.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001260143FC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001260143FC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001260143FC000/screen/1",
+    "http://api.nlib.cc/nx/01001260143FC000/screen/2",
+    "http://api.nlib.cc/nx/01001260143FC000/screen/3",
+    "http://api.nlib.cc/nx/01001260143FC000/screen/4",
+    "http://api.nlib.cc/nx/01001260143FC000/screen/5",
+    "http://api.nlib.cc/nx/01001260143FC000/screen/6"
+  ]
+}

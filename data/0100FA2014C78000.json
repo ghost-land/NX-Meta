@@ -1,0 +1,16 @@
+{
+  "name": "Nyakamon Adventures",
+  "publisher": "TERNOX",
+  "releaseDate": "20210722",
+  "description": "- 30 levels of normal mode + 30 levels of hadrcore mode\n- Match the runes in the normal mode\n- 2 biomes - light and dark\n- Cute graphics\n- Relaxing music",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FA2014C78000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FA2014C78000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FA2014C78000/screen/1",
+    "http://api.nlib.cc/nx/0100FA2014C78000/screen/2",
+    "http://api.nlib.cc/nx/0100FA2014C78000/screen/3",
+    "http://api.nlib.cc/nx/0100FA2014C78000/screen/4",
+    "http://api.nlib.cc/nx/0100FA2014C78000/screen/5",
+    "http://api.nlib.cc/nx/0100FA2014C78000/screen/6"
+  ]
+}

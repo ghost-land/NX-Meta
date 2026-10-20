@@ -1,0 +1,14 @@
+{
+  "name": "Cute Bonfire",
+  "publisher": "Afil Games",
+  "releaseDate": "20260205",
+  "description": "Step into the warm world of Cute Bonfire, a charming pixel-art puzzle game set inside a fireplace. Take control of a little fire spirit that moves tile by tile, pushing charcoal pieces to light up the bonfires. With 30 levels of gradually increasing difficulty, delightful visuals, and a cosy, relaxing atmosphere, Cute Bonfire is perfect for casual players who love the satisfaction of solving puzzles.\n\nGuide your fire spirit across the grid, pushing charcoals in the right order to ignite all the bonfires. Each level is a mini challenge of observation, planning, and clever moves, with undo and restart options to help you experiment without pressure. Stones and wooden obstacles block your path, adding to the strategic depth, while the gentle pixel-art style and warm ambiance make every session comforting and enjoyable.\n\nWhether you’re a puzzle lover or just looking for a cosy, bite-sized challenge, Cute Bonfire invites you to light up every hearth and enjoy a spark of satisfaction.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004C00261F4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004C00261F4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004C00261F4000/screen/1",
+    "http://api.nlib.cc/nx/01004C00261F4000/screen/2",
+    "http://api.nlib.cc/nx/01004C00261F4000/screen/3",
+    "http://api.nlib.cc/nx/01004C00261F4000/screen/4"
+  ]
+}

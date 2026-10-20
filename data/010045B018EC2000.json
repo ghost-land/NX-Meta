@@ -1,0 +1,16 @@
+{
+  "name": "WarioWare™: Move It!",
+  "publisher": "Nintendo",
+  "releaseDate": "20231103",
+  "description": "Grab a pair of Joy-Con™ controllers and get moving as you gently shake, punch, dance, wiggle, and even curtsey through over 200 lightning-fast microgames (minigames that last just a few hilarious seconds). Get into poses called “forms” including the chickenlike Ba-KAW and confident Fashionista, then get it moving! A second player can use another set of Joy-Con controllers to join the worm-pecking, sheep-twirling fun.\n\nShare the movement mayhem in the 2-4 player Party Mode!\n\nBattle it out with 2-4 players*, each with one Joy-Con controller, in the local Party Mode. Reach the goal without getting caught by Medusa or take on a dicey board game with Wario’s very own rules. Move alongside your friends in these laugh-worthy contests where everyone can get excited.",
+  "bannerUrl": "http://api.nlib.cc/nx/010045B018EC2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010045B018EC2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010045B018EC2000/screen/1",
+    "http://api.nlib.cc/nx/010045B018EC2000/screen/2",
+    "http://api.nlib.cc/nx/010045B018EC2000/screen/3",
+    "http://api.nlib.cc/nx/010045B018EC2000/screen/4",
+    "http://api.nlib.cc/nx/010045B018EC2000/screen/5",
+    "http://api.nlib.cc/nx/010045B018EC2000/screen/6"
+  ]
+}

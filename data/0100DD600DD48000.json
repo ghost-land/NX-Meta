@@ -1,0 +1,16 @@
+{
+  "name": "Stranger Things 3: The Game",
+  "publisher": "BonusXP",
+  "releaseDate": "20190704",
+  "description": "Stranger Things 3: The Game is the official companion game to Season 3 of the hit original series!. Play through familiar events from the series while also uncovering never-before-seen quests, character interactions, and secrets! This adventure game blends a distinctively retro art style with modern gameplay mechanics to deliver nostalgic fun with a fresh new twist. \n\nJust like in the show, teamwork is at the heart of Stranger Things 3: The Game. Fans can team up in two player local co-op to explore the world of Hawkins, solve puzzles, and battle the emerging evils of The Upside Down as one of twelve beloved characters from the show.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DD600DD48000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DD600DD48000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DD600DD48000/screen/1",
+    "http://api.nlib.cc/nx/0100DD600DD48000/screen/2",
+    "http://api.nlib.cc/nx/0100DD600DD48000/screen/3",
+    "http://api.nlib.cc/nx/0100DD600DD48000/screen/4",
+    "http://api.nlib.cc/nx/0100DD600DD48000/screen/5",
+    "http://api.nlib.cc/nx/0100DD600DD48000/screen/6"
+  ]
+}

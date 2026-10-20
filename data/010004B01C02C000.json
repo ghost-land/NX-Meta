@@ -1,0 +1,16 @@
+{
+  "name": "Dinosaurs: Types and Names",
+  "publisher": "Cooking & Publishing",
+  "releaseDate": "20230831",
+  "description": "Discover the wonders of prehistoric creatures with our engaging adventure for Nintendo Switch™. \nFeaturing 26 intricately designed pages, each dedicated to a unique dinosaur from A to Z, this educational and visually stunning experience is perfect for dinosaur enthusiasts of all ages.",
+  "bannerUrl": "http://api.nlib.cc/nx/010004B01C02C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010004B01C02C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010004B01C02C000/screen/1",
+    "http://api.nlib.cc/nx/010004B01C02C000/screen/2",
+    "http://api.nlib.cc/nx/010004B01C02C000/screen/3",
+    "http://api.nlib.cc/nx/010004B01C02C000/screen/4",
+    "http://api.nlib.cc/nx/010004B01C02C000/screen/5",
+    "http://api.nlib.cc/nx/010004B01C02C000/screen/6"
+  ]
+}

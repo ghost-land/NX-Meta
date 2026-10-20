@@ -1,0 +1,16 @@
+{
+  "name": "Amabilly",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20231103",
+  "description": "Play as Amabilly, a lovely girl who loves rock 'n' roll!\n\nOne day, she found herself in a dangerous new world surrounded by strange and hostile creatures. Now it's up to her to face them using as weapon her favorite guitar. Travel through 4 unique worlds and fight monsters with the power of your guitar.\n\nAlong the journey you'll be able to collect gems to buy special powers and make her guitar more powerful. It's time to rock!\n\n\nFEATURES\n* Explore 101 levels\n* Colorful retro graphics\n* Rock ‘n’ roll music\n* Jump on platforms, defeat enemies and collect items",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B6D01D1FE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B6D01D1FE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B6D01D1FE000/screen/1",
+    "http://api.nlib.cc/nx/0100B6D01D1FE000/screen/2",
+    "http://api.nlib.cc/nx/0100B6D01D1FE000/screen/3",
+    "http://api.nlib.cc/nx/0100B6D01D1FE000/screen/4",
+    "http://api.nlib.cc/nx/0100B6D01D1FE000/screen/5",
+    "http://api.nlib.cc/nx/0100B6D01D1FE000/screen/6"
+  ]
+}

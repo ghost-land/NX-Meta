@@ -1,0 +1,16 @@
+{
+  "name": "Dawn of Survivors",
+  "publisher": "WISTONE ENTERTAINMENT",
+  "releaseDate": "20190418",
+  "description": "Take on players from around the world in this zombie survivor game. From decaying cities to dark forests, you will fight through hordes of zombies and desperate scavengers. Find food. Build shelter. Team up. Prepare yourself. For when the sun rises, so do the dead.\n\nSCAVENGE FOR RESOURCES\nScavenge the wastelands for resources.  You’ll search for supplies and materials in this cruel, undead world.  Everything can be used to help you survive.\n\nMASSIVE, DYNAMIC WORLD\nExplore massive city landscapes, abandoned labs, hidden crash sites, and dark forests.  The dead are everywhere!\n\nFIGHT HORDES OF ZOMBIES\nFace a variety of countless zombies, each with their own abilities.\n\nUNLOCK WEAPONS AND TOOLS\nUnlock and craft a massive assortment of weapons and tools, from swords to automatic rifles to traps. \n\nPVP\nTake on players from around the world. Raid their shelters for resources, but be ready to defend your own home. The fight to survive never ends.\n\nTEAM SURVIVAL\nPlayers can join two-player teams and survive together! They can share and build a shelter while collecting resources and fighting other teams of players. ",
+  "bannerUrl": "http://api.nlib.cc/nx/010009500C30C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010009500C30C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010009500C30C000/screen/1",
+    "http://api.nlib.cc/nx/010009500C30C000/screen/2",
+    "http://api.nlib.cc/nx/010009500C30C000/screen/3",
+    "http://api.nlib.cc/nx/010009500C30C000/screen/4",
+    "http://api.nlib.cc/nx/010009500C30C000/screen/5",
+    "http://api.nlib.cc/nx/010009500C30C000/screen/6"
+  ]
+}

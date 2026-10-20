@@ -1,0 +1,16 @@
+{
+  "name": "Black Jack",
+  "publisher": "Sabec",
+  "releaseDate": "20200514",
+  "description": "BlackJack the classic 21 card game.\n\nNow you can play Black Jack when you want, where you want.\n\nBlack Jack rules are the same as the original Blackjack game  and just like the real game,  hit, stick, split, double-down and apply the insurance\n\nTry your luck to  beat the smart Ai (artificial intelligent) dealer and win and clear out the house by trying out your new strategies. ",
+  "bannerUrl": "http://api.nlib.cc/nx/010045C011DE6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010045C011DE6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010045C011DE6000/screen/1",
+    "http://api.nlib.cc/nx/010045C011DE6000/screen/2",
+    "http://api.nlib.cc/nx/010045C011DE6000/screen/3",
+    "http://api.nlib.cc/nx/010045C011DE6000/screen/4",
+    "http://api.nlib.cc/nx/010045C011DE6000/screen/5",
+    "http://api.nlib.cc/nx/010045C011DE6000/screen/6"
+  ]
+}

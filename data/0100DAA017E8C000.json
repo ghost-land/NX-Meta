@@ -1,0 +1,15 @@
+{
+  "name": "Doctor Hospital: Hypocondriac Simulator",
+  "publisher": "Red Fables",
+  "releaseDate": "20220511",
+  "description": "- Each time the questions get harder and harder.\n- You will find more than 20 different questions.\n- Alternate endings depending on how many questions you manage to answer.\n- Open chests to unlock new characters.\n- Discover a secret and crucial question in the 150th question. \n\nNot while! The doctors know everything and if you fail any question they won't save you. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DAA017E8C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DAA017E8C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DAA017E8C000/screen/1",
+    "http://api.nlib.cc/nx/0100DAA017E8C000/screen/2",
+    "http://api.nlib.cc/nx/0100DAA017E8C000/screen/3",
+    "http://api.nlib.cc/nx/0100DAA017E8C000/screen/4",
+    "http://api.nlib.cc/nx/0100DAA017E8C000/screen/5"
+  ]
+}

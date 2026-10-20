@@ -1,0 +1,16 @@
+{
+  "name": "Dinosaur Fossil Puzzles",
+  "publisher": "Shinyuden",
+  "releaseDate": "20210812",
+  "description": "Play \"Restore screen\" and \"Dig up screen\"!\n\n\"Dig up screen\": Dig up and collect! \nBreak rock panels with the pickaxe.\nDiscover all fossil panels and take them to the Restore screen.\n\n\"Restore screen\": Restoration work!\nPut the collected fossil panels in order correctly.\n\nChallenge the hard level!\nTwo type of fossils are mixed on the levels 3 and 4.\n\n- Gorgeous drawings and lots of information!\n- You can discover many kinds of dinosaur fossils!\n- Your first step to become an archaeologist!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B96015C94000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B96015C94000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B96015C94000/screen/1",
+    "http://api.nlib.cc/nx/0100B96015C94000/screen/2",
+    "http://api.nlib.cc/nx/0100B96015C94000/screen/3",
+    "http://api.nlib.cc/nx/0100B96015C94000/screen/4",
+    "http://api.nlib.cc/nx/0100B96015C94000/screen/5",
+    "http://api.nlib.cc/nx/0100B96015C94000/screen/6"
+  ]
+}

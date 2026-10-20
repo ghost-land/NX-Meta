@@ -1,0 +1,16 @@
+{
+  "name": "GyroGunner",
+  "publisher": "Regista",
+  "releaseDate": "20230601",
+  "description": "ABOUT THIS GAME\n\nGyroGunner is Omni-directional scrolling twin-stick shooter.\n\nThe purpose is to control the enemy base by operating a combat helicopter equipped with a Vulcan cannon and lock-on missiles.\n\nThere is an arcade mode where you clear areas in order from area 1, and a free mode where you can play the cleared areas.\nThere are 7 areas in total.\n\nThe Nintendo Switch™ version adds a \"casual\" difficulty level, making it even easier to play.\n\n\nCONTROLLS\n\nLeft stick : Move\nRight stick : rotate\nZR button : Vulcan cannons\nR button : Lock-on missiles\nL button : Flares\nZL button : Boosters\n\nVulcan cannons, lock-on missiles, and flares have ammo limits.\nUse flares to avoid enemy homing missiles.\nBoosters can be used at any time and will increase your movement speed at the cost of fuel consumption.\n\nIf you get hit, you will take damage, and if the damage reaches 100% or more, you will crash.\nIf it runs out of fuel, it will crash.\n\nThere are no power-up items or repair items.",
+  "bannerUrl": "http://api.nlib.cc/nx/010078A01B0D2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010078A01B0D2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010078A01B0D2000/screen/1",
+    "http://api.nlib.cc/nx/010078A01B0D2000/screen/2",
+    "http://api.nlib.cc/nx/010078A01B0D2000/screen/3",
+    "http://api.nlib.cc/nx/010078A01B0D2000/screen/4",
+    "http://api.nlib.cc/nx/010078A01B0D2000/screen/5",
+    "http://api.nlib.cc/nx/010078A01B0D2000/screen/6"
+  ]
+}

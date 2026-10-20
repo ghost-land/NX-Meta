@@ -1,0 +1,16 @@
+{
+  "name": "Labyrinth: Classic Pinball Puzzle",
+  "publisher": "Megame",
+  "releaseDate": "20221110",
+  "description": "Your task is to roll the ball to the end of the maze through all the obstacles. At first glance, the task may seem simple, but the obstacles can be very insidious! One wrong move and the level will have to start from the beginning.\n\nThe ball is controlled using the Joy-Con™️ or the gyroscope (we recommend using the gyroscope for total immersion). Show miracles of agility and maneuverability to complete each level!\n\nKey features:\n• Lots of levels with different difficulty;\n• Control via Joy-Con™️ controller or gyroscope;\n• Meditative gameplay;\n• Pleasant minimalist graphics;",
+  "bannerUrl": "http://api.nlib.cc/nx/0100594019A2A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100594019A2A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100594019A2A000/screen/1",
+    "http://api.nlib.cc/nx/0100594019A2A000/screen/2",
+    "http://api.nlib.cc/nx/0100594019A2A000/screen/3",
+    "http://api.nlib.cc/nx/0100594019A2A000/screen/4",
+    "http://api.nlib.cc/nx/0100594019A2A000/screen/5",
+    "http://api.nlib.cc/nx/0100594019A2A000/screen/6"
+  ]
+}

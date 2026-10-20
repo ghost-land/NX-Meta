@@ -1,0 +1,16 @@
+{
+  "name": "SnowRunner",
+  "publisher": "Focus Entertainment",
+  "releaseDate": "20210518",
+  "description": "SnowRunner puts you in the driver’s seat of powerful vehicles as you conquer extreme open environments with the most advanced terrain simulation ever. Drive 40 vehicles from brands such as Ford, Chevrolet, and Freightliner as you leave your mark on an untamed open world.\n\nOvercome mud, torrential waters, snow, and frozen lakes while taking on perilous contracts and missions. Expand and customize your fleet with many upgrades and accessories including an exhaust snorkel for heavy waters or chain tires to battle the snow.\n\nRide solo or with other players in 4-player co-operative!\n• Face extreme environments in a highly advanced physics engine\n• 40 unique vehicles to unlock, upgrade, and customize\n• Complete dozens of challenging missions across an interconnected world\n• Go solo or play with other players in 4-player co-op",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FBD013AB6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FBD013AB6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FBD013AB6000/screen/1",
+    "http://api.nlib.cc/nx/0100FBD013AB6000/screen/2",
+    "http://api.nlib.cc/nx/0100FBD013AB6000/screen/3",
+    "http://api.nlib.cc/nx/0100FBD013AB6000/screen/4",
+    "http://api.nlib.cc/nx/0100FBD013AB6000/screen/5",
+    "http://api.nlib.cc/nx/0100FBD013AB6000/screen/6"
+  ]
+}

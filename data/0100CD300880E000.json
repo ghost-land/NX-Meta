@@ -1,0 +1,16 @@
+{
+  "name": "The Pinball Arcade",
+  "publisher": "FarSight Studios",
+  "releaseDate": "20180511",
+  "description": "Pinball Arcade is the most realistic and comprehensive pinball simulation ever created!\n\nPlay digital versions of over 35 real pinball tables including Mary Shelley's Frankenstein™, Ghostbusters™ Premium, Star Trek™ Vengeance Premium, Mustang® Premium \"Boss\", Doctor Who Master of Time, Wipeout™, and Tee'd Off™!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CD300880E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CD300880E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CD300880E000/screen/1",
+    "http://api.nlib.cc/nx/0100CD300880E000/screen/2",
+    "http://api.nlib.cc/nx/0100CD300880E000/screen/3",
+    "http://api.nlib.cc/nx/0100CD300880E000/screen/4",
+    "http://api.nlib.cc/nx/0100CD300880E000/screen/5",
+    "http://api.nlib.cc/nx/0100CD300880E000/screen/6"
+  ]
+}

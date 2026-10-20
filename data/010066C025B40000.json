@@ -1,0 +1,16 @@
+{
+  "name": "SHIP SIMULATOR OCEAN FISHING",
+  "publisher": "MORAHAN Studio Games",
+  "releaseDate": "20260124",
+  "description": "Embark on the Ultimate Ocean Fishing Adventure! In SHIP SIMULATOR OCEAN FISHING, you are an independent fisherman starting with nothing but an old boat and the open sea. Navigate coastal waters in search of fish, crabs, and rare seafood, then sell your catch at bustling ports – each offering different prices, challenges, and opportunities.\n\nEvery voyage is a test of skill and strategy. Monitor your fuel, adapt to realistic water physics, and face the ever-changing moods of the ocean – from calm sunrises wrapped in fog to raging storms that push your ship to its limits.\n\nKey Features:\n• Dynamic Weather & Sea Conditions – Wind, waves, and currents affect every movement.\n• Realistic Ship Handling – Manual navigation, fuel management, and balance control.\n• Expand Your Fleet - Earn money to upgrade to faster, stronger, and more spacious vessels.\n• Marine Research Station – Improve predictions for fish and crab locations.\n• Processing Station – Turn raw catch into high-value products.\n• Fuel Tank Upgrades – Cut fuel costs and extend your journeys.\n• Port Trading System – Sell where the price is right.\n\nFrom your first solo trip at dawn to commanding a fleet across the deep ocean, your journey will be shaped by skill, ambition, and the untamed power of nature. Will you become a legendary master of the sea trade—or will the ocean claim your dreams?",
+  "bannerUrl": "http://api.nlib.cc/nx/010066C025B40000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010066C025B40000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010066C025B40000/screen/1",
+    "http://api.nlib.cc/nx/010066C025B40000/screen/2",
+    "http://api.nlib.cc/nx/010066C025B40000/screen/3",
+    "http://api.nlib.cc/nx/010066C025B40000/screen/4",
+    "http://api.nlib.cc/nx/010066C025B40000/screen/5",
+    "http://api.nlib.cc/nx/010066C025B40000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Pixel Paint",
+  "publisher": "REDDEER.GAMES",
+  "releaseDate": "20221031",
+  "description": "Pixel Paint is anything but a classic coloring book. The point of the game is for you to put your mind at ease, follow the numbers and fill every last pixel with a corresponding color. \n\nSink into the gameplay loop of Pixel Paint. Choose your theme, hold on to your Joy-Con™ and enjoy the creative process. Don't forget that every pixel matters.\n\nKey Features:\n\n-Dozens of illustrations to choose from\n-Relaxing gameplay\n-Adorable characters\n-Easy to play\n-Simplistic Design\n-Unique pixel arts\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01001AB0198D0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001AB0198D0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001AB0198D0000/screen/1",
+    "http://api.nlib.cc/nx/01001AB0198D0000/screen/2",
+    "http://api.nlib.cc/nx/01001AB0198D0000/screen/3",
+    "http://api.nlib.cc/nx/01001AB0198D0000/screen/4",
+    "http://api.nlib.cc/nx/01001AB0198D0000/screen/5",
+    "http://api.nlib.cc/nx/01001AB0198D0000/screen/6"
+  ]
+}

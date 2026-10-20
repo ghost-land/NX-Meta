@@ -1,0 +1,16 @@
+{
+  "name": "Onimusha: Warlords",
+  "publisher": "CAPCOM",
+  "releaseDate": "20190115",
+  "description": "This version includes the original game’s intense swordplay and dramatic revenge story, plus improved controls, widescreen display, a new soundtrack, and more. Experience this enhanced version of the best-selling action-adventure classic!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100416008A12000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100416008A12000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100416008A12000/screen/1",
+    "http://api.nlib.cc/nx/0100416008A12000/screen/2",
+    "http://api.nlib.cc/nx/0100416008A12000/screen/3",
+    "http://api.nlib.cc/nx/0100416008A12000/screen/4",
+    "http://api.nlib.cc/nx/0100416008A12000/screen/5",
+    "http://api.nlib.cc/nx/0100416008A12000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Unworthy",
+  "publisher": "AK Games",
+  "releaseDate": "20190129",
+  "description": "UNWORTHY is a hardcore combat-focused platformer without jumping. Play as a warrior, risen from the grave. Equipped with sword and shield, you must traverse a bleak and hostile world swarming with creatures of nightmare. Your patience, determination and skill will be put to the test, as you fight against epic bosses, uncover powerful weapons and abilities, and attempt to prove your worth.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004AB00B4F8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004AB00B4F8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004AB00B4F8000/screen/1",
+    "http://api.nlib.cc/nx/01004AB00B4F8000/screen/2",
+    "http://api.nlib.cc/nx/01004AB00B4F8000/screen/3",
+    "http://api.nlib.cc/nx/01004AB00B4F8000/screen/4",
+    "http://api.nlib.cc/nx/01004AB00B4F8000/screen/5",
+    "http://api.nlib.cc/nx/01004AB00B4F8000/screen/6"
+  ]
+}

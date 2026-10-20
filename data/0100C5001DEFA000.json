@@ -1,0 +1,16 @@
+{
+  "name": "Replik Survivors",
+  "publisher": "Waku Waku Games",
+  "releaseDate": "20240704",
+  "description": "This game is a time survival game with role-playing and roguelite elements. Through the choice of upgrades in battle to make the character stronger and stronger, defeat the oncoming enemies.\n\nFeatures:\nIn this game, You can use the enhancement system to freely construct various attack triggers, arrange the order, and make your own skill set.\n\nIn addition, there are several different characters waiting for you to find out.\n\n・A wide selection of attack styles and enhanced attributes.\n・7 kinds of characters with completely different playstyles.\n・5 levels of difficulty, different enemies, different bosses.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C5001DEFA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C5001DEFA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C5001DEFA000/screen/1",
+    "http://api.nlib.cc/nx/0100C5001DEFA000/screen/2",
+    "http://api.nlib.cc/nx/0100C5001DEFA000/screen/3",
+    "http://api.nlib.cc/nx/0100C5001DEFA000/screen/4",
+    "http://api.nlib.cc/nx/0100C5001DEFA000/screen/5",
+    "http://api.nlib.cc/nx/0100C5001DEFA000/screen/6"
+  ]
+}

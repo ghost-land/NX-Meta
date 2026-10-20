@@ -1,0 +1,18 @@
+{
+  "name": "Tow Truck Police Simulator",
+  "publisher": "Lu Ming trading as Shane Game",
+  "releaseDate": "20260623",
+  "description": "Step into the role of a dedicated law enforcement officer in Tow Truck Police Simulator, where maintaining order on the streets is entirely in your hands. Patrol a living, breathing city filled with traffic violations, and take action with precision and authority. Every call is a new challenge—every decision shapes your reputation as you work to keep the roads clear and the city moving.\n\nFeatures:\n• Realistic towing mechanics with detailed truck physics, weight balance, and precise control systems.\n• Advanced violation detection system with dynamic scenarios and decision-based outcomes.\n• Multiple tow truck types, including medium and heavy-duty vehicles with unique handling characteristics.\n• Interactive towing tools and equipment for complex recovery operations.\n• Vehicle customization and upgrade system affecting performance and efficiency.\n• Reputation and reward system tied to accuracy, speed, and professional conduct.\n• Diverse urban environments with tight streets, heavy traffic, and evolving conditions.\n\n\n\nEnforce the rules, clear the streets, and rise through the ranks in a city that depends on your skills. In Tow Truck Police Simulator, it’s not just about towing—it’s about control, responsibility, and mastering every situation. Prove you have what it takes to become the ultimate authority on the road.",
+  "bannerUrl": "http://api.nlib.cc/nx/010065F027FF6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010065F027FF6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010065F027FF6000/screen/1",
+    "http://api.nlib.cc/nx/010065F027FF6000/screen/2",
+    "http://api.nlib.cc/nx/010065F027FF6000/screen/3",
+    "http://api.nlib.cc/nx/010065F027FF6000/screen/4",
+    "http://api.nlib.cc/nx/010065F027FF6000/screen/5",
+    "http://api.nlib.cc/nx/010065F027FF6000/screen/6"
+  ],
+  "version": 0,
+  "size": 234240744
+}

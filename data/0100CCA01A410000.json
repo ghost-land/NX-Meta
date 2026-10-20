@@ -1,0 +1,16 @@
+{
+  "name": "TRAXION 2",
+  "publisher": "Games Foundation",
+  "releaseDate": "20250110",
+  "description": "Once again, you take the role of a daring starship pilot, embarking on a series of break-neck mission in outer space. Navigate your ship through the caves of dangerous alien planets and find the valuable crystals hidden there. With your ship's tractor beam, you can tow these back to the planet's surface. But beware -- alien creatures and enemy patrol ships are out to get you! Have you got what it takes to salvage all the crystals before your ship runs out of fuel?\n\nThis sequel offers improved graphics and sound, many new enemy types and challenges, as well as new two-player game modes including coop and duel. Team up with a friend to explore the alien planets together, or go into beastmode and blast each other to space dust!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CCA01A410000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CCA01A410000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CCA01A410000/screen/1",
+    "http://api.nlib.cc/nx/0100CCA01A410000/screen/2",
+    "http://api.nlib.cc/nx/0100CCA01A410000/screen/3",
+    "http://api.nlib.cc/nx/0100CCA01A410000/screen/4",
+    "http://api.nlib.cc/nx/0100CCA01A410000/screen/5",
+    "http://api.nlib.cc/nx/0100CCA01A410000/screen/6"
+  ]
+}

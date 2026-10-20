@@ -1,0 +1,16 @@
+{
+  "name": "Little Kite",
+  "publisher": "Restless Corp",
+  "releaseDate": "20210325",
+  "description": "The game highlights the problems of a struggling family, in which one person has given up, and another tries to correct mistakes of the past.\nThe main characters are Mary and her son Andrew. After the death of her husband, Mary married for a second time, to Oliver, in an attempt to create a full-fledged family for her son. But everyday, problems consume the new husband and he finds his solace in alcohol. Soon, they find domestic violence becomes commonplace.\n\nMary's patience and inaction, so habitual and convenient for everyone but little Andrew, brings the life of their family to an extreme point - a point where she needs to make a bold decision.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010034F013552000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010034F013552000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010034F013552000/screen/1",
+    "http://api.nlib.cc/nx/010034F013552000/screen/2",
+    "http://api.nlib.cc/nx/010034F013552000/screen/3",
+    "http://api.nlib.cc/nx/010034F013552000/screen/4",
+    "http://api.nlib.cc/nx/010034F013552000/screen/5",
+    "http://api.nlib.cc/nx/010034F013552000/screen/6"
+  ]
+}

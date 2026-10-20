@@ -1,0 +1,16 @@
+{
+  "name": "Crashlands",
+  "publisher": "Butterscotch",
+  "releaseDate": "20181108",
+  "description": "Play as Flux Dabes, a galactic delivery truck driver whose latest shipment gets interrupted by a megalomaniacal alien named \"Hewgodooko\" who tears her ship to pieces looking for useful tech. Crashlanded on Woanope, you must fight, tame, craft, quest, bossfight, and adventure your way to domination of all the things so that you and JuiceBox, your trusty sidekick/supervisor/robotic cargo palette, can send a message to the Bureau of Shipping and get those packages delivered!",
+  "bannerUrl": "http://api.nlib.cc/nx/010027100BD16000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010027100BD16000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010027100BD16000/screen/1",
+    "http://api.nlib.cc/nx/010027100BD16000/screen/2",
+    "http://api.nlib.cc/nx/010027100BD16000/screen/3",
+    "http://api.nlib.cc/nx/010027100BD16000/screen/4",
+    "http://api.nlib.cc/nx/010027100BD16000/screen/5",
+    "http://api.nlib.cc/nx/010027100BD16000/screen/6"
+  ]
+}

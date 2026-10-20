@@ -1,0 +1,16 @@
+{
+  "name": "Light Guardian",
+  "publisher": "Kistler Studios",
+  "releaseDate": "20250130",
+  "description": "Help the guardian of the light to retrieve and collect all light shards before the world fall into darkness! You are the light guardian which goes on a quest to find the stolen light shards across the country. On your journey you have to overcome different obstacles to collect them all and finally meet the light itself.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C300202C0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C300202C0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C300202C0000/screen/1",
+    "http://api.nlib.cc/nx/0100C300202C0000/screen/2",
+    "http://api.nlib.cc/nx/0100C300202C0000/screen/3",
+    "http://api.nlib.cc/nx/0100C300202C0000/screen/4",
+    "http://api.nlib.cc/nx/0100C300202C0000/screen/5",
+    "http://api.nlib.cc/nx/0100C300202C0000/screen/6"
+  ]
+}

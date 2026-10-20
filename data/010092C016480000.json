@@ -1,0 +1,15 @@
+{
+  "name": "Top Down Racer",
+  "publisher": "Pix Arts",
+  "releaseDate": "20210924",
+  "description": "Top Down Racer is the classic racing game at its best realization.\n\nDrive on different tracks in a race of six cars that will ask you dexterity and skills.\n\nBe cautious with your car to not risk car crash, collect repair power ups and speed boosts.\n\nOvertake your competitors and be first on the finish line!",
+  "bannerUrl": "http://api.nlib.cc/nx/010092C016480000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010092C016480000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010092C016480000/screen/1",
+    "http://api.nlib.cc/nx/010092C016480000/screen/2",
+    "http://api.nlib.cc/nx/010092C016480000/screen/3",
+    "http://api.nlib.cc/nx/010092C016480000/screen/4",
+    "http://api.nlib.cc/nx/010092C016480000/screen/5"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Observer",
+  "publisher": "Bloober Team",
+  "releaseDate": "20190207",
+  "description": ">observer_ is a cyberpunk, detective thriller set in the year 2084 in Krakow, Poland. The world lies in ruins with corporations seizing power after the fall of governments. You do their bidding. No lie will remain hidden from you, as you hack into the minds of those you interrogate. When your past catches-up, you must act on your own and unravel the mystery of your son’s disappearance. Your name is Daniel Lazarski, you’re an Observer. ",
+  "bannerUrl": "http://api.nlib.cc/nx/01002A000C478000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002A000C478000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002A000C478000/screen/1",
+    "http://api.nlib.cc/nx/01002A000C478000/screen/2",
+    "http://api.nlib.cc/nx/01002A000C478000/screen/3",
+    "http://api.nlib.cc/nx/01002A000C478000/screen/4",
+    "http://api.nlib.cc/nx/01002A000C478000/screen/5",
+    "http://api.nlib.cc/nx/01002A000C478000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Pirates on Target",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20231006",
+  "description": "Use your geometric and logic skills to fire cannons at pirate ships and sink them to the bottom of the sea.\n\nIn each level you’ll need to move the blocks strategically and change the trajectory of the cannonballs until they reach the target.\n\nThe concept is simple yet challenging, and the difficulty gradually increases over dozens of levels. \n\n\nFeatures:\n* 60 levels with increasing difficulty\n* Pirate ship combat theme\n* Variety of obstacles and blocks\n* Simple controls including a virtual cursor option",
+  "bannerUrl": "http://api.nlib.cc/nx/01006D401ADBE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006D401ADBE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006D401ADBE000/screen/1",
+    "http://api.nlib.cc/nx/01006D401ADBE000/screen/2",
+    "http://api.nlib.cc/nx/01006D401ADBE000/screen/3",
+    "http://api.nlib.cc/nx/01006D401ADBE000/screen/4",
+    "http://api.nlib.cc/nx/01006D401ADBE000/screen/5",
+    "http://api.nlib.cc/nx/01006D401ADBE000/screen/6"
+  ]
+}

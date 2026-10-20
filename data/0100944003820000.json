@@ -1,0 +1,16 @@
+{
+  "name": "Fantasy Strike",
+  "publisher": "Sirlin Games",
+  "releaseDate": "20190725",
+  "description": "Fantasy Strike is a colorful fighting game where fantasy meets martial arts. It focuses on depth and strategy rather than difficult execution. It's designed for tournament play, but also to welcome you to the genre if you haven't played other fighting games before. Online play uses the excellent GGPO networking technology. Includes several single player modes.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100944003820000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100944003820000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100944003820000/screen/1",
+    "http://api.nlib.cc/nx/0100944003820000/screen/2",
+    "http://api.nlib.cc/nx/0100944003820000/screen/3",
+    "http://api.nlib.cc/nx/0100944003820000/screen/4",
+    "http://api.nlib.cc/nx/0100944003820000/screen/5",
+    "http://api.nlib.cc/nx/0100944003820000/screen/6"
+  ]
+}

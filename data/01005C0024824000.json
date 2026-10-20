@@ -1,0 +1,18 @@
+{
+  "name": "Cladun X3",
+  "publisher": "NIS America",
+  "releaseDate": "20250926",
+  "description": "Villains from near and far have been summoned to Arcanus Cella to participate in a death game in the name of achieving world peace. You are one of those villains. Choose from six different weapon types and 10 different jobs to conquer dungeons teeming with ferocious monsters and deadly traps. Use the customization functions to create evil allies to aid in your journey with the Magic Circle System, a unique system to the Cladun series.\n\nDo you have what it takes to become the ultimate evil? Test your might and mettle in this highly customizable action RPG!",
+  "bannerUrl": "http://api.nlib.cc/nx/01005C0024824000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005C0024824000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005C0024824000/screen/1",
+    "http://api.nlib.cc/nx/01005C0024824000/screen/2",
+    "http://api.nlib.cc/nx/01005C0024824000/screen/3",
+    "http://api.nlib.cc/nx/01005C0024824000/screen/4",
+    "http://api.nlib.cc/nx/01005C0024824000/screen/5",
+    "http://api.nlib.cc/nx/01005C0024824000/screen/6"
+  ],
+  "version": 0,
+  "size": 568064530
+}

@@ -1,0 +1,16 @@
+{
+  "name": "人生ゲーム for Nintendo Switch",
+  "publisher": "タカラトミー",
+  "releaseDate": "20231006",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FF1017F76000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FF1017F76000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FF1017F76000/screen/1",
+    "http://api.nlib.cc/nx/0100FF1017F76000/screen/2",
+    "http://api.nlib.cc/nx/0100FF1017F76000/screen/3",
+    "http://api.nlib.cc/nx/0100FF1017F76000/screen/4",
+    "http://api.nlib.cc/nx/0100FF1017F76000/screen/5",
+    "http://api.nlib.cc/nx/0100FF1017F76000/screen/6"
+  ]
+}

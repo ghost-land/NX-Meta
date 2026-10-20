@@ -1,0 +1,16 @@
+{
+  "name": "Touhou Kobuto V: Burst Battle",
+  "publisher": "NIS America",
+  "releaseDate": "20171010",
+  "description": "Jump into the world of Touhou and unleash bullet-hell upon your enemies in the 1v1 shoot-em-up Touhou Kobuto V: Burst Battle!\n\nTouhou Kobuto V: Burst Battle is a bullet-hell battle game that takes place in the Touhou universe. Take control of one of nine Touhou characters and eliminate your opponent using bullet-hell patterns, melee attacks, or spell cards!",
+  "bannerUrl": "http://api.nlib.cc/nx/010010F004022000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010010F004022000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010010F004022000/screen/1",
+    "http://api.nlib.cc/nx/010010F004022000/screen/2",
+    "http://api.nlib.cc/nx/010010F004022000/screen/3",
+    "http://api.nlib.cc/nx/010010F004022000/screen/4",
+    "http://api.nlib.cc/nx/010010F004022000/screen/5",
+    "http://api.nlib.cc/nx/010010F004022000/screen/6"
+  ]
+}

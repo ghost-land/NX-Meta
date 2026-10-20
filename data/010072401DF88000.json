@@ -1,0 +1,16 @@
+{
+  "name": "Blind Shot",
+  "publisher": "Tendokore",
+  "releaseDate": "20240328",
+  "description": "Take on the role of a clumsy commando, sent to fight a zombie horde. Turn-based gameplay, unusual mechanics dependent on your own pace of play. Gameworld and events inspired by a myriad of cult action movie parodies. Die, but take many of those mumbling green dudes with you!",
+  "bannerUrl": "http://api.nlib.cc/nx/010072401DF88000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010072401DF88000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010072401DF88000/screen/1",
+    "http://api.nlib.cc/nx/010072401DF88000/screen/2",
+    "http://api.nlib.cc/nx/010072401DF88000/screen/3",
+    "http://api.nlib.cc/nx/010072401DF88000/screen/4",
+    "http://api.nlib.cc/nx/010072401DF88000/screen/5",
+    "http://api.nlib.cc/nx/010072401DF88000/screen/6"
+  ]
+}

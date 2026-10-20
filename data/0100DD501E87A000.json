@@ -1,0 +1,16 @@
+{
+  "name": "despelote",
+  "publisher": "Panic",
+  "releaseDate": "20251211",
+  "description": "Despelote is a soccer game about people. Get immersed in the streets and parks of Quito through the eyes and ears of eight year old Julián. Dribble, pass and shoot your soccer ball around town, and see what happens when you kick it someone's way. Feel the city change as Ecuador comes closer than ever to qualifying for the World Cup.\n\nFeatures:\n- A bittersweet and sometimes dreamy semi-autobiographical tale of youth.\n- Explore a dense town space at your leisure, full of activities, interactions, and mischief to get up to.\n- A physics-based soccer ball that feels good to kick around in a first-person perspective.\n- A vibrant world full of characters that have funny, and genuine conversations.\n- Photos and audio recorded on location in Ecuador are used to create a strong sense of place.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DD501E87A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DD501E87A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DD501E87A000/screen/1",
+    "http://api.nlib.cc/nx/0100DD501E87A000/screen/2",
+    "http://api.nlib.cc/nx/0100DD501E87A000/screen/3",
+    "http://api.nlib.cc/nx/0100DD501E87A000/screen/4",
+    "http://api.nlib.cc/nx/0100DD501E87A000/screen/5",
+    "http://api.nlib.cc/nx/0100DD501E87A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Football Game",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20191108",
+  "description": "Tommy is the local high school football hero in the small town of East Bend, USA. It’s game night for the Purchase County Turbines and his sweetheart is waiting in the bleachers. \n\nHowever, something is amiss…\n\nInspired by classic 80s and 90s point and click adventures, get ready for a night you won’t forget in this twisted Lynchian thriller. Navigate and explore the environment by interacting with objects, and inspecting them to solve puzzles in order to help Tommy find his sweetheart. \n\nFeatures:\n * Traditional point and click adventure game aesthetic with puzzles and dialogue interactions.\n * Meet a cast of characters including friends, foes, teachers, and a concerned mother.\n * An award-winning OST by UK duo JUPITER-C.",
+  "bannerUrl": "http://api.nlib.cc/nx/010027800FECE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010027800FECE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010027800FECE000/screen/1",
+    "http://api.nlib.cc/nx/010027800FECE000/screen/2",
+    "http://api.nlib.cc/nx/010027800FECE000/screen/3",
+    "http://api.nlib.cc/nx/010027800FECE000/screen/4",
+    "http://api.nlib.cc/nx/010027800FECE000/screen/5",
+    "http://api.nlib.cc/nx/010027800FECE000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Puzzle Plowing A Field",
+  "publisher": "Piotr Skalski",
+  "releaseDate": "20201228",
+  "description": "Solve the puzzle in 50 extra levels.\nThe goal of the game is easy.\nGo through all the areas without leaving any and without going through it twice.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010057F013764000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010057F013764000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010057F013764000/screen/1",
+    "http://api.nlib.cc/nx/010057F013764000/screen/2",
+    "http://api.nlib.cc/nx/010057F013764000/screen/3",
+    "http://api.nlib.cc/nx/010057F013764000/screen/4",
+    "http://api.nlib.cc/nx/010057F013764000/screen/5",
+    "http://api.nlib.cc/nx/010057F013764000/screen/6"
+  ]
+}

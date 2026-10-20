@@ -1,0 +1,16 @@
+{
+  "name": "Downwell",
+  "publisher": "Devolver Digital",
+  "releaseDate": "20190131",
+  "description": "Make your way further and further down into the darkness filled with nasty creatures and mysterious secrets to collect the spectacular red gems scattered about the rocks. Step into precariously placed shops and buy some helpful items or level up between levels to battle well-dwelling monsters and uncover hidden caves filled with riches and relics. No two trips down the well are ever the same!\n\nFeatures:\n\nThe Amazing Gunboots - The fashionable and lethal Gunboots allow players to unleash a torrent of firepower on the nasty creatures dwelling in the well and slow your decent with each shot. \n\nUnique Weapons & Items - Get different weapons, shop for peculiar items and obtain powerful upgrades that all stack and affect the way you play!\n\nA New Adventure Every Time - Each level in Downwell is procedurally generated, so no two trips down the well are ever the same providing a fresh new adventure each time!\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010093D00C726000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010093D00C726000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010093D00C726000/screen/1",
+    "http://api.nlib.cc/nx/010093D00C726000/screen/2",
+    "http://api.nlib.cc/nx/010093D00C726000/screen/3",
+    "http://api.nlib.cc/nx/010093D00C726000/screen/4",
+    "http://api.nlib.cc/nx/010093D00C726000/screen/5",
+    "http://api.nlib.cc/nx/010093D00C726000/screen/6"
+  ]
+}

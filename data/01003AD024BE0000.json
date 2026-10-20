@@ -1,0 +1,18 @@
+{
+  "name": "My Little Haven",
+  "publisher": "REDDEER.GAMES",
+  "releaseDate": "20260115",
+  "description": "The core My Little Haven is about arranging furniture and decorating rooms to make them perfect for the adorable toy inhabitants. Each resident you meet has unique tastes and requests, challenging your interior design skills!\n\n•Fulfill Wishes: residents will have specific requirements, such as needing certain floor or wall color.\n•Design freely! While meeting their basic needs, you have complete freedom to style the room however you like. \n•Unlock décor. Expand your catalog of decorations by discovering exclusive new items scattered across the dream islands!\n•Don't just decorate the inside! Customize the exterior look of the toy houses to make the whole world sparkle.\n•Visit distinct, beautiful miniature islands.\n•Experience the magic! All ocharacters are brought to life with delightful, stop-motion-style animations, adding a unique, handcrafted feel to your decorating adventure.\n\nKEY FEATURES: \n- 5 unique islands to explore with 3 houses to decorate each.\n- Avatar choice: you can play as a boy or girl. \n- Wholesome, family friendly atmosphere.\n- Gameplay filled with creative challenges. \n- Cozy, relaxing music. \n",
+  "bannerUrl": "http://api.nlib.cc/nx/01003AD024BE0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003AD024BE0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003AD024BE0000/screen/1",
+    "http://api.nlib.cc/nx/01003AD024BE0000/screen/2",
+    "http://api.nlib.cc/nx/01003AD024BE0000/screen/3",
+    "http://api.nlib.cc/nx/01003AD024BE0000/screen/4",
+    "http://api.nlib.cc/nx/01003AD024BE0000/screen/5",
+    "http://api.nlib.cc/nx/01003AD024BE0000/screen/6"
+  ],
+  "version": 0,
+  "size": 332445345
+}

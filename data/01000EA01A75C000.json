@@ -1,0 +1,16 @@
+{
+  "name": "Lila's Tale and the Hidden Forest",
+  "publisher": "naptime.games",
+  "releaseDate": "20230324",
+  "description": "In this classical-inspired 2D game, players will explore challenging magical environments, team up with forest animals and defeat nasty enemies.\n\n- Play solo or with a friend as Lily and Lucas\n- Explore mystical woods, ancient deserts and the fiery mountains of Solaria\n- Befriend animals that can guide you on your journey\n- Glide and attack with the help of your magical companion\n- Find hidden passages, collect all feathers and search for magical Owl Eggs\n- Defeat or avoid various enemies\n- Unlock different costumes\n\nExperience a wonderful adventure and save Solaria!",
+  "bannerUrl": "http://api.nlib.cc/nx/01000EA01A75C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000EA01A75C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000EA01A75C000/screen/1",
+    "http://api.nlib.cc/nx/01000EA01A75C000/screen/2",
+    "http://api.nlib.cc/nx/01000EA01A75C000/screen/3",
+    "http://api.nlib.cc/nx/01000EA01A75C000/screen/4",
+    "http://api.nlib.cc/nx/01000EA01A75C000/screen/5",
+    "http://api.nlib.cc/nx/01000EA01A75C000/screen/6"
+  ]
+}

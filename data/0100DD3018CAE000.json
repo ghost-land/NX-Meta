@@ -1,0 +1,16 @@
+{
+  "name": "Polygraph: Escape from the Lie Detector",
+  "publisher": "Red Fables",
+  "releaseDate": "20220721",
+  "description": "Something has happened in the city and you are the main suspect. You defend your innocence, but the investigators don't believe you and insist on giving you the dreaded polygraph test.\n\nYour objective is clear: Don't get caught lying! If you answer any question wrongly the polygraph will detect it and you will be locked up forever in prison. \n\nFeatures:\n\n- Answer the questions before the time runs out.\n- Give an identical answer to the same question.\n- Alternative endings.\n- Discover an important question at number 150.\n\nProve your innocence and dodge the polygraph!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DD3018CAE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DD3018CAE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DD3018CAE000/screen/1",
+    "http://api.nlib.cc/nx/0100DD3018CAE000/screen/2",
+    "http://api.nlib.cc/nx/0100DD3018CAE000/screen/3",
+    "http://api.nlib.cc/nx/0100DD3018CAE000/screen/4",
+    "http://api.nlib.cc/nx/0100DD3018CAE000/screen/5",
+    "http://api.nlib.cc/nx/0100DD3018CAE000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Herdling",
+  "publisher": "Panic",
+  "releaseDate": "20250821",
+  "description": "Herdling is a brand new adventure from Okomotive, creators of the atmospheric and acclaimed FAR games, and Panic, publishers of Firewatch.\n\nHead out on a grand alpine expedition with a herd of loveable beasts, as you ascend a mountain path, encounter eerie dangers and surprising obstacles, and forge your way to the mystery at the summit.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A9C01FD06000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A9C01FD06000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A9C01FD06000/screen/1",
+    "http://api.nlib.cc/nx/0100A9C01FD06000/screen/2",
+    "http://api.nlib.cc/nx/0100A9C01FD06000/screen/3",
+    "http://api.nlib.cc/nx/0100A9C01FD06000/screen/4",
+    "http://api.nlib.cc/nx/0100A9C01FD06000/screen/5",
+    "http://api.nlib.cc/nx/0100A9C01FD06000/screen/6"
+  ]
+}

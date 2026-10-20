@@ -1,0 +1,16 @@
+{
+  "name": "Fallen Knight",
+  "publisher": "QuantumPeaks",
+  "releaseDate": "20221013",
+  "description": "Take the role of an elite knight and battle your way through action-packed levels with intense sword fighting gameplay in this neo-classic side scrolling action platformer. Save the city from a deadly terrorist organization hell-bent on exposing the truth you were sworn to protect.\n\nUse the Parry and Disarm system to stay true to the Knights' Code. Enjoy an arcade-reminiscent soundtrack as you battle the enemies of the Round Table.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100960015200000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100960015200000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100960015200000/screen/1",
+    "http://api.nlib.cc/nx/0100960015200000/screen/2",
+    "http://api.nlib.cc/nx/0100960015200000/screen/3",
+    "http://api.nlib.cc/nx/0100960015200000/screen/4",
+    "http://api.nlib.cc/nx/0100960015200000/screen/5",
+    "http://api.nlib.cc/nx/0100960015200000/screen/6"
+  ]
+}

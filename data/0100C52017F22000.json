@@ -1,0 +1,16 @@
+{
+  "name": "Funny Truck",
+  "publisher": "RandomSpin Games",
+  "releaseDate": "20220324",
+  "description": "- Drive truck over the ramps and trampolines. \n- Make tricks in the air.\n- Throw people out of a truck.\n- Earn as much points as possible.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C52017F22000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C52017F22000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C52017F22000/screen/1",
+    "http://api.nlib.cc/nx/0100C52017F22000/screen/2",
+    "http://api.nlib.cc/nx/0100C52017F22000/screen/3",
+    "http://api.nlib.cc/nx/0100C52017F22000/screen/4",
+    "http://api.nlib.cc/nx/0100C52017F22000/screen/5",
+    "http://api.nlib.cc/nx/0100C52017F22000/screen/6"
+  ]
+}

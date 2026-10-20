@@ -1,0 +1,14 @@
+{
+  "name": "Screensaver BATTLE",
+  "publisher": "KOSEI YASUDA",
+  "releaseDate": "20250130",
+  "description": "Clash with bouncing video logos!\n\"ScreenSaver Battle\" is a new-sensation on-screen screensaver battle game where a special move is unleashed upon hitting a corner!!\nThat screensaver, which felt so satisfying the moment it hit the corner, now makes its appearance as a battle game for even greater pleasure!! Aim for the corners today, tomorrow, and the day after, and clash to your heart’s content!!\n\nGame Description\nHave you ever seen a video logo that just bounces around?\nA screensaver so captivating that there’s even a meme celebrating the moment it bounces off a corner—this game is a parody-style screensaver battle game that allows you to fully savor that exhilarating corner-bumping moment.\n\nYou control a VIDEO logo. If you collide with a logo labeled \"BOSS,\" you’ll take damage.\n\nWhen the VIDEO logo hits the very corner, a special move is activated, allowing you to defeat the BOSS logo in a single hit!\n\nThe controls are simple: just point the arrow in the direction you want to launch the logo and click.\nAfter that, you just watch the outcome unfold, much like observing a spinning top or a simulation game. Feel free to hold some popcorn in one hand as if you’re watching a movie.\n\nIt’s simple, yet the exhilaration is fantastic!!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E9102067C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E9102067C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E9102067C000/screen/1",
+    "http://api.nlib.cc/nx/0100E9102067C000/screen/2",
+    "http://api.nlib.cc/nx/0100E9102067C000/screen/3",
+    "http://api.nlib.cc/nx/0100E9102067C000/screen/4"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "SuperDuck!",
+  "publisher": "House of Pandas",
+  "releaseDate": "20220707",
+  "description": "SuperDuck takes you on a brainy adventure to bring the ducklings back home. Explore the levels, find a way out and guide the ducks to the exit using the objects at your disposal.\n\n• Ducks.\n• 56 unique levels\n• 3 different environments.\n• Tricky puzzles combined with platforming action.\n• Fast forward.\n• More ducks.",
+  "bannerUrl": "http://api.nlib.cc/nx/010001B018734000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010001B018734000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010001B018734000/screen/1",
+    "http://api.nlib.cc/nx/010001B018734000/screen/2",
+    "http://api.nlib.cc/nx/010001B018734000/screen/3",
+    "http://api.nlib.cc/nx/010001B018734000/screen/4",
+    "http://api.nlib.cc/nx/010001B018734000/screen/5"
+  ]
+}

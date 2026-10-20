@@ -1,0 +1,16 @@
+{
+  "name": "Catgotchi: Virtual Pet",
+  "publisher": "REDDEER.GAMES",
+  "releaseDate": "20230407",
+  "description": "RETRO CAT FAMILY\n\nRaise a happy and healthy cat! Become a proper cat parent by ensuring all of its needs are fulfilled. If you want you can raise MULTIPLE pets at once!\n\nREAL-TIME GAMEPLAY\n\nBe careful! If you ignore your pets for too long, they can fall into sadness or even get sick. Their fate is within your hands.\n\nKey Features:\n\n- multiple cats to choose from\n- relaxing gameplay loop\n- retro aesthetic\n- brief gameplay sessions",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CCF01A884000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CCF01A884000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CCF01A884000/screen/1",
+    "http://api.nlib.cc/nx/0100CCF01A884000/screen/2",
+    "http://api.nlib.cc/nx/0100CCF01A884000/screen/3",
+    "http://api.nlib.cc/nx/0100CCF01A884000/screen/4",
+    "http://api.nlib.cc/nx/0100CCF01A884000/screen/5",
+    "http://api.nlib.cc/nx/0100CCF01A884000/screen/6"
+  ]
+}

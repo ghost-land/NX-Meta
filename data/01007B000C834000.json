@@ -1,0 +1,16 @@
+{
+  "name": "Asphalt Legends",
+  "publisher": "Gameloft",
+  "releaseDate": "20191008",
+  "description": "Speed through intense arcade races, perform jaw-dropping stunts, and charge to victory in the coolest hypercars! Join global multiplayer races, challenge up to 7 opponents across platforms, or dominate in local split-screen. Connect with friends, create private lobbies, and join racing Clubs for exclusive rewards. Choose from over 250 hypercars such as Ferrari and Porsche, conquer iconic tracks worldwide, and enjoy high-speed racing with detailed vehicles and stunning effects. Customize your ride with unique paint, rims, and parts to showcase your style on the road to racing greatness!",
+  "bannerUrl": "http://api.nlib.cc/nx/01007B000C834000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007B000C834000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007B000C834000/screen/1",
+    "http://api.nlib.cc/nx/01007B000C834000/screen/2",
+    "http://api.nlib.cc/nx/01007B000C834000/screen/3",
+    "http://api.nlib.cc/nx/01007B000C834000/screen/4",
+    "http://api.nlib.cc/nx/01007B000C834000/screen/5",
+    "http://api.nlib.cc/nx/01007B000C834000/screen/6"
+  ]
+}

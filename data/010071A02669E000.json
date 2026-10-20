@@ -1,0 +1,14 @@
+{
+  "name": "Temari Trials: Dojo's Test",
+  "publisher": "Afil Games",
+  "releaseDate": "20260219",
+  "description": "Temari Trials: Dojo’s Test is a logic-focused puzzle game with charming pixel art where you guide a clever fox pushing temaris toward locked chests. Every hit removes a lock, and when a chest is fully unlocked, the level is cleared. Temaris can also push each other, allowing creative setups and surprising solutions for players who enjoy Japanese aesthetics and clever problem-solving.\n\nThe game features 30 handcrafted single-player stages with challenges that evolve based on how many hits each chest requires and how temaris can be positioned to reach them. You control a fox exploring levels filled with temaris and chests that range from 1 to 3 locks. Your goal is to plan the order and direction of every push while considering obstacles and placement.\n\nYou begin each stage by observing your options. Then you act, watch the result and use undo or restart if needed. When all locks are broken by hitting the chests with the correct temaris, the fox clears the mission and advances to the next challenge.",
+  "bannerUrl": "http://api.nlib.cc/nx/010071A02669E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010071A02669E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010071A02669E000/screen/1",
+    "http://api.nlib.cc/nx/010071A02669E000/screen/2",
+    "http://api.nlib.cc/nx/010071A02669E000/screen/3",
+    "http://api.nlib.cc/nx/010071A02669E000/screen/4"
+  ]
+}

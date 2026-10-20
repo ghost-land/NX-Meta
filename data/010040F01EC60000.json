@@ -1,0 +1,18 @@
+{
+  "name": "Aggelos 2",
+  "publisher": "PQube",
+  "releaseDate": "20260827",
+  "description": "Aggelos 2 is an explosive action-platformer where lightning-fast combat, precision platforming, and two opposing worlds collide. As an Aggelos, the highest order of angels, you are chosen by Balro to venture through the Kingdom of Lumen, domain of the supreme God of Light. But with Lumen under siege and the Gods facing imminent defeat at the hands of the Army of Darkness, you are forced to embrace a shadowy new form to survive the chaos of both light and dark realms.\n\nWhile your angelic side favors a slower, disciplined approach, your demon form is highly agile, aggressive, and bristling with dark powers. Mastering the shift between both forms is key to survival, and only by balancing order and chaos can you hope to overcome formidable enemies, deadly obstacles, and challenging puzzles along your path.\n\n- Parallel realms: Explore two massive, overlapping maps, each with their own unique characteristics, enemies to fight, secrets to discover, and challenges to overcome.\n- Dual Combat System: Switch between Angel and Demon forms to change the world and your playstyle, from precise defenses to fast assaults, mastering timing, strategy, and reflexes.\n- Emerge victorious: Take on hordes of enemies and conquer 13 massive bosses across both realms. Steel yourself for memorable encounters that build on the original game’s signature battles.\n- Puzzles of Discovery: Solve challenges by mastering skills, memorising routes, manipulating mechanisms, avoiding traps, and interacting with the world to reveal secrets and new paths.\n- Grow your power: Collect orbs to unlock devastating special attacks, boost your strength and increase your survivability, adding a tactical layer to your progression.\n- Evolve to survive: Unlock new skills as you progress, from flight and wall grabs to dashes and powerful special attacks, offering up new ways to explore and reach previously inaccessible areas.\n- Stunning 16-bit Artwork: Striking pixel art and detailed sprites designed to complement smooth, fast-paced 2D gameplay.",
+  "bannerUrl": "http://api.nlib.cc/nx/010040F01EC60000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010040F01EC60000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010040F01EC60000/screen/1",
+    "http://api.nlib.cc/nx/010040F01EC60000/screen/2",
+    "http://api.nlib.cc/nx/010040F01EC60000/screen/3",
+    "http://api.nlib.cc/nx/010040F01EC60000/screen/4",
+    "http://api.nlib.cc/nx/010040F01EC60000/screen/5",
+    "http://api.nlib.cc/nx/010040F01EC60000/screen/6"
+  ],
+  "version": 0,
+  "size": 400958702
+}

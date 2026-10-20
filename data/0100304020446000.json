@@ -1,0 +1,15 @@
+{
+  "name": "Air Hunter",
+  "publisher": "Entity3",
+  "releaseDate": "20241026",
+  "description": "Take control of a chopper as you hunt for criminals!\n\nChase down the criminals and take them out!\n\nLeave a trail of destruction as you try to beat each stage!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100304020446000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100304020446000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100304020446000/screen/1",
+    "http://api.nlib.cc/nx/0100304020446000/screen/2",
+    "http://api.nlib.cc/nx/0100304020446000/screen/3",
+    "http://api.nlib.cc/nx/0100304020446000/screen/4",
+    "http://api.nlib.cc/nx/0100304020446000/screen/5"
+  ]
+}

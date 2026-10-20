@@ -1,0 +1,15 @@
+{
+  "name": "Bubbelsche Deluxe",
+  "publisher": "EntwicklerX",
+  "releaseDate": "20241121",
+  "description": "In Bubbelsche Deluxe you must navigate a small bubble through a long, complicated maze without colliding on the game blocks. Manage the bubble as fast and wide as possible without bursting.\nYou have exactly one attempt per game to make it.",
+  "bannerUrl": "http://api.nlib.cc/nx/010067F021418000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010067F021418000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010067F021418000/screen/1",
+    "http://api.nlib.cc/nx/010067F021418000/screen/2",
+    "http://api.nlib.cc/nx/010067F021418000/screen/3",
+    "http://api.nlib.cc/nx/010067F021418000/screen/4",
+    "http://api.nlib.cc/nx/010067F021418000/screen/5"
+  ]
+}

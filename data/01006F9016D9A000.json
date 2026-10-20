@@ -1,0 +1,16 @@
+{
+  "name": "Dinogotchi",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20221001",
+  "description": "Have you ever wished to pet a dino? Then Dinogotchi is a perfect game for you! In this tamagotchi-like game, you'll take care of cute dinosaurs since their birth and watch them grow up and evolve into new species, play minigames and give a lot of love to your little pre-historic friends! Oh, and they will not eat you, I guarantee! ;D\n\nYou can pet the dinosaurs\n10 dinosaurs to take care of\nEvolve your dinos\nSimple mechanics\nMinigames to have fun\n\n\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01006F9016D9A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006F9016D9A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006F9016D9A000/screen/1",
+    "http://api.nlib.cc/nx/01006F9016D9A000/screen/2",
+    "http://api.nlib.cc/nx/01006F9016D9A000/screen/3",
+    "http://api.nlib.cc/nx/01006F9016D9A000/screen/4",
+    "http://api.nlib.cc/nx/01006F9016D9A000/screen/5",
+    "http://api.nlib.cc/nx/01006F9016D9A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "The Closed Circle",
+  "publisher": "Regista",
+  "releaseDate": "20221117",
+  "description": "Eight girls are trapped in a closed circle.\nTime passes as they move from room to room, and one by one, the girls' lives are threatened.\nGet them out safely and solve the riddles scattered throughout the building!\n\n*The game may appear to be stuck, but it is a multi-ending game that always transitions to one of the endings.\n\n*Additional Elements\nA new ending that was not in the app version has been added.",
+  "bannerUrl": "http://api.nlib.cc/nx/010022901953E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010022901953E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010022901953E000/screen/1",
+    "http://api.nlib.cc/nx/010022901953E000/screen/2",
+    "http://api.nlib.cc/nx/010022901953E000/screen/3",
+    "http://api.nlib.cc/nx/010022901953E000/screen/4",
+    "http://api.nlib.cc/nx/010022901953E000/screen/5",
+    "http://api.nlib.cc/nx/010022901953E000/screen/6"
+  ]
+}

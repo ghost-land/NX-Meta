@@ -1,0 +1,16 @@
+{
+  "name": "REPLICA",
+  "publisher": "PLAYISM",
+  "releaseDate": "20201107",
+  "description": "You are given a cellphone of an unknown owner. You must look for evidence of terrorism by hacking into the cellphone owner's account, under governmental coercion. Then inspecting the cellphone usage history and social media activity records.\n\nThe insane experience of peeping into someone's private life through a cellphone will transform you into the state's greatest patriot.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EC3012AAC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EC3012AAC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EC3012AAC000/screen/1",
+    "http://api.nlib.cc/nx/0100EC3012AAC000/screen/2",
+    "http://api.nlib.cc/nx/0100EC3012AAC000/screen/3",
+    "http://api.nlib.cc/nx/0100EC3012AAC000/screen/4",
+    "http://api.nlib.cc/nx/0100EC3012AAC000/screen/5",
+    "http://api.nlib.cc/nx/0100EC3012AAC000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "HELLCARD",
+  "publisher": "Skystone Games",
+  "releaseDate": "20250910",
+  "description": "\"Hellcard is a cooperative roguelike deckbuilder that can be played in both Singleplayer and Multiplayer modes. The game takes place in the paper dungeons known from the Book of Demons, and its main mechanics revolve around deckbuilding and fast-paced tactical card battles.\n\nWhat makes HELLCARD unique and different from other deck-building games is that monster placement actually matters and can be used to your advantage. Shuffle enemies on the board, altering their targets and grouping for maximum area of effect attacks. Or keeping them stunned until you get your perfect card combo ready.\n\nFeaturing a unique paper-craft pop-up book art style HELLCARD is a love letter to the RPG genre and its most influential titles from the '90s. Not taking itself too seriously, it nonetheless manages to recreate the atmosphere of exploring stuffy dark dungeons and heroically facing the Ultimate Evil.\n\nHELLCARD supports co-op battles with up to three heroes facing the Archdemon's hordes. In single-player mode, you can descend into the dungeons solo or recruit computer-controlled companions. In multiplayer mode, your friends or strangers can help you battle the hordes of hell.\"",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C3501E278000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C3501E278000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C3501E278000/screen/1",
+    "http://api.nlib.cc/nx/0100C3501E278000/screen/2",
+    "http://api.nlib.cc/nx/0100C3501E278000/screen/3",
+    "http://api.nlib.cc/nx/0100C3501E278000/screen/4",
+    "http://api.nlib.cc/nx/0100C3501E278000/screen/5"
+  ]
+}

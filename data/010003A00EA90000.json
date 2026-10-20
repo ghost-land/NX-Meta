@@ -1,0 +1,16 @@
+{
+  "name": "IN-VERT",
+  "publisher": "TERNOX",
+  "releaseDate": "20190820",
+  "description": "Game narrates the story of lone robot in search of his disappeared master. In his quest to find the long-lost friend, our hero has to conquer two universes at once, relentlessly switching between two dimensions. Be prepared for some tough puzzles, jumping sequences and retro graphics like you've never seen before.",
+  "bannerUrl": "http://api.nlib.cc/nx/010003A00EA90000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010003A00EA90000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010003A00EA90000/screen/1",
+    "http://api.nlib.cc/nx/010003A00EA90000/screen/2",
+    "http://api.nlib.cc/nx/010003A00EA90000/screen/3",
+    "http://api.nlib.cc/nx/010003A00EA90000/screen/4",
+    "http://api.nlib.cc/nx/010003A00EA90000/screen/5",
+    "http://api.nlib.cc/nx/010003A00EA90000/screen/6"
+  ]
+}

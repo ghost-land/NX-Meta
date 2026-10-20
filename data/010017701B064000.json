@@ -1,0 +1,14 @@
+{
+  "name": "RunRunWaterElf",
+  "publisher": "Zoustec",
+  "releaseDate": "20231026",
+  "description": "You need to use your hands and feet to control the Water Elf to avoid landslides and obstacles, and collect disaster prevention items to earn bonus points.",
+  "bannerUrl": "http://api.nlib.cc/nx/010017701B064000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010017701B064000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010017701B064000/screen/1",
+    "http://api.nlib.cc/nx/010017701B064000/screen/2",
+    "http://api.nlib.cc/nx/010017701B064000/screen/3",
+    "http://api.nlib.cc/nx/010017701B064000/screen/4"
+  ]
+}

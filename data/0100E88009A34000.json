@@ -1,0 +1,15 @@
+{
+  "name": "Rocket Wars",
+  "publisher": "Rooftop Panda",
+  "releaseDate": "20191114",
+  "description": "Rocket Wars is a fast-paced couch party game for up to 4 players.\n6 different game modes will keeps the game fresh and challenging.\n12 different spaceships with unique stats lets you play according to your own playstyle.\nYou can play FFA, 2v2 or entirely against AI opponents.\n\nEnjoy both pvp and coop with your friends!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E88009A34000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E88009A34000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E88009A34000/screen/1",
+    "http://api.nlib.cc/nx/0100E88009A34000/screen/2",
+    "http://api.nlib.cc/nx/0100E88009A34000/screen/3",
+    "http://api.nlib.cc/nx/0100E88009A34000/screen/4",
+    "http://api.nlib.cc/nx/0100E88009A34000/screen/5"
+  ]
+}

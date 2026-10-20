@@ -1,0 +1,16 @@
+{
+  "name": "SmuggleCraft",
+  "publisher": "Happy Badger Studio",
+  "releaseDate": "20190124",
+  "description": "You’ve got a fast hovercraft and a heavy debt. Also the world is falling apart.\n\nAs a smuggler in a society in which travel, trade, and technology are highly regulated and virtually inaccessible for most, your deliveries could decide the fate of your world. \n\nSmuggleCraft is a quest-based hovercraft racing adventure. Pilot your Hovercraft to smuggle contraband, build upgrades, and escape the authorities as you discover the incredible stories of the inhabitants of the unforgiving and troubled world Dirahl.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C4200B820000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C4200B820000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C4200B820000/screen/1",
+    "http://api.nlib.cc/nx/0100C4200B820000/screen/2",
+    "http://api.nlib.cc/nx/0100C4200B820000/screen/3",
+    "http://api.nlib.cc/nx/0100C4200B820000/screen/4",
+    "http://api.nlib.cc/nx/0100C4200B820000/screen/5",
+    "http://api.nlib.cc/nx/0100C4200B820000/screen/6"
+  ]
+}

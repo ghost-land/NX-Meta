@@ -1,0 +1,16 @@
+{
+  "name": "STAR WARS™: Bounty Hunter™",
+  "publisher": "Aspyr",
+  "releaseDate": "20240801",
+  "description": "Bring In Your Bounty, Dead or Alive\n\nLet the Hunt Begin\nIn this classic third-person action-adventure, you'll become Jango Fett, Prime Clone of the Grand Army of the Republic, hired to capture a deranged Dark Jedi.\n\nRelive the Timeless Tale \nExperience the legendary Bounty Hunter fantasy set before the events of Star Wars: Episode II - Attack of the Clones. Face off against foes and maneuver through acrobatic battles in this adaption optimized for today's consoles and hardware.\n\nArmed to the Teeth\nFight your way through the galaxy’s underbelly, equipped with Dual Blasters, your Flamethrower, Whipcord, and pure Mandalorian Rage.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D7A01B7A2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D7A01B7A2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D7A01B7A2000/screen/1",
+    "http://api.nlib.cc/nx/0100D7A01B7A2000/screen/2",
+    "http://api.nlib.cc/nx/0100D7A01B7A2000/screen/3",
+    "http://api.nlib.cc/nx/0100D7A01B7A2000/screen/4",
+    "http://api.nlib.cc/nx/0100D7A01B7A2000/screen/5",
+    "http://api.nlib.cc/nx/0100D7A01B7A2000/screen/6"
+  ]
+}

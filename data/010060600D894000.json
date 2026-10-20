@@ -1,0 +1,15 @@
+{
+  "name": "Freecell Solitaire",
+  "publisher": "Vertical Reach",
+  "releaseDate": "20190307",
+  "description": "Freecell Solitaire has faithfully recreated the world's most loved card game!\n\nIn Freeplay Mode you'll be dealt a hand at random, never play the same game twice.\nIn Challenge Mode you'll be tasked with beating all 90 levels as they get progressively harder!\n\nFreecell Solitaire is perfect for a moment of relaxation at home or on the go!\n\n● Beautiful Presentation.\n● Three levels of difficulty.\n● 90 Challenge Mode stages.\n● Intuitive Controls.\n● An Undo button, step back if you make a mistake.",
+  "bannerUrl": "http://api.nlib.cc/nx/010060600D894000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010060600D894000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010060600D894000/screen/1",
+    "http://api.nlib.cc/nx/010060600D894000/screen/2",
+    "http://api.nlib.cc/nx/010060600D894000/screen/3",
+    "http://api.nlib.cc/nx/010060600D894000/screen/4",
+    "http://api.nlib.cc/nx/010060600D894000/screen/5"
+  ]
+}

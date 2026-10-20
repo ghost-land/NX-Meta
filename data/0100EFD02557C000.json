@@ -1,0 +1,16 @@
+{
+  "name": "Battle Pixel",
+  "publisher": "Testagamercreations",
+  "releaseDate": "20251218",
+  "description": "Battle Pixel is an intense first-person shooter where every match becomes a fierce battle for the top spot. You’ll enter a combat zone where there’s no room for error — only those who think fast, shoot precisely, and move smartly will come out on top.\n\nFeatures:\n• Access a wide arsenal. Weapons can be purchased by collecting resources during or between matches. Each type has its own role — build the perfect loadout for any situation.\n• Compete against real players. Online battles demand maximum focus and flexibility. Every decision could change the tide of combat.\n• Want to train or test new weapons? Fight against bots in offline mode — a great opportunity to sharpen your reflexes and experiment with tactics.\n• Step outside the active zone and you’ll start taking damage. A constantly shrinking boundary pushes players forward, forcing fast decisions and aggressive plays.\n• Use vehicles for fast travel and surprise attacks. Cars can be a lifesaver — or a liability — depending on who’s in control.\n• Customize your style. Unlock and apply unique skins for both weapons and your character — dominate the battlefield with power and flair.\n\nBattle Pixel is a survival arena where only the strongest prevail. Are you ready to enter the fight and prove your dominance?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EFD02557C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EFD02557C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EFD02557C000/screen/1",
+    "http://api.nlib.cc/nx/0100EFD02557C000/screen/2",
+    "http://api.nlib.cc/nx/0100EFD02557C000/screen/3",
+    "http://api.nlib.cc/nx/0100EFD02557C000/screen/4",
+    "http://api.nlib.cc/nx/0100EFD02557C000/screen/5",
+    "http://api.nlib.cc/nx/0100EFD02557C000/screen/6"
+  ]
+}

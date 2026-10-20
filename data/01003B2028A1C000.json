@@ -1,0 +1,18 @@
+{
+  "name": "Veiled Edge",
+  "publisher": "GaniTani",
+  "releaseDate": "20260903",
+  "description": "The year is 2099. The line between reality and the virtual world has disappeared.\n\nStep into a fully immersive virtual world powered by cutting-edge Full-Dive technology. Join investigator Rapid and genius hacker Lena as they uncover the truth behind a mysterious series of incidents.\n\nVeiled Edge is a 2D action-adventure combining fast-paced combat, detailed pixel art, and diverse gameplay styles. Master platforming and intense battles while using hacking abilities to alter the environment, reveal hidden paths, and overcome challenging stages.\n\nEach chapter introduces unique settings and gameplay mechanics, offering fresh experiences throughout your journey. Explore cyberpunk cities, theme parks, research facilities, and more as you battle powerful enemies and bosses to expose a massive conspiracy.\n\nFeatures\nBeautiful pixel-art cyberpunk world\nFast-paced 2D action and platforming\nHack the environment to solve puzzles and progress\nUnique gameplay in every chapter\nStory-driven sci-fi mystery\nHidden routes and optional challenges to discover",
+  "bannerUrl": "http://api.nlib.cc/nx/01003B2028A1C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003B2028A1C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003B2028A1C000/screen/1",
+    "http://api.nlib.cc/nx/01003B2028A1C000/screen/2",
+    "http://api.nlib.cc/nx/01003B2028A1C000/screen/3",
+    "http://api.nlib.cc/nx/01003B2028A1C000/screen/4",
+    "http://api.nlib.cc/nx/01003B2028A1C000/screen/5",
+    "http://api.nlib.cc/nx/01003B2028A1C000/screen/6"
+  ],
+  "version": 0,
+  "size": 490974626
+}

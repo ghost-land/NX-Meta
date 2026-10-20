@@ -1,0 +1,16 @@
+{
+  "name": "Calturin",
+  "publisher": "Samustai",
+  "releaseDate": "20220128",
+  "description": "Calturin is a Bullet Hell Boss Rush game where you are resurrected by a necromancer who now holds you in his power. Promised your freedom if you do his bidding, you must traverse the Gauntlet of Portals to unknown lands and face deadly beings.\n\n- 8 unique boss fights, 2 paths of pain and a fight against an army.\n- A compelling story told through fully voiced characters.\n- Choose how to improve your skills as you become stronger.\n- Red and black portals for those who wish a harder challenge.\n- Designed to be suitable for both normal playthrough and speedrunning.\n\nThe Gauntlet of Portals Awaits.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BD7016B16000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BD7016B16000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BD7016B16000/screen/1",
+    "http://api.nlib.cc/nx/0100BD7016B16000/screen/2",
+    "http://api.nlib.cc/nx/0100BD7016B16000/screen/3",
+    "http://api.nlib.cc/nx/0100BD7016B16000/screen/4",
+    "http://api.nlib.cc/nx/0100BD7016B16000/screen/5",
+    "http://api.nlib.cc/nx/0100BD7016B16000/screen/6"
+  ]
+}

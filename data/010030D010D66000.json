@@ -1,0 +1,16 @@
+{
+  "name": "Chess Minimal",
+  "publisher": "Hook Games",
+  "releaseDate": "20201106",
+  "description": "Chess Minimal contains all essential parts of good chess game:\n- Online multiplayer, play Blitz (5m), Rapid (15m) or Classic (30m) match\n- Global leaderboards, Elo rating system\n- Private online games with your friend\n- Local multiplayer on a single device\n- Game vs AI\n- Touch support\n- Beautiful minimal design\n\nChess is the most popular classical game, two-player strategy board game played on a checkered board with 64 squares arranged in an 8×8 square grid. ",
+  "bannerUrl": "http://api.nlib.cc/nx/010030D010D66000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010030D010D66000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010030D010D66000/screen/1",
+    "http://api.nlib.cc/nx/010030D010D66000/screen/2",
+    "http://api.nlib.cc/nx/010030D010D66000/screen/3",
+    "http://api.nlib.cc/nx/010030D010D66000/screen/4",
+    "http://api.nlib.cc/nx/010030D010D66000/screen/5",
+    "http://api.nlib.cc/nx/010030D010D66000/screen/6"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Deployment",
+  "publisher": "Whale Rock Games",
+  "releaseDate": "20181024",
+  "description": "Deployment is an intense competitive top-down shooter game. Infosoldiers, made of pure information, fight in an endless war between governments and megacorporations to rule over the digital systems that control the world.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000BF00B6BC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000BF00B6BC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000BF00B6BC000/screen/1",
+    "http://api.nlib.cc/nx/01000BF00B6BC000/screen/2"
+  ]
+}

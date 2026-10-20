@@ -1,0 +1,16 @@
+{
+  "name": "Penko Park",
+  "publisher": "Ghostbutter",
+  "releaseDate": "20220927",
+  "description": "Snap magnificent shots and discover the creatures' most impressive poses. Collect wildlife details and snapshots in your trusty park guidebook. Uncover the park's history, secrets & many hidden paths. Utilize your trusty Grappling Hand to interact with the environment. Enter the spooky realm by unlocking your camera's Ghost-o-vision.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ECC018998000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ECC018998000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ECC018998000/screen/1",
+    "http://api.nlib.cc/nx/0100ECC018998000/screen/2",
+    "http://api.nlib.cc/nx/0100ECC018998000/screen/3",
+    "http://api.nlib.cc/nx/0100ECC018998000/screen/4",
+    "http://api.nlib.cc/nx/0100ECC018998000/screen/5",
+    "http://api.nlib.cc/nx/0100ECC018998000/screen/6"
+  ]
+}

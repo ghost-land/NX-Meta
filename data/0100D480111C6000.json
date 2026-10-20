@@ -1,0 +1,13 @@
+{
+  "name": "Crypto by POWGI",
+  "publisher": "Lightwood Games",
+  "releaseDate": "20200521",
+  "description": "Crack the code to reveal the quote in this classic cryptogram puzzle.\n\nDecrypt the ciphers to find 180 funny and inspirational messages.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D480111C6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D480111C6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D480111C6000/screen/1",
+    "http://api.nlib.cc/nx/0100D480111C6000/screen/2",
+    "http://api.nlib.cc/nx/0100D480111C6000/screen/3"
+  ]
+}

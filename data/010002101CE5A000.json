@@ -1,0 +1,18 @@
+{
+  "name": "Aureole - Wings of Hope",
+  "publisher": "JanduSoft",
+  "releaseDate": "20250515",
+  "description": "At sonic speeds, Aureole - Wings of Hope takes platforming to the literal skies! Join Ramila and Ryleth on their crusade to reclaim their home from demonic forces in this unique physics-based side-scrolling game.\n\nTurn into the fastest halo ever! Join Ramila and Ryleth on their high-speed crusade to reclaim their home from demonic forces in this unique physics-based platformer. Master precision movement as you dash, bounce, and soar through levels designed to push you to supersonic speeds with smooth and responsive controls.\n\nAges after the demons were banished, a new threat looms over the Heaven Kingdom. The demonic army has returned, stronger than ever, led by the self-proclaimed Demon King Lazel, who seeks to conquer the angels’ domain once and for all.\n\nFeatures:\n-Explore vibrant biomes, each expanding gameplay and mechanics.\n-Easy to learn, fun to master.\n-Upbeat soundtrack to fuel your speed.\n-Climb global leaderboards and surpass your limits.\n-Discover hidden collectibles.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010002101CE5A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010002101CE5A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010002101CE5A000/screen/1",
+    "http://api.nlib.cc/nx/010002101CE5A000/screen/2",
+    "http://api.nlib.cc/nx/010002101CE5A000/screen/3",
+    "http://api.nlib.cc/nx/010002101CE5A000/screen/4",
+    "http://api.nlib.cc/nx/010002101CE5A000/screen/5",
+    "http://api.nlib.cc/nx/010002101CE5A000/screen/6"
+  ],
+  "version": 0,
+  "size": 469258776
+}

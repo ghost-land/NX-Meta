@@ -1,0 +1,14 @@
+{
+  "name": "Cryptical Path",
+  "publisher": "Alchemy Games",
+  "releaseDate": "20260304",
+  "description": "Cryptical Path is an action-packed rogue-lite where you control the dungeon. Step into the role of the Architect, the creator of the mysterious Hexium, and shape your own path while battling the vengeful souls trapped within your creation.\n\nHere, the power is yours. Choose, combine, and build rooms to transform the labyrinth every run. Craft unique strategies, personalize your journey, and explore thousands of possibilities in this innovative roguelite-builder, where you don’t rely on luck—you create the challenge.\n\nMaster fast-paced combat in a beautifully crafted 3D side-scrolling world filled with danger, secrets, and ever-shifting environments. Discover powerful items, unlock new talents, and unravel the mysteries of the Hexium as you fight to reclaim control of a prison that no longer obeys its maker.\n\nFeatures\n\nRoguelite-Builder: Build your path, choose your rooms, and shape the dungeon every run.\n\nIntense Action: Dodge, dash, and slash through enemies with the Architect’s agile combat style.\n\nImmersive World: Explore a rich 3D side-scroller filled with atmosphere and hidden secrets.\n\nConstant Progression: Unlock items, talents, and unique combinations that evolve with every attempt.\n\nHigh Replayability: Experiment with new strategies and room setups each time you enter the Hexium.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000E7026482000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000E7026482000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000E7026482000/screen/1",
+    "http://api.nlib.cc/nx/01000E7026482000/screen/2",
+    "http://api.nlib.cc/nx/01000E7026482000/screen/3",
+    "http://api.nlib.cc/nx/01000E7026482000/screen/4"
+  ]
+}

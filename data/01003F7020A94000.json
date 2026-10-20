@@ -1,0 +1,16 @@
+{
+  "name": "The Last Light",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20250116",
+  "description": "In The Last Light, set off on a moving journey through the memories of a man reflecting on his life, love, and loss. This narrative exploration game invites players to experience how love and vision are deeply connected as you move through the protagonist’s life, encountering moments of joy, sorrow, and introspection.\n\nThe story unfolds in the vibrant days of the protagonist's youth, where you relive his childhood memories alongside Emily, the love of his life. Emily isn’t just a companion—she’s his guiding light, illuminating memories and experiences as they journey through life together. But over time, the protagonist’s eyesight begins to fade, altering his world and the gameplay profoundly.\n\nAs his vision deteriorates, colors begin to drain from the environment, making it harder to navigate. Yet, Emily’s presence brings light and clarity, representing how love can brighten even the darkest moments.\n\nExperience the stages of life, from the dreams of youth to the bittersweet reality of growing old together. The Last Light is a powerful narrative about love, memory, and time—a touching exploration of how relationships guide us through life’s most challenging passages.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003F7020A94000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003F7020A94000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003F7020A94000/screen/1",
+    "http://api.nlib.cc/nx/01003F7020A94000/screen/2",
+    "http://api.nlib.cc/nx/01003F7020A94000/screen/3",
+    "http://api.nlib.cc/nx/01003F7020A94000/screen/4",
+    "http://api.nlib.cc/nx/01003F7020A94000/screen/5",
+    "http://api.nlib.cc/nx/01003F7020A94000/screen/6"
+  ]
+}

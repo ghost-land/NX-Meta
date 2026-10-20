@@ -1,0 +1,15 @@
+{
+  "name": "Candy Raid: The Factory",
+  "publisher": "KR Game Studios",
+  "releaseDate": "20201001",
+  "description": "Candy Raid: The Factory is a retro top-down puzzle and exploration game. You play the candy-happy witch Candy as she uses her elemental powers to solve puzzles and unlock secrets in her never-ending quest to sate her sweet tooth.\n\nGlorious retro pixel art in a top-down adventure style.\nFamily-friendly non-violent puzzle action and adventure.\nDozens of unique puzzles punctuated by sweet, sweet rewards.\nHarness the power of fire, ice, and wind magic as you wander around the world.\nThree unique areas to explore: the lively gumdrop gardens, the fiery lava kitchens, and the secret frozen vaults.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B040128E6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B040128E6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B040128E6000/screen/1",
+    "http://api.nlib.cc/nx/0100B040128E6000/screen/2",
+    "http://api.nlib.cc/nx/0100B040128E6000/screen/3",
+    "http://api.nlib.cc/nx/0100B040128E6000/screen/4",
+    "http://api.nlib.cc/nx/0100B040128E6000/screen/5"
+  ]
+}

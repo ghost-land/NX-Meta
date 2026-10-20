@@ -1,0 +1,16 @@
+{
+  "name": "Hyper Dots",
+  "publisher": "Entity3",
+  "releaseDate": "20250809",
+  "description": "Hyper Dots is a fast-paced, endlessly replayable puzzle-style game that challenges you to beat your best score with each run. Colored balls drop into the game zone, and your goal is to pop them by connecting two or more of the same color. Each time you make a match, you earn points and create space for more dots to fall. A locked gate with a points requirement blocks access to the next area—burst it open by scoring enough before you run out of moves. Make it through, and you’ll gain an extra move to keep going. Connect five or more dots at once to clear every dot of that color on the board, opening up new opportunities and boosting your score. When you run out of moves, your run ends and it’s time to try again. With its bright visuals, simple rules, and satisfying chain reactions, Hyper Dots offers a laid-back yet addictive challenge for casual puzzle fans.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009790248D2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009790248D2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009790248D2000/screen/1",
+    "http://api.nlib.cc/nx/01009790248D2000/screen/2",
+    "http://api.nlib.cc/nx/01009790248D2000/screen/3",
+    "http://api.nlib.cc/nx/01009790248D2000/screen/4",
+    "http://api.nlib.cc/nx/01009790248D2000/screen/5",
+    "http://api.nlib.cc/nx/01009790248D2000/screen/6"
+  ]
+}

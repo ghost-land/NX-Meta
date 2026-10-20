@@ -1,0 +1,14 @@
+{
+  "name": "Memory Lane 2",
+  "publisher": "Playstige Interactive",
+  "releaseDate": "20210803",
+  "description": "Your favorite memory training game is back!\nNow with more card sets and with more music!\nSelect from 8 different card set \nListen to more than 30 relaxing and inspiring music tracks.\nUnlock new factoids and learn about how human brain works and how our memory functions.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003840151F8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003840151F8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003840151F8000/screen/1",
+    "http://api.nlib.cc/nx/01003840151F8000/screen/2",
+    "http://api.nlib.cc/nx/01003840151F8000/screen/3",
+    "http://api.nlib.cc/nx/01003840151F8000/screen/4"
+  ]
+}

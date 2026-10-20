@@ -1,0 +1,16 @@
+{
+  "name": "TRYBIT LOGIC",
+  "publisher": "HIMACS",
+  "releaseDate": "20181213",
+  "description": "TRYBIT LOGIC is a fun puzzle game that lets you learn about logical operations used in computer programming.\n\nStrategically combine the logical operations panels to defeat the bugs.\nIf a bug's switch reaches 0000 or 1111, you can destroy it!\n\n<PUZZLE MODE>\n- Manipulate the logical operations panels onscreen to solve the bugs.\n- Think about how to combine panels and move them around to find the solution!\n\n<DEFENSE MODE>\n- Use the panels to defend against the bugs advancing onscreen from the right.\n- If a bug reaches one of the BITROBO, it's game over.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DFA00C6A6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DFA00C6A6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DFA00C6A6000/screen/1",
+    "http://api.nlib.cc/nx/0100DFA00C6A6000/screen/2",
+    "http://api.nlib.cc/nx/0100DFA00C6A6000/screen/3",
+    "http://api.nlib.cc/nx/0100DFA00C6A6000/screen/4",
+    "http://api.nlib.cc/nx/0100DFA00C6A6000/screen/5",
+    "http://api.nlib.cc/nx/0100DFA00C6A6000/screen/6"
+  ]
+}

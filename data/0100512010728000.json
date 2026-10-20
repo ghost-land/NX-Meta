@@ -1,0 +1,16 @@
+{
+  "name": "Totally Reliable Delivery Service",
+  "publisher": "Infogrames",
+  "releaseDate": "20200401",
+  "description": "Delivery attempted, that's a Totally Reliable Delivery Service guarantee!\n\nFEATURES:\n\nLocal and Online Multiplayer: Go it alone to ensure the safety of your deliveries, or join your friends and put your teamwork to the test.\n\nControlled Noodly Chaos: Unpredictable ragdoll physics meets snappy platforming. Sprint, leap, dive, and grapple with ease, but collide with something and you'll be knocked out cold!\n\nA World of Distractions: Take a break from deliveries and play around! The world is chock full of toys, vehicles, and machines that can be used for work or play.\n\nRagtag Crew: Customize your blue-collar workers and get your rear into gear, it's time to deliver!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100512010728000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100512010728000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100512010728000/screen/1",
+    "http://api.nlib.cc/nx/0100512010728000/screen/2",
+    "http://api.nlib.cc/nx/0100512010728000/screen/3",
+    "http://api.nlib.cc/nx/0100512010728000/screen/4",
+    "http://api.nlib.cc/nx/0100512010728000/screen/5",
+    "http://api.nlib.cc/nx/0100512010728000/screen/6"
+  ]
+}

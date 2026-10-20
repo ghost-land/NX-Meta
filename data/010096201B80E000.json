@@ -1,0 +1,16 @@
+{
+  "name": "Evil Wizard",
+  "publisher": "E-Home",
+  "releaseDate": "20230921",
+  "description": "Evil Wizard is a humor-filled action RPG that puts you in the shoes of a former Final Boss. Rise from defeat, rediscover long lost powers, and fight to reclaim your castle from an army of so-called heroes.\n- We are totally aware of the save issue that bring troubles to all players, we are so sorry and there will be an update \nsoon in days ",
+  "bannerUrl": "http://api.nlib.cc/nx/010096201B80E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010096201B80E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010096201B80E000/screen/1",
+    "http://api.nlib.cc/nx/010096201B80E000/screen/2",
+    "http://api.nlib.cc/nx/010096201B80E000/screen/3",
+    "http://api.nlib.cc/nx/010096201B80E000/screen/4",
+    "http://api.nlib.cc/nx/010096201B80E000/screen/5",
+    "http://api.nlib.cc/nx/010096201B80E000/screen/6"
+  ]
+}

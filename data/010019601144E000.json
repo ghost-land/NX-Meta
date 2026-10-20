@@ -1,0 +1,16 @@
+{
+  "name": "Desktop Basketball",
+  "publisher": "SAT-BOX",
+  "releaseDate": "20200409",
+  "description": "Enjoy basketball with easy to learn controls!\nEnjoy all kinds of stages! From factories to amusement parks!\nCustomize your team and dunk on your friends!\n\n[Practice Game]\nExperience exciting matches in single player!\nPlay games 3v3 or 5v5.\nLearn the rules and controls as you go!\n\n[Friendly Game]\nPlay competitively or cooperatively with up to 4 people!\nPlay on a normal court or on special courts loaded with fun gimmicks!\nUse these gimmicks to your advantage to defeat your opponent!\n\n[Team Selection]\nUse items to increase your player's stats or to find your own unique play style!\nCustomize your team's uniforms and make your dream team!\n\n[Tournament]\nTake on the Championship Cup!\nBattle against strong rivals and seize victory!\n\n[Capsule Shoot]\nUse the points you've gained from playing different modes to get new formations, uniforms, and rare items to take your play to the next level!\n\n[Mini Game]\nUse Point Shooter to rack up points with accurate shooting!",
+  "bannerUrl": "http://api.nlib.cc/nx/010019601144E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010019601144E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010019601144E000/screen/1",
+    "http://api.nlib.cc/nx/010019601144E000/screen/2",
+    "http://api.nlib.cc/nx/010019601144E000/screen/3",
+    "http://api.nlib.cc/nx/010019601144E000/screen/4",
+    "http://api.nlib.cc/nx/010019601144E000/screen/5",
+    "http://api.nlib.cc/nx/010019601144E000/screen/6"
+  ]
+}

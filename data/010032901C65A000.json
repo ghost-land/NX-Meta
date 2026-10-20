@@ -1,0 +1,16 @@
+{
+  "name": "Lost Forest",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20230822",
+  "description": "Welcome to the mystical world of Lost Forest, a captivating adventure game that invites you to embark on a tranquil and soothing journey through an enchanting forest shrouded in mystery and fog. Immerse yourself in a unique blend of exploration, relaxation, and discovery as you traverse breathtaking landscapes, uncover ancient remains, explore a majestic mansion, and find solace in serene camping areas. Get ready to lose yourself in the beauty of nature and unlock the secrets hidden within the Lost Forest.",
+  "bannerUrl": "http://api.nlib.cc/nx/010032901C65A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010032901C65A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010032901C65A000/screen/1",
+    "http://api.nlib.cc/nx/010032901C65A000/screen/2",
+    "http://api.nlib.cc/nx/010032901C65A000/screen/3",
+    "http://api.nlib.cc/nx/010032901C65A000/screen/4",
+    "http://api.nlib.cc/nx/010032901C65A000/screen/5",
+    "http://api.nlib.cc/nx/010032901C65A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "One Step From Eden",
+  "publisher": "Humble Games .",
+  "releaseDate": "20200326",
+  "description": "One Step from Eden combines strategic deck-building and real-time action with rogue-like elements, allowing your character the chance to carve a path of mercy or destruction. Fight alone or with a friend in co-op as you cast powerful spells on the fly, battle evolving enemies, and collect game-changing artifacts. Can you make it to Eden or will your destruction be imminent?\n\nKEY FEATURES \n- Genre-Bending. Experience a blend of strategy and real-time action. Build your deck and fight through bullet hell as you make your way to Eden.\n- Comprehensive Deckbuilding. Customize your deck and play style with 200+ spells and 100+ game-changing items.\n- Varied Gameplay. A cast of 9 playable characters across procedurally generated levels with alternate runs ensures you’ll never experience the same situation or outcome twice. \n- Play with Friends. Fight your way to Eden in local co-op or in PvP.",
+  "bannerUrl": "http://api.nlib.cc/nx/010048800F41C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010048800F41C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010048800F41C000/screen/1",
+    "http://api.nlib.cc/nx/010048800F41C000/screen/2",
+    "http://api.nlib.cc/nx/010048800F41C000/screen/3",
+    "http://api.nlib.cc/nx/010048800F41C000/screen/4",
+    "http://api.nlib.cc/nx/010048800F41C000/screen/5",
+    "http://api.nlib.cc/nx/010048800F41C000/screen/6"
+  ]
+}

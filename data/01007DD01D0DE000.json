@@ -1,0 +1,16 @@
+{
+  "name": "Halloween Bubble Shooter",
+  "publisher": "EntwicklerX",
+  "releaseDate": "20231026",
+  "description": "Halloween Bubble Shooter is a spooky bubble shooter game for all ages.\n\nThis addictive classic bubble blast match-three game comes with a spooky Halloween graphics style, great challenging levels and some nice special items for better game experience in harder levels. ",
+  "bannerUrl": "http://api.nlib.cc/nx/01007DD01D0DE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007DD01D0DE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007DD01D0DE000/screen/1",
+    "http://api.nlib.cc/nx/01007DD01D0DE000/screen/2",
+    "http://api.nlib.cc/nx/01007DD01D0DE000/screen/3",
+    "http://api.nlib.cc/nx/01007DD01D0DE000/screen/4",
+    "http://api.nlib.cc/nx/01007DD01D0DE000/screen/5",
+    "http://api.nlib.cc/nx/01007DD01D0DE000/screen/6"
+  ]
+}

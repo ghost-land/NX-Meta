@@ -1,0 +1,18 @@
+{
+  "name": "Flight Simulator 2026",
+  "publisher": "Play Lab",
+  "releaseDate": "20260521",
+  "description": "A dynamic flight simulator focused on time-based challenges. Choose your aircraft, customize its stats, and navigate through checkpoint systems across various maps. Cross the finish before the timer runs out!\n\n- Checkpoint Racing. Your main goal is to reach the finish by passing through a series of checkpoints. Time is limited: plan your route and keep an eye on the timer to complete the mission before it's too late.\n\n- Diverse Fleet. Choose from a wide range of aircraft, from steady trainers to high-speed jets. Each plane has its own unique speed, maneuverability, and weight, completely changing the feel of the flight.\n\n- Tuning and Customization. Upgrade your aircraft's performance and change its appearance. Tune your engine and handling to master sharp turns and break speed records.\n\n- Varied Maps. Fly across different locations, including mountains and forests. Every map offers unique tracks with different checkpoint layouts.\n\n- Speed Trials. Complete long-distance tracks against the clock, unlock new levels, and prove you are the fastest pilot. No distractions—just you, the plane, and the stopwatch.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001BE027AC2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001BE027AC2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001BE027AC2000/screen/1",
+    "http://api.nlib.cc/nx/01001BE027AC2000/screen/2",
+    "http://api.nlib.cc/nx/01001BE027AC2000/screen/3",
+    "http://api.nlib.cc/nx/01001BE027AC2000/screen/4",
+    "http://api.nlib.cc/nx/01001BE027AC2000/screen/5",
+    "http://api.nlib.cc/nx/01001BE027AC2000/screen/6"
+  ],
+  "version": 0,
+  "size": 744284586
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Galaxy Squad",
+  "publisher": "Big Way",
+  "releaseDate": "20210901",
+  "description": "The game combines node-based exploration with random events, with hardcore tactical battles. All your characters are randomly generated, and you can evolve them however you want, creating your ultimate crew.\n\n• Explore different planets and systems, fight huge hordes of enemies\n• Upgrade your ship and use its systems in events or in battles\n• Explore space stations, find quests\n• A well-developed story campaign system, involving your characters and branching storylines\n• Upgrade your equipment with different modifications and find rare loot",
+  "bannerUrl": "http://api.nlib.cc/nx/0100270015190000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100270015190000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100270015190000/screen/1",
+    "http://api.nlib.cc/nx/0100270015190000/screen/2",
+    "http://api.nlib.cc/nx/0100270015190000/screen/3",
+    "http://api.nlib.cc/nx/0100270015190000/screen/4",
+    "http://api.nlib.cc/nx/0100270015190000/screen/5",
+    "http://api.nlib.cc/nx/0100270015190000/screen/6"
+  ]
+}

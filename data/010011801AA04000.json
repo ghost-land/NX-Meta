@@ -1,0 +1,16 @@
+{
+  "name": "Cyber Neon Bundle",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20230427",
+  "description": "Cyber Neon Bundle is a collection of two cyber theme games; CYBERHUNT and RAZORTRON 2000. Both are frenetic action games where you’ll use your skills to win everything! \n\nCYBERHUNT is a retro procedurally generated twin stick shooter that takes you back to the sweet to the sweet arcade machines era, where you can play the arcade and missions mode.\n\nRAZORTRON 2000 is a retro top-down endless racing game, where the player will try to beat the highscore, unlock new cars and climb your way to the top of the leaderboards on this love letter to coin eater arcade machines era!\t\n\nBundle Features\n- Two games to choose;\n- Both games with beautiful retro pixel art with aesthetics vibe;\n- Frenetic Music; \n- Many unlockables in both games;",
+  "bannerUrl": "http://api.nlib.cc/nx/010011801AA04000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010011801AA04000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010011801AA04000/screen/1",
+    "http://api.nlib.cc/nx/010011801AA04000/screen/2",
+    "http://api.nlib.cc/nx/010011801AA04000/screen/3",
+    "http://api.nlib.cc/nx/010011801AA04000/screen/4",
+    "http://api.nlib.cc/nx/010011801AA04000/screen/5",
+    "http://api.nlib.cc/nx/010011801AA04000/screen/6"
+  ]
+}

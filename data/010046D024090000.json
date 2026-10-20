@@ -1,0 +1,18 @@
+{
+  "name": "Duck Side of the Moon",
+  "publisher": "Starbrew Games",
+  "releaseDate": "20260507",
+  "description": "Fly around as Doug, an overworked duck astronaut looking for a new homeworld. Crashed on a strange side of the galaxy, maybe this break is exactly what he needs! Whether you’re exploring or just soaking in the stars, this galaxy is yours to enjoy at your own pace.\n\nExplore & Discover\nDive into a world filled with secrets! Find rare minerals in glowing caves, win outfits at the funfair, or see what’s bubbling inside the volcano... Whether it’s the highest stars or the deepest mines, every path has something to discover!\n\nMeet & Help\nLucky for you, this side of the galaxy is filled with curious creatures who welcome you. Build a party, solve the town's mysteries, win an ice cream, and much more! In this world doing a little good goes a long way.\n\nCollect & Craft\nMake your spaceship a home among the stars! Build a comfy couch, a gardening room, or maybe even a basketball hoop. Fill your backpack with rare materials and return home to craft gadgets and stylish outfits! No rush, your ship isn’t going anywhere without you!",
+  "bannerUrl": "http://api.nlib.cc/nx/010046D024090000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010046D024090000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010046D024090000/screen/1",
+    "http://api.nlib.cc/nx/010046D024090000/screen/2",
+    "http://api.nlib.cc/nx/010046D024090000/screen/3",
+    "http://api.nlib.cc/nx/010046D024090000/screen/4",
+    "http://api.nlib.cc/nx/010046D024090000/screen/5",
+    "http://api.nlib.cc/nx/010046D024090000/screen/6"
+  ],
+  "version": 0,
+  "size": 708145375
+}

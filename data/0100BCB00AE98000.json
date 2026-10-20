@@ -1,0 +1,16 @@
+{
+  "name": "GUNBIRD2 for Nintendo Switch",
+  "publisher": "City Connection",
+  "releaseDate": "20180621",
+  "description": "Five characters with distresses went out for an \nadventure to get the medicine that was handed \ndown from the ancient times.\n\nHowever, they need to gather three materials \ncalled \"Sun element\", \"Star element\" and \"Moon \nelement\" and meet the god who lives in an \nillusionary underground temple to be able to get \nthe medicine.\n\nIn the middle of their journey, they will meet the \nQueen Pirates and will be blocked by them from \ngetting three materials.\n\nWill they be able to get the medicine before the \nQueen Pirates!?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BCB00AE98000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BCB00AE98000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BCB00AE98000/screen/1",
+    "http://api.nlib.cc/nx/0100BCB00AE98000/screen/2",
+    "http://api.nlib.cc/nx/0100BCB00AE98000/screen/3",
+    "http://api.nlib.cc/nx/0100BCB00AE98000/screen/4",
+    "http://api.nlib.cc/nx/0100BCB00AE98000/screen/5",
+    "http://api.nlib.cc/nx/0100BCB00AE98000/screen/6"
+  ]
+}

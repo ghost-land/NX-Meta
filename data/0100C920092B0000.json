@@ -1,0 +1,16 @@
+{
+  "name": "Energy Balance",
+  "publisher": "Sometimes You",
+  "releaseDate": "20180116",
+  "description": "During a mission your spaceship encounters an unknown anomaly and all systems fail. You have to balance the energy in order to get them running again and to get home safely.\n\nEnergy Balance is a number puzzle. You have to swap power units in such a way that their sums form correct chains both vertically and horizontally. The game is easy to learn, but very hard to master. So, are you ready to peep under the hood of an alien spaceship?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C920092B0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C920092B0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C920092B0000/screen/1",
+    "http://api.nlib.cc/nx/0100C920092B0000/screen/2",
+    "http://api.nlib.cc/nx/0100C920092B0000/screen/3",
+    "http://api.nlib.cc/nx/0100C920092B0000/screen/4",
+    "http://api.nlib.cc/nx/0100C920092B0000/screen/5",
+    "http://api.nlib.cc/nx/0100C920092B0000/screen/6"
+  ]
+}

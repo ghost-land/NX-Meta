@@ -1,0 +1,16 @@
+{
+  "name": "Cloud Gardens",
+  "publisher": "Coatsink Software",
+  "releaseDate": "20220616",
+  "description": "In Cloud Gardens, you harness the healing power of nature to overgrow urban decay within wasteland dioramas.\n\nPlant seeds, repurpose hundreds of discarded objects and create unique structures for nature to reclaim.\n\nCloud Gardens relaxing nature encourages creativity and is filled with an enormous catalogue of objects and plantlife to choose from.\n\nShare your creations with other gardeners, download looping videos of other dioramas, and embrace generative soundscapes by Amos Roddy, composer of Kingdom.\n\nPart garden simulator, part dystopian landscape builder, part puzzle game, Cloud Gardens aims to fill you with satisfaction without the frustration.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C010181FE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C010181FE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C010181FE000/screen/1",
+    "http://api.nlib.cc/nx/0100C010181FE000/screen/2",
+    "http://api.nlib.cc/nx/0100C010181FE000/screen/3",
+    "http://api.nlib.cc/nx/0100C010181FE000/screen/4",
+    "http://api.nlib.cc/nx/0100C010181FE000/screen/5",
+    "http://api.nlib.cc/nx/0100C010181FE000/screen/6"
+  ]
+}

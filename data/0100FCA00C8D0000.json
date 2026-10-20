@@ -1,0 +1,16 @@
+{
+  "name": "BombFall",
+  "publisher": "Tackorama",
+  "releaseDate": "20190312",
+  "description": "You play as a bomb that traverse three stages of Earth's atmosphere freely moving within the flight corridor towards the target cityscape, bashing various enemies with your super tough nose, gaining powerups, and \"collecting\" clouds to charge your retro thrusters.\n\nEvery game is different because powerups alter your size, weight, health, score, damage output (of your nose bash) and drag factor, or they enable one of your special features. As well as every part of the sky being procedurally generated, there are also three optional Augments that are randomly assigned before a game that adjust a range of stats and enable very special features, drastically affecting gameplay experience.\n\nPowerups, Augments, and bashing enemies, combined with using natural sky phenomena in a skillful way, will help you achieve the highest possible score - the primary goal of BombFall. Can you make the lightning quick decisions necessary to stay alive, boost score, and explode in the right place?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FCA00C8D0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FCA00C8D0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FCA00C8D0000/screen/1",
+    "http://api.nlib.cc/nx/0100FCA00C8D0000/screen/2",
+    "http://api.nlib.cc/nx/0100FCA00C8D0000/screen/3",
+    "http://api.nlib.cc/nx/0100FCA00C8D0000/screen/4",
+    "http://api.nlib.cc/nx/0100FCA00C8D0000/screen/5",
+    "http://api.nlib.cc/nx/0100FCA00C8D0000/screen/6"
+  ]
+}

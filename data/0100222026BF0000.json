@@ -1,0 +1,18 @@
+{
+  "name": "Solo Shift!",
+  "publisher": "SAT-BOX",
+  "releaseDate": "20260514",
+  "description": "Run a convenience store solo in this frantic action game!\nDash around the store handling tasks while customers keep pouring in!\nFeel the exhilaration of handling one task after another!\n\nRush around during peak busy hours!\nTime is limited, so think fast and prioritize as you move around the store!\nComplete every task, and you just might become a true solo shift master!\n\n[The Work Never Ends!]\nOperate the cash register, restock shelves, cook with the fryer, clean, and collect items.\nWork efficiently to stay on top of it all!\n\n[Decision-Making is Key!]\nGood planning and prioritization make all the difference!\nAssess the situation before you act!\n\n[A Different Store Every Stage]\nEach stage features a different store layout!\nAdapt your strategy to match!\n\n[Score Attack]\nEarn stars based on your performance!\nWork at maximum efficiency and aim for a perfect 3-star rating!\n\n[2-Player Mode]\nPlay co-op as a worker and support robot team!\nSplit up tasks and work together strategically!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100222026BF0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100222026BF0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100222026BF0000/screen/1",
+    "http://api.nlib.cc/nx/0100222026BF0000/screen/2",
+    "http://api.nlib.cc/nx/0100222026BF0000/screen/3",
+    "http://api.nlib.cc/nx/0100222026BF0000/screen/4",
+    "http://api.nlib.cc/nx/0100222026BF0000/screen/5",
+    "http://api.nlib.cc/nx/0100222026BF0000/screen/6"
+  ],
+  "version": 0,
+  "size": 124003933
+}

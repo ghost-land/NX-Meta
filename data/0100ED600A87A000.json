@@ -1,0 +1,16 @@
+{
+  "name": "Minit",
+  "publisher": "Devolver Digital",
+  "releaseDate": "20180809",
+  "description": "Minit is a peculiar little adventure played sixty seconds at a time. Journey outside the comfort of your home to help unusual folk, uncover countless secrets, and overcome dangerous foes, all in hopes of lifting a rather unfortunate curse that ends each day after just one minute. Minit is a collaboration between Kitty Calis, Jan Willem Nijman, Jukio Kallio & Dominik Johann.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ED600A87A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ED600A87A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ED600A87A000/screen/1",
+    "http://api.nlib.cc/nx/0100ED600A87A000/screen/2",
+    "http://api.nlib.cc/nx/0100ED600A87A000/screen/3",
+    "http://api.nlib.cc/nx/0100ED600A87A000/screen/4",
+    "http://api.nlib.cc/nx/0100ED600A87A000/screen/5",
+    "http://api.nlib.cc/nx/0100ED600A87A000/screen/6"
+  ]
+}

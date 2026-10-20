@@ -1,0 +1,16 @@
+{
+  "name": "Attacker-chan!",
+  "publisher": "kido",
+  "releaseDate": "20221013",
+  "description": "Take down the out-of-control mechs!\nHead for the enemy base while escaping from the satellite guns.\nGo Attacker-chan!\n\n<Features>\n1. Enemy mechs and robots have a cute military sci-fi style.\n2. Two game modes: Normal mode with infinite respawns and Expert mode with no respawns.\n3. Play time is 30 minutes to 1 hour.\n4. Simple controls: Move / Jump / Melee attack / Shoot / Dash",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B250197CA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B250197CA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B250197CA000/screen/1",
+    "http://api.nlib.cc/nx/0100B250197CA000/screen/2",
+    "http://api.nlib.cc/nx/0100B250197CA000/screen/3",
+    "http://api.nlib.cc/nx/0100B250197CA000/screen/4",
+    "http://api.nlib.cc/nx/0100B250197CA000/screen/5",
+    "http://api.nlib.cc/nx/0100B250197CA000/screen/6"
+  ]
+}

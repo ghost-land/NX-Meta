@@ -1,0 +1,16 @@
+{
+  "name": "LAPIN",
+  "publisher": "CFK",
+  "releaseDate": "20251009",
+  "description": "Alfa, a rabbit burrow that five rabbits call home, is on the verge of collapse due to construction of the park above. Following a map charted by brave explorer Jorge, the five set out in search of a new home, Paradise.\n\nWill the five rabbits be able to find a new burrow to rest their tired limbs in?\nJoin them for this challenging platforming adventure telling a heart-warming tale!\n\n[ Gameplay ]\n▶ Venture forth in search of Paradise\nLAPIN is a 2D precision platformer requiring careful movement. Players steps into the paws of protagonist Liebe, setting out from the rabbit burrow in search of the legendary Paradise alongside her rabbit friends. Pass through rugged terrain, examine mysterious clues left along the path, and interact with your traveling companions to uncover their hidden stories.\n\n▶ Challenging platforming\nThe outside world is far from forgiving for rabbits. Use precise controls to navigate past areas with unique gimmicks, and work with your friends to make it past various life-threatening situations.\n\n▶ Collect hidden seeds\nThere are more than 60 different seeds waiting for Liebe in hard-to-reach locations. Acquire these seeds to dive into Jorge's Expedition, a past story of another great rabbit expedition. What exactly were Jorge and his party looking for?\n\n▶ Converse with party members\nEach of the five rabbits have different personalities, hobbies, and preferences. Take a break from the exploration to talk with them. Discuss various topics, learn new info, and maybe even get a special gift. Grow closer to each rabbit to unlock past episodes.\n\n▶ Liebe's notebook, a personalized collection\nLiebe's notebook, a journal she always carries with her, contains a wealth of knowledge, including collected seeds, gathered info, maps, memories with her rabbit friends, and more. Explore new locations, meet new friends, and collect unique items. Fill in each page of the notebook to make it your own.",
+  "bannerUrl": "http://api.nlib.cc/nx/010005D01FFC4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010005D01FFC4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010005D01FFC4000/screen/1",
+    "http://api.nlib.cc/nx/010005D01FFC4000/screen/2",
+    "http://api.nlib.cc/nx/010005D01FFC4000/screen/3",
+    "http://api.nlib.cc/nx/010005D01FFC4000/screen/4",
+    "http://api.nlib.cc/nx/010005D01FFC4000/screen/5",
+    "http://api.nlib.cc/nx/010005D01FFC4000/screen/6"
+  ]
+}

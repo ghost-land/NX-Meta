@@ -1,0 +1,16 @@
+{
+  "name": "REDEX",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20251022",
+  "description": "REDEX is a pixel-art survival shooter where you battle waves of enemies in fast-paced side-scrolling combat. Collect coins to buy ammo, grenades, armor, and more from vending machines, then trade rare gold for permanent upgrades and new characters.\n\nUnlock new zones, from rooftops to labs, and use air-dropped crates to deploy turrets or mining terminals. Distract foes with dummies and adapt your tactics to survive. No rules, just fight to be the last one standing!\n\n• Defend against enemy waves and unlock increasingly tough battles.\n• Fire in any direction independent of your soldier’s movement.\n• Navigate combat zones in side-scrolling platformer style.\n• Permanently upgrade skills and collect new firearms.\n• Use vending machines to acquire ammo boxes and grenade cases.\n• Set up computer terminals to mine more coins.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000410251A8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000410251A8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000410251A8000/screen/1",
+    "http://api.nlib.cc/nx/01000410251A8000/screen/2",
+    "http://api.nlib.cc/nx/01000410251A8000/screen/3",
+    "http://api.nlib.cc/nx/01000410251A8000/screen/4",
+    "http://api.nlib.cc/nx/01000410251A8000/screen/5",
+    "http://api.nlib.cc/nx/01000410251A8000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Shieldwall",
+  "publisher": "OverGamez",
+  "releaseDate": "20250208",
+  "description": "This game allows you to feel like a squad leader right on the battlefield.\nCaesar needs you! Gaul won't be conquered by itself. Stand under the Eagle and lead the legion for the glory of Rome!\n\nGame features:\n- Control troops formation while playing as a single character\n- Enjoy extremely dynamic and fun-filled battles\n- Siege an enemy and defend your own castle in one match\n- Create your own strategy in a game of 2-4 teams\n- Feel the real Rome while passing the campaign based on real Caesar's battles",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AD301F81A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AD301F81A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AD301F81A000/screen/1",
+    "http://api.nlib.cc/nx/0100AD301F81A000/screen/2",
+    "http://api.nlib.cc/nx/0100AD301F81A000/screen/3",
+    "http://api.nlib.cc/nx/0100AD301F81A000/screen/4",
+    "http://api.nlib.cc/nx/0100AD301F81A000/screen/5",
+    "http://api.nlib.cc/nx/0100AD301F81A000/screen/6"
+  ]
+}

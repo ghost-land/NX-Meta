@@ -1,0 +1,15 @@
+{
+  "name": "Bee Simulator",
+  "publisher": "Untold Tales",
+  "releaseDate": "20191112",
+  "description": "See the world through the eyes of a bee! Explore a world inspired by Central Park where you can take part in bee races, collect pollen from rare flowers and defy dangerous wasps.\nPlay with friends or family in three game modes, including co-op and PvP on split screen.\n\nThe hive awakens as the sun's first rays warm the horizon. It's time to test your wings, receive orders from the Queen and begin your first mission. And that's just the start of your adventures. Humans want to cut down the tree that holds your hive, so your fate – and that of the whole swarm – rests on your tiny shoulders!\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01009E700DB2E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009E700DB2E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009E700DB2E000/screen/1",
+    "http://api.nlib.cc/nx/01009E700DB2E000/screen/2",
+    "http://api.nlib.cc/nx/01009E700DB2E000/screen/3",
+    "http://api.nlib.cc/nx/01009E700DB2E000/screen/4",
+    "http://api.nlib.cc/nx/01009E700DB2E000/screen/5"
+  ]
+}

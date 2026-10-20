@@ -1,0 +1,16 @@
+{
+  "name": "False Dream",
+  "publisher": "Tenkai Games",
+  "releaseDate": "20240418",
+  "description": "■ Story\nYou have come to stay in a room of a condominium that is being rented out as a guesthouse.\nAs you fall asleep, you find yourself trapped in a dream where time does not progress.\n\n■ How to play?\nIn the room within the dream, there are places different from those in reality. These are called anomalies. When you find these anomalies and capture them with a camera, time advances by one hour. It seems that if it becomes 9 o'clock, you can escape from the dream. The dream begins at 1 o'clock.\n\n■ Two Modes\nThere are two modes: Normal Mode and Nightmare Mode.\nIn Normal Mode, one anomaly will always occur every hour.\nOn the other hand, in Nightmare Mode, there may be times when no anomalies occur.\nIt is recommended to start with Normal Mode.\n\n■ Time to clear the game\nIt is expected to take approximately 30 minutes to 1.5 hours to clear Normal Mode once.\nFinding all 81 anomalies will likely take around 3 hours or more.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E6101E8F0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E6101E8F0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E6101E8F0000/screen/1",
+    "http://api.nlib.cc/nx/0100E6101E8F0000/screen/2",
+    "http://api.nlib.cc/nx/0100E6101E8F0000/screen/3",
+    "http://api.nlib.cc/nx/0100E6101E8F0000/screen/4",
+    "http://api.nlib.cc/nx/0100E6101E8F0000/screen/5",
+    "http://api.nlib.cc/nx/0100E6101E8F0000/screen/6"
+  ]
+}

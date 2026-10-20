@@ -1,0 +1,16 @@
+{
+  "name": "Summer Party Time",
+  "publisher": "SAT-BOX",
+  "releaseDate": "20230713",
+  "description": "We've got a huge collection of games with controls so simple anyone can enjoy!\nPass around the Joy-Con™ controllers and play with up to six players!\n\nThere are plenty of intuitive and easy-to-play minigames for everyone!\nEnjoy finding your new favorite!\n\nFree Mode\nChoose the game you want to play and have a blast!\n\nFestival Mode\nPlay your chosen games in order to become the champ!\n\nOnline Mode\nBattle online against your friends and players the world over!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F2801BC4E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F2801BC4E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F2801BC4E000/screen/1",
+    "http://api.nlib.cc/nx/0100F2801BC4E000/screen/2",
+    "http://api.nlib.cc/nx/0100F2801BC4E000/screen/3",
+    "http://api.nlib.cc/nx/0100F2801BC4E000/screen/4",
+    "http://api.nlib.cc/nx/0100F2801BC4E000/screen/5",
+    "http://api.nlib.cc/nx/0100F2801BC4E000/screen/6"
+  ]
+}

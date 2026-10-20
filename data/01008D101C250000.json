@@ -1,0 +1,16 @@
+{
+  "name": "True Virus",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20230905",
+  "description": "In True Virus, you play the role of a mental hospital patient who has awoken in a world devastated by a deadly pandemic. Your job is to explore the psychiatric hospital and its surroundings in search of clues to find out what really happened.\nFeaturing stylized graphics, \"True Virus\" creates a visually striking and atmospheric environment that enhances the sense of anxiety and trepidation.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01008D101C250000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008D101C250000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008D101C250000/screen/1",
+    "http://api.nlib.cc/nx/01008D101C250000/screen/2",
+    "http://api.nlib.cc/nx/01008D101C250000/screen/3",
+    "http://api.nlib.cc/nx/01008D101C250000/screen/4",
+    "http://api.nlib.cc/nx/01008D101C250000/screen/5",
+    "http://api.nlib.cc/nx/01008D101C250000/screen/6"
+  ]
+}

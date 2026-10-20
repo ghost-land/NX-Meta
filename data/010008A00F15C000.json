@@ -1,0 +1,16 @@
+{
+  "name": "Cyber Hook",
+  "publisher": "Graffiti Games",
+  "releaseDate": "20210624",
+  "description": "Hardcore Parkour!\n \nCyber Hook is a fast-paced, 3D platformer that has you using parkour skills and a grappling hook to scale and ride walls, while fighting enemies and blasting blocks with a finger laser gun. Hurtle forward in a vibrant retrowave environment to test parkour abilities, but be careful, because one missed jump can mean life or death.",
+  "bannerUrl": "http://api.nlib.cc/nx/010008A00F15C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010008A00F15C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010008A00F15C000/screen/1",
+    "http://api.nlib.cc/nx/010008A00F15C000/screen/2",
+    "http://api.nlib.cc/nx/010008A00F15C000/screen/3",
+    "http://api.nlib.cc/nx/010008A00F15C000/screen/4",
+    "http://api.nlib.cc/nx/010008A00F15C000/screen/5",
+    "http://api.nlib.cc/nx/010008A00F15C000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Faerie Afterlight",
+  "publisher": "Mastiff",
+  "releaseDate": "20230928",
+  "description": "Inspired by Indonesian philosophy and folk art, Faerie Afterlight is a beautifully stylized 2D Metroidvania game filled with an abundance of heart, courage, camaraderie, and a delightful soundtrack complimentary to the game's lush world. \n\nSimultaneously control Kimo and Wispy as this unlikely but (literally) inseparable duo explores Lumina’s infested caverns, deep seas, and ghostly cities to reclaim the scattered, broken shards of Light. Along the way, the pair will solve puzzles, befriend locals, engage and enchant enemies, and face off against fierce Titans to gain powerful new abilities that will grant greater access to Lumina!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C5B01BB32000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C5B01BB32000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C5B01BB32000/screen/1",
+    "http://api.nlib.cc/nx/0100C5B01BB32000/screen/2",
+    "http://api.nlib.cc/nx/0100C5B01BB32000/screen/3",
+    "http://api.nlib.cc/nx/0100C5B01BB32000/screen/4",
+    "http://api.nlib.cc/nx/0100C5B01BB32000/screen/5",
+    "http://api.nlib.cc/nx/0100C5B01BB32000/screen/6"
+  ]
+}

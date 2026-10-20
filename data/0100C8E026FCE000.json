@@ -1,0 +1,16 @@
+{
+  "name": "Sakura Peak",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20260214",
+  "description": "Sakura Peak is a peaceful walking simulator set high in the sakura-covered mountains of feudal Japan. Wander at your own pace through tranquil landscapes inspired by samurai-era villages, quiet shrines, and endless cherry blossom valleys.\n\nLet the wind guide you along mountain paths as petals fall around you. Listen to the soft sounds of nature, distant temples, and wooden bridges creaking beneath your feet. Sakura Peak is designed to help you slow down, breathe, and simply exist in a beautiful world.\n\nFeatures:\n>Relaxing Walking Simulator – Explore freely with no enemies, timers, or fail states\n>Sakura Mountain Landscapes – Cherry blossom forests, misty peaks\n>Samurai-Era Atmosphere – Traditional architecture, shrines, and peaceful rural paths\n>Calming Soundscape – Gentle ambient music and natural environmental sounds\n>Meditative Experience – Designed for relaxation, reflection, and stress relief\n\n\nEvery path in Sakura Peak is crafted to reward curiosity and calm exploration. Follow winding trails, pause to watch petals drift through the air, or stand silently as the sun sets behind the mountains. The world responds not with challenge, but with serenity.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C8E026FCE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C8E026FCE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C8E026FCE000/screen/1",
+    "http://api.nlib.cc/nx/0100C8E026FCE000/screen/2",
+    "http://api.nlib.cc/nx/0100C8E026FCE000/screen/3",
+    "http://api.nlib.cc/nx/0100C8E026FCE000/screen/4",
+    "http://api.nlib.cc/nx/0100C8E026FCE000/screen/5",
+    "http://api.nlib.cc/nx/0100C8E026FCE000/screen/6"
+  ]
+}

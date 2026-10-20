@@ -1,0 +1,13 @@
+{
+  "name": "Red Square Escape",
+  "publisher": "Kistler Studios",
+  "releaseDate": "20210728",
+  "description": "Red square escape is a top down 2D movement game where you are the red square and have to escape through different levels. Each level is spiked with traps and obstacles you need to overcome. Simple controls, simple art style and simple fun are guaranteed here. Have you got the skills to escape?\n\nFeatures :\n- Simple controls\n- 60 levels\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010052B015B74000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010052B015B74000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010052B015B74000/screen/1",
+    "http://api.nlib.cc/nx/010052B015B74000/screen/2",
+    "http://api.nlib.cc/nx/010052B015B74000/screen/3"
+  ]
+}

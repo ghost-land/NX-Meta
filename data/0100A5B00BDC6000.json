@@ -1,0 +1,16 @@
+{
+  "name": "FINAL FANTASY VII",
+  "publisher": "SQUARE ENIX",
+  "releaseDate": "20190326",
+  "description": "The world has fallen under the dominion of the Shinra Electric Power Company, a sinister corporation that has monopolized the planet's very life force as Mako energy.\nIn the urban megalopolis of Midgar, an anti-Shinra rebel group calling themselves Avalanche have stepped up their campaign of resistance.\nCloud Strife, a former member of Shinra's elite SOLDIER unit now turned mercenary, lends his aid to the rebels, unaware that he will be drawn into an epic battle for the fate of the planet, while having to come to terms with his own lost past.\n\nThis game is a port of the original FINAL FANTASY VII.\nThe following extra features are included;\n◆ 3x speed mode\n◆ Ability to turn battle encounters off\n◆ Battle enhancement mode",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A5B00BDC6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A5B00BDC6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A5B00BDC6000/screen/1",
+    "http://api.nlib.cc/nx/0100A5B00BDC6000/screen/2",
+    "http://api.nlib.cc/nx/0100A5B00BDC6000/screen/3",
+    "http://api.nlib.cc/nx/0100A5B00BDC6000/screen/4",
+    "http://api.nlib.cc/nx/0100A5B00BDC6000/screen/5",
+    "http://api.nlib.cc/nx/0100A5B00BDC6000/screen/6"
+  ]
+}

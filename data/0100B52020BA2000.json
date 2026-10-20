@@ -1,0 +1,16 @@
+{
+  "name": "Bamboo Retro Run",
+  "publisher": "Zakym",
+  "releaseDate": "20241129",
+  "description": "Bamboo Retro Run is a captivating 2D pixel art game set in a bamboo forest. The player must run endlessly and face the approaching monsters, which they must eliminate by either jumping on them or slashing them. The game’s difficulty and speed increase as you progress, adding to the challenge. Embracing a retro style, player uses a vintage console interface where visible buttons mimic the gameplay controls. How far can you go? What's the highest score you can achieve?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B52020BA2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B52020BA2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B52020BA2000/screen/1",
+    "http://api.nlib.cc/nx/0100B52020BA2000/screen/2",
+    "http://api.nlib.cc/nx/0100B52020BA2000/screen/3",
+    "http://api.nlib.cc/nx/0100B52020BA2000/screen/4",
+    "http://api.nlib.cc/nx/0100B52020BA2000/screen/5",
+    "http://api.nlib.cc/nx/0100B52020BA2000/screen/6"
+  ]
+}

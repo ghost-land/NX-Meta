@@ -1,0 +1,16 @@
+{
+  "name": "Rainbocorns",
+  "publisher": "Sabec",
+  "releaseDate": "20210331",
+  "description": "The official Rainbocorns coloring-in game and Webisodes!\n\nRainbocorns comes with 50 re-usable digital coloring-in pages which you can color-in using  either your finger or a stylus. You can also zoom in, out and move the image around to get the perfect colored in picture and you can save and share your pictures by using the capture button on the left Joy-Con™.\n\nAs a bonus we have included all the series one webisodes into the game,  so now you can watch  all eight webisodes,  anytime,  anywhere.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005EE0142F6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005EE0142F6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005EE0142F6000/screen/1",
+    "http://api.nlib.cc/nx/01005EE0142F6000/screen/2",
+    "http://api.nlib.cc/nx/01005EE0142F6000/screen/3",
+    "http://api.nlib.cc/nx/01005EE0142F6000/screen/4",
+    "http://api.nlib.cc/nx/01005EE0142F6000/screen/5",
+    "http://api.nlib.cc/nx/01005EE0142F6000/screen/6"
+  ]
+}

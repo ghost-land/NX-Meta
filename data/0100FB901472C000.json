@@ -1,0 +1,16 @@
+{
+  "name": "Knights of the Rogue Dungeon",
+  "publisher": "Atooi",
+  "releaseDate": "20240101",
+  "description": "Knights travel from across the lands, determined to cleanse the Rogue Dungeon of three demon knights that lurk within.\n\nEver shifting, the depths below demand mastery of resurrection, combat, luck, magic, and thrift.\n\nFeatures:\n\n- Six uniquely themed dungeons, infested with enemies and traps: each more challenging than the last.\n\n- Intuitive, responsive controls running at a silky smooth 60 frames per second.\n\n- Varied cast of playable knights: including Sir Redmoor, Lady Steadfast, Max (Mutant Mudds™), and Skullahad.\n\n- Upgrade Shop, featuring: Extra Lives, Knight Power Increaser, Lucky Charms, Invincible Armors, Death Tax Reducer, and devastating Vanquish Spells.\n\nOnce you hop, it's hard to stop.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FB901472C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FB901472C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FB901472C000/screen/1",
+    "http://api.nlib.cc/nx/0100FB901472C000/screen/2",
+    "http://api.nlib.cc/nx/0100FB901472C000/screen/3",
+    "http://api.nlib.cc/nx/0100FB901472C000/screen/4",
+    "http://api.nlib.cc/nx/0100FB901472C000/screen/5",
+    "http://api.nlib.cc/nx/0100FB901472C000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "VISCO Collection",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20231026",
+  "description": "VISCO Collection is a nostalgia-packed bundle of seven classic arcade games, each revitalized and enhanced for today's gamers. Whether you're a fan of shoot 'em ups, racing, shooters, or sports simulations, this collection has something for everyone.\n\nAndro Dunos, Bang Bead, Captain Tomaday, FlipShot, Ganryu, Goal! Goal! Goal! and Neo DriftOut\n\nKey Features:\n\n- Seven classic arcade games, expertly revitalized\n- Dynamic, responsive, and informative menus for a user-friendly experience\n- Online cooperative and versus modes in selected titles\n- Customize your gaming experience with different filters and screen options\n- Enjoy a seamless multiplayer experience with the lobby system",
+  "bannerUrl": "http://api.nlib.cc/nx/010014501C28E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010014501C28E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010014501C28E000/screen/1",
+    "http://api.nlib.cc/nx/010014501C28E000/screen/2",
+    "http://api.nlib.cc/nx/010014501C28E000/screen/3",
+    "http://api.nlib.cc/nx/010014501C28E000/screen/4",
+    "http://api.nlib.cc/nx/010014501C28E000/screen/5",
+    "http://api.nlib.cc/nx/010014501C28E000/screen/6"
+  ]
+}

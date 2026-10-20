@@ -1,0 +1,16 @@
+{
+  "name": "GLITCH: Dead Loop Horror",
+  "publisher": "Play Lab",
+  "releaseDate": "20250703",
+  "description": "GLITCH: Dead Loop Horror is a first-person psychological horror game where you play as a lone programmer staying late at the office to finish your project. But as night falls, reality begins to unravel. Solve cryptic puzzles, debug eerie anomalies, and survive the unknown force stalking the dark halls.\nThe atmosphere becomes more mysterious. Familiar places begin to feel alien. The deeper you go, the more unstable everything becomes.\nWalls seem to shift when you're not looking. The boundaries between game and reality blur into one twisted loop. Each solution leads to deeper uncertainty.\nSome code isn’t meant to be fixed…",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B0F023EB4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B0F023EB4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B0F023EB4000/screen/1",
+    "http://api.nlib.cc/nx/0100B0F023EB4000/screen/2",
+    "http://api.nlib.cc/nx/0100B0F023EB4000/screen/3",
+    "http://api.nlib.cc/nx/0100B0F023EB4000/screen/4",
+    "http://api.nlib.cc/nx/0100B0F023EB4000/screen/5",
+    "http://api.nlib.cc/nx/0100B0F023EB4000/screen/6"
+  ]
+}

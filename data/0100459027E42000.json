@@ -1,0 +1,18 @@
+{
+  "name": "Titanic Survival Simulator",
+  "publisher": "SUCCESS GAMES",
+  "releaseDate": "20260801",
+  "description": "April, 1912. A calm night in the Atlantic. Laughter echoes through grand halls, chandeliers glow warmly, and the world’s most luxurious ocean liner glides confidently through the water. Then — impact.\nThe legendary RMS Titanic has struck an iceberg. A tremor shakes the decks, metal groans, and whispers of panic spread. Within minutes, the truth is undeniable — the ship is sinking, and there aren’t enough lifeboats for everyone. You are just a passenger caught in the chaos.\nAs the decks flood and the ship tilts into the icy Atlantic, every decision matters. Explore the cabins, stairways, and hallways before they vanish under water. Every second counts — will you save yourself, or risk precious time helping others?\n\nKey Features:\n• Race Against Time – Reach lifeboats before areas are flooded.\n• Resource Survival – Gather food and light sources to stay alive.\n• Hypothermia & Stamina – Cold water and exhaustion are real threats.\n• Moral Choices – Decide between self-preservation or helping others.\n• Immersive Atmosphere – Experience a realistic recreation of Titanic’s interiors, rising water, and the tension of a historic disaster.\n\nThe lifeboats are few.\nThe ocean is merciless.\nEvery choice, every second, can mean the difference between survival… and tragedy.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100459027E42000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100459027E42000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100459027E42000/screen/1",
+    "http://api.nlib.cc/nx/0100459027E42000/screen/2",
+    "http://api.nlib.cc/nx/0100459027E42000/screen/3",
+    "http://api.nlib.cc/nx/0100459027E42000/screen/4",
+    "http://api.nlib.cc/nx/0100459027E42000/screen/5",
+    "http://api.nlib.cc/nx/0100459027E42000/screen/6"
+  ],
+  "version": 0,
+  "size": 612650786
+}

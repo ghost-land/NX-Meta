@@ -1,0 +1,16 @@
+{
+  "name": "Petite Adventure",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20221209",
+  "description": "In Petite Adventure you drive tiny cars around a house and complete challenging objectives.\n\nDo a 360 drift, pop balloons, play golf, collect coins, and explore each level. Petite Adventure features 32 different challenges to play organized based on difficulty.\n\nControl a wide variety of miniature automobiles including cars and trucks, master the art of driving in tight household spaces, and don’t fall off the edge!\n\n\nFeatures:\n* Cute tiny cars\n* 32 Levels\n* Different mechanics (drift, pop balloons, play golf, and more)\n* 3D cute graphics",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E1801965E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E1801965E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E1801965E000/screen/1",
+    "http://api.nlib.cc/nx/0100E1801965E000/screen/2",
+    "http://api.nlib.cc/nx/0100E1801965E000/screen/3",
+    "http://api.nlib.cc/nx/0100E1801965E000/screen/4",
+    "http://api.nlib.cc/nx/0100E1801965E000/screen/5",
+    "http://api.nlib.cc/nx/0100E1801965E000/screen/6"
+  ]
+}

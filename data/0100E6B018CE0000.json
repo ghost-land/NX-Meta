@@ -1,0 +1,16 @@
+{
+  "name": "WFO World Football Online",
+  "publisher": "Brain Connected",
+  "releaseDate": "20230928",
+  "description": "Build your own dream team from a diverse roster of footballers, each with their own history and potential. Develop your players using development cards, fine-tuning their skills to dominate the field.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E6B018CE0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E6B018CE0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E6B018CE0000/screen/1",
+    "http://api.nlib.cc/nx/0100E6B018CE0000/screen/2",
+    "http://api.nlib.cc/nx/0100E6B018CE0000/screen/3",
+    "http://api.nlib.cc/nx/0100E6B018CE0000/screen/4",
+    "http://api.nlib.cc/nx/0100E6B018CE0000/screen/5",
+    "http://api.nlib.cc/nx/0100E6B018CE0000/screen/6"
+  ]
+}

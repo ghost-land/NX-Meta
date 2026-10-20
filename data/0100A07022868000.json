@@ -1,0 +1,16 @@
+{
+  "name": "Rally Arcade Classics",
+  "publisher": "NETKDOS",
+  "releaseDate": "20250601",
+  "description": "Rev up your engines, it’s almost time to race back to the past with Rally Arcade Classics! Including 44 iconic cars from the 70’s, 80’s, 90’s and 00’s, and 48 thrilling tracks to rev up their engines to the max while drifting every close turn, you will never run out of challenges to take upon.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A07022868000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A07022868000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A07022868000/screen/1",
+    "http://api.nlib.cc/nx/0100A07022868000/screen/2",
+    "http://api.nlib.cc/nx/0100A07022868000/screen/3",
+    "http://api.nlib.cc/nx/0100A07022868000/screen/4",
+    "http://api.nlib.cc/nx/0100A07022868000/screen/5",
+    "http://api.nlib.cc/nx/0100A07022868000/screen/6"
+  ]
+}

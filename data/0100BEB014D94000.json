@@ -1,0 +1,16 @@
+{
+  "name": "Banners of Ruin",
+  "publisher": "Goblinz Studio",
+  "releaseDate": "20210729",
+  "description": "The Blackfoots have been dealt a mighty blow by the fearsome House Ender - you must infiltrate their defences and cut out the rot.\n\nBuild your deck and fight your way through the city of Dawn's Point with card based combat and up to 6 members in your party. Characters loyal to your cause have a set of unique cards and abilities that may augment your deck in powerful, exciting ways. Defeat each of the elite opponents in your path to the city's Guard Captain and cripple the Enders at their core. You and your brethren may fall at this attempt, but there will always be others to carry the torch. House Blackfoot will remember, and they will never relent. Encounter a series of scenarios as you travel through the city which may help you, but at the expense of some moral ground.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BEB014D94000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BEB014D94000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BEB014D94000/screen/1",
+    "http://api.nlib.cc/nx/0100BEB014D94000/screen/2",
+    "http://api.nlib.cc/nx/0100BEB014D94000/screen/3",
+    "http://api.nlib.cc/nx/0100BEB014D94000/screen/4",
+    "http://api.nlib.cc/nx/0100BEB014D94000/screen/5",
+    "http://api.nlib.cc/nx/0100BEB014D94000/screen/6"
+  ]
+}

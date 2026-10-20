@@ -1,0 +1,16 @@
+{
+  "name": "Reason - Casual Puzzle",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20200813",
+  "description": "Reason - Casual Puzzle is a thinking game in which the objective is to push the boxes to the marked places. The difficulty of the game is in the fact that you can push the boxes, but you can't pull them, not to mention that they can fall into the void of space.\n\nMain features:\n- Only one box can be moved at a time;\n- There can be no overlap (skip another box);\n- The player cannot occupy the same place in the box or walk on the walls;\n- The game is finished when the box is placed in the predetermined position;\n- The box may fall into space;\n- 50 game levels;",
+  "bannerUrl": "http://api.nlib.cc/nx/01003AD011E36000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003AD011E36000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003AD011E36000/screen/1",
+    "http://api.nlib.cc/nx/01003AD011E36000/screen/2",
+    "http://api.nlib.cc/nx/01003AD011E36000/screen/3",
+    "http://api.nlib.cc/nx/01003AD011E36000/screen/4",
+    "http://api.nlib.cc/nx/01003AD011E36000/screen/5",
+    "http://api.nlib.cc/nx/01003AD011E36000/screen/6"
+  ]
+}

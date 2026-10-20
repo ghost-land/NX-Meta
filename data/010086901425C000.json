@@ -1,0 +1,16 @@
+{
+  "name": "The Colonists",
+  "publisher": "Auroch Digital",
+  "releaseDate": "20210504",
+  "description": "The Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series. Take on a series of individual campaign missions, play randomly generated maps, compete on player-designed creations or build your colony unfettered by any constraints in the sandbox mode. Explore, research, manage, tweak and refine to your heart's content.",
+  "bannerUrl": "http://api.nlib.cc/nx/010086901425C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010086901425C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010086901425C000/screen/1",
+    "http://api.nlib.cc/nx/010086901425C000/screen/2",
+    "http://api.nlib.cc/nx/010086901425C000/screen/3",
+    "http://api.nlib.cc/nx/010086901425C000/screen/4",
+    "http://api.nlib.cc/nx/010086901425C000/screen/5",
+    "http://api.nlib.cc/nx/010086901425C000/screen/6"
+  ]
+}

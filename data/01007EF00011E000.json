@@ -1,0 +1,16 @@
+{
+  "name": "The Legend of Zelda™: Breath of the Wild",
+  "publisher": "Nintendo",
+  "releaseDate": "20170303",
+  "description": "Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule in this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01007EF00011E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007EF00011E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007EF00011E000/screen/1",
+    "http://api.nlib.cc/nx/01007EF00011E000/screen/2",
+    "http://api.nlib.cc/nx/01007EF00011E000/screen/3",
+    "http://api.nlib.cc/nx/01007EF00011E000/screen/4",
+    "http://api.nlib.cc/nx/01007EF00011E000/screen/5",
+    "http://api.nlib.cc/nx/01007EF00011E000/screen/6"
+  ]
+}

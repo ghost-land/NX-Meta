@@ -1,0 +1,16 @@
+{
+  "name": "Hello Kitty Island Adventure",
+  "publisher": "Sunblink",
+  "releaseDate": "20250130",
+  "description": "• Discover eight unique regions, from the ocean’s depths to an island in the clouds\n•Befriend iconic characters like cheerful Hello Kitty, mischievous Kuromi, and sweet Cinnamoroll\n• Bake, cook, and craft the perfect gifts to become best friends\n• Renovate cabins and decorate them to attract even more wonderful characters\n• Create your perfect avatar, find and customize hundreds of outfits tailored to you, and create and collect furniture to achieve your dream home aesthetic\n• Celebrate the joys of summertime, the winter holidays, and more with a year round calendar of events. And don’t forget to throw birthday parties for your friends\n• Solve hidden puzzles, catch cute critters, and garden to fill the world with flowers\n•Dive into a multiplayer game with real-world friends and family: team up to explore, get bonuses, and take sweet snapshots together\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010027901C89C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010027901C89C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010027901C89C000/screen/1",
+    "http://api.nlib.cc/nx/010027901C89C000/screen/2",
+    "http://api.nlib.cc/nx/010027901C89C000/screen/3",
+    "http://api.nlib.cc/nx/010027901C89C000/screen/4",
+    "http://api.nlib.cc/nx/010027901C89C000/screen/5",
+    "http://api.nlib.cc/nx/010027901C89C000/screen/6"
+  ]
+}

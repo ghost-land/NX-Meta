@@ -1,0 +1,18 @@
+{
+  "name": "Tentacle Tango",
+  "publisher": "Cable Nest",
+  "releaseDate": "20260924",
+  "description": "COORDINATE OR CRUMBLE! To survive this mission, you'll need to grab a Joy-Con™ and get ready to swing into action. Take control of the inseparable duo, Ten and Tango, as they embark on a high-stakes platforming journey to topple the villainous Chef Murgó.\n\nDon’t let the cute art style fool you—this is a relentless test of skill where one slip-up sends both octos tumbling. Whether you’re tackling the challenge Solo (mastering the \"brain-melting\" art of controlling both characters at once) or syncing up in Local or Online Co-op, your coordination will be pushed to the absolute limit.\n\nWHY YOU’LL BE TANGLED UP:\nDECEPTIVELY DIFFICULT: Master the timing of two octos holding hands. It’s quirky, colorful, and punishingly hard.\n\nTANDEM TEAMWORK: Use your physical bond to swing across massive gaps and dodge lethal traps. In this game, you literally \"carry\" your partner!\n\nDIVERSE WORLDS: Navigate windy deserts, crumbling lava mountains, and intricate puzzles that demand 100% precision.\n\nPERFECT FOR SWITCH: Play anytime, anywhere in Tabletop, Handheld, or TV mode. One Joy-Con per player is all you need for local co-op!\n\nGLOBAL LEADERBOARDS: Think you’re the fastest on the planet? Prove it! Compete for the best times against players worldwide.\n\nGAME MODES:\n* 2-Player Online or Local Co-op: The ultimate test of friendship and physics.\n* Solo Mode: A unique mental challenge where you must coordinate both octos simultaneously.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001AA022B66000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001AA022B66000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001AA022B66000/screen/1",
+    "http://api.nlib.cc/nx/01001AA022B66000/screen/2",
+    "http://api.nlib.cc/nx/01001AA022B66000/screen/3",
+    "http://api.nlib.cc/nx/01001AA022B66000/screen/4",
+    "http://api.nlib.cc/nx/01001AA022B66000/screen/5",
+    "http://api.nlib.cc/nx/01001AA022B66000/screen/6"
+  ],
+  "version": 0,
+  "size": 291101834
+}

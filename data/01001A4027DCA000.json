@@ -1,0 +1,16 @@
+{
+  "name": "Antique Backgammon",
+  "publisher": "Soroka Games",
+  "releaseDate": "20260509",
+  "description": "Antique Backgammon is a classic board game that is easy to learn and enjoyable at your own pace. It is suitable for both quick sessions and more thoughtful play.\n\nThe game includes two modes: short backgammon and long backgammon - choose the one you prefer. You can play against an AI with adjustable difficulty or share the device and play with someone else.\n\nClean visuals, intuitive controls, and smooth gameplay keep the experience simple and comfortable. Just roll the dice and play whenever you like.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001A4027DCA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001A4027DCA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001A4027DCA000/screen/1",
+    "http://api.nlib.cc/nx/01001A4027DCA000/screen/2",
+    "http://api.nlib.cc/nx/01001A4027DCA000/screen/3",
+    "http://api.nlib.cc/nx/01001A4027DCA000/screen/4"
+  ],
+  "version": 0,
+  "size": 61836155
+}

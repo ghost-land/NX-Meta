@@ -1,0 +1,16 @@
+{
+  "name": "Duggy",
+  "publisher": "Nerdvision Games",
+  "releaseDate": "20220217",
+  "description": "Duggy is a cool arcade game where you are hunting the score.\nAre you better than your friends ?\nFind it out and dig your way down.\n\nFeatures:\n- Handdrawn pixel art with love\n- Arcade style game play which is easy to play\n- Over 40+ Levels with faster and dangerous enemies",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CD70153B8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CD70153B8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CD70153B8000/screen/1",
+    "http://api.nlib.cc/nx/0100CD70153B8000/screen/2",
+    "http://api.nlib.cc/nx/0100CD70153B8000/screen/3",
+    "http://api.nlib.cc/nx/0100CD70153B8000/screen/4",
+    "http://api.nlib.cc/nx/0100CD70153B8000/screen/5",
+    "http://api.nlib.cc/nx/0100CD70153B8000/screen/6"
+  ]
+}

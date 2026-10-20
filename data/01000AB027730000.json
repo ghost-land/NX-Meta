@@ -1,0 +1,15 @@
+{
+  "name": "キャットアップ Road Closed",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20260326",
+  "description": "\n\nJump across unlikely platforms, balance on crazy objects, and prove that feline curiosity truly has no limits.\n\nCollect coins along the way and unlock new cats to customize your adventure. Beware of ghosts that may attack you along the path.\n\nThe real challenge? Stay calm, calculate every jump, and prove that no obstacle is too great for a cat!",
+  "bannerUrl": "http://api.nlib.cc/nx/01000AB027730000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000AB027730000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000AB027730000/screen/1",
+    "http://api.nlib.cc/nx/01000AB027730000/screen/2",
+    "http://api.nlib.cc/nx/01000AB027730000/screen/3",
+    "http://api.nlib.cc/nx/01000AB027730000/screen/4",
+    "http://api.nlib.cc/nx/01000AB027730000/screen/5"
+  ]
+}

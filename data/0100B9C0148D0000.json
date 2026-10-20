@@ -1,0 +1,16 @@
+{
+  "name": "Slime Rancher: Plortable Edition",
+  "publisher": "Monomi Park",
+  "releaseDate": "20210811",
+  "description": "Slime Rancher is the tale of Beatrix LeBeau, a plucky, young rancher who sets out for a life a thousand light years away from Earth on the ‘Far, Far Range’ where she tries her hand at making a living wrangling slimes.\n\nIncludes the Secret Style Pack DLC!\n\n-Grow crops and raise chickadoos to feed your collection of hungry slimes.\n-Complete daily requests from other ranchers to get bonus rewards.\n-Earn money to upgrade your vacpack, build more corrals, or expand your ranch.\n-Use Slime Science to find rare resources, craft decorations, and create gadgets that will help you on your adventures.\n-Explore a sprawling world loaded with lots of secrets and hidden treasures.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B9C0148D0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B9C0148D0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B9C0148D0000/screen/1",
+    "http://api.nlib.cc/nx/0100B9C0148D0000/screen/2",
+    "http://api.nlib.cc/nx/0100B9C0148D0000/screen/3",
+    "http://api.nlib.cc/nx/0100B9C0148D0000/screen/4",
+    "http://api.nlib.cc/nx/0100B9C0148D0000/screen/5",
+    "http://api.nlib.cc/nx/0100B9C0148D0000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Another Bar Game",
+  "publisher": "Arik Games",
+  "releaseDate": "20240229",
+  "description": "A casual action game where you serve craft beer to thirsty bar guests. Become the most popular bartender in town! Wash glasses, clean tables and keep everybody happy!",
+  "bannerUrl": "http://api.nlib.cc/nx/010079F01AF2A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010079F01AF2A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010079F01AF2A000/screen/1",
+    "http://api.nlib.cc/nx/010079F01AF2A000/screen/2",
+    "http://api.nlib.cc/nx/010079F01AF2A000/screen/3",
+    "http://api.nlib.cc/nx/010079F01AF2A000/screen/4",
+    "http://api.nlib.cc/nx/010079F01AF2A000/screen/5",
+    "http://api.nlib.cc/nx/010079F01AF2A000/screen/6"
+  ]
+}

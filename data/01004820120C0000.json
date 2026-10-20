@@ -1,0 +1,16 @@
+{
+  "name": "BallzOut",
+  "publisher": "4MB Interactive",
+  "releaseDate": "20200831",
+  "description": "*Please note this game is primarily designed for two players*\n\nSimple, competitive, and absolutely loads of fun, BallzOut is the Ball flinging/smashing game you have been waiting for. It's a bit like Lawn Bowls, a bit like Air Hockey and a lot like absolute nonsense. \n\nTake it in turns to roll your Ballz into the scoring zone - do you tactically place your Ballz in an area your opponent cannot reach or attempt to smash their Ballz out of the scoring zone? Tough one.\n\nOver three rounds and with the help of such powers ups as Big Ballz and Sticky Ballz, can you outwit and outmaneuver your opponent to become the BallzOut Champion?   ",
+  "bannerUrl": "http://api.nlib.cc/nx/01004820120C0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004820120C0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004820120C0000/screen/1",
+    "http://api.nlib.cc/nx/01004820120C0000/screen/2",
+    "http://api.nlib.cc/nx/01004820120C0000/screen/3",
+    "http://api.nlib.cc/nx/01004820120C0000/screen/4",
+    "http://api.nlib.cc/nx/01004820120C0000/screen/5",
+    "http://api.nlib.cc/nx/01004820120C0000/screen/6"
+  ]
+}

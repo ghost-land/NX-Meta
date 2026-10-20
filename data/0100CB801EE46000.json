@@ -1,0 +1,16 @@
+{
+  "name": "Exit Slum 11",
+  "publisher": "Playstige Interactive",
+  "releaseDate": "20240503",
+  "description": "Rules are simple: \nIf you observe an anomaly, something out-of-place or something not-seen-before, run back to where you started. \nOtherwise, keep running. \nWhen you reach Exit 11, you’ll manage to escape from this nightmare.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CB801EE46000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CB801EE46000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CB801EE46000/screen/1",
+    "http://api.nlib.cc/nx/0100CB801EE46000/screen/2",
+    "http://api.nlib.cc/nx/0100CB801EE46000/screen/3",
+    "http://api.nlib.cc/nx/0100CB801EE46000/screen/4",
+    "http://api.nlib.cc/nx/0100CB801EE46000/screen/5",
+    "http://api.nlib.cc/nx/0100CB801EE46000/screen/6"
+  ]
+}

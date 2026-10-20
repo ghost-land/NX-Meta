@@ -1,0 +1,16 @@
+{
+  "name": "Little Droid",
+  "publisher": "Stamina Zero",
+  "releaseDate": "20250410",
+  "description": "Little Droid is an adventure platformer that takes you to a world of mysteries, tough enemies, and hidden dangers. The journey is packed with challenges, requiring careful battery management to keep the droid energized at crucial moments. Explore a richly detailed environment, collect weapons to overcome various obstacles, and uncover secrets as you pursue the source of a mysterious signal.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DB6020CCE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DB6020CCE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DB6020CCE000/screen/1",
+    "http://api.nlib.cc/nx/0100DB6020CCE000/screen/2",
+    "http://api.nlib.cc/nx/0100DB6020CCE000/screen/3",
+    "http://api.nlib.cc/nx/0100DB6020CCE000/screen/4",
+    "http://api.nlib.cc/nx/0100DB6020CCE000/screen/5",
+    "http://api.nlib.cc/nx/0100DB6020CCE000/screen/6"
+  ]
+}

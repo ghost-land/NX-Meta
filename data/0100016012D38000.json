@@ -1,0 +1,16 @@
+{
+  "name": "BIT.TRIP CORE",
+  "publisher": "QubicGames",
+  "releaseDate": "20201225",
+  "description": "Dive controller-first into unfamiliar territory, using NES-style controls to blast your way through a barrage of beats in this rhythm-music adventure.\n- Retro-inspired controls!\n- Beautiful boss battles!\n- A thumpin’ chiptune-inspired soundtrack with special guest Bubblyfish!\n- Easy, medium, and hard difficulty modes\n- 20 bite-sized challenges separate from the main game\n- Mind-melting challenges!\n- Thought-provoking cutscenes!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100016012D38000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100016012D38000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100016012D38000/screen/1",
+    "http://api.nlib.cc/nx/0100016012D38000/screen/2",
+    "http://api.nlib.cc/nx/0100016012D38000/screen/3",
+    "http://api.nlib.cc/nx/0100016012D38000/screen/4",
+    "http://api.nlib.cc/nx/0100016012D38000/screen/5",
+    "http://api.nlib.cc/nx/0100016012D38000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Aka",
+  "publisher": "NEOWIZ",
+  "releaseDate": "20221214",
+  "description": "Find inner peace in a small, open-world game. On these carefully handcrafted islands, you can take a nap on a giant monster, feed baby dragons, take care of the fauna and flora... ...but demons from your past might come back to remind you what you want to forget.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B0601852A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B0601852A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B0601852A000/screen/1",
+    "http://api.nlib.cc/nx/0100B0601852A000/screen/2",
+    "http://api.nlib.cc/nx/0100B0601852A000/screen/3",
+    "http://api.nlib.cc/nx/0100B0601852A000/screen/4",
+    "http://api.nlib.cc/nx/0100B0601852A000/screen/5",
+    "http://api.nlib.cc/nx/0100B0601852A000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Monster Energy Supercross - The Official Videogame",
+  "publisher": "Milestone",
+  "releaseDate": "20180213",
+  "description": "Live the adrenaline of the 2017 Monster Energy Supercross Championship with the official videogame!\nRace on the official tracks with the official riders from 250SX and 450SX or create your custom rider and bike and conquer the top of the leaderboard.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100742007266000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100742007266000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100742007266000/screen/1",
+    "http://api.nlib.cc/nx/0100742007266000/screen/2",
+    "http://api.nlib.cc/nx/0100742007266000/screen/3",
+    "http://api.nlib.cc/nx/0100742007266000/screen/4",
+    "http://api.nlib.cc/nx/0100742007266000/screen/5"
+  ]
+}

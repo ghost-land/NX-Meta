@@ -1,0 +1,16 @@
+{
+  "name": "I Hate This Place",
+  "publisher": "Feardemic",
+  "releaseDate": "20260129",
+  "description": "Enjoy your stay in the worst place on Earth.\n\nI Hate This Place is an isometric craft-based survival horror game set in a cursed land filled with reality-bending nightmares and terrifying creatures that thrive in the dark. You’ll need to scavenge, build, sneak, and fight if you want to make it out alive.\n\nClassic Craft-Based Survival Horror\n\nScavenge every corner of Rutherford Ranch to stay alive. From haunted forests, a derelict town, to infested bunkers. Explore a world teeming with danger as you gather vital resources, craft essential gear, upgrade your campsite, and rebuild outposts to have somewhere to hide.\n\nDay Prepares You. Night Hunts You\n\nA dynamic day-night cycle that changes the world. Use daylight wisely to explore, scavenge supplies, craft what you need, and prepare for what’s coming. When night falls, the real nightmares come out to play. More enemies appear, stronger and more aggressive than before. The landscape becomes harder to navigate with just your flashlight. Sometimes your best hope is to find shelter and hunker down till morning.\n\nDeadly Silence Goes A Long Way\n\nStealth and combat go hand-in-hand here as many of the twisted creatures in Rutherford Ranch hunt and stalk you by sound alone. Brute force will often just land you in an early grave. Use sound to your advantage, luring creatures away from your path or cleverly leading them straight into deadly traps you laid. \n\n80’s Vibes Meets Comic Book Flair\n\nInspired by the award-nominated comic book series created by Kyle Starks and Artyom Topilin, I Hate This Place comes to life with bold colors, a punchy retro comic book style, and a heavy dose of '80s flair. A unique blend of horror, dark humor, and just the right touch of camp and gore where unsettling dread meets stylized charm.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002DE026100000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002DE026100000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002DE026100000/screen/1",
+    "http://api.nlib.cc/nx/01002DE026100000/screen/2",
+    "http://api.nlib.cc/nx/01002DE026100000/screen/3",
+    "http://api.nlib.cc/nx/01002DE026100000/screen/4",
+    "http://api.nlib.cc/nx/01002DE026100000/screen/5",
+    "http://api.nlib.cc/nx/01002DE026100000/screen/6"
+  ]
+}

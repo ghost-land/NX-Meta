@@ -1,0 +1,16 @@
+{
+  "name": "Ad SHOOt",
+  "publisher": "BOCSTE",
+  "releaseDate": "20250716",
+  "description": "Story:\nFrustrated by unskippable video ads, the protagonist jumps into a shmup to blast them away.\nClear every stage and reclaim a smooth, ad-free internet life!\n\nLanguages:\nAudio: Japanese (fully voiced)\nSubtitles & UI: Japanese, English, Traditional Chinese\n\nCharming Bosses:\nEach stage boss is a marketing rep from a fictional company.\nThey fire bullet hell barrages purely out of a desire to promote their products—they mean no harm.\nPlus, they’ve got great looks and voices. \n\nBeginner-Friendly Shmup:\nThanks to the HP gauge system, taking a few hits won’t end your run.\nIf you’ve ever thought shmups were too tough, this is the perfect one to start with.\n\nAds Aren’t the Enemy:\nClear stages to unlock special skills—like regenerating Lives when you stop shooting.\nIn fact, not shooting down the ads might work in your favor.\nUse the power of ads to your advantage!\n\nOriginal Soundtrack:\nEvery stage and boss comes with its own custom-composed theme.\nWith ever-changing vibes, there’s never a dull moment.\n\nAll 7 Stages:\nMain Game: 6 stages × 3 difficulty levels\n\nExtra Stage: 1 stage × 6 variations (with unique dialogues and ending illustrations)\n\nNo In-Software Ads:\nNo real ads are included in this software.\nYou’ll never be forced to watch one while playing—promise!\n\nJapanese Voice Cast:\nKyohei Natsume / Haruki Asada / Yuki Amezawa / Daisuke Hirakawa / Masahiro Yamanaka",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FDF023890000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FDF023890000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FDF023890000/screen/1",
+    "http://api.nlib.cc/nx/0100FDF023890000/screen/2",
+    "http://api.nlib.cc/nx/0100FDF023890000/screen/3",
+    "http://api.nlib.cc/nx/0100FDF023890000/screen/4",
+    "http://api.nlib.cc/nx/0100FDF023890000/screen/5",
+    "http://api.nlib.cc/nx/0100FDF023890000/screen/6"
+  ]
+}

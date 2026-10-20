@@ -1,0 +1,16 @@
+{
+  "name": "Favela Zombie Shooter",
+  "publisher": "Halva Studio",
+  "releaseDate": "20231013",
+  "description": "Get ready for a heart-pounding, action-packed zombie shooting game set in a Brazilian favela. In \"Favela Zombie Shooter,\" you'll face wave after wave of different zombies and have to survive as long as you can.\n\nGameplay:\nWave-Based Survival: Brace yourself for relentless waves of the living dead. You must stand your ground and fight off waves of zombies, each with their own unique behaviors and abilities.\n\nZombie Types: \nTo survive, you'll need to adapt to the different zombie types. Slow-moving zombies lumber towards you, but their sheer numbers can overwhelm. Runners sprint at breakneck speed, making them difficult targets. Scratchers, when close, they attack quickly and inflict serious damage. Heavy zombies are nearly impervious to gunfire and require tactical thinking to bring down.\n\nUpgrade System:\nTo stay alive, you'll need better weapons. You can earn money in the game and use it to buy stronger guns to help you survive.\n\nFeatures:\n- Fun and intense zombie shooting action.\n- Different types of zombies to fight.\n- Buy better weapons to survive longer.\n- Four different maps to survive in.\n- Realistic graphics and beautiful environments.\n\nIn \"Favela Zombie Shooter,\" you'll need quick reflexes and powerful weapons to survive the zombie onslaught. Can you make it out alive from the favela filled with zombies?",
+  "bannerUrl": "http://api.nlib.cc/nx/010088E01CE94000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010088E01CE94000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010088E01CE94000/screen/1",
+    "http://api.nlib.cc/nx/010088E01CE94000/screen/2",
+    "http://api.nlib.cc/nx/010088E01CE94000/screen/3",
+    "http://api.nlib.cc/nx/010088E01CE94000/screen/4",
+    "http://api.nlib.cc/nx/010088E01CE94000/screen/5",
+    "http://api.nlib.cc/nx/010088E01CE94000/screen/6"
+  ]
+}

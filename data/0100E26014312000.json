@@ -1,0 +1,14 @@
+{
+  "name": "Ladders by POWGI",
+  "publisher": "Lightwood Games",
+  "releaseDate": "20210429",
+  "description": "Make new words by changing one letter at a time. The goal is to turn one word into another using only a limited number of steps.\n\nYour reward? A free dad joke with each puzzle solved!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E26014312000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E26014312000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E26014312000/screen/1",
+    "http://api.nlib.cc/nx/0100E26014312000/screen/2",
+    "http://api.nlib.cc/nx/0100E26014312000/screen/3",
+    "http://api.nlib.cc/nx/0100E26014312000/screen/4"
+  ]
+}

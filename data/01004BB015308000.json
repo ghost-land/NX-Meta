@@ -1,0 +1,16 @@
+{
+  "name": "悪夢の妖怪村",
+  "publisher": "ソニックパワード",
+  "releaseDate": "20210819",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/01004BB015308000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004BB015308000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004BB015308000/screen/1",
+    "http://api.nlib.cc/nx/01004BB015308000/screen/2",
+    "http://api.nlib.cc/nx/01004BB015308000/screen/3",
+    "http://api.nlib.cc/nx/01004BB015308000/screen/4",
+    "http://api.nlib.cc/nx/01004BB015308000/screen/5",
+    "http://api.nlib.cc/nx/01004BB015308000/screen/6"
+  ]
+}

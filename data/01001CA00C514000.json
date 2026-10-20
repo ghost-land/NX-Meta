@@ -1,0 +1,16 @@
+{
+  "name": "Tinboy",
+  "publisher": "Interactive Stone",
+  "releaseDate": "20181115",
+  "description": "A brilliant scientist creates a humanoid little robot. She then tests her creation by placing it in different environments. Using a special bow, the robot must reach the exit of every environment. Take control of the robot and solve the scientist’s 60 puzzles.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001CA00C514000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001CA00C514000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001CA00C514000/screen/1",
+    "http://api.nlib.cc/nx/01001CA00C514000/screen/2",
+    "http://api.nlib.cc/nx/01001CA00C514000/screen/3",
+    "http://api.nlib.cc/nx/01001CA00C514000/screen/4",
+    "http://api.nlib.cc/nx/01001CA00C514000/screen/5",
+    "http://api.nlib.cc/nx/01001CA00C514000/screen/6"
+  ]
+}

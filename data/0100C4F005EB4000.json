@@ -1,0 +1,16 @@
+{
+  "name": "Mecho Tales",
+  "publisher": "Arcade Distillery",
+  "releaseDate": "20171214",
+  "description": "An all-new adventure in the world of Mecho Wars! Run and shoot through chaotic platforming levels filled with spikes, bottomless pits and an army of deadly robots.  Go it alone or team up with your friends in 4-player local multiplayer. Directed by Luc Bernard.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C4F005EB4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C4F005EB4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C4F005EB4000/screen/1",
+    "http://api.nlib.cc/nx/0100C4F005EB4000/screen/2",
+    "http://api.nlib.cc/nx/0100C4F005EB4000/screen/3",
+    "http://api.nlib.cc/nx/0100C4F005EB4000/screen/4",
+    "http://api.nlib.cc/nx/0100C4F005EB4000/screen/5",
+    "http://api.nlib.cc/nx/0100C4F005EB4000/screen/6"
+  ]
+}

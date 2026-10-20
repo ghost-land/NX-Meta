@@ -1,0 +1,16 @@
+{
+  "name": "God Wars",
+  "publisher": "Happy Player",
+  "releaseDate": "20250717",
+  "description": "Classic Loot-Based RPG: 9 unique classes × 9 weapon types × 600+ pieces of gear × 200+ pets × 180 relics. Mix and match freely to create your ultimate build!\n\nEpic Adventure Awaits: Explore 6 distinct worlds and conquer 6 completely different loops. Enjoy over 50 hours of thrilling, loot-filled gameplay!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F16022AA6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F16022AA6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F16022AA6000/screen/1",
+    "http://api.nlib.cc/nx/0100F16022AA6000/screen/2",
+    "http://api.nlib.cc/nx/0100F16022AA6000/screen/3",
+    "http://api.nlib.cc/nx/0100F16022AA6000/screen/4",
+    "http://api.nlib.cc/nx/0100F16022AA6000/screen/5",
+    "http://api.nlib.cc/nx/0100F16022AA6000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Top Driver",
+  "publisher": "Entity3",
+  "releaseDate": "20250607",
+  "description": "Top Driver is a precision-based, top-down racing experience that challenges your skills in intense time trials across diverse tracks and terrains. It's just you, the road, and the pursuit of perfection.\n\nMaster every track by racing on asphalt, dirt, snow, and sand. Adapt, learn, and conquer each surface. Push your limits by competing against your own ghost car, a reflection of your best recorded time.\n\nEarn in-game currency to unlock a variety of cars, each with unique handling. A finely tuned driving model delivers authentic controls, making every turn, drift, and acceleration feel satisfying.\n\nTest your precision and refine your technique in Top Driver – the ultimate challenge of speed and skill.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ADA023AF0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ADA023AF0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ADA023AF0000/screen/1",
+    "http://api.nlib.cc/nx/0100ADA023AF0000/screen/2",
+    "http://api.nlib.cc/nx/0100ADA023AF0000/screen/3",
+    "http://api.nlib.cc/nx/0100ADA023AF0000/screen/4",
+    "http://api.nlib.cc/nx/0100ADA023AF0000/screen/5"
+  ]
+}

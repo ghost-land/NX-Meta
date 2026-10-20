@@ -1,0 +1,16 @@
+{
+  "name": "Twilight Survivors",
+  "publisher": "DORIDORI STUDIO",
+  "releaseDate": "20240215",
+  "description": "A time-limited survival game infused with rogue-lite elements and an adorable art style! The world has plunged into darkness, and you are its sole beacon of hope. Will you endure until dawn, or succumb to repeated deaths in your quest? Fear not, for you can collect coins and more during your journey to arm yourself!",
+  "bannerUrl": "http://api.nlib.cc/nx/01006F401D934000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006F401D934000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006F401D934000/screen/1",
+    "http://api.nlib.cc/nx/01006F401D934000/screen/2",
+    "http://api.nlib.cc/nx/01006F401D934000/screen/3",
+    "http://api.nlib.cc/nx/01006F401D934000/screen/4",
+    "http://api.nlib.cc/nx/01006F401D934000/screen/5",
+    "http://api.nlib.cc/nx/01006F401D934000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Mini Madness",
+  "publisher": "Drageus Games",
+  "releaseDate": "20250523",
+  "description": "Mini Madness is a fast-paced arcade racing game.\nTake control of miniature remote-controlled cars and race on wild, vertically expanded tracks set inside a suburban home and its sprawling backyard.\n\nThe gameplay revolves around mastering your afterburner. Perform aerial flips to charge your boost meter and keep the action fast and fluid.\nAs you progress, you can upgrade various aspects of your car, including the afterburner capacity, recharge speed, flip rotation speed, braking power, and more.\n\nTracks are filled with multiple routes and creative shortcuts — you're only limited by control points that must be passed in a specific order.\nSpecial gravity panels and engine upgrades let you drive on walls and ceilings, opening up even more insane ways to race.\n\nEach track features interactive objects that can be activated with a transmitter.\nTrigger extendable bridges as shortcuts, unleash a toy robot that blasts your rivals with projectiles, or activate fans that throw racers off balance — and much more!\n\nFeatures:\n- The game provides single player mode and local co-op mode.\n- You can upgrade your car’s visuals, parameters and abilities.\n- There are multiple game modes - time race, fast race, championship, challenge.\n- While racing, players can collect temporary augments such as mines, rockets, smokescreen and many more.\n- Players can interact with objects on locations and influence gameplay.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009E8021582000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009E8021582000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009E8021582000/screen/1",
+    "http://api.nlib.cc/nx/01009E8021582000/screen/2",
+    "http://api.nlib.cc/nx/01009E8021582000/screen/3",
+    "http://api.nlib.cc/nx/01009E8021582000/screen/4",
+    "http://api.nlib.cc/nx/01009E8021582000/screen/5",
+    "http://api.nlib.cc/nx/01009E8021582000/screen/6"
+  ]
+}

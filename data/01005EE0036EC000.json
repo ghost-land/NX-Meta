@@ -1,0 +1,16 @@
+{
+  "name": "Rocket League®",
+  "publisher": "Epic Games",
+  "releaseDate": "20171114",
+  "description": "Download and compete in the high-octane hybrid of arcade-style soccer and vehicular mayhem! Unlock items in Rocket Pass, climb the Competitive Ranks, compete in Competitive Tournaments, complete Challenges, enjoy cross-platform progression and more! The field is waiting. Take your shot! ",
+  "bannerUrl": "http://api.nlib.cc/nx/01005EE0036EC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005EE0036EC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005EE0036EC000/screen/1",
+    "http://api.nlib.cc/nx/01005EE0036EC000/screen/2",
+    "http://api.nlib.cc/nx/01005EE0036EC000/screen/3",
+    "http://api.nlib.cc/nx/01005EE0036EC000/screen/4",
+    "http://api.nlib.cc/nx/01005EE0036EC000/screen/5",
+    "http://api.nlib.cc/nx/01005EE0036EC000/screen/6"
+  ]
+}

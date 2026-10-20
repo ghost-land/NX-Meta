@@ -1,0 +1,18 @@
+{
+  "name": "Rainbow Islands CS",
+  "publisher": "TAITO",
+  "releaseDate": "20261008",
+  "description": "Rainbow Island CS is a collection of several home ports of the arcade game Rainbow Islands.\n\nIn addition to the popular 8 and 16-bit versions, the collection includes the never-released-on-cartridge MegaDrive/Genesis version. With 24 quick-save/load slots for each version and a feature that displays the location of the diamonds, there's never been a better time to experience it. It also includes a feature that lets you start the game in a powered-up state.\n\nThe PC Engine version is based on the NES™ version and features a main theme arranged for FM sound by Yukiharu Urita, as well as an ending theme composed by Norihiro Furukawa, both Zuntata (Taito's sound team) alumni.\n\nWhat is Rainbow Islands?\nRainbow Islands is an arcade action game released by Taito in 1987 where the player controls Bubby or Bobby, using their rainbow magic as both weapons and platforms to climb and reach the goal at the highest point of each stage.\n\n[Story] \nAt the end of the previous game, Bubble Bobble, the bubble dragons Bub and Bob had rescued their parents and girlfriends and returned to their human forms of Bubby and Bobby.\nSeveral years after those events, Bubby and Bobby return to their ancestral home, Rainbow Islands, in search of treasure, but end up entangled in another devious plot!\nIt seems that their true nemesis, the Boss of Shadow, has since resumed his evil machinations. Bubby and Bobby's path is blocked by various enemies, but with the “rainbow magic” given to them by their parents, they bravely continue their adventurous journey.\n\n*The story described here is based on the Mega Drive and PC Engine versions. The content differs slightly in the Family Computer, Nintendo Entertainment System™, and SEGA Master System versions.\n\nContents\n・Rainbow Islands (Family Computer version) \n・Rainbow Islands (Nintendo Entertainment System version) \n・Rainbow Islands (Sega Master System version) \n・Rainbow Islands Extra (JP Mega Drive version) Rainbow Island Extra (US/EU Mega Drive/Genesis version) \n・Rainbow Islands (PC Engine CD-ROM² version)\n\n*The background music for the Family Computer, Mega Drive, and PC Engine CD-ROM² versions uses the main theme based on the NES version.\n\n\nFamily Computer, Nintendo Entertainment System and NES are trademarks of Nintendo.\nMega Drive, Genesis and SEGA Master System are either registered trademarks or trademarks of SEGA Holdings Co., Ltd. or its affiliates.\nPC Engine and PC Engine logo are trademarks of Konami Digital Entertainment Co., Ltd. and BIGLOBE Inc.",
+  "bannerUrl": "http://api.nlib.cc/nx/010029F02162E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010029F02162E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010029F02162E000/screen/1",
+    "http://api.nlib.cc/nx/010029F02162E000/screen/2",
+    "http://api.nlib.cc/nx/010029F02162E000/screen/3",
+    "http://api.nlib.cc/nx/010029F02162E000/screen/4",
+    "http://api.nlib.cc/nx/010029F02162E000/screen/5",
+    "http://api.nlib.cc/nx/010029F02162E000/screen/6"
+  ],
+  "version": 0,
+  "size": 528408155
+}

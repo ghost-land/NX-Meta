@@ -1,0 +1,16 @@
+{
+  "name": "Drunk-Fu: Wasted Masters",
+  "publisher": "Rust0 Games",
+  "releaseDate": "20200110",
+  "description": "Drunk-Fu: Wasted Masters is a physics based fighting game. Maniacally laugh to insane ragdolls both locally & online.\n\nFlail around in intoxicated fury as you take down your enemies with a variety of techniques and melee weapons. Howl in a drunken rage as you team up with your friends or beat them to a pulp in multiple game modes. \n\nEnjoy different alcohol inspired bars all over the world and customize your character to show impeccable taste.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F2400CF00000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F2400CF00000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F2400CF00000/screen/1",
+    "http://api.nlib.cc/nx/0100F2400CF00000/screen/2",
+    "http://api.nlib.cc/nx/0100F2400CF00000/screen/3",
+    "http://api.nlib.cc/nx/0100F2400CF00000/screen/4",
+    "http://api.nlib.cc/nx/0100F2400CF00000/screen/5",
+    "http://api.nlib.cc/nx/0100F2400CF00000/screen/6"
+  ]
+}

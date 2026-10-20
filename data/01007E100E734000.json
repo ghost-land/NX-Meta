@@ -1,0 +1,16 @@
+{
+  "name": "Ping Pong Arcade",
+  "publisher": "Silver Lining",
+  "releaseDate": "20220428",
+  "description": "Ping Pong Arcade tests your skills with a variety of challenging game modes and customisation options. Go from novice to pro with five difficulty levels to suit any player’s skill. Conquer the campaign mode by beating opponents in five different locations including an arcade, a stadium and a Japanese garden. Unlock eleven “super-powers” as you play and use skills such as “Ultra Hit”, “Giga Paddle” and “Soap Bubble”, to outwit and overpower you opponent.\n\nPlay against a friend with either the local or online multiplayer options or prove your prowess in Ping Pong Arcade’s World Cup Championship. Have you got what it takes to go from your local school gymnasium, through the regional sports halls in the nationals and onto the international arenas where the ultimate prize of becoming the World Champion awaits?  ",
+  "bannerUrl": "http://api.nlib.cc/nx/01007E100E734000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007E100E734000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007E100E734000/screen/1",
+    "http://api.nlib.cc/nx/01007E100E734000/screen/2",
+    "http://api.nlib.cc/nx/01007E100E734000/screen/3",
+    "http://api.nlib.cc/nx/01007E100E734000/screen/4",
+    "http://api.nlib.cc/nx/01007E100E734000/screen/5",
+    "http://api.nlib.cc/nx/01007E100E734000/screen/6"
+  ]
+}

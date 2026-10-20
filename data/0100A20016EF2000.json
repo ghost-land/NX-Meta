@@ -1,0 +1,16 @@
+{
+  "name": "Connecto",
+  "publisher": "Lone Wolf Technology",
+  "releaseDate": "20220513",
+  "description": "Connecto is a game about making connections.\nTap the dots on the edge of the playing field to shoot them in the direction of their arrow.\nIf two dots with the same number meet, they establish a connection. Chain at least two twos, three threes or four fours to make a match.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A20016EF2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A20016EF2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A20016EF2000/screen/1",
+    "http://api.nlib.cc/nx/0100A20016EF2000/screen/2",
+    "http://api.nlib.cc/nx/0100A20016EF2000/screen/3",
+    "http://api.nlib.cc/nx/0100A20016EF2000/screen/4",
+    "http://api.nlib.cc/nx/0100A20016EF2000/screen/5",
+    "http://api.nlib.cc/nx/0100A20016EF2000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Dunk Lords",
+  "publisher": "Story Fort",
+  "releaseDate": "20210617",
+  "description": "Dunk Lords is a two-on-two basketball beat 'em up featuring over-the-top special moves, devastating dunks, and game-changing equipment. Choose from 20 of the baddest ballers around, each with unique special attacks and abilities, and do battle on a variety of hazard-filled courts.\n\n• In Arcade Mode, play pickup games locally with 1-4 players.\n\n• In Gauntlet Mode, attempt to win four games in a row with 1-2 players in pursuit of a high score. One loss and you are done.\n\n• In Story Mode, guide talented young star Slice and his friends in their attempt to become true Dunk Lords. Play through Story Mode single player or with a friend.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EC30140B6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EC30140B6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EC30140B6000/screen/1",
+    "http://api.nlib.cc/nx/0100EC30140B6000/screen/2",
+    "http://api.nlib.cc/nx/0100EC30140B6000/screen/3",
+    "http://api.nlib.cc/nx/0100EC30140B6000/screen/4",
+    "http://api.nlib.cc/nx/0100EC30140B6000/screen/5",
+    "http://api.nlib.cc/nx/0100EC30140B6000/screen/6"
+  ]
+}

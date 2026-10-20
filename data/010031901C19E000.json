@@ -1,0 +1,14 @@
+{
+  "name": "LiartaniumOS - Operating System",
+  "publisher": "ASI GAMES TECHNOLOGIES",
+  "releaseDate": "20230822",
+  "description": "It's high time with LiartaniumOS!\nLiartaniumOS is designed to teach how to use a personal computer.\n\nKey Feature:\n\n- Classic OS installer\n- Wonderful operating system desktop and design\n- Games and applications that will not let you get bored",
+  "bannerUrl": "http://api.nlib.cc/nx/010031901C19E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010031901C19E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010031901C19E000/screen/1",
+    "http://api.nlib.cc/nx/010031901C19E000/screen/2",
+    "http://api.nlib.cc/nx/010031901C19E000/screen/3",
+    "http://api.nlib.cc/nx/010031901C19E000/screen/4"
+  ]
+}

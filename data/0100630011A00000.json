@@ -1,0 +1,15 @@
+{
+  "name": "Let's Sing 2021 mit deutschen Hits",
+  "publisher": "PLAION",
+  "releaseDate": "20201113",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/0100630011A00000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100630011A00000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100630011A00000/screen/1",
+    "http://api.nlib.cc/nx/0100630011A00000/screen/2",
+    "http://api.nlib.cc/nx/0100630011A00000/screen/3",
+    "http://api.nlib.cc/nx/0100630011A00000/screen/4",
+    "http://api.nlib.cc/nx/0100630011A00000/screen/5"
+  ]
+}

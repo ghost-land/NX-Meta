@@ -1,0 +1,16 @@
+{
+  "name": "Escape from the Tower",
+  "publisher": "IntuitiveComputers",
+  "releaseDate": "20240629",
+  "description": "Guide your brave princess as she makes her escape from a formidable tower. Battle through hordes of mighty enemies, overcome challenging obstacles, and face off against the fearsome dragon. Utilize unique abilities, collect powerful items, and strategize your way to victory.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010082701F8C4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010082701F8C4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010082701F8C4000/screen/1",
+    "http://api.nlib.cc/nx/010082701F8C4000/screen/2",
+    "http://api.nlib.cc/nx/010082701F8C4000/screen/3",
+    "http://api.nlib.cc/nx/010082701F8C4000/screen/4",
+    "http://api.nlib.cc/nx/010082701F8C4000/screen/5",
+    "http://api.nlib.cc/nx/010082701F8C4000/screen/6"
+  ]
+}

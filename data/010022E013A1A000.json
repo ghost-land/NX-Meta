@@ -1,0 +1,16 @@
+{
+  "name": "Hoa",
+  "publisher": "PM Studios",
+  "releaseDate": "20210824",
+  "description": "Hoa is a beautiful puzzle-platforming game that features breathtaking hand-painted art, lovely music, and a peaceful, relaxing atmosphere. Experience the magic of nature and imagination as you play the main character, Hoa, on her journey through breathtaking environments back to where it all began.\n\n- Breathtaking hand-painted art\nStep into a painting that lives - explore a vast world of meticulously crafted sceneries of stunning hand-painted art.\n\n- Outstanding original soundtrack\nCaptivatingly story-telling and emotionally-charged, Hoa's exceptional score, originally composed and live-recorded, brings its world to life with a touch of nostalgia.\n\n- Lovely creatures\nKeep an eye out for delightful magical creatures along the way. Most of them want to be friends, some might even tell you a little story or two. Cuteness guaranteed.\n\n- Gentle, yet compelling flow\nNavigate with a keen eye and solve exploration-based puzzles. Relax to the organic rhythm of subtle storytelling while being intrigued by endless little wonders. Be a child - it's easier and harder than it may seem.\n\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010022E013A1A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010022E013A1A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010022E013A1A000/screen/1",
+    "http://api.nlib.cc/nx/010022E013A1A000/screen/2",
+    "http://api.nlib.cc/nx/010022E013A1A000/screen/3",
+    "http://api.nlib.cc/nx/010022E013A1A000/screen/4",
+    "http://api.nlib.cc/nx/010022E013A1A000/screen/5",
+    "http://api.nlib.cc/nx/010022E013A1A000/screen/6"
+  ]
+}

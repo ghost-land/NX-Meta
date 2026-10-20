@@ -1,0 +1,16 @@
+{
+  "name": "Escape 2088",
+  "publisher": "OnSkull Development",
+  "releaseDate": "20210204",
+  "description": "Escape2088 is an old-school point & click escape room game with modern 3D graphics! Explore a futuristic environment and use your problem-solving skills to set yourself free!\nCareful observation of the surroundings will help you discover hidden clues, solve logic puzzles and escape in time!\n\n- 3 different areas to explore\n- Optional time limitation\n- Multi-language support\n- Logic and observation puzzles\n\nThe game can be played using the touchscreen or using the Joy-Con™ controllers to control the cursor and the camera.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001F2013DF2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001F2013DF2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001F2013DF2000/screen/1",
+    "http://api.nlib.cc/nx/01001F2013DF2000/screen/2",
+    "http://api.nlib.cc/nx/01001F2013DF2000/screen/3",
+    "http://api.nlib.cc/nx/01001F2013DF2000/screen/4",
+    "http://api.nlib.cc/nx/01001F2013DF2000/screen/5",
+    "http://api.nlib.cc/nx/01001F2013DF2000/screen/6"
+  ]
+}

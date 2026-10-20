@@ -1,0 +1,16 @@
+{
+  "name": "Hello Neighbor",
+  "publisher": "tinyBuild Games",
+  "releaseDate": "20180727",
+  "description": "Hello Neighbor is a stealth horror game about sneaking into your neighbor's house to figure out what horrible secrets he's hiding in the basement. You play against an advanced AI that learns from your every move. Really enjoying climbing through that backyard window? Expect a bear trap there. Sneaking through the front door? There'll be cameras there soon. Trying to escape? The Neighbor will find a shortcut and catch you. \n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FAA00B168000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FAA00B168000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FAA00B168000/screen/1",
+    "http://api.nlib.cc/nx/0100FAA00B168000/screen/2",
+    "http://api.nlib.cc/nx/0100FAA00B168000/screen/3",
+    "http://api.nlib.cc/nx/0100FAA00B168000/screen/4",
+    "http://api.nlib.cc/nx/0100FAA00B168000/screen/5",
+    "http://api.nlib.cc/nx/0100FAA00B168000/screen/6"
+  ]
+}

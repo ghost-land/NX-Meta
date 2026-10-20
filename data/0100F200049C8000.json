@@ -1,0 +1,16 @@
+{
+  "name": "InnerSpace",
+  "publisher": "Aspyr",
+  "releaseDate": "20180116",
+  "description": "InnerSpace is an exploration flying game set in the Inverse, a world of inside-out planets with no horizons. Soar through ancient skies and abandoned oceans to discover the lost history of this fading realm, where gods still wander. Your greatest journey is within. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F200049C8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F200049C8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F200049C8000/screen/1",
+    "http://api.nlib.cc/nx/0100F200049C8000/screen/2",
+    "http://api.nlib.cc/nx/0100F200049C8000/screen/3",
+    "http://api.nlib.cc/nx/0100F200049C8000/screen/4",
+    "http://api.nlib.cc/nx/0100F200049C8000/screen/5",
+    "http://api.nlib.cc/nx/0100F200049C8000/screen/6"
+  ]
+}

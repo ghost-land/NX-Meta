@@ -1,0 +1,16 @@
+{
+  "name": "Peasant Knight",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20190322",
+  "description": "Peasant Knight is a challenging puzzle-platformer that you can play with only two buttons: jump and stop.\nAll the while you're relentlessly dashing forward into traps, enemies, and hazards.\nPeasant Knight has a tongue-in-cheek tone that fits well the many ways to reach your demise.\n\nFeatures:\n* 80 levels to solve\n* 18 traps, enemies, and bosses to overcome.\n* Local multiplayer (up to 4 players)\n* Coop and race modes",
+  "bannerUrl": "http://api.nlib.cc/nx/010028A0048A6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010028A0048A6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010028A0048A6000/screen/1",
+    "http://api.nlib.cc/nx/010028A0048A6000/screen/2",
+    "http://api.nlib.cc/nx/010028A0048A6000/screen/3",
+    "http://api.nlib.cc/nx/010028A0048A6000/screen/4",
+    "http://api.nlib.cc/nx/010028A0048A6000/screen/5",
+    "http://api.nlib.cc/nx/010028A0048A6000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "EGGCONSOLE SEILANE PC-8801mkIISR",
+  "publisher": "D4 Enterprise",
+  "releaseDate": "20240718",
+  "description": "It is an adventure game released in Japan by Micro Cabin in 1987. Players take on the role of a field mouse named Prill and embark on an adventure to rescue the animals of a village turned to stone by the Demon King Pazul, as well as his kidnapped sister.\n\nThe game follows a command selection system. Players choose commands such as \"talk,\" \"call,\" \"listen,\" \"examine,\" and \"eat\" depending on the scene, advancing the scenario accordingly. It can be considered a classic adventure game. While some old adventure games were known for their difficulty or getting stuck, this game lacks such frustrating elements, making it enjoyable even for beginners. While there are challenging parts in the story, players can resort to trial-and-error with commands if they get stuck.\n\nOne of the highlights is undoubtedly its unique world view, similar to other titles like \"Harry Fox\" from the same company. The various animals that appear behave almost like humans, and interacting with them or exploring the world gives players a sense of stepping into a picture book.\n\n*This application does not have a scene select mode.\n*The main game and gallery screen (*Gallery) are in Japanese version.\n*Other menu screens and \"How to play\" screens are in English.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002ED01F61A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002ED01F61A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002ED01F61A000/screen/1",
+    "http://api.nlib.cc/nx/01002ED01F61A000/screen/2",
+    "http://api.nlib.cc/nx/01002ED01F61A000/screen/3",
+    "http://api.nlib.cc/nx/01002ED01F61A000/screen/4",
+    "http://api.nlib.cc/nx/01002ED01F61A000/screen/5",
+    "http://api.nlib.cc/nx/01002ED01F61A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PLATFORM 0",
+  "publisher": "Play Lab",
+  "releaseDate": "20260305",
+  "description": "Welcome to a first-person horror experience focused on tension, stealth, and environmental storytelling. You play as a lone survivor trapped in a massive underground metro system haunted by a mysterious ghost train.\n\nThere are no weapons. Your main tools are silence, awareness, and the environment itself.\n\n- Exploration: Navigate abandoned stations, dark tunnels, and derelict utility rooms in search of a way out.    \n\n- Stealth Survival: Make too much noise, and the ghost train will find you. Hide, and listen carefully to survive.    \n\n- Traps & Scare Points: Some areas offer light and supplies. Others are bait for terrifying ambushes.    \n\n- Interactive Items: Use tools to unlock new paths, solve simple environmental puzzles, or distract threats.  \n  \n- Dynamic Threat: The ghost train isn’t bound to a single track — it roams. It hears. It hunts.  \n  \n It’s a horror game where survival comes from being quiet, thinking fast, and paying attention to every sound in the darkness.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002150261F2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002150261F2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002150261F2000/screen/1",
+    "http://api.nlib.cc/nx/01002150261F2000/screen/2",
+    "http://api.nlib.cc/nx/01002150261F2000/screen/3",
+    "http://api.nlib.cc/nx/01002150261F2000/screen/4",
+    "http://api.nlib.cc/nx/01002150261F2000/screen/5",
+    "http://api.nlib.cc/nx/01002150261F2000/screen/6"
+  ]
+}

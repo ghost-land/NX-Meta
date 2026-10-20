@@ -1,0 +1,16 @@
+{
+  "name": "Night Flight",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20210823",
+  "description": "When the last human worker leaves the factory unsupervised, toys wake up and live their lives. One night you find yourself boxed! You decide to take action and leave this place.\n\nCollect stars on your way - they serve as fuel. Be agile, think on the fly, or plan your route through challenging levels. Open doors, use pipes to travel from one place to the other. Make use of speed boosts and dodge rockets doing barrel rolls!",
+  "bannerUrl": "http://api.nlib.cc/nx/010096C01515C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010096C01515C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010096C01515C000/screen/1",
+    "http://api.nlib.cc/nx/010096C01515C000/screen/2",
+    "http://api.nlib.cc/nx/010096C01515C000/screen/3",
+    "http://api.nlib.cc/nx/010096C01515C000/screen/4",
+    "http://api.nlib.cc/nx/010096C01515C000/screen/5",
+    "http://api.nlib.cc/nx/010096C01515C000/screen/6"
+  ]
+}

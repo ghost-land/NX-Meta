@@ -1,0 +1,16 @@
+{
+  "name": "Lost Crystals",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20230919",
+  "description": "Welcome to the enchanting world of Lost Crystals. Immerse yourself in the calm and let the magic of Lost Crystals wash over you. Are you ready to embark on a tranquil adventure like no other?\n\nImmersive Gemstone Hunt: \nSeek out a plethora of exquisite treasures, including dazzling gemstones like Sapphire, Jade, Ruby, Amethyst, Moonstone, and more. Uncover hidden crystals to unravel the secrets of this mysterious realm.\n\nBreathtaking Visuals: \nGet lost in the stunning beauty of the fog-shrouded valley, with ethereal fog effects and meticulously crafted environments that immerse you in a captivating atmosphere.\n\nSoothing Atmosphere: \nExperience tranquility with the soft sounds of nature and a soothing musical score that enhance the relaxing gameplay. Let the stress melt away as you lose yourself in the serene world of Lost Crystals.\n\nMystical Exploration: \nNavigate through overgrown paths, dense foliage, hidden alcoves, and ancient ruins. Each location tells a story and adds layers of intrigue to your journey.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CEB01CB9A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CEB01CB9A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CEB01CB9A000/screen/1",
+    "http://api.nlib.cc/nx/0100CEB01CB9A000/screen/2",
+    "http://api.nlib.cc/nx/0100CEB01CB9A000/screen/3",
+    "http://api.nlib.cc/nx/0100CEB01CB9A000/screen/4",
+    "http://api.nlib.cc/nx/0100CEB01CB9A000/screen/5",
+    "http://api.nlib.cc/nx/0100CEB01CB9A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Old Coin Pusher Friends 3",
+  "publisher": "STP WORKS",
+  "releaseDate": "20241226",
+  "description": "Work together with other players to defeat yokai, punish corrupt officials, and aim for the jackpot. As you progress in the game, you can enhance your abilities with various upgrades.\n\n\n- Sugoroku\nAdvance by collecting dice that appear on the board. Various events are triggered depending on the squares you land on.\n\n\n- Prize Collection\nCollect various Edo-period-themed prizes. The more prizes you collect, the more rewards you receive at reach the goal of the Sugoroku.\n\n\n- Ability Enhancements & Avatars\nThere are various upgrade features such as Gatling guns, auxiliary launchers, appearance changes for pieces and launchers, attack power upgrades, and increased firing speed.\n\n\n- Multiplayer\nThere are two types of multiplayer modes: random matchmaking and friend matchmaking. Whether you want to experience one-time encounters with random players or play with your friends, the game can be played in various styles. You can play with up to four people at once.\n\n\n- Co-op Events\nThere are cooperative mini-games such as defeating yokai, punishing corrupt officials and evil magistrates, and dealing with volcanic eruptions. The strength of the yokai increases according to the players' strength, and the stronger the yokai, the more prizes they drop.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B58021646000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B58021646000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B58021646000/screen/1",
+    "http://api.nlib.cc/nx/0100B58021646000/screen/2",
+    "http://api.nlib.cc/nx/0100B58021646000/screen/3",
+    "http://api.nlib.cc/nx/0100B58021646000/screen/4",
+    "http://api.nlib.cc/nx/0100B58021646000/screen/5",
+    "http://api.nlib.cc/nx/0100B58021646000/screen/6"
+  ]
+}

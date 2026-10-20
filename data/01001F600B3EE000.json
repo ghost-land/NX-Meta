@@ -1,0 +1,16 @@
+{
+  "name": "The Legend of Evil",
+  "publisher": "SPRINGLOADED",
+  "releaseDate": "20181019",
+  "description": "With two main modes, enjoy countless hours exploring, destroying and corrupting the world of humanity in this strategic tower offense!\n\nCampaign Mode:\n• Play as Bill, as he triumphantly carries out his duties to destroy mankind.\n • Build towers to summon procedurally generated demons that will unleash devastation on your enemies. \n • Discover new demons and unlock new tower upgrades throughout your quest to bring about the apocalypse!\n • Overcome obstacles and challenges by utilizing your demon's unique strengths.\n\nRogue Conquest Mode:\n • Different every time you play!\n • Build an adaptive strategy and think on your feet to combat the constantly changing human scourge.\n • Use unique demons each with their strengths, weaknesses and special abilities.\n • Experiment with endless combinations by fusing demons together.\n • Meet exciting and new enemies and bosses of all sizes.\n • Manage your resources while carefully balancing risk and reward.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001F600B3EE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001F600B3EE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001F600B3EE000/screen/1",
+    "http://api.nlib.cc/nx/01001F600B3EE000/screen/2",
+    "http://api.nlib.cc/nx/01001F600B3EE000/screen/3",
+    "http://api.nlib.cc/nx/01001F600B3EE000/screen/4",
+    "http://api.nlib.cc/nx/01001F600B3EE000/screen/5",
+    "http://api.nlib.cc/nx/01001F600B3EE000/screen/6"
+  ]
+}

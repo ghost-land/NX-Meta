@@ -1,0 +1,16 @@
+{
+  "name": "Delirium",
+  "publisher": "GammeraNest",
+  "releaseDate": "20240808",
+  "description": "Delirium is a first-person graphic adventure in which we control teenage rebel Lola. Like Lola, our main objective will be to escape from Delirium along with her freak brother Danny, who will accompany us during the adventure. \n\nTo do this, we must put all our ingenuity in solving fun puzzles, explore unusual scenarios and meet peculiar characters. In Delirium we will be able to interact with the stage to examine objects, pick them up and also combine them with other different ones in order to advance in the story. \n\nWith Lola and Danny we will live a whole adventure full of humor and full of references to pop culture, be it video games, comics, movies or series.\n\nFeatures:\n\n•\tGraphic adventure.\n•\tClassic graphic adventure inventory.\n•\tA lot of puzzles to resolve.\n•\tHilarious characters to meet.\n•\tVariety content, gags and easter eggs.\n•\tCell-Shading graphic style.\n•\tAstonishing soundtrack.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A0301F4B6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A0301F4B6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A0301F4B6000/screen/1",
+    "http://api.nlib.cc/nx/0100A0301F4B6000/screen/2",
+    "http://api.nlib.cc/nx/0100A0301F4B6000/screen/3",
+    "http://api.nlib.cc/nx/0100A0301F4B6000/screen/4",
+    "http://api.nlib.cc/nx/0100A0301F4B6000/screen/5",
+    "http://api.nlib.cc/nx/0100A0301F4B6000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Treehouse Riddle",
+  "publisher": "Fruitbat Factory",
+  "releaseDate": "20220818",
+  "description": "I find myself in a treehouse.\nI need to find a way out.\nWho are that little girl and elderly man?\nHow and why did I end up here?\n\n\"Treehouse Riddle\" is an adventure game where you unfold its story by solving riddles and puzzles.\n\nA girl wakes up to find out that she's trapped in a room of a treehouse.\nShe explores all the rooms drawn in beautiful pixel art and solves riddles and puzzles to escape the house.\n\nJust like the house itself, the 60+ riddles and puzzles are made of wood.\nTake your time and use all of your knowledge to solve them.\n\nEvery riddle and puzzle gives you hints and can be skipped.\nYou don't need to worry about getting stuck.",
+  "bannerUrl": "http://api.nlib.cc/nx/010000900F710000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010000900F710000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010000900F710000/screen/1",
+    "http://api.nlib.cc/nx/010000900F710000/screen/2",
+    "http://api.nlib.cc/nx/010000900F710000/screen/3",
+    "http://api.nlib.cc/nx/010000900F710000/screen/4",
+    "http://api.nlib.cc/nx/010000900F710000/screen/5",
+    "http://api.nlib.cc/nx/010000900F710000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "GET TO WORK SIMULATOR",
+  "publisher": "Play Games",
+  "releaseDate": "20250819",
+  "description": "Welcome to GET TO WORK SIMULATOR – a chaotic and hilarious adventure where every office day turns into a real challenge! Your task is simple – get to your workplace... but it won’t be easy!\nMove through the office building on roller skates, overcome crazy obstacles, use ramps, avoid traps, and make sure the strict boss doesn’t catch you in an embarrassing situation.\nFeatures:\n-Roller skating in the office – forget about elevators and stairs, race your way through the building!\n-Humorous commentary – your attempts to reach your desk won’t go unnoticed!\n-Ramps, traps, and chaos – navigate through the office mayhem to prove you’re the ultimate employee!\n-Quick reflexes and skill – dodge obstacles and show off your agility!\nAre you ready for the most unpredictable workday of your life? Strap on your skates – it’s time to get to work!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CEF024358000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CEF024358000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CEF024358000/screen/1",
+    "http://api.nlib.cc/nx/0100CEF024358000/screen/2",
+    "http://api.nlib.cc/nx/0100CEF024358000/screen/3",
+    "http://api.nlib.cc/nx/0100CEF024358000/screen/4",
+    "http://api.nlib.cc/nx/0100CEF024358000/screen/5",
+    "http://api.nlib.cc/nx/0100CEF024358000/screen/6"
+  ]
+}

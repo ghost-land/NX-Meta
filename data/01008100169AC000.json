@@ -1,0 +1,16 @@
+{
+  "name": "Galaxy Shooter",
+  "publisher": "Fantastico Studio",
+  "releaseDate": "20211102",
+  "description": "A single starship can succeed where a squadron will fail? \nReady your sky force for ruthless space battle and fly through the chaotic barrage of asteroids & bullets to attack space invasion in our alien shooter game!\nUpgrade your starship and put an end to the evil Kraathu Empire. Why? \nBecause only you and your space team can restore peace in the galaxy threatened by alien invaders! Shoot ’em up, repel their galaxy attack!",
+  "bannerUrl": "http://api.nlib.cc/nx/01008100169AC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008100169AC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008100169AC000/screen/1",
+    "http://api.nlib.cc/nx/01008100169AC000/screen/2",
+    "http://api.nlib.cc/nx/01008100169AC000/screen/3",
+    "http://api.nlib.cc/nx/01008100169AC000/screen/4",
+    "http://api.nlib.cc/nx/01008100169AC000/screen/5",
+    "http://api.nlib.cc/nx/01008100169AC000/screen/6"
+  ]
+}

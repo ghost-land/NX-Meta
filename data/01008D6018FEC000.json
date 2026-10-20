@@ -1,0 +1,16 @@
+{
+  "name": "Blob Quest",
+  "publisher": "Pix Arts",
+  "releaseDate": "20220824",
+  "description": "Guide your Blob through several levels in this adventure full of dangers, treasures and monstrous enemies. You'll have to solve many puzzles and prove your skills to succeed.\nWith great graphics and animation, Blob Quest will keep you entertained for long hours...\n\nStart playing!",
+  "bannerUrl": "http://api.nlib.cc/nx/01008D6018FEC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008D6018FEC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008D6018FEC000/screen/1",
+    "http://api.nlib.cc/nx/01008D6018FEC000/screen/2",
+    "http://api.nlib.cc/nx/01008D6018FEC000/screen/3",
+    "http://api.nlib.cc/nx/01008D6018FEC000/screen/4",
+    "http://api.nlib.cc/nx/01008D6018FEC000/screen/5",
+    "http://api.nlib.cc/nx/01008D6018FEC000/screen/6"
+  ]
+}

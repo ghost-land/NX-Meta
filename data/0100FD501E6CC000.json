@@ -1,0 +1,16 @@
+{
+  "name": "Warring Universe",
+  "publisher": "ASI GAMES TECHNOLOGIES",
+  "releaseDate": "20240309",
+  "description": "Warring Universe is a vibrant, endless, and thrilling game about intergalactic conflicts!\n\nThis colourful pixel arcade game features numerous foes, spacecraft, upgrades, and much more. You're among the select few who have chosen to defy the odds in space!\n\nEarn coins by vanquishing enemies to purchase and enhance your ships! With the best ship in your possession, you'll fearlessly navigate through hordes of adversaries!\n\nAcquire rockets to swiftly eliminate your foes! Invest in armour to withstand attacks from even the most formidable enemies!\n\nEnhancing your ship enables you to obliterate more enemies and rack up higher scores along the way! Amass numerous points and set records in the game!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FD501E6CC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FD501E6CC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FD501E6CC000/screen/1",
+    "http://api.nlib.cc/nx/0100FD501E6CC000/screen/2",
+    "http://api.nlib.cc/nx/0100FD501E6CC000/screen/3",
+    "http://api.nlib.cc/nx/0100FD501E6CC000/screen/4",
+    "http://api.nlib.cc/nx/0100FD501E6CC000/screen/5",
+    "http://api.nlib.cc/nx/0100FD501E6CC000/screen/6"
+  ]
+}

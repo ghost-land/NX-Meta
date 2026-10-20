@@ -1,0 +1,15 @@
+{
+  "name": "Active Soccer 2019",
+  "publisher": "Gianluca Troiano",
+  "releaseDate": "20190419",
+  "description": "Active Soccer 2019 is an exciting top-down arcade football game providing a fast-paced arcade experience, implementing amazing playability and responsive easy-to-learn/hard-to-master controls.\n\nActive Soccer 2019 provides a complete career mode, implementing many international leagues, cups and championships. Imagine being the manager of a 5th division English team - you have a budget and your goal is to be promoted to higher divisions, by purchasing players, creating tactics, managing the team and playing real matches!\n\n- Multiplayer game, up to 4 local players\n- Career mode, supporting 1,250 teams (club and national) from all over the world and 25,000 players with individual skills\n- Classic teams and hundreds of legendary players included\n- Competition designer\n- Team editor\n- Varied weather conditions\n- Different camera views: you can play vertically, horizontally or with a diagonal view\n- Soundtrack created by Chris Huelsbeck\n- Amazing fun!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BEB00AAF8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BEB00AAF8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BEB00AAF8000/screen/1",
+    "http://api.nlib.cc/nx/0100BEB00AAF8000/screen/2",
+    "http://api.nlib.cc/nx/0100BEB00AAF8000/screen/3",
+    "http://api.nlib.cc/nx/0100BEB00AAF8000/screen/4",
+    "http://api.nlib.cc/nx/0100BEB00AAF8000/screen/5"
+  ]
+}

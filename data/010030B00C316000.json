@@ -1,0 +1,16 @@
+{
+  "name": "Planescape: Torment and Icewind Dale: Enhanced Editions",
+  "publisher": "Beamdog",
+  "releaseDate": "20191015",
+  "description": "Dive into award-winning RPG classics, enhanced for modern heroes! Experience the legendary Dungeons & Dragons adventures of Planescape: Torment and Icewind Dale!\n\nCONTENT\n- Planescape: Torment: Enhanced Edition brings the strange and thrilling classic back to life! Explore the bizarre universe of Planescape, from the dirty streets of Sigil to the mysterious Outer Planes— and even the depths of Hell itself. Uncover secrets of past lives in this story-rich, tactical RPG set in a dark fantasy world at the heart of the Dungeons & Dragons multiverse. \n- Icewind Dale: Enhanced Edition revives the original Icewind Dale campaign, alongside two full expansions: Heart of Winter and Trials of the Luremaster. Build a party of Dungeons & Dragons heroes and confront an evil stirring in the frozen tundra.\n\nLANGUAGES\nPlanescape: Torment: Enhanced Edition supports the following languages:\nEnglish, French, German, Polish, Czech, Korean\n\nIcewind Dale: Enhanced Edition supports the following languages:\nEnglish, French, Italian, German, Spanish, Polish, Russian, Czech, Turkish, Korean\n\n*Note: Non-English languages are available as free downloadable content",
+  "bannerUrl": "http://api.nlib.cc/nx/010030B00C316000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010030B00C316000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010030B00C316000/screen/1",
+    "http://api.nlib.cc/nx/010030B00C316000/screen/2",
+    "http://api.nlib.cc/nx/010030B00C316000/screen/3",
+    "http://api.nlib.cc/nx/010030B00C316000/screen/4",
+    "http://api.nlib.cc/nx/010030B00C316000/screen/5",
+    "http://api.nlib.cc/nx/010030B00C316000/screen/6"
+  ]
+}

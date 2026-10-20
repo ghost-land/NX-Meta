@@ -1,0 +1,17 @@
+{
+  "name": "Disgaea Mayhem",
+  "publisher": "NIS America",
+  "releaseDate": "20260723",
+  "description": "The princess needs her pudding! But nothing's simple in the Netherworld. She'll need a hardy mercenary to mow down monsters and secure her dessert if she's to enjoy her culinary delights.\n\nThat's where you come in. As N.A., you'll need to level up, recruit demons, and pass bills at the Dark Chocolate Assembly to make sure you have what it takes to fight your own battles. That's right—for the first time ever, Disgaea has Magichanged into an action RPG!",
+  "bannerUrl": "http://api.nlib.cc/nx/01001B0027758000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001B0027758000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001B0027758000/screen/1",
+    "http://api.nlib.cc/nx/01001B0027758000/screen/2",
+    "http://api.nlib.cc/nx/01001B0027758000/screen/3",
+    "http://api.nlib.cc/nx/01001B0027758000/screen/4",
+    "http://api.nlib.cc/nx/01001B0027758000/screen/5"
+  ],
+  "version": 0,
+  "size": 926603574
+}

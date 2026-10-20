@@ -1,0 +1,16 @@
+{
+  "name": "Golf Loop",
+  "publisher": "Gametry",
+  "releaseDate": "20250228",
+  "description": "Dive into the relaxing yet challenging world of Golf Loop! With its gorgeous minimalist design and addictive gameplay, this game brings the joy of golf to your fingertips. Whether you're a seasoned pro or just looking for a fun way to pass the time, Golf Loop offers endless entertainment for everyone.\n\nAim, shoot, and sink the ball into the hole with the fewest strokes possible. It's easy to pick up but tricky to master!\nNavigate through beautiful, serene landscapes with simple and intuitive controls.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B00021AF0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B00021AF0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B00021AF0000/screen/1",
+    "http://api.nlib.cc/nx/0100B00021AF0000/screen/2",
+    "http://api.nlib.cc/nx/0100B00021AF0000/screen/3",
+    "http://api.nlib.cc/nx/0100B00021AF0000/screen/4",
+    "http://api.nlib.cc/nx/0100B00021AF0000/screen/5",
+    "http://api.nlib.cc/nx/0100B00021AF0000/screen/6"
+  ]
+}

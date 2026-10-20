@@ -1,0 +1,16 @@
+{
+  "name": "Energy Invasion",
+  "publisher": "Sometimes You",
+  "releaseDate": "20180111",
+  "description": "Energy Invasion - an arcade game inspired by the classic Breakout. Unlike the original game, your ball does not break blocks on its own, but can launch missiles in a chosen direction.\n\nFeatures:\nA lot of bonuses (both useful and harmful)\nBright graphic effects\nLevels with dangerous enemies\nSoundtrack from Nick R 61\n25 levels in \"Invasion\" mode, 25 levels in \"Linear\" mode, ∞ levels in \"Endless\" mode",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A8E0090B0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A8E0090B0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A8E0090B0000/screen/1",
+    "http://api.nlib.cc/nx/0100A8E0090B0000/screen/2",
+    "http://api.nlib.cc/nx/0100A8E0090B0000/screen/3",
+    "http://api.nlib.cc/nx/0100A8E0090B0000/screen/4",
+    "http://api.nlib.cc/nx/0100A8E0090B0000/screen/5",
+    "http://api.nlib.cc/nx/0100A8E0090B0000/screen/6"
+  ]
+}

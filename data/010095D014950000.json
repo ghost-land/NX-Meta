@@ -1,0 +1,16 @@
+{
+  "name": "World Splitter",
+  "publisher": "NeoBird",
+  "releaseDate": "20210421",
+  "description": "World-Splitter” is a 2D² puzzle platformer, challenging you with multidimensional puzzles.\nYou'll travel through wonderful and fantastic worlds that are beautifully animated and full of tricky challenges.\nThe game features a unique gameplay mechanic: A combination of jump & run elements and logical thinking puzzles. Each level consist of two parallel worlds separated by the ’Dimension Rift‘. The character can move freely through the Rift and interacts only with the visible parts of both worlds.\nYou have to master the Rift and make it pave your way through the worlds!",
+  "bannerUrl": "http://api.nlib.cc/nx/010095D014950000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010095D014950000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010095D014950000/screen/1",
+    "http://api.nlib.cc/nx/010095D014950000/screen/2",
+    "http://api.nlib.cc/nx/010095D014950000/screen/3",
+    "http://api.nlib.cc/nx/010095D014950000/screen/4",
+    "http://api.nlib.cc/nx/010095D014950000/screen/5",
+    "http://api.nlib.cc/nx/010095D014950000/screen/6"
+  ]
+}

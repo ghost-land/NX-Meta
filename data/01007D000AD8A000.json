@@ -1,0 +1,16 @@
+{
+  "name": "Child of Light® Ultimate Edition",
+  "publisher": "Ubisoft",
+  "releaseDate": "20181011",
+  "description": "Join Aurora on her journey to save her ailing father and a lost kingdom in the magical world of Lemuria –along the way she'll discover that her destiny may be far greater than she dreamed.\n\nFrom award-winners Patrick Plourde and Jeffrey Yohalem comes Child of Light®. Encounter eccentric creatures, from wicked witches to evil sea serpents, and discover the vast land of Lemuria. Fight alongside your allies to upgrade your stats, unlock unique abilities, and use unique gems to improve your skills. Work together with your allies to solve puzzles and search for mysteries. Experience a story carefully crafted in verse and rhyme with an original soundtrack by composer Coeur de pirate. Play anytime and anywhere. With Nintendo Switch™ you’ll be able to play on your TV, on the go, or with friends in tabletop mode.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007D000AD8A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007D000AD8A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007D000AD8A000/screen/1",
+    "http://api.nlib.cc/nx/01007D000AD8A000/screen/2",
+    "http://api.nlib.cc/nx/01007D000AD8A000/screen/3",
+    "http://api.nlib.cc/nx/01007D000AD8A000/screen/4",
+    "http://api.nlib.cc/nx/01007D000AD8A000/screen/5",
+    "http://api.nlib.cc/nx/01007D000AD8A000/screen/6"
+  ]
+}

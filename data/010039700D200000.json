@@ -1,0 +1,16 @@
+{
+  "name": "Super Skelemania",
+  "publisher": "Hidden Trap",
+  "releaseDate": "20190606",
+  "description": "Dive into Super Skelemania, a single-sitting metroidvania about an acrobatic skeleton. Jump over a pit of thorns, roll your skull like a bowling ball, or headbutt a spider like any good skeleton would! ",
+  "bannerUrl": "http://api.nlib.cc/nx/010039700D200000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010039700D200000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010039700D200000/screen/1",
+    "http://api.nlib.cc/nx/010039700D200000/screen/2",
+    "http://api.nlib.cc/nx/010039700D200000/screen/3",
+    "http://api.nlib.cc/nx/010039700D200000/screen/4",
+    "http://api.nlib.cc/nx/010039700D200000/screen/5",
+    "http://api.nlib.cc/nx/010039700D200000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Mushroom Savior",
+  "publisher": "Flying Islands Team",
+  "releaseDate": "20200910",
+  "description": "The evil tree kidnapped the mushroom folk and imprisoned them in the dungeon. Help the mushroom king to rescue his people. Make your way through the dangerous dungeon, save the mushrooms and defeat the evil tree!\n\nFeatures: \n- A dungeon full of traps, blockages, portals, chasms and other obstacles\n- Interactive environment: boxes slide on ice, explosions destroy wreckages, portals teleport boxes\n- Unique puzzles\n- Meditative adventure, exactly what you need to rest from the dynamics of \"big\" games.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100812012554000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100812012554000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100812012554000/screen/1",
+    "http://api.nlib.cc/nx/0100812012554000/screen/2",
+    "http://api.nlib.cc/nx/0100812012554000/screen/3",
+    "http://api.nlib.cc/nx/0100812012554000/screen/4",
+    "http://api.nlib.cc/nx/0100812012554000/screen/5",
+    "http://api.nlib.cc/nx/0100812012554000/screen/6"
+  ]
+}

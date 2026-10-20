@@ -1,0 +1,16 @@
+{
+  "name": "Mystery Box: Hidden Secrets",
+  "publisher": "Ocean Media",
+  "releaseDate": "20240201",
+  "description": "This is a puzzle game where you have to solve intriguing riddles around different boxes and discover some cool stories about popular inventions!\nTo unlock the boxes of this escape room game, you have to interact with objects, handles, buttons, and wheels on each side. \nYou can find puzzle pieces on the side of the boxes as well.\nOnce you open all 8 boxes of a Level Pack, you'll be able to compose a puzzle and find out a brief history of the discovered invention.",
+  "bannerUrl": "http://api.nlib.cc/nx/010090001DC78000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010090001DC78000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010090001DC78000/screen/1",
+    "http://api.nlib.cc/nx/010090001DC78000/screen/2",
+    "http://api.nlib.cc/nx/010090001DC78000/screen/3",
+    "http://api.nlib.cc/nx/010090001DC78000/screen/4",
+    "http://api.nlib.cc/nx/010090001DC78000/screen/5",
+    "http://api.nlib.cc/nx/010090001DC78000/screen/6"
+  ]
+}

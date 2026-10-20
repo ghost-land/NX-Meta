@@ -1,0 +1,16 @@
+{
+  "name": "Lost Snowmen",
+  "publisher": "Silen Games",
+  "releaseDate": "20230105",
+  "description": "A puzzle-platformer starring three characters with different skill sets, who will have to assist each other during their adventures in order to fulfill a variety of level objectives.\n\n- Controls and switches between three different characters with unique abilities\n- Solve puzzles and defeat enemies to complete levels\n- The storyline will reveal through the funny dialogues of the characters",
+  "bannerUrl": "http://api.nlib.cc/nx/01008310181A0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008310181A0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008310181A0000/screen/1",
+    "http://api.nlib.cc/nx/01008310181A0000/screen/2",
+    "http://api.nlib.cc/nx/01008310181A0000/screen/3",
+    "http://api.nlib.cc/nx/01008310181A0000/screen/4",
+    "http://api.nlib.cc/nx/01008310181A0000/screen/5",
+    "http://api.nlib.cc/nx/01008310181A0000/screen/6"
+  ]
+}

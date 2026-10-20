@@ -1,0 +1,16 @@
+{
+  "name": "Ketsu Battler",
+  "publisher": "KAYAC",
+  "releaseDate": "20241212",
+  "description": "Ketsu Butler is a hilarious action game in which players fight by shaking their butts!\n\nWhen you set the Joy-Con™ on your pants and swing it, Ketsu Batller on the screen will also swing his sword in time with your movement! Hit your opponent in the head with your sword and win the game!\n\nEach of the six Ketsu Batller players has a different personality! Charge up your power by shaking your buttocks and overwhelm your opponent with your powerful moves!",
+  "bannerUrl": "http://api.nlib.cc/nx/010045B01FAF8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010045B01FAF8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010045B01FAF8000/screen/1",
+    "http://api.nlib.cc/nx/010045B01FAF8000/screen/2",
+    "http://api.nlib.cc/nx/010045B01FAF8000/screen/3",
+    "http://api.nlib.cc/nx/010045B01FAF8000/screen/4",
+    "http://api.nlib.cc/nx/010045B01FAF8000/screen/5",
+    "http://api.nlib.cc/nx/010045B01FAF8000/screen/6"
+  ]
+}

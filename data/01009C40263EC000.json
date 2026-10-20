@@ -1,0 +1,16 @@
+{
+  "name": "DunHero",
+  "publisher": "REDDEER.GAMES",
+  "releaseDate": "20260203",
+  "description": "DunHero is a fast-paced fantasy action roguelite where no two runs are ever the same.\n\nChoose your hero\n\nPick from 28 unique playable classes. Each hero starts with different gear, abilities, and strengths. Grow stronger with every run, unlock powerful upgrades, and experiment with builds that match your playstyle – or try something completely new!\n\n Begin your journey\n\nExplore 8 dangerous worlds, each filled with unique enemies and challenging bosses. Procedurally generated maps ensure every adventure feels fresh and unpredictable. Along the way, discover over 600 powerful items and rare cards that let you craft devastating combinations and become the ultimate hero of the realm.\n\nEvery run is different.\nEvery choice matters.\nBecome the legend of DunHero.\n\nKEY FEATURES: \n- Procedurally generated maps.\n- 28 playable classes.\n- 80+ Rare Cards gained from leveling up.\n- 8 worlds with their own bosses and enemies.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009C40263EC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009C40263EC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009C40263EC000/screen/1",
+    "http://api.nlib.cc/nx/01009C40263EC000/screen/2",
+    "http://api.nlib.cc/nx/01009C40263EC000/screen/3",
+    "http://api.nlib.cc/nx/01009C40263EC000/screen/4",
+    "http://api.nlib.cc/nx/01009C40263EC000/screen/5",
+    "http://api.nlib.cc/nx/01009C40263EC000/screen/6"
+  ]
+}

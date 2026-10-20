@@ -1,0 +1,16 @@
+{
+  "name": "Rotund Zero",
+  "publisher": "Dahku",
+  "releaseDate": "20220421",
+  "description": "- A byte-sized retro-infused experience!\n- Approachable precision-platforming!\n- Short but carefully handcrafted levels!\n- Shuffled levels keep each 5-minute run fresh!\n- Win shiny medals in Time-Attack!\n- Dip your paw into the unique gameplay of the Rotund series!\n\nHow far can you go before the clock hits ZERO?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EC7017A62000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EC7017A62000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EC7017A62000/screen/1",
+    "http://api.nlib.cc/nx/0100EC7017A62000/screen/2",
+    "http://api.nlib.cc/nx/0100EC7017A62000/screen/3",
+    "http://api.nlib.cc/nx/0100EC7017A62000/screen/4",
+    "http://api.nlib.cc/nx/0100EC7017A62000/screen/5",
+    "http://api.nlib.cc/nx/0100EC7017A62000/screen/6"
+  ]
+}

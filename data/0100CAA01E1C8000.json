@@ -1,0 +1,16 @@
+{
+  "name": "Sweets Drop",
+  "publisher": "Kistler Studios",
+  "releaseDate": "20240125",
+  "description": "Sweet drops is a casual merge drop puzzle game with two game modes. Arcade mode is an open end game mode where you have to merge as much as possible sweets without touching the red line. The challenge mode gives you 32 challenges to overcome and a daily challenge which will be diferent each day.\n\nEnjoy...\n\nFreature:\n- Two game modes\n- 32 Challenges\n- Daily challenges",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CAA01E1C8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CAA01E1C8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CAA01E1C8000/screen/1",
+    "http://api.nlib.cc/nx/0100CAA01E1C8000/screen/2",
+    "http://api.nlib.cc/nx/0100CAA01E1C8000/screen/3",
+    "http://api.nlib.cc/nx/0100CAA01E1C8000/screen/4",
+    "http://api.nlib.cc/nx/0100CAA01E1C8000/screen/5",
+    "http://api.nlib.cc/nx/0100CAA01E1C8000/screen/6"
+  ]
+}

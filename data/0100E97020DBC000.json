@@ -1,0 +1,16 @@
+{
+  "name": "Paint By Pixel 3",
+  "publisher": "Ocean Media",
+  "releaseDate": "20250102",
+  "description": "Play Paint by Pixel 3 and unleash your creativity across 95 levels of pixel art creations! \nThis game provides helpful features like autofill and hints to smooth your artistic journey. \nChoose from a wide range of beautiful, unique canvases for your imagination. \nExplore the endless possibilities of pixel art and bring your artistic vision to life, one pixel at a time!\n\n- Choose from 95 marvelous works of art!\n- Use the handy zoom and magnify tools to never miss a pixel!\n- Pick and play any level from the beginning!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E97020DBC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E97020DBC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E97020DBC000/screen/1",
+    "http://api.nlib.cc/nx/0100E97020DBC000/screen/2",
+    "http://api.nlib.cc/nx/0100E97020DBC000/screen/3",
+    "http://api.nlib.cc/nx/0100E97020DBC000/screen/4",
+    "http://api.nlib.cc/nx/0100E97020DBC000/screen/5",
+    "http://api.nlib.cc/nx/0100E97020DBC000/screen/6"
+  ]
+}

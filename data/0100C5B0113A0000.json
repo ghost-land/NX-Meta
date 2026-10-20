@@ -1,0 +1,16 @@
+{
+  "name": "Armed 7 DX",
+  "publisher": "PixelHeart",
+  "releaseDate": "20200514",
+  "description": "With ARMED 7 DX, discover 7 stages of pure mecha-shooting action with customisable weapons.\nUse all laser beams, space rockets and missiles to suit your\nneeds.\nGear up and fight !",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C5B0113A0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C5B0113A0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C5B0113A0000/screen/1",
+    "http://api.nlib.cc/nx/0100C5B0113A0000/screen/2",
+    "http://api.nlib.cc/nx/0100C5B0113A0000/screen/3",
+    "http://api.nlib.cc/nx/0100C5B0113A0000/screen/4",
+    "http://api.nlib.cc/nx/0100C5B0113A0000/screen/5",
+    "http://api.nlib.cc/nx/0100C5B0113A0000/screen/6"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Fast Food Van Simulator",
+  "publisher": "CONSANN REAL ESTATE",
+  "releaseDate": "20260403",
+  "description": "Fast Food Van Simulator is a food truck experience where precision, speed, and strategy turn a small burger van into a thriving business. Step inside your fully interactive truck, prepare orders under pressure, satisfy demanding customers, and grow your culinary reputation one perfect burger at a time.\n\nEach session challenges you to receive orders, cook accurately, serve quickly, earn points, and collect tips. The better your performance, the more you can invest in upgrades and expansion.\n\nPrepare a wide range of burgers — from Classic and Cheesy Deluxe to Spicy, Double, Veggie, and Breakfast specialties. Add fries, salads, drinks, and milkshakes to complete combo meals. Special requests like “no onion” or extra toppings keep you on your toes.\n\nManage your stock carefully, restock ingredients in real time, and upgrade your equipment to handle multiple orders faster and more efficiently. Every second counts when patience bars start dropping.\n\nUpgrade your grill, expand storage, unlock faster movement, automate ingredient drawers, and optimize your workflow layout to maximize profits.\nDynamic customers, VIP guests, expressive reactions, and increasing difficulty make every shift unique.\n\nKey Features\n- Real-time burger preparation and order management\n- Wide variety of burger recipes and combo meals\n- Customer patience system and dynamic reactions\n- Points and tip-based reward system\n- Equipment, speed, and storage upgrades\n- Stylized 3D cartoon visuals with energetic soundtrack\n\nStep inside your van, heat up the grill, and prove you have what it takes to turn pressure into profit. In Fast Food Van Simulator, every second matters and every perfect burger brings you closer to success.",
+  "bannerUrl": "http://api.nlib.cc/nx/010006502646A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010006502646A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010006502646A000/screen/1",
+    "http://api.nlib.cc/nx/010006502646A000/screen/2",
+    "http://api.nlib.cc/nx/010006502646A000/screen/3",
+    "http://api.nlib.cc/nx/010006502646A000/screen/4",
+    "http://api.nlib.cc/nx/010006502646A000/screen/5",
+    "http://api.nlib.cc/nx/010006502646A000/screen/6"
+  ],
+  "version": 0,
+  "size": 284027190
+}

@@ -1,0 +1,16 @@
+{
+  "name": "GoatPunks",
+  "publisher": "MELLIFONT SANTIAGO",
+  "releaseDate": "20190427",
+  "description": "GoatPunks is a multiplayer action game pitting your goat against other players in a battle to become king of the mountain. Fight through an onslaught of bombs, obstacles and each other to climb to the top of 9 uniquely themed mountains each offering distinct challenges. Once up there, stay on top of the competition for 30 hectic seconds to claim victory.\nGoatPunks supports up to 4 players in head-to-headbutt, split-screen, action. Grab your Joy-Cons and get ready to roll. Shields, weapons, and power-ups are scattered about the mountain, and if you manage to get your goat to make it up the top, all the other goats will have a common enemy: you!\nStages vary in complexity providing a range of challenge and the levels are hand illustrated in an anime-like style inspired by Studio Ghibli movies. You’ll race up exotic backdrops including ice, city, candy and lantern mountains. Although the objective is simple, each round is a new adventure where anything can happen!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01006C00081B4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006C00081B4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006C00081B4000/screen/1",
+    "http://api.nlib.cc/nx/01006C00081B4000/screen/2",
+    "http://api.nlib.cc/nx/01006C00081B4000/screen/3",
+    "http://api.nlib.cc/nx/01006C00081B4000/screen/4",
+    "http://api.nlib.cc/nx/01006C00081B4000/screen/5",
+    "http://api.nlib.cc/nx/01006C00081B4000/screen/6"
+  ]
+}

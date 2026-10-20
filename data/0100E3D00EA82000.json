@@ -1,0 +1,16 @@
+{
+  "name": "SIMULACRA",
+  "publisher": "Wales Interactive",
+  "releaseDate": "20191203",
+  "description": "From the creators of Sara is Missing, SIMULACRA is an interactive FMV horror experience of exploring a missing woman’s phone.\n\nYou found the lost phone of a woman named Anna. In it, you see a desperate cry for help in the form of a video message. The phone behaves strangely as you dive deeper into it. You talk to her friends and they have no idea where she is. Her texts, emails and photo gallery provides fragments of information. It's up to you to piece it together.\n\nRecover lost files, piece back corrupted data, and retrace her final steps. Find her before it's too late.\n\n•\tExplore a fully realised world through the lens of a mobile phone.\n•\tEnjoy a unique gameplay experience through popular phone apps, including a dating app, a social media app and a web browser.\n•\tAn expansive narrative with hours of gameplay that leads to 5 possible endings.\n•\tFilmed with live actors and an extensive VO cast.\n•\tSolve the recurring image and text decryption puzzles to learn more about Anna’s story.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E3D00EA82000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E3D00EA82000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E3D00EA82000/screen/1",
+    "http://api.nlib.cc/nx/0100E3D00EA82000/screen/2",
+    "http://api.nlib.cc/nx/0100E3D00EA82000/screen/3",
+    "http://api.nlib.cc/nx/0100E3D00EA82000/screen/4",
+    "http://api.nlib.cc/nx/0100E3D00EA82000/screen/5",
+    "http://api.nlib.cc/nx/0100E3D00EA82000/screen/6"
+  ]
+}

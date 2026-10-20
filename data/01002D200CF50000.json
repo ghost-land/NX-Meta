@@ -1,0 +1,16 @@
+{
+  "name": "Stray Cat Doors",
+  "publisher": "PULSMO",
+  "releaseDate": "20190131",
+  "description": "・It is an escape game that solves a mystery together with a cute character.\n・Escape game It is a game that even beginners can enjoy.\n・Go around various stages, use items or solve problems and escape.\n・Clear room will become lively.\n・Healing music. Turn on BGM and play around.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01002D200CF50000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002D200CF50000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002D200CF50000/screen/1",
+    "http://api.nlib.cc/nx/01002D200CF50000/screen/2",
+    "http://api.nlib.cc/nx/01002D200CF50000/screen/3",
+    "http://api.nlib.cc/nx/01002D200CF50000/screen/4",
+    "http://api.nlib.cc/nx/01002D200CF50000/screen/5",
+    "http://api.nlib.cc/nx/01002D200CF50000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Ball Rush 2",
+  "publisher": "Entity3",
+  "releaseDate": "20241102",
+  "description": "Its Back! \nShrink, grow and dodge your way through exciting patterns.\nSmash shapes out of your path and enjoy watching them fly with physics!\nOnly touch shapes of your color and rush to the end!\nUnlock new skins and customise your ball.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005290206DC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005290206DC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005290206DC000/screen/1",
+    "http://api.nlib.cc/nx/01005290206DC000/screen/2",
+    "http://api.nlib.cc/nx/01005290206DC000/screen/3",
+    "http://api.nlib.cc/nx/01005290206DC000/screen/4",
+    "http://api.nlib.cc/nx/01005290206DC000/screen/5"
+  ]
+}

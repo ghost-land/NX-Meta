@@ -1,0 +1,16 @@
+{
+  "name": "Total Arcade Racing",
+  "publisher": "Pretty Fly Games",
+  "releaseDate": "20210507",
+  "description": "Total Arcade Racing is a tribute to classic arcade racing games where you zip around in closed circuits. Play solo or up to 8 friends on the same TV in various game modes. \n\nCompete with players from around the world and see if you can reach #1 in the Hall of Fame leaderboard.\n\nKEY FEATURES\n• Local multiplayer up to 8 players  \n• Various cars with different performance and handling\n• A bunch of varied courses\n• Lots of game modes such as Arcade Race, Time Trial, Championship, Elimination, Endless race, Demolition Derby, Survivor, Delivery and Car Hockey\n• Online Leaderboard support\n• Ghost car replays of best time\n• Classic top-down racing game with great controls\n• Great Party game for your friends and family\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A64010D48000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A64010D48000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A64010D48000/screen/1",
+    "http://api.nlib.cc/nx/0100A64010D48000/screen/2",
+    "http://api.nlib.cc/nx/0100A64010D48000/screen/3",
+    "http://api.nlib.cc/nx/0100A64010D48000/screen/4",
+    "http://api.nlib.cc/nx/0100A64010D48000/screen/5",
+    "http://api.nlib.cc/nx/0100A64010D48000/screen/6"
+  ]
+}

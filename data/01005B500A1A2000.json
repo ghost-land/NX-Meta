@@ -1,0 +1,14 @@
+{
+  "name": "KAIJU KHAOS",
+  "publisher": "GenieGaming",
+  "releaseDate": "20190906",
+  "description": "Unleash the beast!\nAn endless runner where you must cause as much destruction as you can whilst you make your escape from the military containment facility.\nUnlock different Kaijus and grow them to monstorous sizes to overcome the obstacles in your path and take your revenge on mankind.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005B500A1A2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005B500A1A2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005B500A1A2000/screen/1",
+    "http://api.nlib.cc/nx/01005B500A1A2000/screen/2",
+    "http://api.nlib.cc/nx/01005B500A1A2000/screen/3",
+    "http://api.nlib.cc/nx/01005B500A1A2000/screen/4"
+  ]
+}

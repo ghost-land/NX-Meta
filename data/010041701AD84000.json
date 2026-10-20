@@ -1,0 +1,16 @@
+{
+  "name": "AMAZE!",
+  "publisher": "QubicGames",
+  "releaseDate": "20230428",
+  "description": "Lets pop & move the ball and paint - you’ve got to color and paint your way across the AMAZE maze puzzles. \n\nWatch out! AMAZE gets harder as you play, color and paint the maze, and fill in puzzles!\n\nPainting the maze puzzles sounds easy, but you have to be super strategic to color and fill every square.\n\nMake sure you fill in puzzles COMPLETELY! If you don’t fill even one square, you’re stuck in the paint maze FOREVER!\n\nLets pop this maze with color!\n\nGame Features:\n- relaxing Classic mode\n- tense Time Rush mode\n- puzzling Limited Moves mode\n- two player variants of each game mode\n- hundreds of levels to paint and many colorful balls to unlock",
+  "bannerUrl": "http://api.nlib.cc/nx/010041701AD84000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010041701AD84000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010041701AD84000/screen/1",
+    "http://api.nlib.cc/nx/010041701AD84000/screen/2",
+    "http://api.nlib.cc/nx/010041701AD84000/screen/3",
+    "http://api.nlib.cc/nx/010041701AD84000/screen/4",
+    "http://api.nlib.cc/nx/010041701AD84000/screen/5",
+    "http://api.nlib.cc/nx/010041701AD84000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Stick Combat - Fighting Platformer",
+  "publisher": "VRCFORGE STUDIOS",
+  "releaseDate": "20241018",
+  "description": "As a stickman warrior, use your skills and wits to survive attacks, unlock doors, and conquer increasingly difficult levels. Master combat, utilize weapons, and navigate hazards using environmental objects. Embark on an epic adventure through diverse environments and uncover the world's secrets.\n\nKey Features: \n\t•\tFreedom of Movement: Jump on walls, use vines and trampolines, form barricades with boxes, navigate portals, and swim through flooded rooms.\n\t•\tTactical Combat: Use a range of weapons to defeat enemies and progress through levels.\n\t•\tObjective: Overcome obstacles, collect stars, and defeat enemies with precision, speed, and strategy.\n\t•\tTarget Audience: Ideal for action platformer fans, parkour enthusiasts, and puzzle solvers seeking a challenging adventure.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DEB0201D8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DEB0201D8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DEB0201D8000/screen/1",
+    "http://api.nlib.cc/nx/0100DEB0201D8000/screen/2",
+    "http://api.nlib.cc/nx/0100DEB0201D8000/screen/3",
+    "http://api.nlib.cc/nx/0100DEB0201D8000/screen/4",
+    "http://api.nlib.cc/nx/0100DEB0201D8000/screen/5",
+    "http://api.nlib.cc/nx/0100DEB0201D8000/screen/6"
+  ]
+}

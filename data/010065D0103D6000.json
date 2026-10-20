@@ -1,0 +1,16 @@
+{
+  "name": "Dual Brain Vol.2: Reflex",
+  "publisher": "D-O",
+  "releaseDate": "20200123",
+  "description": "■ Rules are simple.\nSolve the problem within the time limit and aim for a high score.\nThe high score in the game is registered in the online ranking.\nCompete for scores with players around the world.\n\n■This time is reflex.\nThere are many games to compete for reflexes.\nOperate the buttons with a quick response and answer faster than anyone else.\n\n■ Let's train parallel processing ability with \"DUAL TASK\".\nNot just a brain training game!\nHandle \"DUAL TASK\" while solving the problem.\nIf \"Dual Task\" is successful, the remaining time limit will increase.\nThe remaining time limit will be added to the score as “TIME BONUS”.\n\nSolve the problem and complete “DUAL TASK” to become the best player in the world.",
+  "bannerUrl": "http://api.nlib.cc/nx/010065D0103D6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010065D0103D6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010065D0103D6000/screen/1",
+    "http://api.nlib.cc/nx/010065D0103D6000/screen/2",
+    "http://api.nlib.cc/nx/010065D0103D6000/screen/3",
+    "http://api.nlib.cc/nx/010065D0103D6000/screen/4",
+    "http://api.nlib.cc/nx/010065D0103D6000/screen/5",
+    "http://api.nlib.cc/nx/010065D0103D6000/screen/6"
+  ]
+}

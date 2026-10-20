@@ -1,0 +1,16 @@
+{
+  "name": "에보랜드: 레전더리 에디션 (Evoland: Legendary Edition)",
+  "publisher": "H2 INTERACTIVE",
+  "releaseDate": "20211028",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/010022E014FFE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010022E014FFE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010022E014FFE000/screen/1",
+    "http://api.nlib.cc/nx/010022E014FFE000/screen/2",
+    "http://api.nlib.cc/nx/010022E014FFE000/screen/3",
+    "http://api.nlib.cc/nx/010022E014FFE000/screen/4",
+    "http://api.nlib.cc/nx/010022E014FFE000/screen/5",
+    "http://api.nlib.cc/nx/010022E014FFE000/screen/6"
+  ]
+}

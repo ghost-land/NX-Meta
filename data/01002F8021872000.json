@@ -1,0 +1,16 @@
+{
+  "name": "Portal Balls",
+  "publisher": "Zakym",
+  "releaseDate": "20250124",
+  "description": "Guide the blue and red balls to their respective portals in a race against time. Use your skill and strategy to ensure the blue ball reaches the blue portal and the red ball finds its way to the red portal!\n\nBRAIN-BENDING LEVELS!\nWith 30 unique levels, Portal Balls offers a mix of puzzle-solving challenges and intense action. Some levels require sharp thinking, while others introduce enemies you must avoid at all costs. The clock is ticking—can you complete each level in time?\n\nTEST YOUR SKILLS AND SEE IF YOU CAN CONQUER THE PORTALS!",
+  "bannerUrl": "http://api.nlib.cc/nx/01002F8021872000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002F8021872000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002F8021872000/screen/1",
+    "http://api.nlib.cc/nx/01002F8021872000/screen/2",
+    "http://api.nlib.cc/nx/01002F8021872000/screen/3",
+    "http://api.nlib.cc/nx/01002F8021872000/screen/4",
+    "http://api.nlib.cc/nx/01002F8021872000/screen/5",
+    "http://api.nlib.cc/nx/01002F8021872000/screen/6"
+  ]
+}

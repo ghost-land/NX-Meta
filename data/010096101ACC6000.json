@@ -1,0 +1,15 @@
+{
+  "name": "Tuya",
+  "publisher": "Taiga",
+  "releaseDate": "20230407",
+  "description": "A short horror adventure game set in rural Japan is now available on Nintendo Switch™!\n\nSynopsis.\nThe protagonist returns to his parents' house in a hurry after hearing the news of his grandfather's death, and there he meets a terrifying sight!\n\nContents\nThis is a walking simulator game where you explore your surroundings, find items, and advance the story.\nHints of the hidden storyline are scattered throughout the stages.\nBy reading them all, you can reveal the hidden sad story of this game.",
+  "bannerUrl": "http://api.nlib.cc/nx/010096101ACC6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010096101ACC6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010096101ACC6000/screen/1",
+    "http://api.nlib.cc/nx/010096101ACC6000/screen/2",
+    "http://api.nlib.cc/nx/010096101ACC6000/screen/3",
+    "http://api.nlib.cc/nx/010096101ACC6000/screen/4",
+    "http://api.nlib.cc/nx/010096101ACC6000/screen/5"
+  ]
+}

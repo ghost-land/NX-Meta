@@ -1,0 +1,16 @@
+{
+  "name": "スイカゲーム ぷらねっと",
+  "publisher": "Aladdin X",
+  "releaseDate": "20251218",
+  "description": "Drop the fruits freely from any direction as \"Poppy\" flies 360° around the planet. Make fruits of the same type collide to make them \"evolve\" and aim to create watermelons for a high score!\n Make a lot of fruits \"evolve\" to enter the new \"Super Evolution Time\" mode! Special background music, dramatic effects, and a bonus score bring the excitement to a peak!\nThe \"Suika Game Planet\" has evolved in many ways, including with a customization function that allows you to freely decorate the game screen (skin), and a collection function that allows you to collect stickers for completing missions and use them to create your original name tag. Try playing it now!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D3D02477A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D3D02477A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D3D02477A000/screen/1",
+    "http://api.nlib.cc/nx/0100D3D02477A000/screen/2",
+    "http://api.nlib.cc/nx/0100D3D02477A000/screen/3",
+    "http://api.nlib.cc/nx/0100D3D02477A000/screen/4",
+    "http://api.nlib.cc/nx/0100D3D02477A000/screen/5",
+    "http://api.nlib.cc/nx/0100D3D02477A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Rolling Sky",
+  "publisher": "Rising Win Tech.",
+  "releaseDate": "20190412",
+  "description": "Challenge your speed and showcase your reaction time! Stunning 3D effects, easy to operate, simply steer the ball to dodge the obstacles and conquer the world!\n\nHow to play:\n• You can control the cake through somatosensory mode or slide Left Stick\n• Control the ball to avoid obstacles and do not fall! Experience the stories in every soundtrack.\n\nFeatures:\n• Easy to operate but challenging\n• Stunning 3D visual effects\n• Abundant game scenes, each scene presents a brand new challenge\n• Multiple songs that change along with the game scenes, enjoy the spectacular effects brought by the music",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BAA00D60A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BAA00D60A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BAA00D60A000/screen/1",
+    "http://api.nlib.cc/nx/0100BAA00D60A000/screen/2",
+    "http://api.nlib.cc/nx/0100BAA00D60A000/screen/3",
+    "http://api.nlib.cc/nx/0100BAA00D60A000/screen/4",
+    "http://api.nlib.cc/nx/0100BAA00D60A000/screen/5",
+    "http://api.nlib.cc/nx/0100BAA00D60A000/screen/6"
+  ]
+}

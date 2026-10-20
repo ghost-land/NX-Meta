@@ -1,0 +1,16 @@
+{
+  "name": "Golf Story",
+  "publisher": "Sidebar Games",
+  "releaseDate": "20170928",
+  "description": "Golf Story combines the sheer excitement of golf with a serious story that plays out over 8 different courses. Play the story of a golfer who is forced to give up all that he holds dear for one last shot at accomplishing his dreams.\n\nBut all is not so simple in the world of golf. To best today's players you have to be able to keep up with them both on and off the course.\n\nFeatures:\n\nTee up anywhere! You’ll be surprised by how many problems can be solved by hitting a golf ball at them.\n\nExplore 8 unique environments, each with their own courses, challenges, people and secrets.\n\nPlay through a dramatic story with a diverse cast of characters.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100779004172000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100779004172000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100779004172000/screen/1",
+    "http://api.nlib.cc/nx/0100779004172000/screen/2",
+    "http://api.nlib.cc/nx/0100779004172000/screen/3",
+    "http://api.nlib.cc/nx/0100779004172000/screen/4",
+    "http://api.nlib.cc/nx/0100779004172000/screen/5",
+    "http://api.nlib.cc/nx/0100779004172000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Giant Chase",
+  "publisher": "Entity3",
+  "releaseDate": "20231014",
+  "description": "Chase after the Giant as he destroys the city\n\nCollect colored power ups to increase your sword size and power\n\navoid lava pits and dangerous obstacles as you track him down\n\nReach the beast and climb to his head to deliver the finishing blow!",
+  "bannerUrl": "http://api.nlib.cc/nx/010061301D2E2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010061301D2E2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010061301D2E2000/screen/1",
+    "http://api.nlib.cc/nx/010061301D2E2000/screen/2",
+    "http://api.nlib.cc/nx/010061301D2E2000/screen/3",
+    "http://api.nlib.cc/nx/010061301D2E2000/screen/4",
+    "http://api.nlib.cc/nx/010061301D2E2000/screen/5"
+  ]
+}

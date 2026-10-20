@@ -1,0 +1,16 @@
+{
+  "name": "Pinball Lockdown",
+  "publisher": "CGA Studio Games",
+  "releaseDate": "20200605",
+  "description": "Play Pinball Lockdown, a unique exciting collection of pinball tables with a variety of themes.  No hidden extras 5 tables available from day one.\nTables include:\nAlice's Adventures in Wonderland\nVegas\nDragon Land\nSpace Ribbon\nZen Garden",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EA8011DF2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EA8011DF2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EA8011DF2000/screen/1",
+    "http://api.nlib.cc/nx/0100EA8011DF2000/screen/2",
+    "http://api.nlib.cc/nx/0100EA8011DF2000/screen/3",
+    "http://api.nlib.cc/nx/0100EA8011DF2000/screen/4",
+    "http://api.nlib.cc/nx/0100EA8011DF2000/screen/5",
+    "http://api.nlib.cc/nx/0100EA8011DF2000/screen/6"
+  ]
+}

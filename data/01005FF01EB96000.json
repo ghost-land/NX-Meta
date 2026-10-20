@@ -1,0 +1,16 @@
+{
+  "name": "Astroblaze DX",
+  "publisher": "Asylum Square Interactive",
+  "releaseDate": "20240518",
+  "description": "Astroblaze is a side-scrolling shoot'em'up game where you have to defend your planet against an alien invasion. Fight your way through hordes of aliens to rescue abducted civilians and increase your score. Upgrade your weapons system, collect dockable satellites for your ship, activate shields, and drop bombs to defeat the enemy. Escape seemingly hopeless situations with the dash attack. All this is accompanied by a gripping, psychedelic ethno-trance soundtrack that barely leaves you time to catch your breath.\n\n- Classic side-scrolling shoot'em'up game\n- Fight alien invasions and rescue civilians\n- Upgrade your weapon system and collect satellites, shields and bombs\n- Use the dash attack to escape from dangerous situations\n- Enjoy an intoxicating psychedelic-ethnic trance soundtrack",
+  "bannerUrl": "http://api.nlib.cc/nx/01005FF01EB96000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005FF01EB96000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005FF01EB96000/screen/1",
+    "http://api.nlib.cc/nx/01005FF01EB96000/screen/2",
+    "http://api.nlib.cc/nx/01005FF01EB96000/screen/3",
+    "http://api.nlib.cc/nx/01005FF01EB96000/screen/4",
+    "http://api.nlib.cc/nx/01005FF01EB96000/screen/5",
+    "http://api.nlib.cc/nx/01005FF01EB96000/screen/6"
+  ]
+}

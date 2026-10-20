@@ -1,0 +1,16 @@
+{
+  "name": "Spellworm",
+  "publisher": "Chequered Ink",
+  "releaseDate": "20190920",
+  "description": "Help Spellworm to eat his way through over 100 word search puzzles. Each puzzle has its own theme. You can chomp through shapes, colors, countries, planets and much more in your quest to feed the hungry Spellworm.\n\nThis game is a great way to teach the spellings of hundreds of words in the English language.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BFC00F18A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BFC00F18A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BFC00F18A000/screen/1",
+    "http://api.nlib.cc/nx/0100BFC00F18A000/screen/2",
+    "http://api.nlib.cc/nx/0100BFC00F18A000/screen/3",
+    "http://api.nlib.cc/nx/0100BFC00F18A000/screen/4",
+    "http://api.nlib.cc/nx/0100BFC00F18A000/screen/5",
+    "http://api.nlib.cc/nx/0100BFC00F18A000/screen/6"
+  ]
+}

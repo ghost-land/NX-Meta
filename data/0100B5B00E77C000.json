@@ -1,0 +1,16 @@
+{
+  "name": "Get Over Here",
+  "publisher": "Flux Games",
+  "releaseDate": "20210113",
+  "description": "GetOverHere is a dynamic and competitive arena game that brings out the nostalgic feel of the 90's. The player takes control of a character with a hook gun, where his goal is to pull his enemies and finish them off.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B5B00E77C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B5B00E77C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B5B00E77C000/screen/1",
+    "http://api.nlib.cc/nx/0100B5B00E77C000/screen/2",
+    "http://api.nlib.cc/nx/0100B5B00E77C000/screen/3",
+    "http://api.nlib.cc/nx/0100B5B00E77C000/screen/4",
+    "http://api.nlib.cc/nx/0100B5B00E77C000/screen/5",
+    "http://api.nlib.cc/nx/0100B5B00E77C000/screen/6"
+  ]
+}

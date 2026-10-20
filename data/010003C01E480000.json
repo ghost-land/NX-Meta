@@ -1,0 +1,15 @@
+{
+  "name": "Hopping Bunny",
+  "publisher": "Weakfish Studio",
+  "releaseDate": "20240220",
+  "description": "Hopping Bunny,\nThis rabbit needs to jump and overcome the obstacles that are dangerous for him,\nDo you want to help him?\nBut you need to collect the Keys to pass the level.\n\nWhen you jump, you can stop time!\nThis feature will come in handy because sometimes\nYou will need to maneuver in the air!\n\nCan you pass 20 specially designed levels?",
+  "bannerUrl": "http://api.nlib.cc/nx/010003C01E480000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010003C01E480000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010003C01E480000/screen/1",
+    "http://api.nlib.cc/nx/010003C01E480000/screen/2",
+    "http://api.nlib.cc/nx/010003C01E480000/screen/3",
+    "http://api.nlib.cc/nx/010003C01E480000/screen/4",
+    "http://api.nlib.cc/nx/010003C01E480000/screen/5"
+  ]
+}

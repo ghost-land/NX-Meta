@@ -1,0 +1,14 @@
+{
+  "name": "クイズどうぶつ図鑑 DX",
+  "publisher": "Kumo",
+  "releaseDate": "20240208",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/01001D201D606000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001D201D606000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001D201D606000/screen/1",
+    "http://api.nlib.cc/nx/01001D201D606000/screen/2",
+    "http://api.nlib.cc/nx/01001D201D606000/screen/3",
+    "http://api.nlib.cc/nx/01001D201D606000/screen/4"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Blazblue Entropy Effect X",
+  "publisher": "91Act",
+  "releaseDate": "20260212",
+  "description": "[Game Overview]  \nA roguelite action game set in the BLAZBLUE universe, featuring striking 2D visuals, stylish, fast-paced combat, and precise, responsive controls.\nCommand a line-up of unique characters from the renowned BLAZBLUE franchise and dive into an unparalleled action experience.\n[Story]\nAt a mysterious domain, known as “the Lab”, a group of elite researchers race to save a collapsing word; however, despite their efforts to date, Dr. Mercurius, head of the laboratory, still warns the world’s downfall is near.\nIn a last-ditch effort, the urgent *Research of Possibility* initiative seeks to collect *Shards of Possibility*—a special fragment of the world that could forestall the seemingly inevitable destruction.\nThese shards lie within the *Sea of Possibility*, a realm between worlds, beyond the bounds of reality.\nOur protagonist, *Ace*, is the only being capable of diving into this sea.  \nGuided by the elite researchers at *the Lab*, Ace descends again and again in pursuit of salvation—until strange visions take hold and his body begins to change.\nAs Ace continues to dive, countless memories flood his mind, and the truth behind the collapsing world—and the research itself—begins to surface....\n“……The Power of Azure.” \n",
+  "bannerUrl": "http://api.nlib.cc/nx/01003DA0254A4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003DA0254A4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003DA0254A4000/screen/1",
+    "http://api.nlib.cc/nx/01003DA0254A4000/screen/2",
+    "http://api.nlib.cc/nx/01003DA0254A4000/screen/3",
+    "http://api.nlib.cc/nx/01003DA0254A4000/screen/4",
+    "http://api.nlib.cc/nx/01003DA0254A4000/screen/5",
+    "http://api.nlib.cc/nx/01003DA0254A4000/screen/6"
+  ]
+}

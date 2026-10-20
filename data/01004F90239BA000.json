@@ -1,0 +1,16 @@
+{
+  "name": "UFO 50",
+  "publisher": "Mossmouth",
+  "releaseDate": "20250807",
+  "description": "Explore a collection of 50 single and multiplayer games that span a variety of genres, from platformers and shoot 'em ups to puzzle games, roguelites, and RPGs! As you journey through the library, make connections and learn more about UFO Soft, the fictional 80s company behind the games, as well as their expansive shared universe that includes sequels and recurring characters.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004F90239BA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004F90239BA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004F90239BA000/screen/1",
+    "http://api.nlib.cc/nx/01004F90239BA000/screen/2",
+    "http://api.nlib.cc/nx/01004F90239BA000/screen/3",
+    "http://api.nlib.cc/nx/01004F90239BA000/screen/4",
+    "http://api.nlib.cc/nx/01004F90239BA000/screen/5",
+    "http://api.nlib.cc/nx/01004F90239BA000/screen/6"
+  ]
+}

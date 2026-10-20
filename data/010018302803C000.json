@@ -1,0 +1,17 @@
+{
+  "name": "Cook the Word",
+  "publisher": "Gametry",
+  "releaseDate": "20260515",
+  "description": "Cook the Word is a fun and addictive word puzzle game with a delicious cooking twist. Players swipe and combine letters to form words, complete levels, and unlock new kitchen-inspired challenges along the way. With charming visuals, satisfying gameplay, and a fresh culinary theme, the game blends classic word-solving fun with the warmth and creativity of cooking. It’s easy to pick up, relaxing to play, and perfect for anyone who enjoys casual puzzle games and tasty brain teasers.",
+  "bannerUrl": "http://api.nlib.cc/nx/010018302803C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010018302803C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010018302803C000/screen/1",
+    "http://api.nlib.cc/nx/010018302803C000/screen/2",
+    "http://api.nlib.cc/nx/010018302803C000/screen/3",
+    "http://api.nlib.cc/nx/010018302803C000/screen/4",
+    "http://api.nlib.cc/nx/010018302803C000/screen/5"
+  ],
+  "version": 0,
+  "size": 45894772
+}

@@ -1,0 +1,16 @@
+{
+  "name": "POGO Stadium",
+  "publisher": "ruff",
+  "releaseDate": "20250904",
+  "description": "◆A New Kind of Pogo Territory Battle!\nBounce, trap, and nail your tricks in high-speed territory duels set in futuristic battle arenas soaring high above the city under the night sky.\n\n◆Master the Strategy\nEvery block on the field matters. Analyze the terrain in real time—decide what to cut, what to protect, and when to strike.\nSplit off zones to make them your own, then unleash powerful attacks fueled by the energy they generate.\nBut beware—fail to secure your path, and you’ll be cornered in seconds.\nEvery move has meaning.\n\n◆Conquer the Solo Mode\nTake on 45 rhythm-infused trials across 9 distinct areas.\nFace complex patterns, strategic dilemmas, and mysterious foes.\nSolo play is deep, challenging, and designed to sharpen your instincts.\nAnd what lies beyond… may surprise you.\n\n◆Local Multiplayer Mayhem (Up to 4 Players)\nDive into intense local PvP for up to 4 players!\nUnlock and battle through over 100 carefully crafted stages packed with challenging gameplay that’s truly rewarding to master.\nEvery match creates new mind games—how will you outplay your rivals?",
+  "bannerUrl": "http://api.nlib.cc/nx/010009C024F3E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010009C024F3E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010009C024F3E000/screen/1",
+    "http://api.nlib.cc/nx/010009C024F3E000/screen/2",
+    "http://api.nlib.cc/nx/010009C024F3E000/screen/3",
+    "http://api.nlib.cc/nx/010009C024F3E000/screen/4",
+    "http://api.nlib.cc/nx/010009C024F3E000/screen/5",
+    "http://api.nlib.cc/nx/010009C024F3E000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Ash of Gods: The Way",
+  "publisher": "AurumDust",
+  "releaseDate": "20230427",
+  "description": "A turn-based story-driven tactical card game with hand crafted battles — each with different rules and objectives. Build and adjust your deck with characters, spells, and items from four factions. Adapt your strategy and make wise choices to decide what ending you get... ",
+  "bannerUrl": "http://api.nlib.cc/nx/010023E01A6BC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010023E01A6BC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010023E01A6BC000/screen/1",
+    "http://api.nlib.cc/nx/010023E01A6BC000/screen/2",
+    "http://api.nlib.cc/nx/010023E01A6BC000/screen/3",
+    "http://api.nlib.cc/nx/010023E01A6BC000/screen/4",
+    "http://api.nlib.cc/nx/010023E01A6BC000/screen/5",
+    "http://api.nlib.cc/nx/010023E01A6BC000/screen/6"
+  ]
+}

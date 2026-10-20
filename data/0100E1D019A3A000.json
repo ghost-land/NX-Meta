@@ -1,0 +1,16 @@
+{
+  "name": "Spectator",
+  "publisher": "Neko Machine",
+  "releaseDate": "20230911",
+  "description": "From your small office, you will monitor anomalous activity through CCTV cameras.\nYou have to monitor the controlled location and apply countermeasures in case of manifestations of the anomaly. \nBut be careful, if you miss too many anomalies, then your life will be in danger!\n\nOur audiovisual technologies heighten and deepen your experiences, helping you feel more.\nRealistic graphics, functional user interface, and deep spooky sound will ensure an immersive experience.\nTraverse through 6 unique levels based on popular creepypasta stories!\nEach level features more than 60 different procedural generated anomalies!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E1D019A3A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E1D019A3A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E1D019A3A000/screen/1",
+    "http://api.nlib.cc/nx/0100E1D019A3A000/screen/2",
+    "http://api.nlib.cc/nx/0100E1D019A3A000/screen/3",
+    "http://api.nlib.cc/nx/0100E1D019A3A000/screen/4",
+    "http://api.nlib.cc/nx/0100E1D019A3A000/screen/5",
+    "http://api.nlib.cc/nx/0100E1D019A3A000/screen/6"
+  ]
+}

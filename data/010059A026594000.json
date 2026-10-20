@@ -1,0 +1,18 @@
+{
+  "name": "Emoji Battlefield - Summer Vacation",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20260423",
+  "description": "You came for a relaxing getaway — but the emojis had other plans.\nIn this rogue-like first-person shooter, paradise has fallen into chaos as waves of emojis invade beaches, pools, and sunny resorts across the coast.\nBefore each run, choose your favorite modifiers: crank up the challenge with Hard Mode, make every emoji wear ridiculous summer hats, or turn on Bouncy Mode to watch them hop around like beach balls gone rogue.\nThen dive into your first arena — maybe a palm-lined beach, a boardwalk full of umbrellas, or a resort pool floating with inflatable chaos. Every arena has unique hazards, from explosive beach coolers to slippery slides that can send both you and your enemies flying.\nArmed with your pistol, you’ll face wave after wave of emojis that rush, bounce, shoot, or explode. Defeat them, grab their glowing orbs, and level up to choose from powerful upgrades. Increase your damage, reload speed, or movement — or spawn weapon drops to shake up your build mid-fight.\nThe longer you survive, the hotter it gets. Waves intensify with bigger and tougher emojis — sunburnt brutes, water-gun shooters, and explosive floaty fanatics that blow up if they get too close.\nSurvive long enough, and you’ll unlock new arenas, more modifiers, and even wilder summer chaos for your next run.",
+  "bannerUrl": "http://api.nlib.cc/nx/010059A026594000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010059A026594000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010059A026594000/screen/1",
+    "http://api.nlib.cc/nx/010059A026594000/screen/2",
+    "http://api.nlib.cc/nx/010059A026594000/screen/3",
+    "http://api.nlib.cc/nx/010059A026594000/screen/4",
+    "http://api.nlib.cc/nx/010059A026594000/screen/5",
+    "http://api.nlib.cc/nx/010059A026594000/screen/6"
+  ],
+  "version": 0,
+  "size": 1648124851
+}

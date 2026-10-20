@@ -1,0 +1,16 @@
+{
+  "name": "Lanternium",
+  "publisher": "Victory Road",
+  "releaseDate": "20191001",
+  "description": "Lanternium by Blazing Planet Studio is a puzzle adventure game where you have to help the mighty Raccoon to overcome many obstacles and labyrinths. Set in the fantastic world, this game is family-friendly and suitable for all ages. Gameplay is based on solving the puzzles by interacting with different types of blocks and colors. On his journey Raccoon will meet a bunch of friends and foes, including Fox, Snail and other anthropomorphic animals. All these troubles have happened because someone stole Raccoon’s favorite chocolate cookies — maybe it’s all evil Lord Angler’s misdeeds? Time to untangle this puzzle and solve it once and for all. While starting as a casual game, Lanternium is aimed to show its true potential as challenging puzzle game that is easy to learn and hard to master.",
+  "bannerUrl": "http://api.nlib.cc/nx/010015500F186000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010015500F186000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010015500F186000/screen/1",
+    "http://api.nlib.cc/nx/010015500F186000/screen/2",
+    "http://api.nlib.cc/nx/010015500F186000/screen/3",
+    "http://api.nlib.cc/nx/010015500F186000/screen/4",
+    "http://api.nlib.cc/nx/010015500F186000/screen/5",
+    "http://api.nlib.cc/nx/010015500F186000/screen/6"
+  ]
+}

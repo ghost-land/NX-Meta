@@ -1,0 +1,16 @@
+{
+  "name": "Demons Are Coming!",
+  "publisher": "COMMANDO PANDA",
+  "releaseDate": "20250815",
+  "description": "Your once-sacred homeland now lies in the grip of a demonic invasion. Wielding two fully customizable weapons, you'll fight back with precision and power—dodging, parrying, and blazing through relentless enemy hordes. With hundreds of upgrade combinations, adapt your playstyle and push back the darkness. Shatter enemy cover, deflect incoming fire, and emerge as a true slayer of demons.\n\nFeatures:\n• Fluid, Fast-Paced Combat – Weave through enemy fire and strike with overwhelming force.\n• Endless Weapon Customization – Mix and match mods to forge entirely new weapons each run.\n• Destructible Environments – Tear down enemy cover and shape the battlefield to your advantage.\n• Refined Parry Mechanics – Time your moves to counter attacks and turn the tide.\n• Procedurally Generated Maps – No two battles are ever the same.\n• Local Co-op Mode – Team up with a friend and fight side by side.",
+  "bannerUrl": "http://api.nlib.cc/nx/010095F0244DE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010095F0244DE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010095F0244DE000/screen/1",
+    "http://api.nlib.cc/nx/010095F0244DE000/screen/2",
+    "http://api.nlib.cc/nx/010095F0244DE000/screen/3",
+    "http://api.nlib.cc/nx/010095F0244DE000/screen/4",
+    "http://api.nlib.cc/nx/010095F0244DE000/screen/5",
+    "http://api.nlib.cc/nx/010095F0244DE000/screen/6"
+  ]
+}

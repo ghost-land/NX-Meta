@@ -1,0 +1,16 @@
+{
+  "name": "Colormitation",
+  "publisher": "Throwback Entertainment",
+  "releaseDate": "20230710",
+  "description": "Fun and addictive puzzle game! Mix and Match Colors! Infinite Gameplay!\n\nARCADE MODE:\nRace against the time to match your canvas with an automatically generated one. Complete the canvas as fast as you can to earn more points!\n\nPRACTICE MODE:\nPlay casually and take all the time you need when mixing and matching your colors on your canvas.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003AB016AEC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003AB016AEC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003AB016AEC000/screen/1",
+    "http://api.nlib.cc/nx/01003AB016AEC000/screen/2",
+    "http://api.nlib.cc/nx/01003AB016AEC000/screen/3",
+    "http://api.nlib.cc/nx/01003AB016AEC000/screen/4",
+    "http://api.nlib.cc/nx/01003AB016AEC000/screen/5",
+    "http://api.nlib.cc/nx/01003AB016AEC000/screen/6"
+  ]
+}

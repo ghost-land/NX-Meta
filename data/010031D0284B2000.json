@@ -1,0 +1,16 @@
+{
+  "name": "Jelly Math",
+  "publisher": "Afil Games",
+  "releaseDate": "20260806",
+  "description": "Get ready for a sweet, clever and surprising puzzle where numbers and jellies come together in the most fun way possible. In Jelly Math, each colorful piece has a unique value and shape, and it is up to you to combine them strategically to form the perfect equation.\n\nNothing here is just about placing pieces. Every move influences the final result, and small changes can completely transform your solution. Choose, rotate and place your jellies while testing combinations, adjusting operators and finding the exact balance to reach the goal.\n\nWith challenges that grow in a smooth and creative way, you will deal with new elements that make everything even more interesting, such as modifiers that multiply values and spaces that require careful planning. All of this in light and cozy picnic-themed environments.\n\nColorful, relaxing and at the same time challenging, Jelly Math is perfect for players who love puzzles that stimulate thinking and reward each discovery with that delicious feeling of getting it right.\n\nExperiment, adjust and find the perfect result in every level.",
+  "bannerUrl": "http://api.nlib.cc/nx/010031D0284B2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010031D0284B2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010031D0284B2000/screen/1",
+    "http://api.nlib.cc/nx/010031D0284B2000/screen/2",
+    "http://api.nlib.cc/nx/010031D0284B2000/screen/3",
+    "http://api.nlib.cc/nx/010031D0284B2000/screen/4"
+  ],
+  "version": 0,
+  "size": 78761188
+}

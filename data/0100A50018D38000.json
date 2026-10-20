@@ -1,0 +1,16 @@
+{
+  "name": "Pulling no Punches",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20230525",
+  "description": "Pulling no Punches is a classic beat’em up game with frame-by-frame animations, where players will try to survive a fictional pandemic in a city filled with madness and denial. The game includes 4 playable characters with unique unlockable moves, extremely detailed environments and local co-op multiplayer for up to 4 players.\n\nA BUNCH OF COOL STUFF:\n \n- 4 Co-op Local Multiplayer!\n- 4 Characters with unique Unlockables and Moves!\n- Use everything at your disposal to destroy your enemies: a wide variety of punches, kicks, grabs and headbutts!\n- Handmade art painfully animated frame by frame!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A50018D38000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A50018D38000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A50018D38000/screen/1",
+    "http://api.nlib.cc/nx/0100A50018D38000/screen/2",
+    "http://api.nlib.cc/nx/0100A50018D38000/screen/3",
+    "http://api.nlib.cc/nx/0100A50018D38000/screen/4",
+    "http://api.nlib.cc/nx/0100A50018D38000/screen/5",
+    "http://api.nlib.cc/nx/0100A50018D38000/screen/6"
+  ]
+}

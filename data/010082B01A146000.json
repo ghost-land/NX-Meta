@@ -1,0 +1,16 @@
+{
+  "name": "Animal Golf - Battle Race",
+  "publisher": "Pancake Games",
+  "releaseDate": "20230102",
+  "description": "Customize your adorable golfer and pack your bag with all sorts of power-ups in this super sweet golf game.               \n\nRoll through wildly creative courses, avoid crazy obstacles. Compete with friends in up to 4-player race and be the first in the hole to win. Super easy controls gives you fun & intuitive gameplay.                                                            \n\nReady, Steady, GOOOOLF!",
+  "bannerUrl": "http://api.nlib.cc/nx/010082B01A146000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010082B01A146000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010082B01A146000/screen/1",
+    "http://api.nlib.cc/nx/010082B01A146000/screen/2",
+    "http://api.nlib.cc/nx/010082B01A146000/screen/3",
+    "http://api.nlib.cc/nx/010082B01A146000/screen/4",
+    "http://api.nlib.cc/nx/010082B01A146000/screen/5",
+    "http://api.nlib.cc/nx/010082B01A146000/screen/6"
+  ]
+}

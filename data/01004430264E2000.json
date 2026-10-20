@@ -1,0 +1,16 @@
+{
+  "name": "Super Scram Kitty",
+  "publisher": "kumogami",
+  "releaseDate": "20260618",
+  "description": "The sprawling Nezu-Me space station has been overrun with devious, mutated mice! Roll around the rails in a unique blend of platform game and 2D shooter. Blast enemies, dodge threats, destroy the Nezu-Me core and get all the stranded cats back home!\n\nSuper Scram Kitty is a complete re-imagining of 'Scram Kitty and his Buddy on Rails', with all new controls, remixed stages, updated enemy behaviours, and new visual effects. ",
+  "bannerUrl": "http://api.nlib.cc/nx/01004430264E2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004430264E2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004430264E2000/screen/1",
+    "http://api.nlib.cc/nx/01004430264E2000/screen/2",
+    "http://api.nlib.cc/nx/01004430264E2000/screen/3",
+    "http://api.nlib.cc/nx/01004430264E2000/screen/4"
+  ],
+  "version": 0,
+  "size": 216806677
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Skyhook",
+  "publisher": "Megastorm Games",
+  "releaseDate": "20230914",
+  "description": "Local Multiplayer Arena Combat for 1-4 Players\n\n◆ Use your grappling hook to kill your enemies and swing around the level in free for all combat.\n\n◆ Choose from five unique characters, like the fast moving cat Jade or the teleporting assassin Anara.\n\n◆ Mount vehicles like the cannon firing Airship or the lightning shooting Gryphon.\n\n◆ Watch for chests that fall from the sky, stuffed with powerups like the berserker helmet, the shield, and the doppelganger mirror.\n\n◆ Customize matches with Special Options like Double Jump and Deadly Dodges.\n\n◆ No friends around? No problem! Play against up to three CPU players at different difficulty levels.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007B701AF40000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007B701AF40000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007B701AF40000/screen/1",
+    "http://api.nlib.cc/nx/01007B701AF40000/screen/2",
+    "http://api.nlib.cc/nx/01007B701AF40000/screen/3",
+    "http://api.nlib.cc/nx/01007B701AF40000/screen/4",
+    "http://api.nlib.cc/nx/01007B701AF40000/screen/5",
+    "http://api.nlib.cc/nx/01007B701AF40000/screen/6"
+  ]
+}

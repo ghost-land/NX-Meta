@@ -1,0 +1,16 @@
+{
+  "name": "Bid Battle: Auction War Simulator Storage Hunter",
+  "publisher": "DEZVOLT GAMES",
+  "releaseDate": "20240809",
+  "description": "Bid Battle: Auction War Simulator Storage Hunter is an engaging game that immerses players in the competitive world of storage unit auctions. Inspired by the excitement and strategy of real-life auction hunting, this game lets players experience the thrill of bidding wars as they vie for abandoned storage units filled with hidden treasures. The objective is to outbid opponents, discover valuable items, and ultimately turn a profit by selling these finds.\n\nFeatures:\n- Realistic Auction Experience: Engage in dynamic auctions against other players. Use strategic bidding to secure valuable storage units.\n- Treasure Hunting: Explore won storage units to find valuable items and treasures. Discover antiques, collectibles, and items for profit.\n- Diverse Storage Units: Explore various storage spaces with unique themes and treasures. Units range from small lockers to large, diverse collections.\n- Hidden Treasures and Rare Finds: Uncover a wide array of items, including rare collectibles and antiques. Experience the excitement of finding valuable items.\n- Profit and Trade System: Evaluate and sell items to maximize profits. Use the in-game market for trading and collection improvement.\n- Challenging Levels and Missions: Complete missions and levels to enhance your bidding skills. Earn rewards and unlock new auctions.\n- Realistic Simulation: Immerse yourself in a realistic storage auction world.Experience authentic bidding dynamics and item discovery.",
+  "bannerUrl": "http://api.nlib.cc/nx/010077F01F7A8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010077F01F7A8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010077F01F7A8000/screen/1",
+    "http://api.nlib.cc/nx/010077F01F7A8000/screen/2",
+    "http://api.nlib.cc/nx/010077F01F7A8000/screen/3",
+    "http://api.nlib.cc/nx/010077F01F7A8000/screen/4",
+    "http://api.nlib.cc/nx/010077F01F7A8000/screen/5",
+    "http://api.nlib.cc/nx/010077F01F7A8000/screen/6"
+  ]
+}

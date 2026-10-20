@@ -1,0 +1,15 @@
+{
+  "name": "ドラゴンクエストヒーローズI・II for Nintendo Switch",
+  "publisher": "スクウェア・エニックス",
+  "releaseDate": "20170303",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CD3000BDC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CD3000BDC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CD3000BDC000/screen/1",
+    "http://api.nlib.cc/nx/0100CD3000BDC000/screen/2",
+    "http://api.nlib.cc/nx/0100CD3000BDC000/screen/3",
+    "http://api.nlib.cc/nx/0100CD3000BDC000/screen/4",
+    "http://api.nlib.cc/nx/0100CD3000BDC000/screen/5"
+  ]
+}

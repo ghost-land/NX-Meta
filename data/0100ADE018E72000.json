@@ -1,0 +1,16 @@
+{
+  "name": "Logic Pic",
+  "publisher": "naptime.games",
+  "releaseDate": "20220805",
+  "description": "What's inside:\n•    1000+ puzzles (nonograms) to solve \n•    Solo, co-op and versus modes (1-4 players)\n•    Tutorial for newbies\n•    Wide range of puzzle sizes – from 5x5 to 15x20\n•    Power-Ups to save you trouble\n\nFollow the numbers at top rows and leftmost columns to discover hidden pixel art!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ADE018E72000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ADE018E72000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ADE018E72000/screen/1",
+    "http://api.nlib.cc/nx/0100ADE018E72000/screen/2",
+    "http://api.nlib.cc/nx/0100ADE018E72000/screen/3",
+    "http://api.nlib.cc/nx/0100ADE018E72000/screen/4",
+    "http://api.nlib.cc/nx/0100ADE018E72000/screen/5",
+    "http://api.nlib.cc/nx/0100ADE018E72000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Cargo Manager: Forklift Simulator",
+  "publisher": "Megame",
+  "releaseDate": "20240718",
+  "description": "The goal of the game is simple - deliver various cargo to the desired point and complete tasks. But be extremely careful - the load may be unstable and fragile!\n\nThe game has many different tasks with different levels of difficulty - from the simplest with light and small loads to complex with bulky and fragile loads.\n\nPlunge into a real challenge for fans of work transport simulators and transport all the cargo!\n\nGAME FEATURES:\n- Realistic physics and forklift control system;\n- Lots of different tasks;\n- Many different types of cargo;\n- Realistic sounds;",
+  "bannerUrl": "http://api.nlib.cc/nx/01009CE01F0F6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009CE01F0F6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009CE01F0F6000/screen/1",
+    "http://api.nlib.cc/nx/01009CE01F0F6000/screen/2",
+    "http://api.nlib.cc/nx/01009CE01F0F6000/screen/3",
+    "http://api.nlib.cc/nx/01009CE01F0F6000/screen/4",
+    "http://api.nlib.cc/nx/01009CE01F0F6000/screen/5",
+    "http://api.nlib.cc/nx/01009CE01F0F6000/screen/6"
+  ]
+}

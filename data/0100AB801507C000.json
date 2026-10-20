@@ -1,0 +1,14 @@
+{
+  "name": "Infinite Golf 2",
+  "publisher": "Petite Games",
+  "releaseDate": "20210708",
+  "description": "Are you ready for a new golf challenge? Infinite Golf is back!\n\nYou can choose from 4 different game modes in 4 different environments.\n\nIn Classic Mode you don't have to worry about losing or winning. Just enjoy the calm atmosphere!\nIn Time Attack mode you have 30 seconds and 5 additional seconds for every completed level.\nIn Arcade Mode you have 3 tries for each level. If you run out of tries your game is over.\nIn Multiplayer mode you can compete against up to 3 other players in 81 different game mode combinations!\n\nWith procedurally generated levels there is always one more level!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AB801507C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AB801507C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AB801507C000/screen/1",
+    "http://api.nlib.cc/nx/0100AB801507C000/screen/2",
+    "http://api.nlib.cc/nx/0100AB801507C000/screen/3",
+    "http://api.nlib.cc/nx/0100AB801507C000/screen/4"
+  ]
+}

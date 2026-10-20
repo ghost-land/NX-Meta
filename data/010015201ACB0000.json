@@ -1,0 +1,16 @@
+{
+  "name": "Light of Life",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20230421",
+  "description": "Light of Life is a challenging precision platformer about an elf named Elanor who possesses an incredible power!\n\nThe magical Life Fragments have been stolen by malicious goblins, and it’s up to Elanor to use her trusty bow and arrow to recover them.\n\nFeaturing over 100 handmade levels full of cute, colorful pixel art, Light of Life offers a fun challenge for everyone. \n\t\n\t\t\nFeatures:\n* 2D precision platform gameplay\n* Use a bow with magical powers\n* 100 challenging levels\n* Collect crystals to unlock fantastic outfits for Elanor!\n* 5 different worlds with different mechanics",
+  "bannerUrl": "http://api.nlib.cc/nx/010015201ACB0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010015201ACB0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010015201ACB0000/screen/1",
+    "http://api.nlib.cc/nx/010015201ACB0000/screen/2",
+    "http://api.nlib.cc/nx/010015201ACB0000/screen/3",
+    "http://api.nlib.cc/nx/010015201ACB0000/screen/4",
+    "http://api.nlib.cc/nx/010015201ACB0000/screen/5",
+    "http://api.nlib.cc/nx/010015201ACB0000/screen/6"
+  ]
+}

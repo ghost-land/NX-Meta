@@ -1,0 +1,16 @@
+{
+  "name": "Five Nights at Freddy's 3",
+  "publisher": "Clickteam",
+  "releaseDate": "20191129",
+  "description": "Thirty years after Freddy Fazbear's Pizza closed it's doors, the events that took place there have become nothing more than a rumor and a childhood memory, but the owners of \"Fazbear's Fright: The Horror Attraction\" are determined to revive the legend and make the experience as authentic as possible for patrons, going to great lengths to find anything that might have survived decades of neglect and ruin.\n\nAt first there were only empty shells, a hand, a hook, an old paper-plate doll, but then a remarkable discovery was made...\n\nThe attraction now has one animatronic.",
+  "bannerUrl": "http://api.nlib.cc/nx/010056100E43C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010056100E43C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010056100E43C000/screen/1",
+    "http://api.nlib.cc/nx/010056100E43C000/screen/2",
+    "http://api.nlib.cc/nx/010056100E43C000/screen/3",
+    "http://api.nlib.cc/nx/010056100E43C000/screen/4",
+    "http://api.nlib.cc/nx/010056100E43C000/screen/5",
+    "http://api.nlib.cc/nx/010056100E43C000/screen/6"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Blazing Trail",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20250430",
+  "description": "Blazing Trail is an isometric pixel art shooter that requires daring on-the-fly strategy. Use machine guns, missiles and laser power-ups to take down enemy soldiers, demolish buildings and watchtowers, destroy gates, shoot down aircrafts and face off against huge bosses across 7 sprawling combat zones.\n\nRoll through checkpoints and save progress between stages. Complete your mission solo or team up with a friend for cooperative play! Can you escape the terrorists’ clutches and save the world from their maniacal plans?\n\n• Escape with the advanced military vehicle that you helped develop!\n• Blast through 7 zones with guns, missiles and lasers!\n• Navigate freely from an isometric overhead perspective!\n• Rescue hostages and take down big bosses along the way!\n• Drive solo or team up with a friend for cooperative multiplayer.\n• Enjoy retro pixel art graphics in HD widescreen style!",
+  "bannerUrl": "http://api.nlib.cc/nx/01003510224D8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003510224D8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003510224D8000/screen/1",
+    "http://api.nlib.cc/nx/01003510224D8000/screen/2",
+    "http://api.nlib.cc/nx/01003510224D8000/screen/3",
+    "http://api.nlib.cc/nx/01003510224D8000/screen/4",
+    "http://api.nlib.cc/nx/01003510224D8000/screen/5",
+    "http://api.nlib.cc/nx/01003510224D8000/screen/6"
+  ],
+  "version": 0,
+  "size": 98016392
+}

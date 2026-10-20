@@ -1,0 +1,16 @@
+{
+  "name": "Mangavania",
+  "publisher": "Sometimes You",
+  "releaseDate": "20230426",
+  "description": "Join the adventure as Yuhiko, a young ninja who has gone to the underworld to find a cure for his brother. Free the lost souls to advance to the next level. Find Spirits in secret places – they will tell you a story or give you advice. Explore dungeons, fight monsters and meet new friends!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B0901A08E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B0901A08E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B0901A08E000/screen/1",
+    "http://api.nlib.cc/nx/0100B0901A08E000/screen/2",
+    "http://api.nlib.cc/nx/0100B0901A08E000/screen/3",
+    "http://api.nlib.cc/nx/0100B0901A08E000/screen/4",
+    "http://api.nlib.cc/nx/0100B0901A08E000/screen/5",
+    "http://api.nlib.cc/nx/0100B0901A08E000/screen/6"
+  ]
+}

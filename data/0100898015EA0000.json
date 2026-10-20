@@ -1,0 +1,16 @@
+{
+  "name": "Dracula Frames",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20211021",
+  "description": "Dracula Frames is a slide puzzle game that uses the basis of Dracula's story as motivation.\n\nDracula's castle consists of 8 floors. Each floor has a large picture with a magnificent painting representing landmarks of Dracula's life.\nYour goal is to rebuild each painting through a sliding puzzle and get to the top floor!\n\nThe paintings are cut and shuffled in the jigsaw style, leaving the player to reposition the pieces.\nThe castle keeps secrets\nDiscover hidden items. Explore and discover secrets!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100898015EA0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100898015EA0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100898015EA0000/screen/1",
+    "http://api.nlib.cc/nx/0100898015EA0000/screen/2",
+    "http://api.nlib.cc/nx/0100898015EA0000/screen/3",
+    "http://api.nlib.cc/nx/0100898015EA0000/screen/4",
+    "http://api.nlib.cc/nx/0100898015EA0000/screen/5",
+    "http://api.nlib.cc/nx/0100898015EA0000/screen/6"
+  ]
+}

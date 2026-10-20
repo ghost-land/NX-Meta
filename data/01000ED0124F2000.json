@@ -1,0 +1,13 @@
+{
+  "name": "Mastercube",
+  "publisher": "Warlock Arts Yaz",
+  "releaseDate": "20200808",
+  "description": "MasterCube is an addictive action-shooter game! You must survive as long as you can in order to score the highest point!",
+  "bannerUrl": "http://api.nlib.cc/nx/01000ED0124F2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000ED0124F2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000ED0124F2000/screen/1",
+    "http://api.nlib.cc/nx/01000ED0124F2000/screen/2",
+    "http://api.nlib.cc/nx/01000ED0124F2000/screen/3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Prizma Puzzle Prime",
+  "publisher": "Silen Games",
+  "releaseDate": "20230216",
+  "description": "The player's task is to connect nodes which have various functions.\n\nThe original Prizma Puzzle web games were released from 2009 to 2011 and included 4 games. They have been played hundreds of millions of times online.\n\nPrizma Puzzle Prime includes content from past games, new elements, enhanced graphics, visual and sound effects.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B1E01A810000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B1E01A810000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B1E01A810000/screen/1",
+    "http://api.nlib.cc/nx/0100B1E01A810000/screen/2",
+    "http://api.nlib.cc/nx/0100B1E01A810000/screen/3",
+    "http://api.nlib.cc/nx/0100B1E01A810000/screen/4",
+    "http://api.nlib.cc/nx/0100B1E01A810000/screen/5",
+    "http://api.nlib.cc/nx/0100B1E01A810000/screen/6"
+  ]
+}

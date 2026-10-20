@@ -1,0 +1,15 @@
+{
+  "name": "Battle Group 2",
+  "publisher": "Silver Lining",
+  "releaseDate": "20181011",
+  "description": "A deadly new terrorist group has emerged. The Talon seeks vengeance for an unknown crime, commanding seemingly unlimited resources and striking against innocents with precision, efficiency, and savage force. They take no prisoners...but neither do we!\nBattle Group 2 puts you in control of an advanced naval fleet assembled as a last resort against this deadly new enemy. Command powerful battleships and fire newly developed satellite strikes in a final strike against this deadly new terrorist superpower.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FE000BA42000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FE000BA42000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FE000BA42000/screen/1",
+    "http://api.nlib.cc/nx/0100FE000BA42000/screen/2",
+    "http://api.nlib.cc/nx/0100FE000BA42000/screen/3",
+    "http://api.nlib.cc/nx/0100FE000BA42000/screen/4",
+    "http://api.nlib.cc/nx/0100FE000BA42000/screen/5"
+  ]
+}

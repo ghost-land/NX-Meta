@@ -1,0 +1,16 @@
+{
+  "name": "198X",
+  "publisher": "8-4",
+  "releaseDate": "20200123",
+  "description": "Welcome to Suburbia, just outside the City, sometime in 198X. This is the journey of Kid, a teenager stuck between the limitations of innocent youth and the obligations of inevitable adulthood. The story unfolds when Kid discovers the local arcade – finding new worlds, and new meaning, in video games. For every visit to the arcade – every game uncovered, every move mastered, every demon defeated – Kid grows stronger. And the lines between reality and game start to blur...",
+  "bannerUrl": "http://api.nlib.cc/nx/01007BB00FC8A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007BB00FC8A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007BB00FC8A000/screen/1",
+    "http://api.nlib.cc/nx/01007BB00FC8A000/screen/2",
+    "http://api.nlib.cc/nx/01007BB00FC8A000/screen/3",
+    "http://api.nlib.cc/nx/01007BB00FC8A000/screen/4",
+    "http://api.nlib.cc/nx/01007BB00FC8A000/screen/5",
+    "http://api.nlib.cc/nx/01007BB00FC8A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Offroad Rally Racing",
+  "publisher": "Pix Arts",
+  "releaseDate": "20260130",
+  "description": "Offroad Rally Racing is a fast-paced console racing game where you drive powerful rally cars across clearly marked tracks in different weather conditions, including sunny, rainy, and night races. Each track offers a unique challenge, forcing you to adapt your driving to changing visibility and road grip.\n\nWin races to earn cash, which you can use to unlock and purchase new rally cars. Every victory brings you closer to building a stronger garage and taking on tougher tracks.\n\nWith easy-to-learn controls and exciting offroad action, Offroad Rally Racing delivers simple, fun racing focused on skill, speed, and progression.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E1B026BF2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E1B026BF2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E1B026BF2000/screen/1",
+    "http://api.nlib.cc/nx/0100E1B026BF2000/screen/2",
+    "http://api.nlib.cc/nx/0100E1B026BF2000/screen/3",
+    "http://api.nlib.cc/nx/0100E1B026BF2000/screen/4",
+    "http://api.nlib.cc/nx/0100E1B026BF2000/screen/5",
+    "http://api.nlib.cc/nx/0100E1B026BF2000/screen/6"
+  ]
+}

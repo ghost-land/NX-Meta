@@ -1,0 +1,15 @@
+{
+  "name": "Kombinera",
+  "publisher": "Atari",
+  "releaseDate": "20220407",
+  "description": "Control multiple colored balls simultaneously in this brain-bending puzzle platformer. It's up to you to combine every ball and complete each perilous level. Can you solve them all? Can you save King Kombine from the Kave of Kaos?\n\nCore Features:\n-Progress through 300 increasingly complex puzzles.\n-Encounter new hazards and abilities.\n-Replay levels to achieve best times.\n-Grab collectibles to unlock new levels\n-Vibrant neon visual style accompanied by ambient electronic audio tracks.\n-In-depth, complex, heart-tugging emotional storyline.\n-Accessible controls.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E0F017746000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E0F017746000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E0F017746000/screen/1",
+    "http://api.nlib.cc/nx/0100E0F017746000/screen/2",
+    "http://api.nlib.cc/nx/0100E0F017746000/screen/3",
+    "http://api.nlib.cc/nx/0100E0F017746000/screen/4",
+    "http://api.nlib.cc/nx/0100E0F017746000/screen/5"
+  ]
+}

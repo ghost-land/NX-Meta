@@ -1,0 +1,16 @@
+{
+  "name": "Soul Stalker",
+  "publisher": "Radhood",
+  "releaseDate": "20241024",
+  "description": "Soul Stalker is a bullet heaven roguelike where you assume the role of the steward of ghosts bound to eternal life on earth. Wield 4 to 6 weapons simultaneously to fend off waves of apparitions determined to defeat your spirited friends. Choose from a diverse pool of 21 characters, 35 weapons, 84 trinkets, and 21 pets to craft your ultimate build!\n\nSlay spooky souls, evolve your weapons, and progress through the Soul Stalker Society's hub to become an unstoppable force of nature.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F0401C2BC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F0401C2BC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F0401C2BC000/screen/1",
+    "http://api.nlib.cc/nx/0100F0401C2BC000/screen/2",
+    "http://api.nlib.cc/nx/0100F0401C2BC000/screen/3",
+    "http://api.nlib.cc/nx/0100F0401C2BC000/screen/4",
+    "http://api.nlib.cc/nx/0100F0401C2BC000/screen/5",
+    "http://api.nlib.cc/nx/0100F0401C2BC000/screen/6"
+  ]
+}

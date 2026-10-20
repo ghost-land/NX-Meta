@@ -1,0 +1,16 @@
+{
+  "name": "Powertris",
+  "publisher": "No Gravity Games",
+  "releaseDate": "20201001",
+  "description": "FEATURES:\n❤️ endless gameplay;\n❤️ explosive surprises;\n❤️  scoreboard to flex your skills;\n❤️ energetic music;\n❤️ high voltage!\n\nPowertris is a shocking mixture of well-known classics - Tetris and Pipermania. \nBy placing blocks, the player must pay attention to whether both sides of the system are connected with the sockets on the edges of the screen. \nDuring the game, the player will have to make quick decisions as well as use special blocks.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001CA012F30000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001CA012F30000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001CA012F30000/screen/1",
+    "http://api.nlib.cc/nx/01001CA012F30000/screen/2",
+    "http://api.nlib.cc/nx/01001CA012F30000/screen/3",
+    "http://api.nlib.cc/nx/01001CA012F30000/screen/4",
+    "http://api.nlib.cc/nx/01001CA012F30000/screen/5",
+    "http://api.nlib.cc/nx/01001CA012F30000/screen/6"
+  ]
+}

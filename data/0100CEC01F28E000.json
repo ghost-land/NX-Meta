@@ -1,0 +1,16 @@
+{
+  "name": "Cat Warrior",
+  "publisher": "Sadi Makes Games",
+  "releaseDate": "20240525",
+  "description": "Cat Warroir is an action-platformer of retro and cute style about a cat knight on his way to recapture his stolen treasure.\nDeep into the exciting and dangerous fantasy world,defeat the challenging big boss with your slash, dash, jump, walljump and other skills to find the treasure back!\n\nFeature\nAddictive gameplay\nCompete with players from all over the world in BossRush mode\n4 unique challenge worldsand 30 handmade levels.\nBeautiful pixel-art graphics;\nA cute cat",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CEC01F28E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CEC01F28E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CEC01F28E000/screen/1",
+    "http://api.nlib.cc/nx/0100CEC01F28E000/screen/2",
+    "http://api.nlib.cc/nx/0100CEC01F28E000/screen/3",
+    "http://api.nlib.cc/nx/0100CEC01F28E000/screen/4",
+    "http://api.nlib.cc/nx/0100CEC01F28E000/screen/5",
+    "http://api.nlib.cc/nx/0100CEC01F28E000/screen/6"
+  ]
+}

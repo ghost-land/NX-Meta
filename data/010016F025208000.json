@@ -1,0 +1,18 @@
+{
+  "name": "Arashi Gaiden",
+  "publisher": "NUNTIUS GAMES",
+  "releaseDate": "20260611",
+  "description": "KILL ALL ENEMIES\n\nArashi Gaiden is a turn-based action game with fast-paced dash and slash combat. Use the dash mechanic to quickly traverse levels and slice your enemies in half in style, combining your blade with shurikens, teleports and chains that paralyze your opponents.\n\nBREAK THE TURN STRUCTURE\n\nOvercome levels with mechanics that change how you play and face Bosses that redefine what a turn-based game is by using special abilities in real time.\n\nStop the time of your enemies, play shurikens, teleport and change the direction of your dash!\nUse special skills to master the field of combat, make combos and win creatively.\n\nSurvive 7 bosses that also break the turn structure, using bombs, traps, flying cuts, flames and more! Play carefully or frantically, the choice is yours.\n\n- Over 5 hours of fun in turn-based combat, with diverse challenges and multiple solutions.\n- A new level for an innovative combat system, Dash and Slash: enjoy turn-based combat with fast moves.\n- Experience a stylish turn-based action game with puzzle features (or vice versa).\n\nWIN WITH STYLE\n\n- Get Power-Ups as you progress through the game, but manage them well during the match.\n- Achieve the perfect score in each room.\n- Replay each Stage with new powers after unlocking it.\n- Enjoy guts and blood flying everywhere in pixel art while cutting your enemies in beautiful stages featuring settings from different locations in Japan.\n- Discover Arashi's story, his involvement with Lobo and deepen the Lore of the Bravery Universe.",
+  "bannerUrl": "http://api.nlib.cc/nx/010016F025208000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010016F025208000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010016F025208000/screen/1",
+    "http://api.nlib.cc/nx/010016F025208000/screen/2",
+    "http://api.nlib.cc/nx/010016F025208000/screen/3",
+    "http://api.nlib.cc/nx/010016F025208000/screen/4",
+    "http://api.nlib.cc/nx/010016F025208000/screen/5",
+    "http://api.nlib.cc/nx/010016F025208000/screen/6"
+  ],
+  "version": 0,
+  "size": 453129022
+}

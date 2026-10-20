@@ -1,0 +1,16 @@
+{
+  "name": "DreamBall",
+  "publisher": "JanduSoft",
+  "releaseDate": "20191223",
+  "description": "Welcome to DreamBall, the first sports video game with ragdoll physics, set in dreams with which you will enjoy of the craziest matches ever. Play up in the space, under de sea, in a pirate island… Let your imagination fly or let be carried by ours.\nReady to dream? Immerse yourself in this world of dreams.",
+  "bannerUrl": "http://api.nlib.cc/nx/010034D00F330000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010034D00F330000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010034D00F330000/screen/1",
+    "http://api.nlib.cc/nx/010034D00F330000/screen/2",
+    "http://api.nlib.cc/nx/010034D00F330000/screen/3",
+    "http://api.nlib.cc/nx/010034D00F330000/screen/4",
+    "http://api.nlib.cc/nx/010034D00F330000/screen/5",
+    "http://api.nlib.cc/nx/010034D00F330000/screen/6"
+  ]
+}

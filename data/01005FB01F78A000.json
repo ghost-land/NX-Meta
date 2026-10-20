@@ -1,0 +1,16 @@
+{
+  "name": "Fantasy Saga Frenzy",
+  "publisher": "RuWaMo Games",
+  "releaseDate": "20240712",
+  "description": "Dive into a magical realm with Fantasy Mania Frenzy! In this enchanting puzzle game, you’ll find yourself merging  magical artifacts to create powerful combinations. Journey through whimsical landscapes filled with magic and puzzle it out!",
+  "bannerUrl": "http://api.nlib.cc/nx/01005FB01F78A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005FB01F78A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005FB01F78A000/screen/1",
+    "http://api.nlib.cc/nx/01005FB01F78A000/screen/2",
+    "http://api.nlib.cc/nx/01005FB01F78A000/screen/3",
+    "http://api.nlib.cc/nx/01005FB01F78A000/screen/4",
+    "http://api.nlib.cc/nx/01005FB01F78A000/screen/5",
+    "http://api.nlib.cc/nx/01005FB01F78A000/screen/6"
+  ]
+}

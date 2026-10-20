@@ -1,0 +1,16 @@
+{
+  "name": "Croc's World 2",
+  "publisher": "Sprakelsoft",
+  "releaseDate": "20190418",
+  "description": "\"Croc´s World 2\" is a really nice jump'n'run with 60 incredible levels and many challenging enemies!\n\nIt features:\n+ 60 incredible levels \n+ Nice graphics\n+ 4 different themes\n+ many challenging enemies\n+ 4 evil endbosses\n\nInstructions:\nJump and run through the levels and dodge all enemies.\nCollect a helmet to crush stoneblocks.\nCollect the stonebag to throw stones.\nCollect the special stonebag to throw auto-homing stones!\nCollect special items like \"Fast shoes\" (run faster), \"Firehelmet\" (walk through fire) or \"Shield\" (Invincible for 10 seconds)!\nIf you collect 100 diamonds you´ll get an extra life!",
+  "bannerUrl": "http://api.nlib.cc/nx/01009DB00DE12000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009DB00DE12000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009DB00DE12000/screen/1",
+    "http://api.nlib.cc/nx/01009DB00DE12000/screen/2",
+    "http://api.nlib.cc/nx/01009DB00DE12000/screen/3",
+    "http://api.nlib.cc/nx/01009DB00DE12000/screen/4",
+    "http://api.nlib.cc/nx/01009DB00DE12000/screen/5",
+    "http://api.nlib.cc/nx/01009DB00DE12000/screen/6"
+  ]
+}

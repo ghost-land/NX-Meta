@@ -1,0 +1,16 @@
+{
+  "name": "Nincat",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20220702",
+  "description": "Help the Ninja Cat go through the countless different Japanese villages, quickly perform the most awesome jumps, unlock new skills and complete all the 50 levels of this wonderful game.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006BD018506000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006BD018506000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006BD018506000/screen/1",
+    "http://api.nlib.cc/nx/01006BD018506000/screen/2",
+    "http://api.nlib.cc/nx/01006BD018506000/screen/3",
+    "http://api.nlib.cc/nx/01006BD018506000/screen/4",
+    "http://api.nlib.cc/nx/01006BD018506000/screen/5",
+    "http://api.nlib.cc/nx/01006BD018506000/screen/6"
+  ]
+}

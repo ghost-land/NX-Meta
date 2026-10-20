@@ -1,0 +1,16 @@
+{
+  "name": "Ink Splash",
+  "publisher": "HUNTERS",
+  "releaseDate": "20260806",
+  "description": "Ink Splash is a 2D action game.\nRide your skateboard and cover the ground with ink while creating graffiti on walls.\nIn Time Battle mode, the player with the higher score wins.\nAs you progress through stages, new tricks will be unlocked. Use a variety of moves to win graffiti battles.",
+  "bannerUrl": "http://api.nlib.cc/nx/010032602870C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010032602870C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010032602870C000/screen/1",
+    "http://api.nlib.cc/nx/010032602870C000/screen/2",
+    "http://api.nlib.cc/nx/010032602870C000/screen/3",
+    "http://api.nlib.cc/nx/010032602870C000/screen/4"
+  ],
+  "version": 0,
+  "size": 56809375
+}

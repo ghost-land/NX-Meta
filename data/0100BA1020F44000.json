@@ -1,0 +1,16 @@
+{
+  "name": "EGGCONSOLE THE SCHEME PC-8801mkIISR",
+  "publisher": "D4 Enterprise",
+  "releaseDate": "20241128",
+  "description": "This game is an action RPG released in 1988. Players take on the role of Mars as they embark on a journey to defeat the Hellstones cult. The game is presented in a side-view perspective, and players will battle enemies by using jumps and force blasts emitted from Mars' arms. Various items are scattered across the map, and collecting these can power up Mars in many ways, such as enabling rapid fire for the force, increasing jump height, halving damage, or making the force pulse in a wave-like pattern.\n\nWhile the game offers fun and fluid gameplay, one of its highlights is the soundtrack. The BGM was composed by Yuzo Koshiro, a name well-known to retro game fans, and was his first work after going freelance. It made extensive use of sampling, supported by the Sound Board II, filled with features sure to impress fans. Cranking up the volume during gameplay might just immerse you even deeper into the world.\n\n\n*Please note that some save data is included in the initial state.\n*The main game and gallery screen (*Gallery) are in Japanese version.\n*Other menu screens and \"How to play\" screens are in English.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BA1020F44000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BA1020F44000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BA1020F44000/screen/1",
+    "http://api.nlib.cc/nx/0100BA1020F44000/screen/2",
+    "http://api.nlib.cc/nx/0100BA1020F44000/screen/3",
+    "http://api.nlib.cc/nx/0100BA1020F44000/screen/4",
+    "http://api.nlib.cc/nx/0100BA1020F44000/screen/5",
+    "http://api.nlib.cc/nx/0100BA1020F44000/screen/6"
+  ]
+}

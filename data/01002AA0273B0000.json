@@ -1,0 +1,18 @@
+{
+  "name": "Ace Thunder: Aircraft Wingman Simulator",
+  "publisher": "CONSANN REAL ESTATE",
+  "releaseDate": "20260515",
+  "description": "Air Combat, Flight Simulator, Alien War\n\nEnter a high-speed air combat flight simulator where alien forces have taken control of Earth’s skies. Become an elite pilot and engage in intense jet fighter dogfights, defending humanity in action-packed aerial battles.\n\nExperience fast-paced aircraft combat gameplay with advanced controls, multiple weapons, and dynamic enemy AI. Track targets, evade incoming attacks, and dominate the battlefield in high-risk missions across diverse environments.\n\nUpgrade your jet with powerful systems and alien technology. Improve speed, defense, and firepower to gain an advantage in large-scale aerial warfare scenarios.\n\nKey Features:\nAir Combat Simulator: Real-time jet fighter battles and dogfights\nFlight Simulator Gameplay: Precision controls and advanced maneuvers\nAlien Invasion War: Fight against evolving enemy fleets\nAircraft Upgrade System: Boost speed, armor, and weapons\nMission Variety: Escort, defense, and large-scale combat\nOpen Sky Environments: Cities, mountains, deserts, and more\n\nTake off, engage, and survive in a high-intensity airplane combat simulator where every mission tests your skill.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002AA0273B0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002AA0273B0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002AA0273B0000/screen/1",
+    "http://api.nlib.cc/nx/01002AA0273B0000/screen/2",
+    "http://api.nlib.cc/nx/01002AA0273B0000/screen/3",
+    "http://api.nlib.cc/nx/01002AA0273B0000/screen/4",
+    "http://api.nlib.cc/nx/01002AA0273B0000/screen/5",
+    "http://api.nlib.cc/nx/01002AA0273B0000/screen/6"
+  ],
+  "version": 0,
+  "size": 500071863
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Project Roll",
+  "publisher": "Entity3",
+  "releaseDate": "20240210",
+  "description": "Control the floor and guide the ball to the goal!\n\nSimple controls mixed with a new great mechanic give Project Roll and superb and unique feel\n\nUse momentum to you advantage and navigate the ball through many different levels",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CA201DD14000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CA201DD14000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CA201DD14000/screen/1",
+    "http://api.nlib.cc/nx/0100CA201DD14000/screen/2",
+    "http://api.nlib.cc/nx/0100CA201DD14000/screen/3",
+    "http://api.nlib.cc/nx/0100CA201DD14000/screen/4",
+    "http://api.nlib.cc/nx/0100CA201DD14000/screen/5",
+    "http://api.nlib.cc/nx/0100CA201DD14000/screen/6"
+  ]
+}

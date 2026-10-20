@@ -1,0 +1,16 @@
+{
+  "name": "Zorya: The Celestial Sisters ™",
+  "publisher": "TLM Partners",
+  "releaseDate": "20220208",
+  "description": "Invite a friend to play the first 5 levels in this version, or play the full game with a friend who owns the DLC (users must be playing in an online session).\nAn award-winning cooperative puzzle game that takes place in a desolate world where the sun never sets. Choose to play as one of two sisters: Aysu, the night goddess who must stay within the shadows and can summon Wind Power, or Solveig, the all-powerful sun goddess who controls time and can harness Solar Energy. To succeed in the game, players must reunite the sisters by safely navigating the shadows to solve increasingly complex puzzles and restore balance to the world.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001390140BC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001390140BC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001390140BC000/screen/1",
+    "http://api.nlib.cc/nx/01001390140BC000/screen/2",
+    "http://api.nlib.cc/nx/01001390140BC000/screen/3",
+    "http://api.nlib.cc/nx/01001390140BC000/screen/4",
+    "http://api.nlib.cc/nx/01001390140BC000/screen/5",
+    "http://api.nlib.cc/nx/01001390140BC000/screen/6"
+  ]
+}

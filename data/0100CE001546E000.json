@@ -1,0 +1,16 @@
+{
+  "name": "Head Games",
+  "publisher": "Piotr Skalski",
+  "releaseDate": "20210604",
+  "description": "Welcome to the ultimate Head Games competition!\nDo you have what it takes to beat your opponent in a game of soccer, volleyball or basketball using only head shots? Head Games is an intense, exciting game where you can play against a friend or the AI. You have multiple characters to choose from, and the only goal is to try and hit the ball and score in your opponent’s net. You can also play as a team with your friends.\nCan you become the ultimate player in the Head Games? Try the game out and immerse yourself into the ultimate gaming experience. \nFeatures:\n\t•\tPlay football, basketball or volleyball\n\t•\tEnter 1v1 or 2v2 games and win\n\t•\tIntense, action packed gameplay\n\t•\tGreat retro visuals",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CE001546E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CE001546E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CE001546E000/screen/1",
+    "http://api.nlib.cc/nx/0100CE001546E000/screen/2",
+    "http://api.nlib.cc/nx/0100CE001546E000/screen/3",
+    "http://api.nlib.cc/nx/0100CE001546E000/screen/4",
+    "http://api.nlib.cc/nx/0100CE001546E000/screen/5",
+    "http://api.nlib.cc/nx/0100CE001546E000/screen/6"
+  ]
+}

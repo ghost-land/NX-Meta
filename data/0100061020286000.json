@@ -1,0 +1,16 @@
+{
+  "name": "DORONKO WANKO",
+  "publisher": "Phoenixx",
+  "releaseDate": "20250723",
+  "description": "『DORONKO WANKO』 is a DORONKO Action Game.\nIn this game, you can become a cute, innocent pup and make a big mess inside the house.\nChoose your favorite from six dog breeds — Pomeranian, Shiba-Inu, Bulldog, Toy Poodle, Jack Russell Terrier, and Corgi.\nLet's explore this beautiful house and make it dirty and muddy at will!\n\n◆ Rub! Splash! Muddy Action\nA cute pup can get muddy by “rubbing” against the mud spread on the floor.\nThen release it all with a “splash” and make the whole area muddy and messy!\n\n◆ Sometimes you can find \"hidden pome\" when you are spreading mud all over the house.\nWhen you find all the \"hidden pome\", the \"Good Smell Room\" 's door will open.\n(Let's go inside quietly before others notice!)\n\n◆ More mud, more damage!\nYou can check the total amount of damage you have caused from the ending “Receipt”.\n\n◆ Dirty all and get plenty of gifts!\nWhen you cause enough damage, you will receive a “gift”?!\nThey will help the pups’ exploration (and cuteness!)  by making it easier to splash mud and obtain key items.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100061020286000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100061020286000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100061020286000/screen/1",
+    "http://api.nlib.cc/nx/0100061020286000/screen/2",
+    "http://api.nlib.cc/nx/0100061020286000/screen/3",
+    "http://api.nlib.cc/nx/0100061020286000/screen/4",
+    "http://api.nlib.cc/nx/0100061020286000/screen/5",
+    "http://api.nlib.cc/nx/0100061020286000/screen/6"
+  ]
+}

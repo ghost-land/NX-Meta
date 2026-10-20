@@ -1,0 +1,15 @@
+{
+  "name": "Escape game & Card search game R01M",
+  "publisher": "AlignmentSharp",
+  "releaseDate": "20220825",
+  "description": "Move through 3D space to find hints, solve mysteries and escape from the room.\nAnyone can play to the end because you can see hints and answers.\n\nAlso, a card search game has been added as a bonus.\nRankings that compete with people all over the world for the time they find\nThere is also a communication match that starts all at once and competes for ranking.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100077019148000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100077019148000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100077019148000/screen/1",
+    "http://api.nlib.cc/nx/0100077019148000/screen/2",
+    "http://api.nlib.cc/nx/0100077019148000/screen/3",
+    "http://api.nlib.cc/nx/0100077019148000/screen/4",
+    "http://api.nlib.cc/nx/0100077019148000/screen/5"
+  ]
+}

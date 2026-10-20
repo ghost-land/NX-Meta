@@ -1,0 +1,16 @@
+{
+  "name": "Master Key",
+  "publisher": "Achromi",
+  "releaseDate": "20240530",
+  "description": "An old rusty key found deep in a cave, what could it open?\nExplore a dense world, fight ferocious enemies, and solve puzzles in search of answers.\n\nMaster key features:\nItem based exploration\nDozens of enemies\nShops, weapons, and powerups\nDungeons\nBetween 5 and 20 hours of content\nLots of secrets\nNo language support!\n\nThe game doesn't hold you by the hand, it's a love letter to hiking and exploration. You have to find your own path and nothing is story-gated.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002A601C4DA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002A601C4DA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002A601C4DA000/screen/1",
+    "http://api.nlib.cc/nx/01002A601C4DA000/screen/2",
+    "http://api.nlib.cc/nx/01002A601C4DA000/screen/3",
+    "http://api.nlib.cc/nx/01002A601C4DA000/screen/4",
+    "http://api.nlib.cc/nx/01002A601C4DA000/screen/5",
+    "http://api.nlib.cc/nx/01002A601C4DA000/screen/6"
+  ]
+}

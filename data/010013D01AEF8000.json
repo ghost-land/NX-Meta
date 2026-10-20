@@ -1,0 +1,16 @@
+{
+  "name": "Hola! Reversi",
+  "publisher": "BigWhitePlanet",
+  "releaseDate": "20230504",
+  "description": "Get ready for a strategic puzzle experience on Nintendo Switch™ with Hola! Reversi. Play with friends or against the AI, choose from beautifully designed boards and chips, and try two new modes, Antireversi and Black Hole. Enjoy relaxing music as you flip your opponent's pieces and claim the board as your own. With endless possibilities and hours of brain-teasing fun, Hola! Reversi puts a modern twist on this classic game. Don't miss out on this must-have addition to your gaming library. Get Hola! Reversi on Nintendo Switch™ today!",
+  "bannerUrl": "http://api.nlib.cc/nx/010013D01AEF8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010013D01AEF8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010013D01AEF8000/screen/1",
+    "http://api.nlib.cc/nx/010013D01AEF8000/screen/2",
+    "http://api.nlib.cc/nx/010013D01AEF8000/screen/3",
+    "http://api.nlib.cc/nx/010013D01AEF8000/screen/4",
+    "http://api.nlib.cc/nx/010013D01AEF8000/screen/5",
+    "http://api.nlib.cc/nx/010013D01AEF8000/screen/6"
+  ]
+}

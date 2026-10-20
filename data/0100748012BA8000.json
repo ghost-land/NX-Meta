@@ -1,0 +1,16 @@
+{
+  "name": "Extra Coin",
+  "publisher": "CINIC Games",
+  "releaseDate": "20241008",
+  "description": "They replaced the old world with a new one, a better one.\n\nAs wars tore the globe apart and overpopulation pushed humanity to the brink, a lifeline emerged: The Arcade, a virtual world offering escape. In this digital utopia, everything is vibrant and shiny, everything runs smoothly... or so we’ve been led to believe.\nMika never trusted The Arcade’s ads, but her parents did. Hoping for a better life, they left without an explanation. Now, she’s stepping into The Arcade to find them and uncover the truth behind its glossy facade.\n\n- Delve into The Arcade city\nExplore the streets of this virtual world to discover everything it has to offer. From die hard duelists to lazyheads, you’ll find a unique crowd of people living here. Just be careful not to touch them in any way, it might trigger unwanted bugs.\n\n- New day new loop\nEvery day is a loop, giving you the freedom to spend your time and choose your activities as you see fit. Fancy a movie night or a gym session or maybe a duel? The Arcade has a spot for it all. However, keep in mind that slacking off won’t go unnoticed; not everyone appreciates a lack of enthusiasm.\n\n- Duel your way up\nClimb the leaderboard of The Arcade by engaging in spectacular boss battles where you can enhance your strategy with up to 50 ultimates and 60 abilities. Who knows, maybe one loop you’ll be one of those champions like the ones you see on the megascreens.\n\n- Keep yourself busy with activities\nThe Arcade is brimming with things to do, with new minigames around every corner of the city. No time will be wasted because even something as simple as playing dice with a cat can boost a useful stat.\n\n- Find. Your. Parents.\nIt won’t be easy in a world where everyone looks the same and real names are erased by decree. Mika must uncover leads and seek allies in a place where trust seems like a distant illusion. To reunite with her family, she’ll need to confront her deepest fears and doubts, pushing through a web of deception and uncertainty.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100748012BA8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100748012BA8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100748012BA8000/screen/1",
+    "http://api.nlib.cc/nx/0100748012BA8000/screen/2",
+    "http://api.nlib.cc/nx/0100748012BA8000/screen/3",
+    "http://api.nlib.cc/nx/0100748012BA8000/screen/4",
+    "http://api.nlib.cc/nx/0100748012BA8000/screen/5",
+    "http://api.nlib.cc/nx/0100748012BA8000/screen/6"
+  ]
+}

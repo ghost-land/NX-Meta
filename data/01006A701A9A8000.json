@@ -1,0 +1,16 @@
+{
+  "name": "EL COCO",
+  "publisher": "RECOTECHNOLOGY",
+  "releaseDate": "20251128",
+  "description": "EL COCO is a 3D action roguelike that plunges you into a world of dreams, broken memories, and living nightmares. Descend into The Uncertain, a place as strange as it is dangerous, and fight to recover what you’ve lost—if you can trust your guide.\n\n\nFACE YOUR NIGHTMARES\n\nYou awaken without memories, trapped in an impossible realm. A strange host:: El Coco, a disturbing figure who promises answers… but only if you dare to descend into the Pit and face horrors born from your own mind. With fast, fluid combat, every move counts. Dodge, strike, and adapt in real-time as relentless enemies swarm from all sides.\n\n\nDESCEND INTO THE HOLE\n\nEach escape attempt is unique. Face different levels that will test your skill and mettle. Hordes, darkness, time trials... The Hole shifts with every descent, offering new threats, obstacles, and choices. The deeper you go, the closer you get to the truth… and the more dangerous it becomes.\n\n\nHARNESS FORGOTTEN POWERS\n\nWield a variety of weapons, unlock PowerUps, and discover mysterious trinkets and relics with unique effects that transform your playstyle. Absorb the strength of mythical creatures and use their powers to your advantage. Combine abilities and bonuses to carve your own path to survival—or madness.\n\n\nEVERY DESCENT CHANGES YOU\n\nWith every run, you’ll uncover fragments of your past, new power combinations, and hidden secrets buried deep below. The choices you make shape your journey—and your fate. Can you remember who you are before you become what you fear most?\n\n\nMYTHICAL ALLIES AND NIGHTMARE BOSSES\n\nLegends walk beside you—though not always on your side. Creatures like Ratoncito Pérez, El Martinico, or La Xana may offer aid on your descent into the depths. But beware: the Meigas, twisted wardens of the Pit, will stop at nothing to shatter your body and mind.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006A701A9A8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006A701A9A8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006A701A9A8000/screen/1",
+    "http://api.nlib.cc/nx/01006A701A9A8000/screen/2",
+    "http://api.nlib.cc/nx/01006A701A9A8000/screen/3",
+    "http://api.nlib.cc/nx/01006A701A9A8000/screen/4",
+    "http://api.nlib.cc/nx/01006A701A9A8000/screen/5",
+    "http://api.nlib.cc/nx/01006A701A9A8000/screen/6"
+  ]
+}

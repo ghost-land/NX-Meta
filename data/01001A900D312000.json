@@ -1,0 +1,16 @@
+{
+  "name": "Another Sight",
+  "publisher": "Nacon",
+  "releaseDate": "20190628",
+  "description": "ANOTHER SIGHT is a surreal fantasy adventure with steampunk elements set in London in 1899, towards the end of the Victorian era. With an emphasis on culture and character, ANOTHER SIGHT focuses on the emotional development of the relationship between its two protagonists, Kit, a refreshingly intrepid teenager, and Hodge – a mysterious red-furred cat. They meet in the darkness of a London Underground construction site, after Kit loses her sight when the tunnel she had been exploring collapses. They team up for an adventure into the unexpected, with Hodge proving himself to be an indispensable companion, upon whom Kit will come to rely. \n\nKit and Hodge explore a surreal fantasy world, both together and separately, each using their own unique talents to make their way through compelling environments, and to solve intriguing puzzles.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001A900D312000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001A900D312000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001A900D312000/screen/1",
+    "http://api.nlib.cc/nx/01001A900D312000/screen/2",
+    "http://api.nlib.cc/nx/01001A900D312000/screen/3",
+    "http://api.nlib.cc/nx/01001A900D312000/screen/4",
+    "http://api.nlib.cc/nx/01001A900D312000/screen/5",
+    "http://api.nlib.cc/nx/01001A900D312000/screen/6"
+  ]
+}

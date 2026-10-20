@@ -1,0 +1,16 @@
+{
+  "name": "SOS OPS!",
+  "publisher": "Paybox",
+  "releaseDate": "20250123",
+  "description": "Your beloved town is in danger!\nStay alert 24/7 to keep the situation in the town under control. No fires or lost cats allowed.\n\nOk, you've received the emergency call.\nNo worries. Just start your engines and HURRY UP, YOU LAZY #*$%#@*&$#&*!\n\nYou can try to fight the fire.\nIt's not that simple, and sometimes it can be a little dangerous, but people believe in you.\n\nOr you can play football.\nYes, it's an emergency situation, but the ball seems so lonely here.\n\nThe cats are lonely too.\nGrab them and find them a suitable place to live.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BE601E974000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BE601E974000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BE601E974000/screen/1",
+    "http://api.nlib.cc/nx/0100BE601E974000/screen/2",
+    "http://api.nlib.cc/nx/0100BE601E974000/screen/3",
+    "http://api.nlib.cc/nx/0100BE601E974000/screen/4",
+    "http://api.nlib.cc/nx/0100BE601E974000/screen/5",
+    "http://api.nlib.cc/nx/0100BE601E974000/screen/6"
+  ]
+}

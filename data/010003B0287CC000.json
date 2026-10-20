@@ -1,0 +1,18 @@
+{
+  "name": "Dragon of Illusion",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20260627",
+  "description": "Face a variety of bosses, find secret keys, unlock powerful abilities, and gain access to areas that were once unreachable.\n\nOvercome challenging stages filled with hidden dangers and wild creatures!\n\nUnlock powerful hidden skills!\n\nEngage in intense battles against dangerous bosses determined to protect their territories!\n\nSurvive the dangers lurking across diverse stages, and restore order to the kingdom before everything is consumed by the dragon's power!",
+  "bannerUrl": "http://api.nlib.cc/nx/010003B0287CC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010003B0287CC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010003B0287CC000/screen/1",
+    "http://api.nlib.cc/nx/010003B0287CC000/screen/2",
+    "http://api.nlib.cc/nx/010003B0287CC000/screen/3",
+    "http://api.nlib.cc/nx/010003B0287CC000/screen/4",
+    "http://api.nlib.cc/nx/010003B0287CC000/screen/5",
+    "http://api.nlib.cc/nx/010003B0287CC000/screen/6"
+  ],
+  "version": 0,
+  "size": 155186344
+}

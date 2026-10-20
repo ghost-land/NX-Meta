@@ -1,0 +1,16 @@
+{
+  "name": "Nullum",
+  "publisher": "Silesia Games",
+  "releaseDate": "20201022",
+  "description": "The goal is to eliminate all tiles by creating matching numbers.\n\nRules: A tile can only be moved onto an adjacent tile. If they have the same number, both are eliminated; otherwise, they’re added together.\n\nMake the right sums and eliminations to clear the playfield and unlock the next challenge!\n\n- 40 handcrafted levels\n- Original music composed specially for this game.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EE5013198000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EE5013198000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EE5013198000/screen/1",
+    "http://api.nlib.cc/nx/0100EE5013198000/screen/2",
+    "http://api.nlib.cc/nx/0100EE5013198000/screen/3",
+    "http://api.nlib.cc/nx/0100EE5013198000/screen/4",
+    "http://api.nlib.cc/nx/0100EE5013198000/screen/5",
+    "http://api.nlib.cc/nx/0100EE5013198000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Memorrha",
+  "publisher": "StickyStoneStudio",
+  "releaseDate": "20230113",
+  "description": "Solve the mystery of sleeping machines and learn more about their creators. A diverse and open world full of thrilling puzzles and secrets awaits you.\n- Can you decipher the mechanisms of ancient technologies?\n- Will you learn the truth about those who came before you?\n- Will you find your destiny in this secretive world?\n\nGameplay Features:\n- Discover a stylized and lovingly designed environment\n- Solve 100s of tricky logic and combination puzzles\n- Interact with machines and portable objects\n- Catalog symbols and pictograms using your scanner\n- Relax and listen to the epic soundtrack",
+  "bannerUrl": "http://api.nlib.cc/nx/01002B60177FC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002B60177FC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002B60177FC000/screen/1",
+    "http://api.nlib.cc/nx/01002B60177FC000/screen/2",
+    "http://api.nlib.cc/nx/01002B60177FC000/screen/3",
+    "http://api.nlib.cc/nx/01002B60177FC000/screen/4",
+    "http://api.nlib.cc/nx/01002B60177FC000/screen/5",
+    "http://api.nlib.cc/nx/01002B60177FC000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Old Skies",
+  "publisher": "Wadjet Eye Games",
+  "releaseDate": "20250527",
+  "description": "Fia Quinn is a time traveler, accompanying clients of the ChronoZen Time Travel Agency on jumps to other eras to make sure they don’t rewrite important aspects of history. Some of these people are merely curious. Others have unresolved business. As long as they can pay for the trip, their motivations don’t matter to Fia… until they do.\n\nJump with Fia into seven time-travel cases spanning two centuries in New York City, from the speakeasies of Prohibition to the vicious gangs of the Gilded Age to the World Trade Center on September 10, 2001. Solve temporal problems, survive paradoxes, and resolve the mistakes of the past or die trying—as many times as it takes. \n\nWhat could go wrong? It’s only time travel, after all.",
+  "bannerUrl": "http://api.nlib.cc/nx/010039802274C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010039802274C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010039802274C000/screen/1",
+    "http://api.nlib.cc/nx/010039802274C000/screen/2",
+    "http://api.nlib.cc/nx/010039802274C000/screen/3",
+    "http://api.nlib.cc/nx/010039802274C000/screen/4",
+    "http://api.nlib.cc/nx/010039802274C000/screen/5",
+    "http://api.nlib.cc/nx/010039802274C000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Heroes Battle Awakening",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20260128",
+  "description": "Heroes Battle Awakening is a top-down tower defense tactics game that puts you in command of cyclops knights, minotaurs, skull-topped guard towers and more as you fend off invaders.\n\nCollect coins on the battlefield to pay for new units and deploy them strategically along the 5-lane grid. Some of your units will do ranged damage, others will focus on melee as the enemy closes in and certain units will specialize in producing more gold to deploy defenses faster.\n\nTake down waves successfully and progress through 4 uniquely-themed chapters, each with 10 levels to master. But watch out! As combat heats up, you’ll face hordes of skeleton soldiers, orcs, flying sorcerers and even greater menaces! Can you keep the kingdom safe?\n\n• Enjoy colorful and casual tower defense gameplay!\n• Strategically deploy a variety of unit types.\n• Command your own unique monsters.\n• Battle across 4 story chapters, each with 10 levels.\n• Collect coins during battle to purchase new units!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100578026294000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100578026294000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100578026294000/screen/1",
+    "http://api.nlib.cc/nx/0100578026294000/screen/2",
+    "http://api.nlib.cc/nx/0100578026294000/screen/3",
+    "http://api.nlib.cc/nx/0100578026294000/screen/4",
+    "http://api.nlib.cc/nx/0100578026294000/screen/5",
+    "http://api.nlib.cc/nx/0100578026294000/screen/6"
+  ]
+}

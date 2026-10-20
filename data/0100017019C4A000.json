@@ -1,0 +1,13 @@
+{
+  "name": "Rocket Knight Adventures: Re-Sparked",
+  "publisher": "KONAMI",
+  "releaseDate": "20240611",
+  "description": "Rocket Knight Adventures: Re-Sparked is an electrifying 3 game classic revival collection where players relive the nostalgic side scrolling experience by becoming Sparkster. The iconic opossum knight will battle an army of robots and pigs in order to save the princess. The key features of the game will be:\n    >3 games within the franchise are available\n            >Rocket Knight Adventures\n            >SPARKSTER Rocket Knight Adventures 2\n            >SPARKSTER\n   >2 new non-gameplay modes\n           >Museum\n           >Music Player\n   >Boss Rush (jump right to the boss fight immediately) \n   >Save game (progression) at any time\n   >Rewind feature",
+  "bannerUrl": "http://api.nlib.cc/nx/0100017019C4A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100017019C4A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100017019C4A000/screen/1",
+    "http://api.nlib.cc/nx/0100017019C4A000/screen/2",
+    "http://api.nlib.cc/nx/0100017019C4A000/screen/3"
+  ]
+}

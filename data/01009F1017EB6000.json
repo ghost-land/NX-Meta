@@ -1,0 +1,15 @@
+{
+  "name": "Super Mike: Classic Adventure Game",
+  "publisher": "T-Bull",
+  "releaseDate": "20220505",
+  "description": "Dive into an adventure in a diverse world full of dangers and beautiful landscapes. Defeat your opponents, collect valuable coins, and be precise during the crossing! Are you brave enough to go on such an unpredictable journey? \n\n- Epic Boss fights!\n- Breathtaking graphics!\n- Various levels full of challenges!\n- Amazing Adventure!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01009F1017EB6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009F1017EB6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009F1017EB6000/screen/1",
+    "http://api.nlib.cc/nx/01009F1017EB6000/screen/2",
+    "http://api.nlib.cc/nx/01009F1017EB6000/screen/3",
+    "http://api.nlib.cc/nx/01009F1017EB6000/screen/4",
+    "http://api.nlib.cc/nx/01009F1017EB6000/screen/5"
+  ]
+}

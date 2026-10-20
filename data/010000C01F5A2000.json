@@ -1,0 +1,16 @@
+{
+  "name": "Moorhuhn Kart 4",
+  "publisher": "TREVA",
+  "releaseDate": "20250313",
+  "description": "An all-new installment!\nLeap into your kart and jump into the fastest poultry race of all time. This ultimate championship title chase offers you a brand new racing experience,  with improved driving physics, revised cartoon graphics and head-over-wheels loops, alongside crossplay and online multiplayer too.\n\nFull speed, awesome action!\n•  Criss-cross and drive head-over-heels through the Crazy Chicken universe: discover 12 adventurous tracks with unique challenges and hidden shortcuts.\n• Configure your karts and use all kinds of tricks to gain the upper hand over your opponents! Choose from 12 new and revised items, such as the tried and tested 16 ton weight.\n• Compete against crazy chickens and other well-known characters to prove you're the fastest driver around. There's even a new character – Midnight, the friendly bat.\n• You against the clock, every millisecond counts in time trials! Chase your best time and fight your way into the worldwide online high score list – or break your own records offline and perfect every curve.\n• Now with cross-platform online multiplayer for up to 8 players, letting you connect with your friends, or find new rivals from the community.\n• Local multiplayer:  play with up to 4 players on a single screen and experience the racing spectacle together.\n• Single player and Grand Prix modes against AI opponents.",
+  "bannerUrl": "http://api.nlib.cc/nx/010000C01F5A2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010000C01F5A2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010000C01F5A2000/screen/1",
+    "http://api.nlib.cc/nx/010000C01F5A2000/screen/2",
+    "http://api.nlib.cc/nx/010000C01F5A2000/screen/3",
+    "http://api.nlib.cc/nx/010000C01F5A2000/screen/4",
+    "http://api.nlib.cc/nx/010000C01F5A2000/screen/5",
+    "http://api.nlib.cc/nx/010000C01F5A2000/screen/6"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Slinki",
+  "publisher": "NunoVicenteBarreto",
+  "releaseDate": "20210429",
+  "description": "Slinki is a hard-as-nails 2.5D action-platformer where your own prosthetic arm is the ultimate multipurpose weapon: Use it as a bladed boomerang to control the population of mutated critters, pull levers towards you to get through puzzles and zip-line across grappling surfaces. Furthermore, instead of having your weapon return to you, why not return to it instead with the power of Slinki's slingshot? All this to find out what happened to the once peaceful forest you used to live in.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A4A0129BC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A4A0129BC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A4A0129BC000/screen/1",
+    "http://api.nlib.cc/nx/0100A4A0129BC000/screen/2",
+    "http://api.nlib.cc/nx/0100A4A0129BC000/screen/3",
+    "http://api.nlib.cc/nx/0100A4A0129BC000/screen/4"
+  ]
+}

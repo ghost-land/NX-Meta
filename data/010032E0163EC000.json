@@ -1,0 +1,16 @@
+{
+  "name": "THE Table Game",
+  "publisher": "D3PUBLISHER",
+  "releaseDate": "20220217",
+  "description": "Includes rule explanations so even beginners can dive right in!\nRules and how-tos are included for each game. It's perfect for anyone, whether you’re a brand new player or a veteran that needs a brush up.\n\n　　　　　　　　　　　　　　　----Included games----\nTwo-player Mahjong・Four-player Mahjong・Othello・Go・Shogi・Tsume Shogi・Hanafuda Koikoi・Texas Hold 'em・Blackjack・Five Card Draw Poker・Chase・ Backgammon",
+  "bannerUrl": "http://api.nlib.cc/nx/010032E0163EC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010032E0163EC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010032E0163EC000/screen/1",
+    "http://api.nlib.cc/nx/010032E0163EC000/screen/2",
+    "http://api.nlib.cc/nx/010032E0163EC000/screen/3",
+    "http://api.nlib.cc/nx/010032E0163EC000/screen/4",
+    "http://api.nlib.cc/nx/010032E0163EC000/screen/5",
+    "http://api.nlib.cc/nx/010032E0163EC000/screen/6"
+  ]
+}

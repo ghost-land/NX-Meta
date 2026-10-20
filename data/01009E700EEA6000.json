@@ -1,0 +1,16 @@
+{
+  "name": "Collide-a-Ball 2",
+  "publisher": "STARSIGN",
+  "releaseDate": "20190725",
+  "description": "Roll the balls towards the goal.\nUse gimmicks and objects available in each stage to guide the balls to their goal!\n\nHowever, they have to reach the goal at the same time and crash into each other. \n\nTinker with different possibilities until you find the best route!\n\n■Free Play\nPlace gimmicks and objects to make 2 balls collide at the goal!\n\n■Single Ball\nUse objects to adjust ball speed so that it stops exactly at the goal! \n\n■Wait & Go!\nAdjust the ball start timing to  cause a collision at the goal! ",
+  "bannerUrl": "http://api.nlib.cc/nx/01009E700EEA6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009E700EEA6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009E700EEA6000/screen/1",
+    "http://api.nlib.cc/nx/01009E700EEA6000/screen/2",
+    "http://api.nlib.cc/nx/01009E700EEA6000/screen/3",
+    "http://api.nlib.cc/nx/01009E700EEA6000/screen/4",
+    "http://api.nlib.cc/nx/01009E700EEA6000/screen/5",
+    "http://api.nlib.cc/nx/01009E700EEA6000/screen/6"
+  ]
+}

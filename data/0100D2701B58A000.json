@@ -1,0 +1,16 @@
+{
+  "name": "PictoPull",
+  "publisher": "Sleepy Grove Games",
+  "releaseDate": "20231003",
+  "description": "Each puzzle in PictoPull is created from pixel art. Puzzles are simple to learn, but complex to master as you learn how to create new paths, bridge gaps and understand the connections between the special block types. As puzzles get larger and more detailed, you’ll discover new mechanics to keep the fun going!\n\n* 150 Story Levels spread across 10 unique environments, from beaches to futuristic laboratories, and even a construction site\n* Puzzles come in many shapes, some inspired by real-world objects, animals, monsters, locations and more\n* Work your way through puzzles with twists on the gameplay such as opposite blocks, union blocks and timer blocks\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D2701B58A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D2701B58A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D2701B58A000/screen/1",
+    "http://api.nlib.cc/nx/0100D2701B58A000/screen/2",
+    "http://api.nlib.cc/nx/0100D2701B58A000/screen/3",
+    "http://api.nlib.cc/nx/0100D2701B58A000/screen/4",
+    "http://api.nlib.cc/nx/0100D2701B58A000/screen/5",
+    "http://api.nlib.cc/nx/0100D2701B58A000/screen/6"
+  ]
+}

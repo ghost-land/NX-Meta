@@ -1,0 +1,14 @@
+{
+  "name": "Broken Pipe",
+  "publisher": "DillyFrame",
+  "releaseDate": "20220331",
+  "description": "All the stream tanks that manage gates and bridges in this world are now broken. Local robots are bound to the broken modules and cannot escape from this place. \n\nReturn missing modules to the pipe schemes to restore the stream. You will have to direct the color stream from one tank to another in order to make them work. When all the tanks work all the robots will be able to leave this world. \n\nFeatures: \n\n- 29 levels \n- open world to explore \n- collectibles\n- mini games",
+  "bannerUrl": "http://api.nlib.cc/nx/01002080172D0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002080172D0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002080172D0000/screen/1",
+    "http://api.nlib.cc/nx/01002080172D0000/screen/2",
+    "http://api.nlib.cc/nx/01002080172D0000/screen/3",
+    "http://api.nlib.cc/nx/01002080172D0000/screen/4"
+  ]
+}

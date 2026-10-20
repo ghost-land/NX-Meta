@@ -1,0 +1,15 @@
+{
+  "name": "Doubles Hard",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20200415",
+  "description": "Doubles Hard is a unique puzzle game taking place in a three-dimensional arena. The player's task is to collect diamonds while avoiding boulders falling from above and other elements. You also need to run from opponents, which makes difficult for the player to pass through the game stages. There are several different types of blocks in the game that make up the board.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100024011858000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100024011858000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100024011858000/screen/1",
+    "http://api.nlib.cc/nx/0100024011858000/screen/2",
+    "http://api.nlib.cc/nx/0100024011858000/screen/3",
+    "http://api.nlib.cc/nx/0100024011858000/screen/4",
+    "http://api.nlib.cc/nx/0100024011858000/screen/5"
+  ]
+}

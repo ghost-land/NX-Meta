@@ -1,0 +1,16 @@
+{
+  "name": "Johnny Rocket",
+  "publisher": "Restless Corp",
+  "releaseDate": "20201127",
+  "description": "In this game, your main goal is to help Johnny Rocket fight “Evil Forces.” To do that, you can run, jump, double jump, shoot enemies. Don’t forget about Johnny's secret movement - destroy obstacles or enemies with his head All levels are unique and have a big variety of enemies. Boss fights are tough. After each boss fight you get rewarded with a comic cartoon movie telling you more about Johnny's adventure. Game is hilarious and has a lot of toilet humour, don't forget to collect the paper!\n\nJohnny Rocket gameplay is made of action platforming, stylised as a free-hand black and white cartoon. Cartoon world feels alive and you can destroy buildings. You get to see a funny cartoon cut scene in between levels!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C030124E8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C030124E8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C030124E8000/screen/1",
+    "http://api.nlib.cc/nx/0100C030124E8000/screen/2",
+    "http://api.nlib.cc/nx/0100C030124E8000/screen/3",
+    "http://api.nlib.cc/nx/0100C030124E8000/screen/4",
+    "http://api.nlib.cc/nx/0100C030124E8000/screen/5",
+    "http://api.nlib.cc/nx/0100C030124E8000/screen/6"
+  ]
+}

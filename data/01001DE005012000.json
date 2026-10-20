@@ -1,0 +1,16 @@
+{
+  "name": "Quest of Dungeons",
+  "publisher": "Upfall Studios",
+  "releaseDate": "20170914",
+  "description": "Quest of Dungeons is a turn-based dungeon crawler game: a roguelike featuring a good old 16-bit, retro artistic look. \n\nAn evil Dark Lord has stolen all the light, so your mission is to enter his lair and defeat him. \n\nBy playing as either a Warrior, a Wizard, an Assassin or a Shaman, you have to traverse dungeons, defeat enemies and loot everything you can in order to survive. You can learn new skills in Tomes you find along the way and buy/sell items at shops. \n\nThe entire game is procedural so you won't find items/enemies in the same place each time you play. \n\nFeatures:\nProcedural dungeons \nProcedural weapons \nBoss encounters \nQuests \n4 Difficulty levels \nPermadeath - Once you die, game over man, game over! \nShop - buy and sell items/weapons \nLeaderboards - compare your Adventure points with the community",
+  "bannerUrl": "http://api.nlib.cc/nx/01001DE005012000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001DE005012000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001DE005012000/screen/1",
+    "http://api.nlib.cc/nx/01001DE005012000/screen/2",
+    "http://api.nlib.cc/nx/01001DE005012000/screen/3",
+    "http://api.nlib.cc/nx/01001DE005012000/screen/4",
+    "http://api.nlib.cc/nx/01001DE005012000/screen/5",
+    "http://api.nlib.cc/nx/01001DE005012000/screen/6"
+  ]
+}

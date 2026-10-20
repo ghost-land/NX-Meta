@@ -1,0 +1,16 @@
+{
+  "name": "Double Pug Switch",
+  "publisher": "Apriori Digital",
+  "releaseDate": "20201022",
+  "description": "Take control of the Pug Otis, the loyal companion of the Professor! After an accident in the Professor’s lab involving the mischievous cat Whiskers and some Portal Fluids, Otis and Whiskers are sucked into an alternate dimension.\n\nChallenge yourself with side-scrolling alternative dimension switching mania requiring lightning quick reflexes to jump, hop, and dimension swap your way to victory.\n\nHop, dimension swap and navigate your way through unique dimensions to chase down Whiskers and save him from his evil wrongdoings!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A5D00C7C0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A5D00C7C0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A5D00C7C0000/screen/1",
+    "http://api.nlib.cc/nx/0100A5D00C7C0000/screen/2",
+    "http://api.nlib.cc/nx/0100A5D00C7C0000/screen/3",
+    "http://api.nlib.cc/nx/0100A5D00C7C0000/screen/4",
+    "http://api.nlib.cc/nx/0100A5D00C7C0000/screen/5",
+    "http://api.nlib.cc/nx/0100A5D00C7C0000/screen/6"
+  ]
+}

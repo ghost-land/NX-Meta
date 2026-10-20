@@ -1,0 +1,16 @@
+{
+  "name": "Baron of Blood",
+  "publisher": "Castle Village Games",
+  "releaseDate": "20240315",
+  "description": "Immerse yourself in an epic 2D pixelart adventure! You were once a powerful baron, but a dark mage accused you of treason and banished you into exile. \n\nNow it’s time to change your fate! Fight your way back, defeat the sinister mage, and save the king.\n\nA vast world full of discoveries awaits you! Explore 24 different levels across five unique worlds, each presenting exciting challenges. From endless desert landscapes and dense forests to majestic mountains and mysterious castles – experience breathtaking locations and embrace every adventure.\n\nCollect coins to purchase powerful items from merchants. Hidden diamonds and various achievements will keep you engaged even after you've completed the game.",
+  "bannerUrl": "http://api.nlib.cc/nx/010093F01DF44000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010093F01DF44000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010093F01DF44000/screen/1",
+    "http://api.nlib.cc/nx/010093F01DF44000/screen/2",
+    "http://api.nlib.cc/nx/010093F01DF44000/screen/3",
+    "http://api.nlib.cc/nx/010093F01DF44000/screen/4",
+    "http://api.nlib.cc/nx/010093F01DF44000/screen/5",
+    "http://api.nlib.cc/nx/010093F01DF44000/screen/6"
+  ]
+}

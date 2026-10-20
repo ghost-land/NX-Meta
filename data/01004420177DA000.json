@@ -1,0 +1,16 @@
+{
+  "name": "Tales of the Neon Sea",
+  "publisher": "Thermite Games",
+  "releaseDate": "20230420",
+  "description": "Tales of the Neon Sea is a retro-style pixel-art adventure, set in a fully-realized cyberpunk cityscape where you will encounter innumerous items to investigate, curious easter eggs, and a whole cast of interactive NPCs. You must analyze every detail, and discover the truth that lurks behind the heavy mist…",
+  "bannerUrl": "http://api.nlib.cc/nx/01004420177DA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004420177DA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004420177DA000/screen/1",
+    "http://api.nlib.cc/nx/01004420177DA000/screen/2",
+    "http://api.nlib.cc/nx/01004420177DA000/screen/3",
+    "http://api.nlib.cc/nx/01004420177DA000/screen/4",
+    "http://api.nlib.cc/nx/01004420177DA000/screen/5",
+    "http://api.nlib.cc/nx/01004420177DA000/screen/6"
+  ]
+}

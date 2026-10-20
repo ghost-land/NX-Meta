@@ -1,0 +1,14 @@
+{
+  "name": "Panda Jump",
+  "publisher": "Digital Game Group",
+  "releaseDate": "20200904",
+  "description": "Jump your Panda through never ending challenging levels. Collect Coins as you jump higher to collect powerups and cute Panda characters. Jump on bad guys or just avoid them as you get as high as possible. Fun for the whole family!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C47012D86000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C47012D86000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C47012D86000/screen/1",
+    "http://api.nlib.cc/nx/0100C47012D86000/screen/2",
+    "http://api.nlib.cc/nx/0100C47012D86000/screen/3",
+    "http://api.nlib.cc/nx/0100C47012D86000/screen/4"
+  ]
+}

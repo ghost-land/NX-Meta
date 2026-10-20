@@ -1,0 +1,16 @@
+{
+  "name": "Composer World",
+  "publisher": "FSO Publishing",
+  "releaseDate": "20231025",
+  "description": "Composer World is the newest installment of the Composer series. Write music and share it with the world! You'll have access to hundreds of instruments and unique soundsets that allow you to write orchestral, dance, pop, hip-hop, metal, and even music that sounds like it came out of a retro gaming console.\n\nYou can now share your songs online. earn XP and level up by listening to songs or by having others listen to yours. As you level up you'll earn new avatar clothing and accessories - as well as boosts which can be applied to your songs to make them appear in radio station playlists more frequently.",
+  "bannerUrl": "http://api.nlib.cc/nx/010037C01C27E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010037C01C27E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010037C01C27E000/screen/1",
+    "http://api.nlib.cc/nx/010037C01C27E000/screen/2",
+    "http://api.nlib.cc/nx/010037C01C27E000/screen/3",
+    "http://api.nlib.cc/nx/010037C01C27E000/screen/4",
+    "http://api.nlib.cc/nx/010037C01C27E000/screen/5",
+    "http://api.nlib.cc/nx/010037C01C27E000/screen/6"
+  ]
+}

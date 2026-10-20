@@ -1,0 +1,16 @@
+{
+  "name": "Fortnite",
+  "publisher": "Epic Games",
+  "releaseDate": "20180612",
+  "description": "Play Fortnite your way. \n\nBe the last player standing in Battle Royale, Zero Build, Reload, and Fortnite OG, explore LEGO Fortnite experiences, blast to the finish with Rocket Racing or headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator community and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!",
+  "bannerUrl": "http://api.nlib.cc/nx/010025400AECE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010025400AECE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010025400AECE000/screen/1",
+    "http://api.nlib.cc/nx/010025400AECE000/screen/2",
+    "http://api.nlib.cc/nx/010025400AECE000/screen/3",
+    "http://api.nlib.cc/nx/010025400AECE000/screen/4",
+    "http://api.nlib.cc/nx/010025400AECE000/screen/5",
+    "http://api.nlib.cc/nx/010025400AECE000/screen/6"
+  ]
+}

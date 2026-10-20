@@ -1,0 +1,16 @@
+{
+  "name": "Pikmin™ 1",
+  "publisher": "Nintendo",
+  "releaseDate": "20230621",
+  "description": "Meet Captain Olimar and a capable cast of red, blue, and yellow Pikmin on a dire mission across a larger-than-life planet. Olimar must guide his loveably-leafy companions through obstacles, in battle, and when collecting his missing ship parts.\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AA80194B0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AA80194B0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AA80194B0000/screen/1",
+    "http://api.nlib.cc/nx/0100AA80194B0000/screen/2",
+    "http://api.nlib.cc/nx/0100AA80194B0000/screen/3",
+    "http://api.nlib.cc/nx/0100AA80194B0000/screen/4",
+    "http://api.nlib.cc/nx/0100AA80194B0000/screen/5",
+    "http://api.nlib.cc/nx/0100AA80194B0000/screen/6"
+  ]
+}

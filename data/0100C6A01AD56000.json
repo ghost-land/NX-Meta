@@ -1,0 +1,16 @@
+{
+  "name": "Bloo Kid",
+  "publisher": "winterworks",
+  "releaseDate": "20230609",
+  "description": "Jump and run your way through 96 action-packed levels spread across EIGHT unique worlds.\n\nClear a level without getting hit to receive the \"flawless\" star.\nGrab the star at the end of a level to receive the \"special\" star.\nCollect as many stars as possible to unlock all achievements.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C6A01AD56000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C6A01AD56000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C6A01AD56000/screen/1",
+    "http://api.nlib.cc/nx/0100C6A01AD56000/screen/2",
+    "http://api.nlib.cc/nx/0100C6A01AD56000/screen/3",
+    "http://api.nlib.cc/nx/0100C6A01AD56000/screen/4",
+    "http://api.nlib.cc/nx/0100C6A01AD56000/screen/5",
+    "http://api.nlib.cc/nx/0100C6A01AD56000/screen/6"
+  ]
+}

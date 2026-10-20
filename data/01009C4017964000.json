@@ -1,0 +1,16 @@
+{
+  "name": "Solitaire Collection",
+  "publisher": "SUCCESS",
+  "releaseDate": "20220721",
+  "description": "Variety Solitaire 3in1 included classic Klondike, Freecell and variant Eight-off.\n\n1000 levels included in each game!\n\n-Klondike 1000!\nThe well known classic Solitaire.\nBuilding four complete columns of spades, clubs, diamond and hearts running from A up to K on home cells.\n\n-Freecell 1000!\nBuilding columns with using free cells.\n\n-Eight-off 1000!\nBuilding columns in different rule of classic Freecell.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009C4017964000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009C4017964000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009C4017964000/screen/1",
+    "http://api.nlib.cc/nx/01009C4017964000/screen/2",
+    "http://api.nlib.cc/nx/01009C4017964000/screen/3",
+    "http://api.nlib.cc/nx/01009C4017964000/screen/4",
+    "http://api.nlib.cc/nx/01009C4017964000/screen/5",
+    "http://api.nlib.cc/nx/01009C4017964000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Gradiently",
+  "publisher": "Hook Games",
+  "releaseDate": "20210122",
+  "description": "Gradiently - casual color puzzle game for everyone. \nReorder tiles in a way they will form perfect gradient.\n\n- 400 beautiful hand-tuned gradients\n- Minimal art style\n- Full touch screen support\n- Relaxing soundtrack\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01001F3013F6C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001F3013F6C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001F3013F6C000/screen/1",
+    "http://api.nlib.cc/nx/01001F3013F6C000/screen/2",
+    "http://api.nlib.cc/nx/01001F3013F6C000/screen/3",
+    "http://api.nlib.cc/nx/01001F3013F6C000/screen/4",
+    "http://api.nlib.cc/nx/01001F3013F6C000/screen/5",
+    "http://api.nlib.cc/nx/01001F3013F6C000/screen/6"
+  ]
+}

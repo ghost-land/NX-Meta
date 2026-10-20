@@ -1,0 +1,16 @@
+{
+  "name": "Minepull",
+  "publisher": "Erik Games",
+  "releaseDate": "20220103",
+  "description": "More than just a puzzle game. Minepull highlights the fun part of puzzle-solving and brain teasers.\n\nSingle Player Mode: Do you like solving puzzles while calculating your next move? Minepull gives you the perfect opportunity to taste that experience.\n\nLocal Multiplayer Mode: Who does not like to challenge their friends and family on puzzle solving skills? With Local Multiplayer Mode you can challenge your friends and family with 2 different difficulty settings.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010009701702A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010009701702A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010009701702A000/screen/1",
+    "http://api.nlib.cc/nx/010009701702A000/screen/2",
+    "http://api.nlib.cc/nx/010009701702A000/screen/3",
+    "http://api.nlib.cc/nx/010009701702A000/screen/4",
+    "http://api.nlib.cc/nx/010009701702A000/screen/5",
+    "http://api.nlib.cc/nx/010009701702A000/screen/6"
+  ]
+}

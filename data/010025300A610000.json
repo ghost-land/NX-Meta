@@ -1,0 +1,16 @@
+{
+  "name": "Car Mechanic Pinball",
+  "publisher": "SONKA",
+  "releaseDate": "20220923",
+  "description": "Welcome to Car Mechanic Pinball – repair and pimp up cars for your clients! The more money you earn by flipping cars, the more you can invest back in your workshop to improve it. All of that nicely packed as an old school arcade pinball game with a voxel look and feel!\n\nCollect fuel, and once your tank is filled, enjoy drifting around trees to open the stores. Visit the stores to buy tools. You’ll need them to pimp your cars in workshops!\n\nKey features:\n- Fast paced arcade gameplay,\n- Easy to grasp pinball basics with workshop management mechanics,\n- Earn money to improve your workshop for car upgrades,\n- Tons of cars to flip,\n- Hit the mechanics to fix cars,\n- Visit chassis, wheels, body, and engine workshops, and upgrade relevant car elements,\n- Fuel up and drift around!",
+  "bannerUrl": "http://api.nlib.cc/nx/010025300A610000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010025300A610000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010025300A610000/screen/1",
+    "http://api.nlib.cc/nx/010025300A610000/screen/2",
+    "http://api.nlib.cc/nx/010025300A610000/screen/3",
+    "http://api.nlib.cc/nx/010025300A610000/screen/4",
+    "http://api.nlib.cc/nx/010025300A610000/screen/5",
+    "http://api.nlib.cc/nx/010025300A610000/screen/6"
+  ]
+}

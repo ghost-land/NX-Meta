@@ -1,0 +1,16 @@
+{
+  "name": "MONOPOLY 2024",
+  "publisher": "Ubisoft",
+  "releaseDate": "20240926",
+  "description": "MONOPOLY® is back with a fresh look and an improved game experience. Buy, sell, trade properties, and grow your empire in this faithful adaptation of the game we all grew up with! Roll the dice, start the game, and dive in to explore an exciting, fully animated 3D city. \n\nA BOARD THAT COMES TO LIFE\n- With next-gen graphics quality and a detailed 3D city, MONOPOLY brings the classic franchise to a new level.\n- Move around the board to explore the city and its different neighborhoods, or spy on your opponents before your next move.\n- With a day/night and weather cycle, admire the city as it transforms from sunny mornings to stormy nights.\n\nA TABLETOP FEEL\n- Feel the essence of tabletop gaming in every move as you buy, sell, trade, and scheme your way to riches.\n- You can now manipulate your token, moving it around and making jumps. Want revenge for your bankruptcy? Knock out the guilty one’s tokens! You end up in jail? Flip the whole board! \n\nA FAMILY GAME NIGHT STAPLE\n- Play with up to six players in your living room or take the matches online* to compete against other property moguls from around the world. MONOPOLY also supports cross-play!\n- Choose to play with one controller for all or just one per player!\n- Customize your dice set and discover your favorite tokens in a new light.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002C201BC40000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002C201BC40000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002C201BC40000/screen/1",
+    "http://api.nlib.cc/nx/01002C201BC40000/screen/2",
+    "http://api.nlib.cc/nx/01002C201BC40000/screen/3",
+    "http://api.nlib.cc/nx/01002C201BC40000/screen/4",
+    "http://api.nlib.cc/nx/01002C201BC40000/screen/5",
+    "http://api.nlib.cc/nx/01002C201BC40000/screen/6"
+  ]
+}

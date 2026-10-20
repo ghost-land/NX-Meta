@@ -1,0 +1,16 @@
+{
+  "name": "Dungeon Stars",
+  "publisher": "Dungeon Stars",
+  "releaseDate": "20190215",
+  "description": "Delve deep into hundreds of dungeon levels to liberate your fellow heroes, rescue pets, gather gold, pilfer potions and discover magical loot. The goblin hordes will try to stop you. Fearsome creatures will try to eat you. Prepare yourself to face the ever-changing challenges of the star portals. With grit and determination, you may create a team of amazing adventurers with enough guts and glory to destroy the Conqueror Worm!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E79009A94000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E79009A94000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E79009A94000/screen/1",
+    "http://api.nlib.cc/nx/0100E79009A94000/screen/2",
+    "http://api.nlib.cc/nx/0100E79009A94000/screen/3",
+    "http://api.nlib.cc/nx/0100E79009A94000/screen/4",
+    "http://api.nlib.cc/nx/0100E79009A94000/screen/5",
+    "http://api.nlib.cc/nx/0100E79009A94000/screen/6"
+  ]
+}

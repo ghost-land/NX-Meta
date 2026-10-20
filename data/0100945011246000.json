@@ -1,0 +1,16 @@
+{
+  "name": "Ski Sniper",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20200228",
+  "description": "- Discover all the sniper weapons including a crossbow!\n- Complete objectives to get special rewards.\n- Watch Your perfect shot trajectory from the special bullet-camera perspective.\n- Admire bullet damage in the X-Ray mode.\n- Choose Your perfect sniping spot.\n- Become the best Ski Sniper around the world.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100945011246000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100945011246000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100945011246000/screen/1",
+    "http://api.nlib.cc/nx/0100945011246000/screen/2",
+    "http://api.nlib.cc/nx/0100945011246000/screen/3",
+    "http://api.nlib.cc/nx/0100945011246000/screen/4",
+    "http://api.nlib.cc/nx/0100945011246000/screen/5",
+    "http://api.nlib.cc/nx/0100945011246000/screen/6"
+  ]
+}

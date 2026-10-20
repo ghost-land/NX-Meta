@@ -1,0 +1,16 @@
+{
+  "name": "Witch of the Meta Loop",
+  "publisher": "Happy Player",
+  "releaseDate": "20250213",
+  "description": "+ Explore the entire island with your trusted companions, crossing golden wheat fields and snowy plains, visiting the library, and climbing the magical tower.\n+ Choose from hundreds of abilities to build your unique playstyle!\n+ Join the island's charming inhabitants to uncover the secrets of the isolated land and reveal the truth behind the Demon King!",
+  "bannerUrl": "http://api.nlib.cc/nx/01008DE01F886000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008DE01F886000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008DE01F886000/screen/1",
+    "http://api.nlib.cc/nx/01008DE01F886000/screen/2",
+    "http://api.nlib.cc/nx/01008DE01F886000/screen/3",
+    "http://api.nlib.cc/nx/01008DE01F886000/screen/4",
+    "http://api.nlib.cc/nx/01008DE01F886000/screen/5",
+    "http://api.nlib.cc/nx/01008DE01F886000/screen/6"
+  ]
+}

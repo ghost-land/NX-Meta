@@ -1,0 +1,16 @@
+{
+  "name": "Animal Hospital",
+  "publisher": "Nacon",
+  "releaseDate": "20231019",
+  "description": "Manage a veterinary hospital and take care of your adorable patients in this video game for animal lovers!\n\n- Decorate and customise your own animal care facility \n- Take in and examine animals from around the world: cats, dogs, pandas, foxes, koalas… and even magical creatures like unicorns!\n- Play mini-games to make the best diagnosis and give your patients the best care\n- Look after their well-being while they recover by giving them treatment, food, water and lots of affection \n- Develop your hospital and unlock new equipment so you can treat a wider range of illnesses \n- Find out how much fun being a veterinarian can be!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F7501A382000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F7501A382000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F7501A382000/screen/1",
+    "http://api.nlib.cc/nx/0100F7501A382000/screen/2",
+    "http://api.nlib.cc/nx/0100F7501A382000/screen/3",
+    "http://api.nlib.cc/nx/0100F7501A382000/screen/4",
+    "http://api.nlib.cc/nx/0100F7501A382000/screen/5",
+    "http://api.nlib.cc/nx/0100F7501A382000/screen/6"
+  ]
+}

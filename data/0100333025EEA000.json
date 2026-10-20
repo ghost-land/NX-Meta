@@ -1,0 +1,16 @@
+{
+  "name": "Formula Uno Racing",
+  "publisher": "Pix Arts",
+  "releaseDate": "20251128",
+  "description": "Get ready to ignite your engines in Formula Uno Racing — a thrilling single-player experience that captures the intensity of professional Formula Car racing.\n\nRace across a global lineup of high-speed circuits that evolve with the time of day. Tackle sharp turns under the morning sun, chase victory through glowing dusk, and dominate the track beneath dazzling night lights.\n\nProgress through your racing career by unlocking new circuits and earning cash rewards to purchase faster, more powerful cars. Every victory brings you closer to mastering the ultimate racing machine.\n\n\nFeatures:\n-Authentic Formula Car physics and responsive controls\n-Dynamic time-of-day environments: sunny, dawn, and night\n-Career progression with unlockable circuits and new car purchases\n-Deep vehicle tuning and setup options\n\nFormula Uno Racing — One driver. One dream. Endless speed.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100333025EEA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100333025EEA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100333025EEA000/screen/1",
+    "http://api.nlib.cc/nx/0100333025EEA000/screen/2",
+    "http://api.nlib.cc/nx/0100333025EEA000/screen/3",
+    "http://api.nlib.cc/nx/0100333025EEA000/screen/4",
+    "http://api.nlib.cc/nx/0100333025EEA000/screen/5",
+    "http://api.nlib.cc/nx/0100333025EEA000/screen/6"
+  ]
+}

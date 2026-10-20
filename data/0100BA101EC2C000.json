@@ -1,0 +1,15 @@
+{
+  "name": "Sticky Hands",
+  "publisher": "Entity3",
+  "releaseDate": "20240601",
+  "description": "With very stretchy arms and some sticky hands you must navigate your way to the boxing ring\n\nBe fast to move with your sticky hands before the become unstuck\n\nStake part in a boxing match at the end of each stage! then prepare to take on the boss!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BA101EC2C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BA101EC2C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BA101EC2C000/screen/1",
+    "http://api.nlib.cc/nx/0100BA101EC2C000/screen/2",
+    "http://api.nlib.cc/nx/0100BA101EC2C000/screen/3",
+    "http://api.nlib.cc/nx/0100BA101EC2C000/screen/4",
+    "http://api.nlib.cc/nx/0100BA101EC2C000/screen/5"
+  ]
+}

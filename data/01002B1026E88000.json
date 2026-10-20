@@ -1,0 +1,18 @@
+{
+  "name": "NO-SKIN",
+  "publisher": "Feardemic",
+  "releaseDate": "20260319",
+  "description": "Face the horrors lurking around the house and discover who the No-Skin Man truly is. \nWhat started as a normal night with your friends quickly turned into something far more twisted. Fight, talk, trade and pray for one more turn as you delve deeper into each room, trying to survive this madness.\n\nFEATURES:\n▪ UNIQUE ART STYLE - hand-drawn pixel art characters and items meet photographic backgrounds, giving the game a distinctive look,\n▪ HIGH REPLAYABILITY - choose from different characters, unlock new content between runs and experience unique outcomes with each playthrough,\n▪ YOUR PROGRESS MATTERS - collect lunar fragments to buy permanent upgrades that carry over between runs,\nHORROR ATMOSPHERE - immerse yourself in the game's unsettling, surreal world, where every corner hides something uncanny,\n▪ CAN YOU DISCOVER THE TRUTH? - talk with your friends and piece together fragments of the story hidden within the conversations.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002B1026E88000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002B1026E88000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002B1026E88000/screen/1",
+    "http://api.nlib.cc/nx/01002B1026E88000/screen/2",
+    "http://api.nlib.cc/nx/01002B1026E88000/screen/3",
+    "http://api.nlib.cc/nx/01002B1026E88000/screen/4",
+    "http://api.nlib.cc/nx/01002B1026E88000/screen/5",
+    "http://api.nlib.cc/nx/01002B1026E88000/screen/6"
+  ],
+  "version": 0,
+  "size": 89766209
+}

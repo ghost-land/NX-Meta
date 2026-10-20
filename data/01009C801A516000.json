@@ -1,0 +1,13 @@
+{
+  "name": "Isolated",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20240106",
+  "description": "\nStranded on a tiny island, your mission is to conquer each day until you can make it back home. Take charge of your character's hunger, life, and sleep, all while fishing, resting, and cooking. But watch out for a thrilling marine danger that adds an extra layer of excitement to this mortal adventure!",
+  "bannerUrl": "http://api.nlib.cc/nx/01009C801A516000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009C801A516000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009C801A516000/screen/1",
+    "http://api.nlib.cc/nx/01009C801A516000/screen/2",
+    "http://api.nlib.cc/nx/01009C801A516000/screen/3"
+  ]
+}

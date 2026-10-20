@@ -1,0 +1,16 @@
+{
+  "name": "Eagle Island Twist",
+  "publisher": "Screenwave Media",
+  "releaseDate": "20190711",
+  "description": "The award-winning Eagle Island is a roguelite action-platformer that offers a unique blend of falconry-inspired combat mechanics, procedurally generated levels, and challenging boss fights. Players can choose between the narrative-driven story or speed-runner-like rogue mode, mixing and matching 85 abilities to diversify their gameplay.\n\nOVER 85 ABILITIES & PROCEDURALLY-GENERATED LEVELS IN CLASSIC MODE\n\"Throw\" your owl companion into battle imbued with special abilities! Explore procedurally-generated worlds, set to a beautifully modernized pixel art aesthetic. Levels are also packed with secrets and areas to explore.\n\nEXPLORE MORE IN HANDCRAFTED TWIST MODE\nIn Eagle Island TWIST, you'll experience 45 carefully crafted, retro-themed stages that can be traversed on a 16-bit era world map. TWIST offers even more content to an already well-rounded game, providing a range of mini-games to supplement Classic Mode's roguelite feel.\n\nLOADED WITH ACCESSIBILITY FEATURES\nThere are over 18 accessibility settings that can be easily enabled--Such as: remappable controls, difficulty options, text visibility, high contrast, and toggles for flashing and screen shaking.",
+  "bannerUrl": "http://api.nlib.cc/nx/010037400C7DA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010037400C7DA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010037400C7DA000/screen/1",
+    "http://api.nlib.cc/nx/010037400C7DA000/screen/2",
+    "http://api.nlib.cc/nx/010037400C7DA000/screen/3",
+    "http://api.nlib.cc/nx/010037400C7DA000/screen/4",
+    "http://api.nlib.cc/nx/010037400C7DA000/screen/5",
+    "http://api.nlib.cc/nx/010037400C7DA000/screen/6"
+  ]
+}

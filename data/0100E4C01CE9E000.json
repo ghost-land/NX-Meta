@@ -1,0 +1,16 @@
+{
+  "name": "Wall World",
+  "publisher": "UniqueGames",
+  "releaseDate": "20231130",
+  "description": "Welcome to the Wall World, a mining rogue-lite with tower defense elements. Explore procedurally generated mines and discover fantastical biomes. Find resources and technologies for purchasing valuable upgrades. Fight off hordes of aggressive monsters using your mobile base. Roam the Wall freely day and night, in various weather conditions. Find traces of \"the others\" and boldly mine where no man has mined before.\n\nMine: Burrow deep into the Wall in different places. Look for resources and technologies for upgrades, discover new biomes in the mines — but don't forget to return to your robospider in time for the next monster attack.\n\nFight: Shoot and hack at the nightmarish creatures with a variety of weapons, from simple machine guns to homing missiles. Increase your chances of survival by breaking camp instantly and continuing the fight on the go.\n\nUpgrade: Modernize your exosuit with resources and technologies you find to move faster in mines and break through ever harder rocks. Upgrade your robospider's combat stats to deal with the increasingly dangerous enemies that await you on the endless Wall.\n\nBuild: Build automatic turrets, repair stations and resource harvesters and upgrade buildings to maximize your chances of success. But first you'll have to find the blueprints in the depths of the Wall.\n\nExplore: Discover mysterious locations and fantastic biomes. See how the Wall World changes as you move deeper along it, day and night.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E4C01CE9E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E4C01CE9E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E4C01CE9E000/screen/1",
+    "http://api.nlib.cc/nx/0100E4C01CE9E000/screen/2",
+    "http://api.nlib.cc/nx/0100E4C01CE9E000/screen/3",
+    "http://api.nlib.cc/nx/0100E4C01CE9E000/screen/4",
+    "http://api.nlib.cc/nx/0100E4C01CE9E000/screen/5",
+    "http://api.nlib.cc/nx/0100E4C01CE9E000/screen/6"
+  ]
+}

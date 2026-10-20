@@ -1,0 +1,16 @@
+{
+  "name": "Angel Symphony",
+  "publisher": "HUNTERS",
+  "releaseDate": "20230608",
+  "description": "Angel Symphony is a 2D shooting game.\nFight off demons that have taken on various objects such as hamburgers and the Statue of Liberty with your angel's bow.\nIf you place mini-angels that support your attacks, your firepower will increase, and if you defeat the bosses, your angel's abilities will also increase.\nCharacters based on motifs from various countries such as the U.S., Japan, and China appear in the game.\nConquer a variety of stages with famous classics and nursery rhymes.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C1F01B768000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C1F01B768000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C1F01B768000/screen/1",
+    "http://api.nlib.cc/nx/0100C1F01B768000/screen/2",
+    "http://api.nlib.cc/nx/0100C1F01B768000/screen/3",
+    "http://api.nlib.cc/nx/0100C1F01B768000/screen/4",
+    "http://api.nlib.cc/nx/0100C1F01B768000/screen/5",
+    "http://api.nlib.cc/nx/0100C1F01B768000/screen/6"
+  ]
+}

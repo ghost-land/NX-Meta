@@ -1,0 +1,16 @@
+{
+  "name": "METAL GEAR SOLID",
+  "publisher": "KONAMI",
+  "releaseDate": "20231024",
+  "description": "Released in 1998, this was the first 3D title in the METAL GEAR series. The game pioneers 3D stealth action against the threat of war and global nuclear weapons, using live action footage, cinematic cut scenes, interwoven with innovative gameplay. \nThe storyline, a whirlwind of intrigue and betrayal, has been hailed as the greatest story of the 20th century and was the third title in the METAL GEAR series to become a hit in subsequent years.",
+  "bannerUrl": "http://api.nlib.cc/nx/010033301A9C0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010033301A9C0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010033301A9C0000/screen/1",
+    "http://api.nlib.cc/nx/010033301A9C0000/screen/2",
+    "http://api.nlib.cc/nx/010033301A9C0000/screen/3",
+    "http://api.nlib.cc/nx/010033301A9C0000/screen/4",
+    "http://api.nlib.cc/nx/010033301A9C0000/screen/5",
+    "http://api.nlib.cc/nx/010033301A9C0000/screen/6"
+  ]
+}

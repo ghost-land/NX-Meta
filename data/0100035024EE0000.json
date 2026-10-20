@@ -1,0 +1,18 @@
+{
+  "name": "The Artifactory",
+  "publisher": "Berries Studios",
+  "releaseDate": "20260625",
+  "description": "Welcome to The Artifactory, a fast-paced couch co-op party game where teamwork, creativity, and a little factory chaos keep the production line moving.\n\nWork together with up to four players to gather materials, craft items, and assemble loot boxes before the delivery trucks leave. Pass ingredients along conveyor belts, organize the production line, and keep the factory running smoothly.\n\nBut crafting isn’t just about following recipes. Experiment with different raw materials to discover new item combinations and unlock new ways to produce goods. The more you explore, the more efficient your factory can become.\n\nEach level introduces new challenges — moving platforms, tricky conveyor layouts, and unpredictable obstacles that will test your coordination and communication.\n\nWhether you are playing with friends, family, or going solo, every shift at the factory turns into a hilarious cooperative challenge where timing, teamwork, and quick thinking make all the difference.\n\nCan your team master the machines and keep the deliveries on schedule?\n\nKey Features\nLocal couch co-op for up to 4 players\nExperiment with materials to discover new crafting recipes\nBuild and manage chaotic production lines\nCreative factory environments with unique mechanics\nFast, cooperative party gameplay\nPerfect for family game nights and multiplayer sessions",
+  "bannerUrl": "http://api.nlib.cc/nx/0100035024EE0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100035024EE0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100035024EE0000/screen/1",
+    "http://api.nlib.cc/nx/0100035024EE0000/screen/2",
+    "http://api.nlib.cc/nx/0100035024EE0000/screen/3",
+    "http://api.nlib.cc/nx/0100035024EE0000/screen/4",
+    "http://api.nlib.cc/nx/0100035024EE0000/screen/5",
+    "http://api.nlib.cc/nx/0100035024EE0000/screen/6"
+  ],
+  "version": 0,
+  "size": 867230406
+}

@@ -1,0 +1,16 @@
+{
+  "name": "APICO",
+  "publisher": "Whitethorn Games",
+  "releaseDate": "20220707",
+  "description": "APICO is a laid-back beekeeping sim game about breeding, collecting, & conserving bees! \nLeave your boring city job behind to return to your family home in Port APICO and get back to your beekeeping roots.\n\nSet in a series of lush environments, APICO uniquely combines resource gathering, biology, and beekeeping minigames, taking ideas from a mix of real-life and fantasy apiculture & floriculture. \n\nOn your journey you'll rediscover lost species, cross-breed new bees, and help repopulate the islands.",
+  "bannerUrl": "http://api.nlib.cc/nx/01008DE0154D8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008DE0154D8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008DE0154D8000/screen/1",
+    "http://api.nlib.cc/nx/01008DE0154D8000/screen/2",
+    "http://api.nlib.cc/nx/01008DE0154D8000/screen/3",
+    "http://api.nlib.cc/nx/01008DE0154D8000/screen/4",
+    "http://api.nlib.cc/nx/01008DE0154D8000/screen/5",
+    "http://api.nlib.cc/nx/01008DE0154D8000/screen/6"
+  ]
+}

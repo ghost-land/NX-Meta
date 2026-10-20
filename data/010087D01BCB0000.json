@@ -1,0 +1,16 @@
+{
+  "name": "Rifter",
+  "publisher": "SPACEFARER GAMES",
+  "releaseDate": "20230630",
+  "description": "Rifter is a logic based game in which you need to complete all the levels using a duplication ability. Use the rift sword to create a copy that if touched will destroy you! Be clever and work out the levels in this cool platformer!",
+  "bannerUrl": "http://api.nlib.cc/nx/010087D01BCB0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010087D01BCB0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010087D01BCB0000/screen/1",
+    "http://api.nlib.cc/nx/010087D01BCB0000/screen/2",
+    "http://api.nlib.cc/nx/010087D01BCB0000/screen/3",
+    "http://api.nlib.cc/nx/010087D01BCB0000/screen/4",
+    "http://api.nlib.cc/nx/010087D01BCB0000/screen/5",
+    "http://api.nlib.cc/nx/010087D01BCB0000/screen/6"
+  ]
+}

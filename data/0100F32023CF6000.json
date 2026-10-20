@@ -1,0 +1,16 @@
+{
+  "name": "BooBooBooster",
+  "publisher": "COYOTE RUNNER",
+  "releaseDate": "20250918",
+  "description": "Get ready for an innovative side-scrolling action shooter where you fly through the air powered by farts and take down enemies!\n\nThe controls are super simple, with just two buttons that combine attack and jump. This creates an intuitive yet addictive gameplay experience. Don't let the cute, poppy visuals fool you—this game offers a surprisingly tough challenge.\n\nAcross 25 stages, you'll face a formidable \"Butt Army\" and tons of clever environmental puzzles. You might need to try, try again to clear each one!\n\nEach stage also features three missions. Completing them earns you points to power up your player, so aim to conquer all missions and clear every stage!\n\nAnd for all you speedrunners out there, we've included Real-Time Attack (RTA) elements! We're looking forward to your heated challenges to achieve the fastest clear times!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F32023CF6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F32023CF6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F32023CF6000/screen/1",
+    "http://api.nlib.cc/nx/0100F32023CF6000/screen/2",
+    "http://api.nlib.cc/nx/0100F32023CF6000/screen/3",
+    "http://api.nlib.cc/nx/0100F32023CF6000/screen/4",
+    "http://api.nlib.cc/nx/0100F32023CF6000/screen/5",
+    "http://api.nlib.cc/nx/0100F32023CF6000/screen/6"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Save My Scrap",
+  "publisher": "AMATA",
+  "releaseDate": "20260429",
+  "description": "\"They mean everything to me. Please, make them whole again.\" \n\nYou are a mechanic for androids who has received a request from a new client.\nThe client is a doctor named Miomaru and his personal android, an old, near-failing model named Harima.\nAs per your client's request, you begin repairing Harima. You connect the cords, trade out parts, and bring life back to the functions that had broken down. It was supposed to be a simple mechanical repair.\nHowever, the more you deepen your bonds with Harima and Miomaru, the more you start to realize something.\nYou're not just repairing an android anymore. You're connecting the cords that spark their memories; ones that they'd tried to forget.\n\nOnce your job is finished, you will be forced to confront shocking truths and hear their heartrending pleas.\n\n\nGameplay\nAndroid Repairs\nLook inside Harima's body to find the parts that need to be fixed through a variety of mini-games. These repairs will be the key to learning about your clients' past.\n\nConversation\nTalk with your clients, Miomaru and Harima, to gain their trust and get to the true crux of their story. Your choices will change how they respond.\n\nWorld-buildingWhile in your car, you can listen to the radio and gain more insights into the world and its culture. Try out several channels to gain even more insight into the game's world.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000D6025FF4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000D6025FF4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000D6025FF4000/screen/1",
+    "http://api.nlib.cc/nx/01000D6025FF4000/screen/2",
+    "http://api.nlib.cc/nx/01000D6025FF4000/screen/3",
+    "http://api.nlib.cc/nx/01000D6025FF4000/screen/4",
+    "http://api.nlib.cc/nx/01000D6025FF4000/screen/5",
+    "http://api.nlib.cc/nx/01000D6025FF4000/screen/6"
+  ],
+  "version": 0,
+  "size": 230475749
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Jim's Adventure",
+  "publisher": "Gametry",
+  "releaseDate": "20220415",
+  "description": "Jim's Adventure is a game where you need to follow Jim, the Native American in an exciting and challenging adventure. He is exploring a large world filled with perils, ranging from various creatures to obstacles, all trying to stop him. There are a multitude of levels to complete and Jim has a very limited amount of lives. \n\nEvery level has its fair share of challenges, and there are multiple game worlds ranging from haunted forests to deserts, caves and many others. \n\nFeatures:\n100+ challenging levels \nImmersive, fast paced and fun gameplay\nExciting platformer\nBeautiful visuals\nAvoid creatures and obstacles\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FBC0181E0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FBC0181E0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FBC0181E0000/screen/1",
+    "http://api.nlib.cc/nx/0100FBC0181E0000/screen/2",
+    "http://api.nlib.cc/nx/0100FBC0181E0000/screen/3",
+    "http://api.nlib.cc/nx/0100FBC0181E0000/screen/4",
+    "http://api.nlib.cc/nx/0100FBC0181E0000/screen/5",
+    "http://api.nlib.cc/nx/0100FBC0181E0000/screen/6"
+  ]
+}

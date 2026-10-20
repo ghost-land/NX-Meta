@@ -1,0 +1,16 @@
+{
+  "name": "Tanky Tanks 2",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20230316",
+  "description": "Play alone, together with friends or against your friends, and show your navigation and reaction skills in 6 different game modes and countless levels.\n\nIt’s fast. It’s fun. It’s addicting.\nDeafest the enemy tanks while dodging their deadly bullets.\nImprove your aim and maneuver skill while war itself is trying to end your adventure.\nLevel by level the enemy's tanks get faster, smarter, and deadlier.\nCan you make it to the end and defeat their leader?\n\nPlay alone. Play with your friends. Play against your friends.\n- Play the single-player campaign to practice your skills and beat the game by yourself.\n- Finish the campaign with 2 players in the co-op mode.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EDC019650000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EDC019650000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EDC019650000/screen/1",
+    "http://api.nlib.cc/nx/0100EDC019650000/screen/2",
+    "http://api.nlib.cc/nx/0100EDC019650000/screen/3",
+    "http://api.nlib.cc/nx/0100EDC019650000/screen/4",
+    "http://api.nlib.cc/nx/0100EDC019650000/screen/5",
+    "http://api.nlib.cc/nx/0100EDC019650000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Scalextric",
+  "publisher": "Sabec",
+  "releaseDate": "20180612",
+  "description": "Speed through stunning 3D tracks you created and re-discover the magic of SCALEXTRIC ! \n\nCREATE CLASSIC TRACKS\n\nBuild fast, fun and challenging tracks with the track builder, \nMix it up with your own track designs. Choose pieces of track and assemble new and exciting circuits or pick one from the twelve included pre-built World race tracks. \n\nRACE YOUR FRIENDS OR A DIGITAL FOE\n\nPlay against your friends or play against the computer’s smart artificial intelligence (AI) player, either way, winning won’t come easy. \n\nTHE CAR’S THE STAR\nChoose from four classic cars, then customise your ride.\n\nCHOOSE YOUR VIEW\nAdjust your point-of-view mid-game to get the best view of the action. Choose from seven viewpoints.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010040200A798000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010040200A798000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010040200A798000/screen/1",
+    "http://api.nlib.cc/nx/010040200A798000/screen/2",
+    "http://api.nlib.cc/nx/010040200A798000/screen/3",
+    "http://api.nlib.cc/nx/010040200A798000/screen/4",
+    "http://api.nlib.cc/nx/010040200A798000/screen/5",
+    "http://api.nlib.cc/nx/010040200A798000/screen/6"
+  ]
+}

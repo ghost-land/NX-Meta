@@ -1,0 +1,16 @@
+{
+  "name": "Vaporum",
+  "publisher": "Silver Lining",
+  "releaseDate": "20190411",
+  "description": "Vaporum is a grid-based dungeon crawler RPG in an original steampunk setting, inspired by old-school classics of the genre. Stranded in the middle of an ocean, in front of a gigantic tower, the hero has to find out what the place is, what happened there, and most importantly, who he is. ",
+  "bannerUrl": "http://api.nlib.cc/nx/010030F00CA1E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010030F00CA1E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010030F00CA1E000/screen/1",
+    "http://api.nlib.cc/nx/010030F00CA1E000/screen/2",
+    "http://api.nlib.cc/nx/010030F00CA1E000/screen/3",
+    "http://api.nlib.cc/nx/010030F00CA1E000/screen/4",
+    "http://api.nlib.cc/nx/010030F00CA1E000/screen/5",
+    "http://api.nlib.cc/nx/010030F00CA1E000/screen/6"
+  ]
+}

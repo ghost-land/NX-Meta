@@ -1,0 +1,16 @@
+{
+  "name": "#DRIVE",
+  "publisher": "PM Studios",
+  "releaseDate": "20210216",
+  "description": "\n#DRIVE is an endless driving video game inspired by road and action movies from the 70s and 80s. As simple as possible, allowing the player to pick a car, pick the place and just hit the road. Just be aware not to hit anything else.\n\nNo matter where we drive, no matter what we drive or how fast we drive. We simply chose to drive. And you?\n\nWHAT'S BEST ABOUT #DRIVE?\n- Gorgeous stylized graphics\n- Super fun photo mode to share your journeys\n- 8 beautiful locations to see and explore\n- 90+ unique cars to drive\n- Each car with a special coolness addon\n- Fun and addictive driving mechanics\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01000F20122FA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000F20122FA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000F20122FA000/screen/1",
+    "http://api.nlib.cc/nx/01000F20122FA000/screen/2",
+    "http://api.nlib.cc/nx/01000F20122FA000/screen/3",
+    "http://api.nlib.cc/nx/01000F20122FA000/screen/4",
+    "http://api.nlib.cc/nx/01000F20122FA000/screen/5",
+    "http://api.nlib.cc/nx/01000F20122FA000/screen/6"
+  ]
+}

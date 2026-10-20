@@ -1,0 +1,16 @@
+{
+  "name": "Night in the Woods",
+  "publisher": "Finji",
+  "releaseDate": "20180201",
+  "description": "College dropout Mae Borowski returns home to the crumbling former mining town of Possum Springs seeking to resume her aimless former life and reconnect with the friends she left behind. But things aren't the same. Home seems different now and her friends have grown and changed. Leaves are falling and the wind is growing colder. Strange things are happening as the light fades.\n\nAnd there's something in the woods.\n\nJoin Mae on a trip through her hometown and into the dark on the other side.\n\nNIGHT IN THE WOODS is an adventure game focused on exploration, story, and character, featuring dozens of characters to meet and lots to do across a lush, vibrant world. Break stuff, play bass, hang out, walk on powerlines, jump between roofs, and discover strange and amazing and terrible things you never asked for. Come home and waste your life away in Possum Springs.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100921006A04000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100921006A04000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100921006A04000/screen/1",
+    "http://api.nlib.cc/nx/0100921006A04000/screen/2",
+    "http://api.nlib.cc/nx/0100921006A04000/screen/3",
+    "http://api.nlib.cc/nx/0100921006A04000/screen/4",
+    "http://api.nlib.cc/nx/0100921006A04000/screen/5",
+    "http://api.nlib.cc/nx/0100921006A04000/screen/6"
+  ]
+}

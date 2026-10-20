@@ -1,0 +1,16 @@
+{
+  "name": "Alluris",
+  "publisher": "562 Interactive",
+  "releaseDate": "20200924",
+  "description": "Prepare to embark on a journey like no other in Alluris. In this choose your own adventure game play as a reluctant hero or villain to save the world… or just save a colony of bears from some lumberjacks. However you play, you’re sure to walk away with a few crazy stories about your adventure. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AC501122A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AC501122A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AC501122A000/screen/1",
+    "http://api.nlib.cc/nx/0100AC501122A000/screen/2",
+    "http://api.nlib.cc/nx/0100AC501122A000/screen/3",
+    "http://api.nlib.cc/nx/0100AC501122A000/screen/4",
+    "http://api.nlib.cc/nx/0100AC501122A000/screen/5",
+    "http://api.nlib.cc/nx/0100AC501122A000/screen/6"
+  ]
+}

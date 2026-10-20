@@ -1,0 +1,16 @@
+{
+  "name": "FoxyLand",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20191129",
+  "description": "Help Foxy Fox on a dangerous journey to rescue his love, Jennie. Without your help, Foxy won’t be able to save her! \n\nEmbark on an adventure to rescue Jennie! Jump and dodge past challenging enemies and traps while collecting gems and cherries across 36 levels.\n\nDress up Foxy by purchasing additional accessories for him using the cherries you collect on your journey! \n\nFeatures: \n * Collect crystals and cherries through 36 levels\n * Play special Halloween stages\n * Use the cherries you collect to purchase accessories for Foxy\n * Beautiful pixel art and chiptune music",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D2501001A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D2501001A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D2501001A000/screen/1",
+    "http://api.nlib.cc/nx/0100D2501001A000/screen/2",
+    "http://api.nlib.cc/nx/0100D2501001A000/screen/3",
+    "http://api.nlib.cc/nx/0100D2501001A000/screen/4",
+    "http://api.nlib.cc/nx/0100D2501001A000/screen/5",
+    "http://api.nlib.cc/nx/0100D2501001A000/screen/6"
+  ]
+}

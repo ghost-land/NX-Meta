@@ -1,0 +1,16 @@
+{
+  "name": "My Little Prince - A jigsaw puzzle tale",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20230316",
+  "description": "A jigsaw puzzle game to remember a beloved classic story. Contains illustrations created by Katia Numakura with inspiration from “The Little Prince” by Antoine de Saint-Exupéry, and from RPGs \n\n- Complete the six jigsaw puzzle scenes (and a bonus...) at six different levels of difficulty - from 60 to 735 pieces.\n- Relax with a comforting and exclusive soundtrack.\n- Features include zooming the scene, highlighting border pieces, highlighting pieces from a specific quadrant, shuffling the remaining pieces, previewing the scene, dragging the board.",
+  "bannerUrl": "http://api.nlib.cc/nx/010081B01A5B6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010081B01A5B6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010081B01A5B6000/screen/1",
+    "http://api.nlib.cc/nx/010081B01A5B6000/screen/2",
+    "http://api.nlib.cc/nx/010081B01A5B6000/screen/3",
+    "http://api.nlib.cc/nx/010081B01A5B6000/screen/4",
+    "http://api.nlib.cc/nx/010081B01A5B6000/screen/5",
+    "http://api.nlib.cc/nx/010081B01A5B6000/screen/6"
+  ]
+}

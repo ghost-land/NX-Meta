@@ -1,0 +1,16 @@
+{
+  "name": "Pizza Tower",
+  "publisher": "Tour De Pizza",
+  "releaseDate": "20240827",
+  "description": "Peppino Spaghetti, a surprisingly agile and powerful fat balding italian, is on a mission to destroy the titular Pizza Tower in order to save his restaurant from annihilation. Follow him through his rampage across the many wacky floors of the tower, collecting toppings and beating up monsters!\n\n- Weird crazy characters and animations!\n- An insanely energetic soundtrack!\n- An unusual platformer formula!\n- Play like you want! Go for the highest score or explore at your own pace!\n\nPLAY as Peppino Spaghetti, the supersonic italian middle-aged man! And sometimes Gustavo. EXPLORE up to 5 floors leading to many levels, discover all of their secrets! FIGHT some monsters and other weirdos! DESTROY everything in your path, including those stupid rats. BECOME the Pizza Tower!",
+  "bannerUrl": "http://api.nlib.cc/nx/01006C601C5EC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006C601C5EC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006C601C5EC000/screen/1",
+    "http://api.nlib.cc/nx/01006C601C5EC000/screen/2",
+    "http://api.nlib.cc/nx/01006C601C5EC000/screen/3",
+    "http://api.nlib.cc/nx/01006C601C5EC000/screen/4",
+    "http://api.nlib.cc/nx/01006C601C5EC000/screen/5",
+    "http://api.nlib.cc/nx/01006C601C5EC000/screen/6"
+  ]
+}

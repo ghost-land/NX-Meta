@@ -1,0 +1,16 @@
+{
+  "name": "Baldur's Gate: Dark Alliance II",
+  "publisher": "Interplay",
+  "releaseDate": "20220720",
+  "description": "Unspeakable evil has returned to the legendary city of Baldur's Gate. A call for adventurers echoes through the embattled land. Cunning warriors and bold magic users are desperately needed to reclaim Baldur's Gate from a dark sorcery that threatens all in its path.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A61018680000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A61018680000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A61018680000/screen/1",
+    "http://api.nlib.cc/nx/0100A61018680000/screen/2",
+    "http://api.nlib.cc/nx/0100A61018680000/screen/3",
+    "http://api.nlib.cc/nx/0100A61018680000/screen/4",
+    "http://api.nlib.cc/nx/0100A61018680000/screen/5",
+    "http://api.nlib.cc/nx/0100A61018680000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Krimson",
+  "publisher": "PM Studios",
+  "releaseDate": "20240321",
+  "description": "Krimson is a challenging gritty rhythm platformer featuring heavy electronic metal music. You're an unknown spawn going through a hellish world as it moves rhythmically to the music. One wrong move means death but the checkpoints are often and death is very short.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EE501D328000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EE501D328000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EE501D328000/screen/1",
+    "http://api.nlib.cc/nx/0100EE501D328000/screen/2",
+    "http://api.nlib.cc/nx/0100EE501D328000/screen/3",
+    "http://api.nlib.cc/nx/0100EE501D328000/screen/4",
+    "http://api.nlib.cc/nx/0100EE501D328000/screen/5",
+    "http://api.nlib.cc/nx/0100EE501D328000/screen/6"
+  ]
+}

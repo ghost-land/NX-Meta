@@ -1,0 +1,16 @@
+{
+  "name": "Nature",
+  "publisher": "Game Museum",
+  "releaseDate": "20220120",
+  "description": "Nature is a relaxing game for modern people tired of everyday life.\nBecome a dandelion seed and soar to the sky.\nEnjoy nature by listening to beautiful music.\nFly farther and higher by interacting with nature.\nHeal your weary heart by playing Nature.",
+  "bannerUrl": "http://api.nlib.cc/nx/010054B016D22000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010054B016D22000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010054B016D22000/screen/1",
+    "http://api.nlib.cc/nx/010054B016D22000/screen/2",
+    "http://api.nlib.cc/nx/010054B016D22000/screen/3",
+    "http://api.nlib.cc/nx/010054B016D22000/screen/4",
+    "http://api.nlib.cc/nx/010054B016D22000/screen/5",
+    "http://api.nlib.cc/nx/010054B016D22000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Castaway",
+  "publisher": "Canari Games",
+  "releaseDate": "20240816",
+  "description": "Embark on an action-packed adventure in Castaway, diving players into a pixelated and retro universe. Assume the role of Martin, whose spaceship crash-landed on an uncharted island where his faithful pet was taken by hostile creatures. Retrieve your weapons and venture out to rescue your kidnapped companion in this endearing and unexpectedly dynamic world.\nBeat the 3 bosses in the concise and delightful \"Story Mode\" to unlock the thrilling and addictive \"Survivor Mode.\" Ascend a 50-floor tower, with each level presenting increasingly challenging trials!\n\nKEY FEATURES:\n• From the \"pacifist\" mode without enemies or “invincible” to the challenging \"unfair\" mode, Castaway caters to all ages, from seasoned gamers to younger players discovering the genre for the first time. Try to complete the game as quickly as possible thanks to the speedrun mode!\n• Charming Pixel Art Graphics: Immerse yourself in a 2D retro pixel art world reminiscent of classic adventure games. It'll feel like coming home!\n• Unique Weapon Abilities: Solve puzzles by acquiring weapons with distinct characteristics - the sword for speed, the pickaxe for power, and the grappling hook for increased mobility.\n• Enchanting Soundtrack: Enjoy chiptune melodies, whether heroic or haunting, paying homage to the 8-bit console era!",
+  "bannerUrl": "http://api.nlib.cc/nx/01005B301F29E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005B301F29E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005B301F29E000/screen/1",
+    "http://api.nlib.cc/nx/01005B301F29E000/screen/2",
+    "http://api.nlib.cc/nx/01005B301F29E000/screen/3",
+    "http://api.nlib.cc/nx/01005B301F29E000/screen/4",
+    "http://api.nlib.cc/nx/01005B301F29E000/screen/5",
+    "http://api.nlib.cc/nx/01005B301F29E000/screen/6"
+  ]
+}

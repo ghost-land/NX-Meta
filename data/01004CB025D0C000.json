@@ -1,0 +1,18 @@
+{
+  "name": "Poetic Trio",
+  "publisher": "Sometimes You",
+  "releaseDate": "20260609",
+  "description": "Poetic Trio is a themed set of three games. A game about rain (Pluviophile), a game about snow (Chionophile), and a game about wind (Loverowind). All in one. The core aspect of each game is the atmosphere. It is recommended for those who mostly seek to experience the mood.\n\n\nPluviophile is a short experience about the mood of rain in the woods. It is a slow-paced pure walking simulator; you only walk, slowly, in the wilderness away from civilization. A beautiful poem from Julius Cawein accompanies your short journey; and the original music score that is composed by Pınar Karabaş.\n\n*\n\nChionophile is a short experience about the mood of winter in the woods. It is a slow-paced pure walking simulator; you only walk, slowly, in the wilderness away from civilization. A beautiful poem from Archibald Lampman accompanies your short journey; and the original music score that is composed by Pınar Karabaş.\n\nThe game has 2 chapters. While the first one is a little linear, the second one (which is more expansive) takes place in a large open area. There are paths for the player to follow to reduce confusion about where to go. But you are free to roam away from the path and discover.\n\n*\n\nLoverowind is a short experience about the wind of spring. Similar to Pluviophile, you collect flowers, and use them on the altars to reveal a poem. But this time you move much faster, unless the circles of light roaming in the world don't catch you.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004CB025D0C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004CB025D0C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004CB025D0C000/screen/1",
+    "http://api.nlib.cc/nx/01004CB025D0C000/screen/2",
+    "http://api.nlib.cc/nx/01004CB025D0C000/screen/3",
+    "http://api.nlib.cc/nx/01004CB025D0C000/screen/4",
+    "http://api.nlib.cc/nx/01004CB025D0C000/screen/5",
+    "http://api.nlib.cc/nx/01004CB025D0C000/screen/6"
+  ],
+  "version": 0,
+  "size": 1065474636
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Cats Puzzle",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20221224",
+  "description": "This is a cat puzzle game for all ages. It's a fun game that will improve your reasoning and intellectual ability.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AF50193FA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AF50193FA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AF50193FA000/screen/1",
+    "http://api.nlib.cc/nx/0100AF50193FA000/screen/2",
+    "http://api.nlib.cc/nx/0100AF50193FA000/screen/3",
+    "http://api.nlib.cc/nx/0100AF50193FA000/screen/4",
+    "http://api.nlib.cc/nx/0100AF50193FA000/screen/5",
+    "http://api.nlib.cc/nx/0100AF50193FA000/screen/6"
+  ]
+}

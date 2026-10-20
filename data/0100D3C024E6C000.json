@@ -1,0 +1,16 @@
+{
+  "name": "Monster Ramp Racing",
+  "publisher": "Gametry",
+  "releaseDate": "20250913",
+  "description": "Monster Ramp Racing is not just another racing game—it’s an adrenaline-fueled ride that pushes your driving skills to the limit. Take the wheel of massive, customizable monster trucks, conquer giant ramps, perform epic jumps, and master endless climbing roads in the most thrilling off-road experience on mobile!\n\nStrap in for heart-pounding action as you launch your truck high into the air, balance perfectly on impossible slopes, and smash through tough terrain. Whether you’re going for record distances in Endless Mode or tackling dozens of missions, every race delivers pure monster truck mayhem with stunning visuals and responsive controls.\n\nKey Features:\n\nVariety of Monster Trucks – Unlock and drive multiple monster trucks, each with unique power upgrades in Engine, Suspension, Friction, and Fuel.\n\nAdjustable Build – Tweak your truck’s suspension height and wheel size to match any terrain and your driving style.\n\n40 Different Missions – Test your skills on challenging climbing roads designed for endless fun. Push your truck to the limit as you conquer mission after mission.\n\nExpansive Maps – Race across Desert, Forest, and Snowy Peaks environments.\n\nRealistic Physics and Controls – Enjoy responsive handling, dynamic suspension, and satisfying jumps with smooth, intuitive controls designed for mobile gaming.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D3C024E6C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D3C024E6C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D3C024E6C000/screen/1",
+    "http://api.nlib.cc/nx/0100D3C024E6C000/screen/2",
+    "http://api.nlib.cc/nx/0100D3C024E6C000/screen/3",
+    "http://api.nlib.cc/nx/0100D3C024E6C000/screen/4",
+    "http://api.nlib.cc/nx/0100D3C024E6C000/screen/5",
+    "http://api.nlib.cc/nx/0100D3C024E6C000/screen/6"
+  ]
+}

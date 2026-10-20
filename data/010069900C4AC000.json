@@ -1,0 +1,16 @@
+{
+  "name": "Chime Sharp",
+  "publisher": "Chilled Mouse",
+  "releaseDate": "20190528",
+  "description": "Place pieces, paint the board, make music. Chime Sharp is a sequel to 2009's Chime, a music puzzle game with an addictive, ambient heartbeat. You join shapes to cover a grid, while a beatline reads those shapes as notes. As you cover the board, the music builds to a beautiful crescendo of your own design. The only way to discover Chime is to play it, but if you want a glimpse, consider what it might feel like to cross Tetris, a music sequencer and a hypnotic dream about your favourite pop song.",
+  "bannerUrl": "http://api.nlib.cc/nx/010069900C4AC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010069900C4AC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010069900C4AC000/screen/1",
+    "http://api.nlib.cc/nx/010069900C4AC000/screen/2",
+    "http://api.nlib.cc/nx/010069900C4AC000/screen/3",
+    "http://api.nlib.cc/nx/010069900C4AC000/screen/4",
+    "http://api.nlib.cc/nx/010069900C4AC000/screen/5",
+    "http://api.nlib.cc/nx/010069900C4AC000/screen/6"
+  ]
+}

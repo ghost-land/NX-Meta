@@ -1,0 +1,16 @@
+{
+  "name": "Hampuzz",
+  "publisher": "orange",
+  "releaseDate": "20210923",
+  "description": "match3 puzzle action game！\nPress the block. Climb the block. Erase the block. Let's aim for the goal!\nSimple puzzle game！\n\n■rule\n Flag is the goal.\n Match 3 or more of the same colored blocks.\n The block cannot be pulled.\n Only one can be pressed.\n Can climb one step.\n\nThere are 50 stages in the game.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D85016326000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D85016326000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D85016326000/screen/1",
+    "http://api.nlib.cc/nx/0100D85016326000/screen/2",
+    "http://api.nlib.cc/nx/0100D85016326000/screen/3",
+    "http://api.nlib.cc/nx/0100D85016326000/screen/4",
+    "http://api.nlib.cc/nx/0100D85016326000/screen/5",
+    "http://api.nlib.cc/nx/0100D85016326000/screen/6"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Quick Whiskers",
+  "publisher": "Afil Games",
+  "releaseDate": "20260128",
+  "description": "Get ready to jump, dash, and glide with Quick Whiskers, a pixel-art platformer where every move counts! Take control of a nimble cat and venture through 30 challenging levels across two unique biomes: the peaceful park and the bustling city. Your mission is simple but full of action: collect food cans and reach a cozy bed to rest.\n\nWith mechanics easy to learn but hard to master, each stage rewards skill, quick thinking, and precision. Jump, dash, use springs and balloons to avoid spikes, saws, and falling platforms. Some challenges hide extra cans in tricky spots. Will you risk it to get them?\n\nWhat to expect in each level\nAgile movement: Walk, jump, and dash precisely to navigate the environment.\nInteractive elements: Springs and balloons propel your cat to reach inaccessible areas.\nChallenging obstacles: Spikes, saws, and unstable platforms test your reflexes.\nExploration and reward: Collect food cans to earn extra points and complete levels in style.\n\nEach level starts with your cat on the left, expanding to the right, with clear and intuitive obstacles and items. The progression is rewarding, giving casual players and fans of high-mobility platformers fun and challenge.\n\nWith adorable visuals, fast pace, and fluid gameplay, Quick Whiskers is the perfect playground for anyone who loves cats, speed, and precision challenges. Are you ready to show who rules the rooftops and parks of the city?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A3D025F08000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A3D025F08000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A3D025F08000/screen/1",
+    "http://api.nlib.cc/nx/0100A3D025F08000/screen/2",
+    "http://api.nlib.cc/nx/0100A3D025F08000/screen/3",
+    "http://api.nlib.cc/nx/0100A3D025F08000/screen/4"
+  ]
+}

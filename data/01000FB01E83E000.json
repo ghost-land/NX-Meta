@@ -1,0 +1,16 @@
+{
+  "name": "Instant Death",
+  "publisher": "RandomSpin Games",
+  "releaseDate": "20240314",
+  "description": "Your goal is to complete the level without touching the color red. If you touch anything red you're DEAD. Also be careful and don't rush unless you're very confident in your skill since there are no checkpoints in the levels.\n\nIf you die, you'll start from the beginning of a level.\n\n· 20 challenging and some almost impossible levels.\n\n· No checkpoints in the levels.\n\n· Techno Music soundtrack.\n\n· Pride of completing a level.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000FB01E83E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000FB01E83E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000FB01E83E000/screen/1",
+    "http://api.nlib.cc/nx/01000FB01E83E000/screen/2",
+    "http://api.nlib.cc/nx/01000FB01E83E000/screen/3",
+    "http://api.nlib.cc/nx/01000FB01E83E000/screen/4",
+    "http://api.nlib.cc/nx/01000FB01E83E000/screen/5",
+    "http://api.nlib.cc/nx/01000FB01E83E000/screen/6"
+  ]
+}

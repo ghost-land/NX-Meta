@@ -1,0 +1,16 @@
+{
+  "name": "Jelly Champs!",
+  "publisher": "Art Games Studio",
+  "releaseDate": "20200903",
+  "description": "Lead your Jelly Champion to victory! Their movements may look clumsy but don't be fooled by their appearances, cause they are real fighters! Knock down or eliminate your opponent to win the battle.",
+  "bannerUrl": "http://api.nlib.cc/nx/010019D012018000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010019D012018000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010019D012018000/screen/1",
+    "http://api.nlib.cc/nx/010019D012018000/screen/2",
+    "http://api.nlib.cc/nx/010019D012018000/screen/3",
+    "http://api.nlib.cc/nx/010019D012018000/screen/4",
+    "http://api.nlib.cc/nx/010019D012018000/screen/5",
+    "http://api.nlib.cc/nx/010019D012018000/screen/6"
+  ]
+}

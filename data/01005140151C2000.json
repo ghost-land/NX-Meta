@@ -1,0 +1,16 @@
+{
+  "name": "TOEM",
+  "publisher": "Something We Made",
+  "releaseDate": "20210917",
+  "description": "Set off on a delightful expedition and use your photographic eye to uncover the mysteries of the magical TOEM in this hand-drawn adventure game. Chat with quirky characters, solve their problems by snapping neat photos, and make your way through a relaxing landscape!\n\nKey Features\n- Take photos with your camera to solve puzzles and help people!\n- Listen to chill beats and take in your surroundings!\n- Meet quirky characters and help them with their problems!\n\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01005140151C2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005140151C2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005140151C2000/screen/1",
+    "http://api.nlib.cc/nx/01005140151C2000/screen/2",
+    "http://api.nlib.cc/nx/01005140151C2000/screen/3",
+    "http://api.nlib.cc/nx/01005140151C2000/screen/4",
+    "http://api.nlib.cc/nx/01005140151C2000/screen/5",
+    "http://api.nlib.cc/nx/01005140151C2000/screen/6"
+  ]
+}

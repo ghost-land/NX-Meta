@@ -1,0 +1,16 @@
+{
+  "name": "타이토 마일스톤 3",
+  "publisher": "ARC SYSTEM WORKS",
+  "releaseDate": "20241128",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/010006001F7C0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010006001F7C0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010006001F7C0000/screen/1",
+    "http://api.nlib.cc/nx/010006001F7C0000/screen/2",
+    "http://api.nlib.cc/nx/010006001F7C0000/screen/3",
+    "http://api.nlib.cc/nx/010006001F7C0000/screen/4",
+    "http://api.nlib.cc/nx/010006001F7C0000/screen/5",
+    "http://api.nlib.cc/nx/010006001F7C0000/screen/6"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "SCP Extraction Protocol",
+  "publisher": "RandomSpin Games",
+  "releaseDate": "20260430",
+  "description": "SCP Extraction Protocol is a slow-burn industrial horror about routine, isolation, and something that refuses to be catalogued.\n\nYou have been assigned to maintain a classified extraction site. Your only responsibility: operate the crane, retrieve the containers emerging from the abyss, and process them according to protocol.\n\nThe object appears to be a vertical shaft of unknown depth. It signals when a new batch is ready, and you respond.\n\nUnder a vast, indifferent star-filled sky, you work alone — steel cables creaking, the crane whining against the cold, warning lights flickering at the edge of visibility. Each container must be lifted from the darkness, purified from residual radiation, logged, and prepared for transfer. Follow the procedure. Stay efficient. Don't deviate.\n\nThe pit does not speak, and it does not need to. It only signals, and something in the interval between signals has learned to move.\n\nCrane operation. Radiation processing. Protocol compliance. Something else.\n\nYou were sent to manage the abyss.\nThe abyss has been active for longer than your assignment suggests.",
+  "bannerUrl": "http://api.nlib.cc/nx/010014102790E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010014102790E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010014102790E000/screen/1",
+    "http://api.nlib.cc/nx/010014102790E000/screen/2",
+    "http://api.nlib.cc/nx/010014102790E000/screen/3",
+    "http://api.nlib.cc/nx/010014102790E000/screen/4",
+    "http://api.nlib.cc/nx/010014102790E000/screen/5",
+    "http://api.nlib.cc/nx/010014102790E000/screen/6"
+  ],
+  "version": 0,
+  "size": 918756724
+}

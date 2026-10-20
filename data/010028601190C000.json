@@ -1,0 +1,16 @@
+{
+  "name": "Dungeon and Gravestone",
+  "publisher": "Wonderland Kazakiri",
+  "releaseDate": "20210423",
+  "description": "Arise! The time for sleep has passed. The world needs you now, more than ever, as the threat of destruction looms closer with each passing moment.\n\nThe path of salvation lies ahead with only one way to attain it. You must conquer the dungeon and its keeper that awaits you.\nBeware not to outstay your welcome as your life energy is slowly drained the longer you stay in the dungeon.\n\nThose brave enough to venture the dungeon are rewarded with items to help power up their equipment, allowing them to reach further into its depths.\n\nComplete quests, fight bosses, collect items and fish like your life depends on it!\n\nMastering this chaotic world will prove difficult as it transforms with each passing life.\nWill you answer the call to save the world?\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010028601190C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010028601190C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010028601190C000/screen/1",
+    "http://api.nlib.cc/nx/010028601190C000/screen/2",
+    "http://api.nlib.cc/nx/010028601190C000/screen/3",
+    "http://api.nlib.cc/nx/010028601190C000/screen/4",
+    "http://api.nlib.cc/nx/010028601190C000/screen/5",
+    "http://api.nlib.cc/nx/010028601190C000/screen/6"
+  ]
+}

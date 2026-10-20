@@ -1,0 +1,16 @@
+{
+  "name": "BOT.vinnik Chess",
+  "publisher": "Silesia Games",
+  "releaseDate": "20210902",
+  "description": "Improve your chess knowledge with the help of BOT.vinnik, a soviet digital teacher.\n\n- Learn the theory behind the game\n- 450+ theory backed \"best-move\" chess puzzles\n- Tactics, openings and checkmate patterns organized in 57 chapters to elevate your knowledge\n- Made for chess enthusiasts by chess enthusiast\n- Have fun with BOT.vinnik's peculiar sense of humor!",
+  "bannerUrl": "http://api.nlib.cc/nx/010018A01514E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010018A01514E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010018A01514E000/screen/1",
+    "http://api.nlib.cc/nx/010018A01514E000/screen/2",
+    "http://api.nlib.cc/nx/010018A01514E000/screen/3",
+    "http://api.nlib.cc/nx/010018A01514E000/screen/4",
+    "http://api.nlib.cc/nx/010018A01514E000/screen/5",
+    "http://api.nlib.cc/nx/010018A01514E000/screen/6"
+  ]
+}

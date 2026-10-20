@@ -1,0 +1,16 @@
+{
+  "name": "Mind Scanners",
+  "publisher": "Brave At Night",
+  "releaseDate": "20211130",
+  "description": "Mind Scanners is a retro-futuristic psychiatry simulation in which you diagnose the citizens of a dystopian metropolis. Locate a host of other-worldly characters and use arcade-style treatment devices to help them. Manage your time and resources to keep The Structure in balance. Remember, you take full responsibility for your patients.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D8C01535C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D8C01535C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D8C01535C000/screen/1",
+    "http://api.nlib.cc/nx/0100D8C01535C000/screen/2",
+    "http://api.nlib.cc/nx/0100D8C01535C000/screen/3",
+    "http://api.nlib.cc/nx/0100D8C01535C000/screen/4",
+    "http://api.nlib.cc/nx/0100D8C01535C000/screen/5",
+    "http://api.nlib.cc/nx/0100D8C01535C000/screen/6"
+  ]
+}

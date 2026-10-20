@@ -1,0 +1,16 @@
+{
+  "name": "Karma Knight",
+  "publisher": "UltramarineSoft",
+  "releaseDate": "20201119",
+  "description": "Karma Knight is a fast paced 2D side-scrolling platform action game with stylish combat. \nFind hidden items in the stages, collect different spells, defeat the enemies as you gain more experience and enjoy the overall platform action game style.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005300128E2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005300128E2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005300128E2000/screen/1",
+    "http://api.nlib.cc/nx/01005300128E2000/screen/2",
+    "http://api.nlib.cc/nx/01005300128E2000/screen/3",
+    "http://api.nlib.cc/nx/01005300128E2000/screen/4",
+    "http://api.nlib.cc/nx/01005300128E2000/screen/5",
+    "http://api.nlib.cc/nx/01005300128E2000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Telenet Shooting Collection",
+  "publisher": "Edia",
+  "releaseDate": "20230921",
+  "description": "Enjoy a variety of battles with tanks, helicopters, and space fighters! Experience the multi-directional scrolling shooter \"Granada\" where you control a tank-like mobile weapon, the strategic futuristic shooter \"Avenger\" where you complete missions in a combat helicopter, the unique shooter \"Gaiares\" where you can absorb enemy weapons and use them as your own, and the exhilarating shooting game \"Psychic Storm\" which allows for two-player simultaneous play. This collection includes four classic shooting games full of character from the legendary game maker, Telenet Japan . Reunite with these nostalgic games!\n\nSOUND AND VISUAL MODES INCLUDED\nExperience the iconic cutscenes and music that are synonymous with Telenet titles, whenever you want! This collection includes convenient features like save/load anywhere, rewind, and other quality of life upgrades.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AD301A982000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AD301A982000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AD301A982000/screen/1",
+    "http://api.nlib.cc/nx/0100AD301A982000/screen/2",
+    "http://api.nlib.cc/nx/0100AD301A982000/screen/3",
+    "http://api.nlib.cc/nx/0100AD301A982000/screen/4",
+    "http://api.nlib.cc/nx/0100AD301A982000/screen/5",
+    "http://api.nlib.cc/nx/0100AD301A982000/screen/6"
+  ]
+}

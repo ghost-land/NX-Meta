@@ -1,0 +1,13 @@
+{
+  "name": "Word Web by POWGI",
+  "publisher": "Lightwood Games",
+  "releaseDate": "20230914",
+  "description": "A new POWGI word game for fans of logic puzzles! Place the letters into the web so that every word can be found along a continuous path. This puzzle is also known as “Gogen”.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010013E01A002000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010013E01A002000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010013E01A002000/screen/1",
+    "http://api.nlib.cc/nx/010013E01A002000/screen/2",
+    "http://api.nlib.cc/nx/010013E01A002000/screen/3"
+  ]
+}

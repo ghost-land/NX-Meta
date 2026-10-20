@@ -1,0 +1,16 @@
+{
+  "name": "MOMIBOSU",
+  "publisher": "PenGames",
+  "releaseDate": "20250508",
+  "description": "〇 Simple Controls, Deep Gameplay!\nThe core actions are attack, jump, and air dash.\nMastering 8-directional attacks and air dashes—up, down, left, right, and diagonals—is the key to overcoming challenges!\n\n〇 Impenetrable Dungeons\nA high-difficulty platformer that can't be cleared without skillfully using the basic actions awaits your challenge!\n\n〇 Terrifying Bosses\nPowerful bosses await deep within the dungeons.\nEnjoy intense parry-based combat during boss fights!\nEven if you fall, rise again and keep fighting!\n\n〇 A Boy and Girl’s Adventure\nA brave boy and girl journey through a dangerous world in search of a new land.\nWill there be hope at the end of the many meetings and farewells, joys and sorrows they experience?\nSee the answer for yourself!\n\nWe welcome all action gamers confident in their skills!",
+  "bannerUrl": "http://api.nlib.cc/nx/010066202271C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010066202271C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010066202271C000/screen/1",
+    "http://api.nlib.cc/nx/010066202271C000/screen/2",
+    "http://api.nlib.cc/nx/010066202271C000/screen/3",
+    "http://api.nlib.cc/nx/010066202271C000/screen/4",
+    "http://api.nlib.cc/nx/010066202271C000/screen/5",
+    "http://api.nlib.cc/nx/010066202271C000/screen/6"
+  ]
+}

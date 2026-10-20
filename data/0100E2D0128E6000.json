@@ -1,0 +1,16 @@
+{
+  "name": "Monster Blast",
+  "publisher": "EntwicklerX",
+  "releaseDate": "20200723",
+  "description": "It´s all about blasting Monsters. On randomly generated maps you are shooting your path to find the exit and move on to the next level. \n\nLots of monsters and nasty bosses make your work difficult. Collect monster energy to get special weapons. Find boxes with special items to improve your health. Use support items that help you blast more monsters.\nIncrease your experience from map to map and improve your health, firepower and luck. So you can get harder monster and find better items.\n\n4 different worlds with 24 challenging levels allow you a few hours of challenging shooting fun.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E2D0128E6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E2D0128E6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E2D0128E6000/screen/1",
+    "http://api.nlib.cc/nx/0100E2D0128E6000/screen/2",
+    "http://api.nlib.cc/nx/0100E2D0128E6000/screen/3",
+    "http://api.nlib.cc/nx/0100E2D0128E6000/screen/4",
+    "http://api.nlib.cc/nx/0100E2D0128E6000/screen/5",
+    "http://api.nlib.cc/nx/0100E2D0128E6000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Operation Zeta",
+  "publisher": "SFS Studios",
+  "releaseDate": "20220304",
+  "description": "Operation Zeta is a space action game. The great battle codenamed 'Operation Zeta' has been lost. Your ship is in shambles and you have to act quickly to collect all of the parts and repair your ship before the warzone is completely destroyed by the enemy's death laser. Play and unlock 13 playable characters from space monkeys to mischievous slugs each with their own unique set of skills and challenges. As well unlock new abilities and upgrades with credits you earn during each run. Each time you play the universe is randomly generated with random quests from wacky local aliens who have stolen the parts of your ship. All in a physics based battlefield, but beware as you only have ten minutes until the death laser fires! ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100297013C7C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100297013C7C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100297013C7C000/screen/1",
+    "http://api.nlib.cc/nx/0100297013C7C000/screen/2",
+    "http://api.nlib.cc/nx/0100297013C7C000/screen/3",
+    "http://api.nlib.cc/nx/0100297013C7C000/screen/4",
+    "http://api.nlib.cc/nx/0100297013C7C000/screen/5",
+    "http://api.nlib.cc/nx/0100297013C7C000/screen/6"
+  ]
+}

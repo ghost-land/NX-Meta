@@ -1,0 +1,16 @@
+{
+  "name": "Quadle",
+  "publisher": "Clickteam",
+  "releaseDate": "20190404",
+  "description": "Quadle is ready to puzzle your mind!\n\nIt's A brand new arcade puzzler for Nintendo Switch, which invokes the memory of classic arcade cabinet games while adding a new twist. Jump on the blocks as the titular character Quadle, changing the block colors until they are all red. Once red they fall away and by eliminating all of the blocks on the screen you are taken to the next exciting level. Be careful though, you might corner yourself into a situation where you can't jump to the next block!\n\nWith 4 worlds and 128 levels there is plenty of arcade puzzle action to frustrate, er, I mean to enjoy! Of course just when you think you get the hang of it, Quadle throws in some new surprises like switch panels, spring beams, drop blocks and more. Can you get through all the levels?\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010080B00D8D4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010080B00D8D4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010080B00D8D4000/screen/1",
+    "http://api.nlib.cc/nx/010080B00D8D4000/screen/2",
+    "http://api.nlib.cc/nx/010080B00D8D4000/screen/3",
+    "http://api.nlib.cc/nx/010080B00D8D4000/screen/4",
+    "http://api.nlib.cc/nx/010080B00D8D4000/screen/5",
+    "http://api.nlib.cc/nx/010080B00D8D4000/screen/6"
+  ]
+}

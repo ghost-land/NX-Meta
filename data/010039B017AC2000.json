@@ -1,0 +1,16 @@
+{
+  "name": "sCATch: The Painter Cat",
+  "publisher": "Isaias Game Dev",
+  "releaseDate": "20220520",
+  "description": "CATch is a puzzle game where the objective is find the exit after paint all the wall of \nthe maze with the right colors and using the items with different mechanics.\n\nFeatures:\n- 40 levels;- Different mechanics;\n- Original soundtrack;\n- Pixel Art",
+  "bannerUrl": "http://api.nlib.cc/nx/010039B017AC2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010039B017AC2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010039B017AC2000/screen/1",
+    "http://api.nlib.cc/nx/010039B017AC2000/screen/2",
+    "http://api.nlib.cc/nx/010039B017AC2000/screen/3",
+    "http://api.nlib.cc/nx/010039B017AC2000/screen/4",
+    "http://api.nlib.cc/nx/010039B017AC2000/screen/5",
+    "http://api.nlib.cc/nx/010039B017AC2000/screen/6"
+  ]
+}

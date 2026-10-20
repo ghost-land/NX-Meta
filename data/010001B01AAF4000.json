@@ -1,0 +1,16 @@
+{
+  "name": "Moons of Darsalon",
+  "publisher": "Dr. Kucho! Games",
+  "releaseDate": "20250206",
+  "description": "Teams of darsanauts got lost during their mining missions on the different moons of the planet Darsalon. You need to complete several rescue missions in which you will have to lead them to the closest base station. They will use their own AI to follow you and to obey your commands. On your way to the base you will have to protect them from dangers and enemies using your laser gun, jet pack, pilot ground and air vehicles, destroy terrain, and even make new paths with the ground maker gun.\nFeaturing:\n- Advanced platformer AI including dynamic terrain detection, jump force calculation, light sensitivity, inter-NPC communication.\n- Voice Commands to control companion NPCs.\n- Dynamic ground destruction and creation.\n- Full Interactive and realistic Liquid physics.\n- Realistic off road vehicle physics.\n- 8 bit music based on MOS 6581 (SID) chip from 1982.\n- 8 bit speech synthesis. \n- Unique render pipeline that combines modern lightning, 2D sprites and 3D models pixelated in real time consistently and with a restricted color palette for an authentic retro feel.\n- CRT filter.",
+  "bannerUrl": "http://api.nlib.cc/nx/010001B01AAF4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010001B01AAF4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010001B01AAF4000/screen/1",
+    "http://api.nlib.cc/nx/010001B01AAF4000/screen/2",
+    "http://api.nlib.cc/nx/010001B01AAF4000/screen/3",
+    "http://api.nlib.cc/nx/010001B01AAF4000/screen/4",
+    "http://api.nlib.cc/nx/010001B01AAF4000/screen/5",
+    "http://api.nlib.cc/nx/010001B01AAF4000/screen/6"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "your future",
+  "publisher": "HERO GAME",
+  "releaseDate": "20230424",
+  "description": "Mirai-kun goes through the door and goes back and forth between the modern world and the mysterious world.\nWhat exactly is the mysterious person's purpose?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C4901B416000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C4901B416000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C4901B416000/screen/1",
+    "http://api.nlib.cc/nx/0100C4901B416000/screen/2",
+    "http://api.nlib.cc/nx/0100C4901B416000/screen/3"
+  ]
+}

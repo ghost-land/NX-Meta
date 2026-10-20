@@ -1,0 +1,14 @@
+{
+  "name": ".cat Milk",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20210813",
+  "description": "This is a white little cat who loves to jump and to get into adventures around the town until he finds milk to drink. Once he accomplishes his mission, then it is time to go home. A fluffy white cat.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100972015984000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100972015984000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100972015984000/screen/1",
+    "http://api.nlib.cc/nx/0100972015984000/screen/2",
+    "http://api.nlib.cc/nx/0100972015984000/screen/3",
+    "http://api.nlib.cc/nx/0100972015984000/screen/4"
+  ]
+}

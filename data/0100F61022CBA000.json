@@ -1,0 +1,16 @@
+{
+  "name": "Hogtie",
+  "publisher": "REDDEER.GAMES",
+  "releaseDate": "20250710",
+  "description": "Step into the boots of Ted, a cowboy with a mission: round up runaway piggies using only your wits – and your trusty lasso!\n\nHogtie is a clever and stylish puzzle game inspired by classic Sokoban mechanics, but with a twist: you can’t push – only pull.\n\n\nFeatures:\n– Lasso-based puzzle gameplay – Use your rope to pull piggies across desert sands, frosty peaks, and other wild biomes.\n– No pushing allowed – Your lasso is the only way to move the pigs, turning classic logic puzzles into something fresh and challenging.\n– Style your cowboy – Customize Ted (and his horse!) with a variety of fun, bold outfits – from rugged western wear to fabulous flair.\n– Think before you move – Earn stars based on how efficiently you solve each level. Replay puzzles your way: aim for perfection or take your time.\n\n\nWith dozens of hand-crafted levels and plenty of personality, Hogtie ropes you in with charm, challenge, and a whole lot of hogs.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F61022CBA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F61022CBA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F61022CBA000/screen/1",
+    "http://api.nlib.cc/nx/0100F61022CBA000/screen/2",
+    "http://api.nlib.cc/nx/0100F61022CBA000/screen/3",
+    "http://api.nlib.cc/nx/0100F61022CBA000/screen/4",
+    "http://api.nlib.cc/nx/0100F61022CBA000/screen/5",
+    "http://api.nlib.cc/nx/0100F61022CBA000/screen/6"
+  ]
+}

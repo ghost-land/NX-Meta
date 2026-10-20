@@ -1,0 +1,15 @@
+{
+  "name": "Neva",
+  "publisher": "Devolver Digital",
+  "releaseDate": "20241015",
+  "description": "Neva is an emotionally-charged action adventure from the visionary team behind the critically acclaimed GRIS.\n\nNeva chronicles the story of Alba, a young woman bound to a curious wolf cub following a traumatic encounter with dark forces. Together they embark on a perilous journey through a once-beautiful world as it slowly decays around them.\n\nOver time, their relationship will evolve as they learn to work together, helping one another to brave increasingly dangerous situations. The wolf will grow from a rebellious cub to an imposing adult seeking to forge her own identity, testing Alba’s love and their commitment to one another.\n\nAs the cursed world threatens to overwhelm them, Alba and her courageous companion will do whatever it takes to survive and make a new home, together.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001D301B83A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001D301B83A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001D301B83A000/screen/1",
+    "http://api.nlib.cc/nx/01001D301B83A000/screen/2",
+    "http://api.nlib.cc/nx/01001D301B83A000/screen/3",
+    "http://api.nlib.cc/nx/01001D301B83A000/screen/4",
+    "http://api.nlib.cc/nx/01001D301B83A000/screen/5"
+  ]
+}

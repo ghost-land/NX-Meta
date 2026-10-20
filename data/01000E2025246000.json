@@ -1,0 +1,18 @@
+{
+  "name": "STARBITES",
+  "publisher": "NIS America",
+  "releaseDate": "20260521",
+  "description": "Bitter—a desert planet riddled with the refuse left behind by an interstellar war. 45 years ago, the war suddenly ended when all of the spaceships crashed onto Bitter for reasons unknown. Now, a young salvager named Lukida hopes to escape this planet, but a sudden attack by a giant robot sets events into motion that will change her life—and the face of Bitter—forever.\n\nJoin Lukida and her allies as they uncover the truth beneath the sands of Bitter!",
+  "bannerUrl": "http://api.nlib.cc/nx/01000E2025246000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000E2025246000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000E2025246000/screen/1",
+    "http://api.nlib.cc/nx/01000E2025246000/screen/2",
+    "http://api.nlib.cc/nx/01000E2025246000/screen/3",
+    "http://api.nlib.cc/nx/01000E2025246000/screen/4",
+    "http://api.nlib.cc/nx/01000E2025246000/screen/5",
+    "http://api.nlib.cc/nx/01000E2025246000/screen/6"
+  ],
+  "version": 0,
+  "size": 4543617358
+}

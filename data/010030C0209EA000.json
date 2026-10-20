@@ -1,0 +1,16 @@
+{
+  "name": "Garten of Banban 6",
+  "publisher": "Feardemic",
+  "releaseDate": "20241031",
+  "description": "Survive the never-entered levels of Banban’s Kindergarten!\n\nAfter the events of Garten of Banban 4, you are forced to run away and delve even deeper into the mysterious establishment that is Banban’s kindergarten. \nYou are heading down to where no human dares to be.\n\nNo more friends to make…\nYou have run out of friends to make. From now on, you only meet new enemies who will make sure you never feel alone! \nIn Banban’s Kindergarten, there are enemies to be made in every corner!\n\nAdditional languages: \n- Arabic (AR),\n- Czech (CZ/ČEŠTINA),\n- Danish (DK/DANSK),\n- Finnish (FIN/SUOMI),\n- Hungarian (HU/MAGYAR),\n- Indonesian (IDN/INDONESIA),\n- Norwegian (NOR/NORGE),\n- Polish (PL/POLSKI),\n- Romanian (ROU/ROMÂNĂ),\n- Russian (RUS/РУССКИЙ),\n- Swedish (SE/SVENSKA),\n- Turkish (TUR/TÜRKÇE),\n- Ukrainian (UA/УКРАЇНСЬКА).",
+  "bannerUrl": "http://api.nlib.cc/nx/010030C0209EA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010030C0209EA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010030C0209EA000/screen/1",
+    "http://api.nlib.cc/nx/010030C0209EA000/screen/2",
+    "http://api.nlib.cc/nx/010030C0209EA000/screen/3",
+    "http://api.nlib.cc/nx/010030C0209EA000/screen/4",
+    "http://api.nlib.cc/nx/010030C0209EA000/screen/5",
+    "http://api.nlib.cc/nx/010030C0209EA000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Hidden Bunny",
+  "publisher": "DillyFrame",
+  "releaseDate": "20230601",
+  "description": "Some Bunny’s friends hid and Bunny cannot find them. Help Bunny to find all the friends! Search everywhere – some of them can hid in strange places.\n\nYou can also find new friends or new items.\n\nFeatures:\n-\t14 collectible object types\n-\tcolorful small location to explore",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F0D01B9A2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F0D01B9A2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F0D01B9A2000/screen/1",
+    "http://api.nlib.cc/nx/0100F0D01B9A2000/screen/2",
+    "http://api.nlib.cc/nx/0100F0D01B9A2000/screen/3",
+    "http://api.nlib.cc/nx/0100F0D01B9A2000/screen/4",
+    "http://api.nlib.cc/nx/0100F0D01B9A2000/screen/5"
+  ]
+}

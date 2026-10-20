@@ -1,0 +1,18 @@
+{
+  "name": "Traysia",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20260424",
+  "description": "Dreaming of becoming a world-traveling adventurer, a young boy named Roy left his hometown. Having known neither travel nor battle, the boy’s adventure now begins.\n\nAfter behind the hometown, he traveled through many mountains and forests. Roy finally arrived at a small county called Kingdom of Salon.\n\nTraysia is a girl waiting for Roy to come back in their hometown, Johanna, a port town. \n\n“Traysia” is a full-scale role-playing game made up of five scenarios, offering a definitive fantasy romance of love and adventure.\n\n\nFeatures: \n* Rewind/Turbo function: repeat something until you achieve perfection, or speed things up \n* Save state function: save wherever you want to in the game, and restart from that exact point \n* Screen filters: select from several filters to modify how the game looks (retro-style monitor, black-and-white, etc.) \n* Gallery: view images from the original game’s manual and box design \n* Cheats function: activate cheats that will make your mission a lot easier (infinite lives, invulnerability, etc.) \n* Jukebox: listen to the 21 music tracks included in the game whenever you want \n* This game is re-release of “Traysia” which the first launched in 1992s for home consoles.",
+  "bannerUrl": "http://api.nlib.cc/nx/010014D02065A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010014D02065A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010014D02065A000/screen/1",
+    "http://api.nlib.cc/nx/010014D02065A000/screen/2",
+    "http://api.nlib.cc/nx/010014D02065A000/screen/3",
+    "http://api.nlib.cc/nx/010014D02065A000/screen/4",
+    "http://api.nlib.cc/nx/010014D02065A000/screen/5",
+    "http://api.nlib.cc/nx/010014D02065A000/screen/6"
+  ],
+  "version": 0,
+  "size": 55560537
+}

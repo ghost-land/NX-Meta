@@ -1,0 +1,16 @@
+{
+  "name": "Boned Again: Survivors",
+  "publisher": "TERNOX",
+  "releaseDate": "20250821",
+  "description": "Choose from a wide variety of active and passive abilities, level them up, and adapt your build on the fly. Survive waves of enemies, defeat unique bosses, earn gold, and unlock new deadly arenas. Each run is different – each decision, crucial. Can you survive?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C77024B9A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C77024B9A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C77024B9A000/screen/1",
+    "http://api.nlib.cc/nx/0100C77024B9A000/screen/2",
+    "http://api.nlib.cc/nx/0100C77024B9A000/screen/3",
+    "http://api.nlib.cc/nx/0100C77024B9A000/screen/4",
+    "http://api.nlib.cc/nx/0100C77024B9A000/screen/5",
+    "http://api.nlib.cc/nx/0100C77024B9A000/screen/6"
+  ]
+}

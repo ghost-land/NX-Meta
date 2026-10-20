@@ -1,0 +1,15 @@
+{
+  "name": "Minefield",
+  "publisher": "Vertical Reach",
+  "releaseDate": "20190404",
+  "description": "Minefield is a modern day re-imagining of a classic game.\nWork your way through a board avoiding all the mines, keeping track of your best time in three difficulty modes.\n\n● Beautiful Presentation.\n● Three levels of difficulty.\n● Intuitive Controls.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009C300DBAE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009C300DBAE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009C300DBAE000/screen/1",
+    "http://api.nlib.cc/nx/01009C300DBAE000/screen/2",
+    "http://api.nlib.cc/nx/01009C300DBAE000/screen/3",
+    "http://api.nlib.cc/nx/01009C300DBAE000/screen/4",
+    "http://api.nlib.cc/nx/01009C300DBAE000/screen/5"
+  ]
+}

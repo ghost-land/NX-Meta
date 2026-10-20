@@ -1,0 +1,16 @@
+{
+  "name": "Heave Ho",
+  "publisher": "Devolver Digital",
+  "releaseDate": "20190829",
+  "description": "Heave Ho is a riotous multiplayer party game for up to four players in couch co-op and versus play. Reach out, get a grip, and swing to victory — or meet your messy end!\n\nReach out\nCan your team of up to four players swing to victory? It’s all or nothing — the slightest slip sends your fellow Heavers to their technicolor deaths in the void or on the spikes. It’s a fast-track to ruined friendships.\n\nGet a grip\nIt’s simple — grab pals and platforms with your hands, form a wobbly chain, and swing across increasingly devilish maps without letting go or missing your mark. I mean, how hard can it be?\n\nPimp your Swingers\nChoose your base character and customize them with a range of dashing accessories, none of which do anything to help you avoid the plummet of doom.\n\nHeave Versus Ho\nIf you can no longer handle your useless co-op teammates letting you down — literally — then take a swing at the 20 exclusive versus mode levels and teach them a lesson.\n\nCamel Farts\nDistractions come in all shapes and sizes, but this might be the first time impenetrable clouds of camel gas have conspired against you.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ADD00E17E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ADD00E17E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ADD00E17E000/screen/1",
+    "http://api.nlib.cc/nx/0100ADD00E17E000/screen/2",
+    "http://api.nlib.cc/nx/0100ADD00E17E000/screen/3",
+    "http://api.nlib.cc/nx/0100ADD00E17E000/screen/4",
+    "http://api.nlib.cc/nx/0100ADD00E17E000/screen/5",
+    "http://api.nlib.cc/nx/0100ADD00E17E000/screen/6"
+  ]
+}

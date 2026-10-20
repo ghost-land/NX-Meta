@@ -1,0 +1,14 @@
+{
+  "name": "Wheel of Fortune®",
+  "publisher": "Ubisoft",
+  "releaseDate": "20181030",
+  "description": "Play as a contestant on Wheel of Fortune®, America's favorite TV show, anytime, anywhere! Spin the wheel and put your brain to the test against thousands of unique puzzles. Play solo or challenge players online. Enjoy an authentic TV-show experience with Wheel of Fortune®. Spin the wheel, win special wedges, and experience true-to-the-TV-show rules. Win iconic in-game prizes such as luxurious trips, cars, and up to one million dollars. \n\nEnjoy Classic mode for the original experience, or Quick mode to solve only one puzzle when time is short. Unlock items and personalize your game by upgrading your contestant avatar and the studio set. ",
+  "bannerUrl": "http://api.nlib.cc/nx/010033600ADE6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010033600ADE6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010033600ADE6000/screen/1",
+    "http://api.nlib.cc/nx/010033600ADE6000/screen/2",
+    "http://api.nlib.cc/nx/010033600ADE6000/screen/3",
+    "http://api.nlib.cc/nx/010033600ADE6000/screen/4"
+  ]
+}

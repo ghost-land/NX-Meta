@@ -1,0 +1,16 @@
+{
+  "name": "Aery Early Birds Bundle",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20220414",
+  "description": "The \"Aery Early Birds Bundle\" features the first 3 titles of the Aery Series. Experience the original roots of the Aery Seires, lean back and enjoy the feeling of flying. \n\nAll 3 games are story-driven non-violent exploration games where a little bird has to collect shards of its memory in order to discover new worlds and continue with the storyline.\n\nThe games included are: \n-\tAery – Little Bird Adventure\n-\tAery – Sky Castle\n-\tAery – Broken Memories",
+  "bannerUrl": "http://api.nlib.cc/nx/0100110014060000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100110014060000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100110014060000/screen/1",
+    "http://api.nlib.cc/nx/0100110014060000/screen/2",
+    "http://api.nlib.cc/nx/0100110014060000/screen/3",
+    "http://api.nlib.cc/nx/0100110014060000/screen/4",
+    "http://api.nlib.cc/nx/0100110014060000/screen/5",
+    "http://api.nlib.cc/nx/0100110014060000/screen/6"
+  ]
+}

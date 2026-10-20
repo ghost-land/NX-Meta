@@ -1,0 +1,16 @@
+{
+  "name": "Cat Slide Tiles",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20220811",
+  "description": "Cat Slide Tiles is a 3D puzzle game with a cute and colorful aesthetic that brings Kitten Tom trying to get his way cleared to get home.\n\nThe game presents a simple gameplay: slide blocks from the terrain to create a path that leads the kitten from point A to point B. There are three keys in each scenario, the kitten must take all the keys to open the door that leads to the next path. The difficulty will gradually increase as you progress through the levels.\n\nTake Tom to his destination, he really needs you to get home before dark.\n\nFeatures:\n- Play through 80 levels;\n- 4 different environments;\n- Relaxing and intuitive gameplay;\n- A cute cat to help;\n\n\nDeveloped by Minicactus Games and published by QUByte Interactive",
+  "bannerUrl": "http://api.nlib.cc/nx/01001BF018B12000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001BF018B12000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001BF018B12000/screen/1",
+    "http://api.nlib.cc/nx/01001BF018B12000/screen/2",
+    "http://api.nlib.cc/nx/01001BF018B12000/screen/3",
+    "http://api.nlib.cc/nx/01001BF018B12000/screen/4",
+    "http://api.nlib.cc/nx/01001BF018B12000/screen/5",
+    "http://api.nlib.cc/nx/01001BF018B12000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Fly Cat",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20220430",
+  "description": "This is a game where your goal is to keep pressing a button, perfect timing, to help a flying cat pass by enraged dogs.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C1E017E66000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C1E017E66000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C1E017E66000/screen/1",
+    "http://api.nlib.cc/nx/0100C1E017E66000/screen/2",
+    "http://api.nlib.cc/nx/0100C1E017E66000/screen/3",
+    "http://api.nlib.cc/nx/0100C1E017E66000/screen/4",
+    "http://api.nlib.cc/nx/0100C1E017E66000/screen/5",
+    "http://api.nlib.cc/nx/0100C1E017E66000/screen/6"
+  ]
+}

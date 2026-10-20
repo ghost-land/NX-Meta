@@ -1,0 +1,16 @@
+{
+  "name": "NachoCado",
+  "publisher": "REDDEER.GAMES",
+  "releaseDate": "20230421",
+  "description": "HOLY GUACAMOLE \n\nNachoCado is a fast-paced, cartoonish side-scrolling game, that pits the delicious avocados against the crunchy and sneaky nachos. The map is filled with waves of nacho enemies; only YOU can stop them. \n\nDO YOU LIKE TOMATOES? \n\nIncrease your power with a variety of helpful boosts. Move like lightning, shoot with an insane speed, or grab yourself an extra life. The possibilities are… countable. You either win and secure a future for all of Avocadokind or you die trying. \n\nKey features: \n\n\n- A charming and relaxing gameplay loop\n- Adorable characters (including enemies)\n- Great replay value\n- A well-hidden guacamole recipe\n- Simple controls\n- Endless mode unlocking after story mode",
+  "bannerUrl": "http://api.nlib.cc/nx/010008E01AEDA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010008E01AEDA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010008E01AEDA000/screen/1",
+    "http://api.nlib.cc/nx/010008E01AEDA000/screen/2",
+    "http://api.nlib.cc/nx/010008E01AEDA000/screen/3",
+    "http://api.nlib.cc/nx/010008E01AEDA000/screen/4",
+    "http://api.nlib.cc/nx/010008E01AEDA000/screen/5",
+    "http://api.nlib.cc/nx/010008E01AEDA000/screen/6"
+  ]
+}

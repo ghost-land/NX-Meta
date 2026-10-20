@@ -1,0 +1,16 @@
+{
+  "name": "STAB STAB STAB!",
+  "publisher": "Monster Couch",
+  "releaseDate": "20200228",
+  "description": "STAB STAB STAB is a brutal, physics-based, couch multiplayer fighting game where you stab your friends until they pop!\n\n- Play as explosive fleshbirds with razor sharp beaks\n- Visceral physics-based combat\n- Battle it out against your friends in versus mode\n- Team up in survival mode against the mindless hordes of cronenbirds \n- AI players with adjustable difficulty to test your skills\n- 12 unique and deadly arenas\n- Wings, spider legs, tumors, and many other helpful mutations to pick up",
+  "bannerUrl": "http://api.nlib.cc/nx/010095600F1A8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010095600F1A8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010095600F1A8000/screen/1",
+    "http://api.nlib.cc/nx/010095600F1A8000/screen/2",
+    "http://api.nlib.cc/nx/010095600F1A8000/screen/3",
+    "http://api.nlib.cc/nx/010095600F1A8000/screen/4",
+    "http://api.nlib.cc/nx/010095600F1A8000/screen/5",
+    "http://api.nlib.cc/nx/010095600F1A8000/screen/6"
+  ]
+}

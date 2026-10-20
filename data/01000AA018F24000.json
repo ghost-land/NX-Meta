@@ -1,0 +1,16 @@
+{
+  "name": "SANABI",
+  "publisher": "NEOWIZ",
+  "releaseDate": "20231108",
+  "description": "SANABI is an exhilarating stylish dystopian action-platformer. Play as a legendary retired veteran and use your signature prosthetic arm to jump over cliffs and skyscrapers, zip through bullets and traps and defeat powerful enemies.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000AA018F24000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000AA018F24000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000AA018F24000/screen/1",
+    "http://api.nlib.cc/nx/01000AA018F24000/screen/2",
+    "http://api.nlib.cc/nx/01000AA018F24000/screen/3",
+    "http://api.nlib.cc/nx/01000AA018F24000/screen/4",
+    "http://api.nlib.cc/nx/01000AA018F24000/screen/5",
+    "http://api.nlib.cc/nx/01000AA018F24000/screen/6"
+  ]
+}

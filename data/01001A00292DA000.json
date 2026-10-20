@@ -1,0 +1,18 @@
+{
+  "name": "オーレンアンドザースターバウンドマウンティン",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20260903",
+  "description": "Venture into a realm of towering ice peaks, shimmering frost, and skies so high they brush the stars. As Owlen, you glide above frozen cliffs, drifting clouds, and ancient structures built into the mountain’s heart. Guided by distant spirits, your mission is to restore harmony by flying through magical circles that awaken frozen landscapes, rekindle star-touched flora, and breathe life back into forgotten heights.\n\nThroughout your journey, you will uncover memory shards hidden within icy caverns, wedged between jagged peaks, or floating gently among starlit winds. These fragments reveal long-buried truths about the mountain, its guardians, and Owlen’s purpose. Gather enough shards to ascend into new regions—each with its own atmosphere, light, and mysteries. \n\nEvery level begins with a quiet moment in which the spirits share the history of the land and the significance of the paths ahead. As you fly, voices carried by the wind may guide you, warn you, or offer glimpses of their stories. The experience is calm, magical, and reflective as you uncover the mountain’s ancient secrets—one shard at a time. \n",
+  "bannerUrl": "http://api.nlib.cc/nx/01001A00292DA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001A00292DA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001A00292DA000/screen/1",
+    "http://api.nlib.cc/nx/01001A00292DA000/screen/2",
+    "http://api.nlib.cc/nx/01001A00292DA000/screen/3",
+    "http://api.nlib.cc/nx/01001A00292DA000/screen/4",
+    "http://api.nlib.cc/nx/01001A00292DA000/screen/5",
+    "http://api.nlib.cc/nx/01001A00292DA000/screen/6"
+  ],
+  "version": 0,
+  "size": 1025967935
+}

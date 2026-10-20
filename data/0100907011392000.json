@@ -1,0 +1,16 @@
+{
+  "name": "OkunoKA Madness",
+  "publisher": "Caracal Games",
+  "releaseDate": "20200908",
+  "description": "OkunoKA Madness is a platform game in which you play as KA, a blue-coloured hero who must save the world of souls from the evil hands of Os, his deadly enemy.\nYou will have to jump, run and overcome obstacles through unique and colourful worlds with more than 100 levels, go head-to-head with wacky bosses, find hidden secrets, lots of surprises to unlock and an even more difficult world: Madness!\n- Over 100 masocore platform levels to complete\n- 3 speedrun modes: all worlds, single level, custom\n- Several unlockable characters with unique abilities\nLeaderboard system with local and global charts",
+  "bannerUrl": "http://api.nlib.cc/nx/0100907011392000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100907011392000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100907011392000/screen/1",
+    "http://api.nlib.cc/nx/0100907011392000/screen/2",
+    "http://api.nlib.cc/nx/0100907011392000/screen/3",
+    "http://api.nlib.cc/nx/0100907011392000/screen/4",
+    "http://api.nlib.cc/nx/0100907011392000/screen/5",
+    "http://api.nlib.cc/nx/0100907011392000/screen/6"
+  ]
+}

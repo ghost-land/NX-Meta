@@ -1,0 +1,15 @@
+{
+  "name": "Jump Gunners",
+  "publisher": "BoomBox",
+  "releaseDate": "20200113",
+  "description": "\nBoth Single and Multiplayer support (couch play)\n\nIncludes 80+ levels of insane action with multiple themes, fully destructible terrain and procedural level content\n\n20+ over the top weapons including Rifles, Flamethrowers, Rocket Launchers, and more!\n\nVarious game modes: Classic last man standing, team death-match, capture the flag and custom game modes so you can create the game you want to play!\n\nCustomizable characters so you can personalize your gaming experience ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EBE00FDC0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EBE00FDC0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EBE00FDC0000/screen/1",
+    "http://api.nlib.cc/nx/0100EBE00FDC0000/screen/2",
+    "http://api.nlib.cc/nx/0100EBE00FDC0000/screen/3",
+    "http://api.nlib.cc/nx/0100EBE00FDC0000/screen/4",
+    "http://api.nlib.cc/nx/0100EBE00FDC0000/screen/5"
+  ]
+}

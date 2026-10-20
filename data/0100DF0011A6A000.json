@@ -1,0 +1,16 @@
+{
+  "name": "Bladed Fury",
+  "publisher": "PM Studios",
+  "releaseDate": "20210325",
+  "description": "Set out to uncover the truth...\n\nFluid combat – The combo and hack’n slash style gameplay makes combat more exciting and difficult to master.\n\nUnique story and art style – Bladed Fury brings players an addictive action game experience with Chinese traditional art and sound design.\n\nChallenge mode – An unlockable challenge mode will test your combat and survival skills in the end. Make sure you’ve nearly perfected your combo ability!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DF0011A6A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DF0011A6A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DF0011A6A000/screen/1",
+    "http://api.nlib.cc/nx/0100DF0011A6A000/screen/2",
+    "http://api.nlib.cc/nx/0100DF0011A6A000/screen/3",
+    "http://api.nlib.cc/nx/0100DF0011A6A000/screen/4",
+    "http://api.nlib.cc/nx/0100DF0011A6A000/screen/5",
+    "http://api.nlib.cc/nx/0100DF0011A6A000/screen/6"
+  ]
+}

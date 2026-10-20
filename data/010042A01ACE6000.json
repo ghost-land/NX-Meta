@@ -1,0 +1,16 @@
+{
+  "name": "Neon Blast",
+  "publisher": "EntwicklerX",
+  "releaseDate": "20230310",
+  "description": "In Neon Blast, the Joy-Con™ is used to control a ball that can be recolored via color fields and destroys blocks of the same color. Furthermore, there are sliding stones and skull fields that cost a life. A level is solved when all destructible blocks are destroyed, the faster this happens, the more bonus points you get.\n\nFeatures:\n-challenging puzzle game\n-50 unique levels\n-stylish, modern and clean graphics\n-amazing soundtrack\n-lightweight game engine",
+  "bannerUrl": "http://api.nlib.cc/nx/010042A01ACE6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010042A01ACE6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010042A01ACE6000/screen/1",
+    "http://api.nlib.cc/nx/010042A01ACE6000/screen/2",
+    "http://api.nlib.cc/nx/010042A01ACE6000/screen/3",
+    "http://api.nlib.cc/nx/010042A01ACE6000/screen/4",
+    "http://api.nlib.cc/nx/010042A01ACE6000/screen/5",
+    "http://api.nlib.cc/nx/010042A01ACE6000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ChildStory",
+  "publisher": "Stamina Zero",
+  "releaseDate": "20260326",
+  "description": "A small town in the far north goes about its life: preparing for the Festival of the New Star, decorating streets, celebrating. The festival is inseparable from a cycle that repeats month after month. And Sonya stands at its center.\n\nShe's part of a story she's still trying to understand. A kind girl with a sharp mind and countless questions, she searches for answers among snow and lights.\n\nSonya helps friends, makes new ones, explores hidden corners, fights spirits, and solves puzzles. She acts, hoping her actions will lead to understanding.\n\nGame Features:\n- An isometric adventure with detailed pixel art that brings a cozy, living world to life\n- Combat against spirits and bosses that tests your reflexes and wit\n- Puzzles and challenges for those who love to explore\n- Memorable characters with their own stories: talk, help, and build friendships\n- A soulful soundtrack that warms the heart and stays with you\n\nThe cycle continues.",
+  "bannerUrl": "http://api.nlib.cc/nx/010078E026790000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010078E026790000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010078E026790000/screen/1",
+    "http://api.nlib.cc/nx/010078E026790000/screen/2",
+    "http://api.nlib.cc/nx/010078E026790000/screen/3",
+    "http://api.nlib.cc/nx/010078E026790000/screen/4",
+    "http://api.nlib.cc/nx/010078E026790000/screen/5",
+    "http://api.nlib.cc/nx/010078E026790000/screen/6"
+  ]
+}

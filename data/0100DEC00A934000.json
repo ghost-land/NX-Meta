@@ -1,0 +1,16 @@
+{
+  "name": "Trine 3: The Artifacts of Power",
+  "publisher": "Frozenbyte",
+  "releaseDate": "20190729",
+  "description": "Trine 3: The Artifacts of Power is a 3D platforming game of action, puzzles and adventure.\n\nThe heroes try to return their extraordinary gifts to the Artifact called Trine, and so they meddle with powers beyond their understanding: Trine shatters, and a heartless ancient sorcerer escapes. \nWith only a broken artifact to guide them, the heroes must try and repair the damage they've caused... or the damage that might yet be done. \n\n- Experience a fairytale world of breathtaking sceneries and face a myriad of physics-based puzzles, wonderful contraptions, dangerous foes and enchanting creatures.     \n\n- Explore 7 story-driven Chapters and 11 puzzle-solving, skill-focused Lost Pages    \n\n- Three playable characters, Pontius the Knight, Zoya the Thief and Amadeus the Wizard, each with their own skills and unique abilities    \n\n- Online and local co-op multiplayer for up to three players",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DEC00A934000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DEC00A934000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DEC00A934000/screen/1",
+    "http://api.nlib.cc/nx/0100DEC00A934000/screen/2",
+    "http://api.nlib.cc/nx/0100DEC00A934000/screen/3",
+    "http://api.nlib.cc/nx/0100DEC00A934000/screen/4",
+    "http://api.nlib.cc/nx/0100DEC00A934000/screen/5",
+    "http://api.nlib.cc/nx/0100DEC00A934000/screen/6"
+  ]
+}

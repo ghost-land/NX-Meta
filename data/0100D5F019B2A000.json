@@ -1,0 +1,16 @@
+{
+  "name": "Once Upon a Time on Halloween",
+  "publisher": "KrzysztofPodsada",
+  "releaseDate": "20221020",
+  "description": "In 1920, a pact was made between humans and pumpkins. People were supposed to take care of the pumpkins throughout the year. Pumpkins were to protect people from evil once a year. In one day, the pumpkins must stop the monsters of the whole world from passing into tomorrow. If they fail to do so, the world will be overrun by evil for 364 days. This day was called Halloween.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D5F019B2A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D5F019B2A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D5F019B2A000/screen/1",
+    "http://api.nlib.cc/nx/0100D5F019B2A000/screen/2",
+    "http://api.nlib.cc/nx/0100D5F019B2A000/screen/3",
+    "http://api.nlib.cc/nx/0100D5F019B2A000/screen/4",
+    "http://api.nlib.cc/nx/0100D5F019B2A000/screen/5",
+    "http://api.nlib.cc/nx/0100D5F019B2A000/screen/6"
+  ]
+}

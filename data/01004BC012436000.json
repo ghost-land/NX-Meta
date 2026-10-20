@@ -1,0 +1,16 @@
+{
+  "name": "Puzzle Bundle - 3 in 1",
+  "publisher": "Fallen Tree Games",
+  "releaseDate": "20200822",
+  "description": "Highrise Heroes: Word Challenge - A towering word-game and mystery-story adventure! Give your brain a workout with this charming word puzzle game. Note: Supports English (US and UK) words only.\n\nSwapperoo - The friendly puzzle game intent on your defeat. The rules are simple: tap an arrow to move it in the direction it faces. Make a row of 3 tiles of the same color and the tiles disappear. If that sounds too easy, don't worry - you'll find yourself in situations that require clever manipulation of the game board.\n\nQuell Zen - the very embodiment of relaxing logic games - features over 200 beautifully crafted challenges. Set against a narrative of a Japanese family divided, Quell Zen will take you on an unforgettable journey. Step inside this beautiful world today.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004BC012436000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004BC012436000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004BC012436000/screen/1",
+    "http://api.nlib.cc/nx/01004BC012436000/screen/2",
+    "http://api.nlib.cc/nx/01004BC012436000/screen/3",
+    "http://api.nlib.cc/nx/01004BC012436000/screen/4",
+    "http://api.nlib.cc/nx/01004BC012436000/screen/5",
+    "http://api.nlib.cc/nx/01004BC012436000/screen/6"
+  ]
+}

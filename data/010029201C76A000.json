@@ -1,0 +1,14 @@
+{
+  "name": "Stack Ball Run!",
+  "publisher": "ASI GAMES TECHNOLOGIES",
+  "releaseDate": "20230818",
+  "description": "Stack Ball Run! is a 3D arcade game where you smash, push and jump over rotating spiral platforms to get to the end.",
+  "bannerUrl": "http://api.nlib.cc/nx/010029201C76A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010029201C76A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010029201C76A000/screen/1",
+    "http://api.nlib.cc/nx/010029201C76A000/screen/2",
+    "http://api.nlib.cc/nx/010029201C76A000/screen/3",
+    "http://api.nlib.cc/nx/010029201C76A000/screen/4"
+  ]
+}

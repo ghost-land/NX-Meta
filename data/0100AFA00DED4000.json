@@ -1,0 +1,16 @@
+{
+  "name": "Hookbots",
+  "publisher": "Tree Interactive",
+  "releaseDate": "20190828",
+  "description": "Battle & challenge your human friends on this multiplayer robot party game: 52 ways to customize your bots & 14 game modes. From knights and dinosaurs, to bounty hunters and space warriors. Choose, customize and crush tons of different bots.\n\n52 WAYS TO CUSTOMIZE YOUR BOTS\nFrom knights and dinosaurs, to bounty hunters and space warriors, choose among tons of different bots - each with cool ways to customize it your own way!\n\n14 GAME MODES!\nHold the Flag, Racing Climbing, Robo Bomb, Volleyhook, Baskethook, Hookball, Big Boss, Coin Collector, Color Rings, Teams... - phew - and loooooooots more to challenge your friends.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AFA00DED4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AFA00DED4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AFA00DED4000/screen/1",
+    "http://api.nlib.cc/nx/0100AFA00DED4000/screen/2",
+    "http://api.nlib.cc/nx/0100AFA00DED4000/screen/3",
+    "http://api.nlib.cc/nx/0100AFA00DED4000/screen/4",
+    "http://api.nlib.cc/nx/0100AFA00DED4000/screen/5",
+    "http://api.nlib.cc/nx/0100AFA00DED4000/screen/6"
+  ]
+}

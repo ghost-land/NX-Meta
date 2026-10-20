@@ -1,0 +1,14 @@
+{
+  "name": "Gem Miner",
+  "publisher": "Digital Game Group",
+  "releaseDate": "20210319",
+  "description": "Help Ashley Dig her way through the mine and collect as many gems as possible before the time limit. Use specialized tools and explosives for an all out fun filled adventure!\nAvoid Bombs and Rocks, Dig up Gems and Bones and make  your riches. ",
+  "bannerUrl": "http://api.nlib.cc/nx/01006EA01451E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006EA01451E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006EA01451E000/screen/1",
+    "http://api.nlib.cc/nx/01006EA01451E000/screen/2",
+    "http://api.nlib.cc/nx/01006EA01451E000/screen/3",
+    "http://api.nlib.cc/nx/01006EA01451E000/screen/4"
+  ]
+}

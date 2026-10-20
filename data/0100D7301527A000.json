@@ -1,0 +1,16 @@
+{
+  "name": "Infection Maze",
+  "publisher": "Tenkai Games",
+  "releaseDate": "20210729",
+  "description": "In a hospital where the infected are wandering, a brother go to rescue a sister who is stuck.\nWith the tranquilizer gun in hand, go deeper into the hospital, putting infected people to sleep.\n\n- Aiming using the gyroscope\nTilt the controller to aim the gun.\nEnjoy the feeling as if you were actually holding the gun in your hand.\n\n- A different map every time you play\nThe map changes every time you play, so you can play it again and again.\n\n- Limited bullets\nThe number of bullets in the hospital is limited.\nDepending on the situation, develop your own strategies, such as using striking weapons or closing the shutters to escape from enemies.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D7301527A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D7301527A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D7301527A000/screen/1",
+    "http://api.nlib.cc/nx/0100D7301527A000/screen/2",
+    "http://api.nlib.cc/nx/0100D7301527A000/screen/3",
+    "http://api.nlib.cc/nx/0100D7301527A000/screen/4",
+    "http://api.nlib.cc/nx/0100D7301527A000/screen/5",
+    "http://api.nlib.cc/nx/0100D7301527A000/screen/6"
+  ]
+}

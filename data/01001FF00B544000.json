@@ -1,0 +1,13 @@
+{
+  "name": "NBA 2K19",
+  "publisher": "2K",
+  "releaseDate": "20180911",
+  "description": "NOTE: All multiplayer servers for NBA 2K19 will be shutdown as of 12/31/2020. After that time, all game functions requiring online servers will no longer function.\n\nNBA 2K celebrates 20 years of redefining what sports gaming can be, from best in class graphics & gameplay to groundbreaking game modes and an immersive open-world “Neighborhood.” NBA 2K19 continues to push limits as it brings gaming one step closer to real-life basketball excitement and culture.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001FF00B544000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001FF00B544000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001FF00B544000/screen/1",
+    "http://api.nlib.cc/nx/01001FF00B544000/screen/2",
+    "http://api.nlib.cc/nx/01001FF00B544000/screen/3"
+  ]
+}

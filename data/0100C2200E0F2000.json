@@ -1,0 +1,16 @@
+{
+  "name": "Drift Zone Arcade",
+  "publisher": "Plot Twist",
+  "releaseDate": "20200403",
+  "description": "Take part in two types of competition and win high cash prizes and reputation points needed to climb up the career ladder. Buy new cars, upgrade them and drive the wheels off them in diverse tracks. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C2200E0F2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C2200E0F2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C2200E0F2000/screen/1",
+    "http://api.nlib.cc/nx/0100C2200E0F2000/screen/2",
+    "http://api.nlib.cc/nx/0100C2200E0F2000/screen/3",
+    "http://api.nlib.cc/nx/0100C2200E0F2000/screen/4",
+    "http://api.nlib.cc/nx/0100C2200E0F2000/screen/5",
+    "http://api.nlib.cc/nx/0100C2200E0F2000/screen/6"
+  ]
+}

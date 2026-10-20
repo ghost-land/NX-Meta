@@ -1,0 +1,14 @@
+{
+  "name": "Puyo Puyo™Tetris®",
+  "publisher": "SEGA",
+  "releaseDate": "20170425",
+  "description": "Two puzzle game juggernauts collide as Tetris®, one of the largest-selling and recognized brands in gaming history, and Puyo Puyo™ from SEGA have combined to create a fun-to-play, fast-paced, competitive party game like no other!  The game offers tons of gameplay styles – from single-player Adventure and Challenge modes to ferocious competition with up-to-four player Arcade modes, for tons of Tetris/Puyo variety. ",
+  "bannerUrl": "http://api.nlib.cc/nx/010073C001D5E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010073C001D5E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010073C001D5E000/screen/1",
+    "http://api.nlib.cc/nx/010073C001D5E000/screen/2",
+    "http://api.nlib.cc/nx/010073C001D5E000/screen/3",
+    "http://api.nlib.cc/nx/010073C001D5E000/screen/4"
+  ]
+}

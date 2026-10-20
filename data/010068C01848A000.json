@@ -1,0 +1,16 @@
+{
+  "name": "Mira : A Bird's Flight",
+  "publisher": "Lone Wolf Technology",
+  "releaseDate": "20220712",
+  "description": "Play as a bird,  avoid traps, over 46 levels, and a final boss to beat ",
+  "bannerUrl": "http://api.nlib.cc/nx/010068C01848A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010068C01848A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010068C01848A000/screen/1",
+    "http://api.nlib.cc/nx/010068C01848A000/screen/2",
+    "http://api.nlib.cc/nx/010068C01848A000/screen/3",
+    "http://api.nlib.cc/nx/010068C01848A000/screen/4",
+    "http://api.nlib.cc/nx/010068C01848A000/screen/5",
+    "http://api.nlib.cc/nx/010068C01848A000/screen/6"
+  ]
+}

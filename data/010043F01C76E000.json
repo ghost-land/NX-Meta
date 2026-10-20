@@ -1,0 +1,16 @@
+{
+  "name": "Revenge of Banana",
+  "publisher": "Weakfish Studio",
+  "releaseDate": "20231019",
+  "description": "Revenge of Banana is a fast paced FPS game, one damage and you're dead! You have to kill the enemy with your swift moves, dodge a Strawberry trying to hit you, a Watermelon throwing seeds at you and an Exploding Tomato! The most important thing is speed. Can you beat your own record?",
+  "bannerUrl": "http://api.nlib.cc/nx/010043F01C76E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010043F01C76E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010043F01C76E000/screen/1",
+    "http://api.nlib.cc/nx/010043F01C76E000/screen/2",
+    "http://api.nlib.cc/nx/010043F01C76E000/screen/3",
+    "http://api.nlib.cc/nx/010043F01C76E000/screen/4",
+    "http://api.nlib.cc/nx/010043F01C76E000/screen/5",
+    "http://api.nlib.cc/nx/010043F01C76E000/screen/6"
+  ]
+}

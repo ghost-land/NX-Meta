@@ -1,0 +1,16 @@
+{
+  "name": "WARHAMMER 40,000: SPACE WOLF",
+  "publisher": "HeroCraft",
+  "releaseDate": "20200123",
+  "description": "Warhammer 40,000: Space Wolf is a turn-based tactical strategy in which you have to take command of the Space Wolves and join the battle against the wicked servants of Chaos and the sinister Necrons.\n \n Game features:\n \n - An epic story campaign, a unique survival mode\n - A system for levelling and tuning the squad\n - Different classes of armour and a huge number of weapons\n - All previously released DLC.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E5600D7B2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E5600D7B2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E5600D7B2000/screen/1",
+    "http://api.nlib.cc/nx/0100E5600D7B2000/screen/2",
+    "http://api.nlib.cc/nx/0100E5600D7B2000/screen/3",
+    "http://api.nlib.cc/nx/0100E5600D7B2000/screen/4",
+    "http://api.nlib.cc/nx/0100E5600D7B2000/screen/5",
+    "http://api.nlib.cc/nx/0100E5600D7B2000/screen/6"
+  ]
+}

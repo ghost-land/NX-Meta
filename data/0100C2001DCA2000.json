@@ -1,0 +1,15 @@
+{
+  "name": "XMas Toy Merge",
+  "publisher": "Aldora Games",
+  "releaseDate": "20231225",
+  "description": "Combine two Christmas ingredients of the same type to get the next one. Every time you win a game, you earn points. Get the highest score possible and match as many gifts as you can!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C2001DCA2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C2001DCA2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C2001DCA2000/screen/1",
+    "http://api.nlib.cc/nx/0100C2001DCA2000/screen/2",
+    "http://api.nlib.cc/nx/0100C2001DCA2000/screen/3",
+    "http://api.nlib.cc/nx/0100C2001DCA2000/screen/4",
+    "http://api.nlib.cc/nx/0100C2001DCA2000/screen/5"
+  ]
+}

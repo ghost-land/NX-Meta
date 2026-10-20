@@ -1,0 +1,13 @@
+{
+  "name": "Newton's Cradle Puzzle Game",
+  "publisher": "Peter Hijma",
+  "releaseDate": "20200827",
+  "description": "Newton's Cradle Puzzle Game is an unique & challenging puzzle game. There are almost no instructions, so you have to find out how to solve these levels yourself.\n\nThere are 33 (challenging!) levels and 8 jazzy songs in the background.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C0B012666000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C0B012666000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C0B012666000/screen/1",
+    "http://api.nlib.cc/nx/0100C0B012666000/screen/2",
+    "http://api.nlib.cc/nx/0100C0B012666000/screen/3"
+  ]
+}

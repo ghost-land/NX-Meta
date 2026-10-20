@@ -1,0 +1,16 @@
+{
+  "name": "One More Gate : A Wakfu Legend Complete Edition",
+  "publisher": "Ankama Games",
+  "releaseDate": "20240521",
+  "description": "One More Gate is a rogue-lite deck-builder that combines exploration and turn-based strategic combat. Head out to discover fantastic places, master the power of Wakfu to create destructive card combos, and defeat all those who would stand in your way!\n\n- Discover the \"World of Twelve\" universe with Oropo:\nGo through the gate and explore procedurally generated levels. Choose the smartest path, fight creatures, and take part in events that will make you stronger… or not.\n\n- Get stronger and master the powers of Wakfu:\nThis natural energy is unique to the World of Twelve. You must learn to use the variations in its flow to your advantage if you want to defeat the most fearsome creatures!\n\n- Meet quirky characters and complete quests:\nA dojo master, a body-building granny… the One More Gate universe is full of unique characters who will send you on missions in exchange for fabulous loot.\n\n- Collect more and more cards and improve them to create destructive combos:\nCrushing monsters, opening chests, spending kamas to buy a peddler's wares… There are many ways to expand your deck with the help of approximately 100 cards available in the game. \n\n- Each Run Is Unique:\nGems with unexpected powers, divine blessings (and curses)… There are so many secrets waiting for you to discover! Are you ready to go through the gate?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DAA01B108000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DAA01B108000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DAA01B108000/screen/1",
+    "http://api.nlib.cc/nx/0100DAA01B108000/screen/2",
+    "http://api.nlib.cc/nx/0100DAA01B108000/screen/3",
+    "http://api.nlib.cc/nx/0100DAA01B108000/screen/4",
+    "http://api.nlib.cc/nx/0100DAA01B108000/screen/5",
+    "http://api.nlib.cc/nx/0100DAA01B108000/screen/6"
+  ]
+}

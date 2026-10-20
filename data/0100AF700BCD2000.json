@@ -1,0 +1,15 @@
+{
+  "name": "Game Dev Story",
+  "publisher": "Kairosoft",
+  "releaseDate": "20181011",
+  "description": "Manage your own game company and try to create a million-selling game in this unique simulation.\n\nFeatures the ability to develop your company's own game console, plus a system for changing your staff members' professions.\n\nYour staff members can have a variety of game-related professions, from programmer to sound engineer.\n\nWork hard and you may reach the top of the video game industry!\n\n--\nTry searching for \"Kairosoft\" to see all of our games!!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AF700BCD2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AF700BCD2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AF700BCD2000/screen/1",
+    "http://api.nlib.cc/nx/0100AF700BCD2000/screen/2",
+    "http://api.nlib.cc/nx/0100AF700BCD2000/screen/3",
+    "http://api.nlib.cc/nx/0100AF700BCD2000/screen/4",
+    "http://api.nlib.cc/nx/0100AF700BCD2000/screen/5"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Bitmaster",
+  "publisher": "Sometimes You",
+  "releaseDate": "20210623",
+  "description": "You need to destroy the enemies and collect power-ups to improve weapons. Game balance changes periodically, which makes the game unpredictable and difficult to get a high score.\n\nFeatures:\n- 100 waves of enemies\n- 8 guns\n- 13 perks\n- 5 heroes to unlock\n- 20 types of enemies\n- 5 wicked bosses\n- Only 1 way to escape\n- Lot of factors that may cause troubles... or make the game easier!",
+  "bannerUrl": "http://api.nlib.cc/nx/010026E0141C8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010026E0141C8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010026E0141C8000/screen/1",
+    "http://api.nlib.cc/nx/010026E0141C8000/screen/2",
+    "http://api.nlib.cc/nx/010026E0141C8000/screen/3",
+    "http://api.nlib.cc/nx/010026E0141C8000/screen/4",
+    "http://api.nlib.cc/nx/010026E0141C8000/screen/5",
+    "http://api.nlib.cc/nx/010026E0141C8000/screen/6"
+  ]
+}

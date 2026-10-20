@@ -1,0 +1,16 @@
+{
+  "name": "Bad Chicken",
+  "publisher": "Coquibyte Games",
+  "releaseDate": "20240321",
+  "description": "Features:\n - Pixel Art graphics.\n - 8 Levels each with a Boss fight.\n - Multiple mini-boss fights.\n - Multiple weapons.\n - 4 Difficulty settings.\n - Vehicles.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007A301CC08000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007A301CC08000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007A301CC08000/screen/1",
+    "http://api.nlib.cc/nx/01007A301CC08000/screen/2",
+    "http://api.nlib.cc/nx/01007A301CC08000/screen/3",
+    "http://api.nlib.cc/nx/01007A301CC08000/screen/4",
+    "http://api.nlib.cc/nx/01007A301CC08000/screen/5",
+    "http://api.nlib.cc/nx/01007A301CC08000/screen/6"
+  ]
+}

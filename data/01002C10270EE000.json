@@ -1,0 +1,16 @@
+{
+  "name": "Wrack: Reclamation",
+  "publisher": "REDDEER.GAMES",
+  "releaseDate": "20260310",
+  "description": "Inspired by classics, Wrack is an arcade-style FPS. Mow down enemies one after another, and become more powerful the more you kill. Amass a deadly arsenal, discover secret powers... and save your world!\n\nIn this remake of 2014's Wrack, play as Kain as you shoot, slash, and hyperblast your way through a horde of invading aliens and robots to keep your planet safe.\n\nKEY FEATURES: \n- Kill Streaks: Rack up kill after kill to earn a kill streak! The more damage you pump into an enemy, the more extreme its death, and the more time you have to keep your streak going.\n- Resets: Kill enemies a second time by exploding their corpse into giblets to reset your timer! Use your current weapon(s), or your melee attack to slice a corpse to bits.\n- Fast Movement: Use your fast movement speed and abilities, like a super jump, to evade enemy attacks, and find secrets and treasure!\n- Bosses: When you're done racking up a huge kill streak, duke it out with minibosses and bosses... and put your skills to the test!",
+  "bannerUrl": "http://api.nlib.cc/nx/01002C10270EE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002C10270EE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002C10270EE000/screen/1",
+    "http://api.nlib.cc/nx/01002C10270EE000/screen/2",
+    "http://api.nlib.cc/nx/01002C10270EE000/screen/3",
+    "http://api.nlib.cc/nx/01002C10270EE000/screen/4",
+    "http://api.nlib.cc/nx/01002C10270EE000/screen/5",
+    "http://api.nlib.cc/nx/01002C10270EE000/screen/6"
+  ]
+}

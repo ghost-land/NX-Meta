@@ -1,0 +1,15 @@
+{
+  "name": "Yummy Jewels",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20230914",
+  "description": "Try this candy-matching puzzle game. Enjoy the sweet adventure full of candies and try to finish all levels. Be rewarded with delicious candy combos.",
+  "bannerUrl": "http://api.nlib.cc/nx/010065701BE72000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010065701BE72000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010065701BE72000/screen/1",
+    "http://api.nlib.cc/nx/010065701BE72000/screen/2",
+    "http://api.nlib.cc/nx/010065701BE72000/screen/3",
+    "http://api.nlib.cc/nx/010065701BE72000/screen/4",
+    "http://api.nlib.cc/nx/010065701BE72000/screen/5"
+  ]
+}

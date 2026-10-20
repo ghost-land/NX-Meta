@@ -1,0 +1,14 @@
+{
+  "name": "JarataireRPG",
+  "publisher": "AlignmentSharp",
+  "releaseDate": "20230413",
+  "description": "A simple puzzle game where you select and erase the same monster girl tiles.\nOnly the top tile can be selected, so be careful of the order in which you remove them.\nSkills can be used depending on the combination of monster girls.\nLet's erase more and more and give great damage to the enemy.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007AE01A968000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007AE01A968000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007AE01A968000/screen/1",
+    "http://api.nlib.cc/nx/01007AE01A968000/screen/2",
+    "http://api.nlib.cc/nx/01007AE01A968000/screen/3",
+    "http://api.nlib.cc/nx/01007AE01A968000/screen/4"
+  ]
+}

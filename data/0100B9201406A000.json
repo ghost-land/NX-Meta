@@ -1,0 +1,15 @@
+{
+  "name": "Neon White",
+  "publisher": "Annapurna Interactive",
+  "releaseDate": "20220616",
+  "description": "Neon White is a lightning fast first-person action game about exterminating demons in Heaven. You are White, an assassin handpicked from Hell to compete with other demon slayers for a chance to live permanently in Heaven. The other assassins seem familiar, though… did you know them in a past life?\n\nFeatures:\n• You play as Neon White, an assassin plucked from Hell to compete with other demon slayers for a shot at redemption.\n• Collect “Soul Cards” to attack your foes or discard them to use unique movement abilities.\n• Compete for the best times by cleverly combining cards to discover massive shortcuts.\n• Uncover Heaven’s mysteries by getting to know the other assassins… did you know them in a past life?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B9201406A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B9201406A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B9201406A000/screen/1",
+    "http://api.nlib.cc/nx/0100B9201406A000/screen/2",
+    "http://api.nlib.cc/nx/0100B9201406A000/screen/3",
+    "http://api.nlib.cc/nx/0100B9201406A000/screen/4",
+    "http://api.nlib.cc/nx/0100B9201406A000/screen/5"
+  ]
+}

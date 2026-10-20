@@ -1,0 +1,16 @@
+{
+  "name": "Hue",
+  "publisher": "Curve Digital",
+  "releaseDate": "20190606",
+  "description": "In Hue you explore a dangerous grey land, unearthing colored fragments on a journey to find your missing mother. As obstacles match the background, they disappear, creating new and exciting puzzles - full of peril, mystery… and colors unseen.\n\nKEY FEATURES\n\n•\tUnique color-matching mechanic, offering a new twist on the classic adventure game\n•\tFull colorblind support, using symbols as a color aid\n•\tFully remappable controller layout (exclusive to\nNintendo Switch™ on consoles)\n•\tA heartfelt story that touches on themes of love, loss, existence and remorse\n•\tA world that is full of lively characters to talk to, each with their own personality and story\n•\tStark silhouetted art style with bright, bold colours\n•\tOver 30 original music tracks, composed exclusively for Hue\n•\tProfessionally voiced narration by Anna Acton and Matthew Wade, some of the UK’s best television talent",
+  "bannerUrl": "http://api.nlib.cc/nx/01005A700C9BA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005A700C9BA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005A700C9BA000/screen/1",
+    "http://api.nlib.cc/nx/01005A700C9BA000/screen/2",
+    "http://api.nlib.cc/nx/01005A700C9BA000/screen/3",
+    "http://api.nlib.cc/nx/01005A700C9BA000/screen/4",
+    "http://api.nlib.cc/nx/01005A700C9BA000/screen/5",
+    "http://api.nlib.cc/nx/01005A700C9BA000/screen/6"
+  ]
+}

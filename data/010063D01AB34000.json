@@ -1,0 +1,16 @@
+{
+  "name": "Cattails: Wildwood Story",
+  "publisher": "FalconDevelopment",
+  "releaseDate": "20231130",
+  "description": "Lead your colony into the mysterious Wildwood. Hunt prey, harvest herbs, collect magical treasures, & defend your new home from intruders. Build a thriving town to recruit new cats. Get to know the residents, fall in love, & raise a litter of kittens!\n\n•Hunt prey throughout the open world to keep your colony well-fed\n•Befriend or romance one of over 20 unique cats. Bring them with you on your adventures!\n•Start a family and raise a litter of kittens!\n•Build & customize your town any way you like. Expand your colony to attract new residents\n•Capture territory and resources from the clutches of the evil Voidling Cats\n•Spend the days growing a garden, decorating your den, or customizing your kitty\n\nMeow!",
+  "bannerUrl": "http://api.nlib.cc/nx/010063D01AB34000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010063D01AB34000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010063D01AB34000/screen/1",
+    "http://api.nlib.cc/nx/010063D01AB34000/screen/2",
+    "http://api.nlib.cc/nx/010063D01AB34000/screen/3",
+    "http://api.nlib.cc/nx/010063D01AB34000/screen/4",
+    "http://api.nlib.cc/nx/010063D01AB34000/screen/5",
+    "http://api.nlib.cc/nx/010063D01AB34000/screen/6"
+  ]
+}

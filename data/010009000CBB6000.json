@@ -1,0 +1,16 @@
+{
+  "name": "Super Hero Fight Club: Reloaded",
+  "publisher": "QubicGames",
+  "releaseDate": "20181224",
+  "description": "Welcome to the marvelous Super Hero Fight Club:\n\n- 17 fabulous fighters and their superpowers\n- Quick tactical combats\n- Tricky modes, levels and powerups\n- Up to 4 players rumble\n- Single player challenges\n\nBecome the Queen or King of the Fight Club!",
+  "bannerUrl": "http://api.nlib.cc/nx/010009000CBB6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010009000CBB6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010009000CBB6000/screen/1",
+    "http://api.nlib.cc/nx/010009000CBB6000/screen/2",
+    "http://api.nlib.cc/nx/010009000CBB6000/screen/3",
+    "http://api.nlib.cc/nx/010009000CBB6000/screen/4",
+    "http://api.nlib.cc/nx/010009000CBB6000/screen/5",
+    "http://api.nlib.cc/nx/010009000CBB6000/screen/6"
+  ]
+}

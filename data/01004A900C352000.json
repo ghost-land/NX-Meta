@@ -1,0 +1,16 @@
+{
+  "name": "Pizza Titan Ultra",
+  "publisher": "Breakfall",
+  "releaseDate": "20181019",
+  "description": "Pizza Titan Ultra is a fast paced 3rd-person action platformer focused on fighting and smashing through a futuristic city, in a giant mech, to deliver pizza. Experience arcadey action with speedy attacking and dodging, while attempting to control the massive weight of a 10 storey mobile pizzeria - just try not to make too much of a mess! ",
+  "bannerUrl": "http://api.nlib.cc/nx/01004A900C352000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004A900C352000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004A900C352000/screen/1",
+    "http://api.nlib.cc/nx/01004A900C352000/screen/2",
+    "http://api.nlib.cc/nx/01004A900C352000/screen/3",
+    "http://api.nlib.cc/nx/01004A900C352000/screen/4",
+    "http://api.nlib.cc/nx/01004A900C352000/screen/5",
+    "http://api.nlib.cc/nx/01004A900C352000/screen/6"
+  ]
+}

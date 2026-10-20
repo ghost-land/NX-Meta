@@ -1,0 +1,15 @@
+{
+  "name": "Axe Champ Shoot Out",
+  "publisher": "Entity3",
+  "releaseDate": "20241109",
+  "description": "Compete in Axe Champ Shoot Out to reach the finish line first!\nSmash all the targets and move back closer to the winning line!\nBeat the competition to be the true Axe Champion!\nOr try your skills in Solo Mode as you smash your way through the levels and take on the bosses.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FAB020E08000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FAB020E08000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FAB020E08000/screen/1",
+    "http://api.nlib.cc/nx/0100FAB020E08000/screen/2",
+    "http://api.nlib.cc/nx/0100FAB020E08000/screen/3",
+    "http://api.nlib.cc/nx/0100FAB020E08000/screen/4",
+    "http://api.nlib.cc/nx/0100FAB020E08000/screen/5"
+  ]
+}

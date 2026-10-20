@@ -1,0 +1,16 @@
+{
+  "name": "Extreme Snowboard",
+  "publisher": "Pix Arts",
+  "releaseDate": "20230104",
+  "description": "Ride your snowboard at high speed down the slopes of the best ski resorts in Europe and America.\n\nSet the fastest times solo, or against a friend/family in the super fun multiplayer mode.\n\nYou will be able to perform numerous tricks with the help of obstacles on the slope. Each trick you perform will give you time bonuses that will improve your final time.\n\nExtreme Snowboard, with its hyper-realistic physics engine, will provide you with strong sensations and long hours of fun with rock musics.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C8601A1CE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C8601A1CE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C8601A1CE000/screen/1",
+    "http://api.nlib.cc/nx/0100C8601A1CE000/screen/2",
+    "http://api.nlib.cc/nx/0100C8601A1CE000/screen/3",
+    "http://api.nlib.cc/nx/0100C8601A1CE000/screen/4",
+    "http://api.nlib.cc/nx/0100C8601A1CE000/screen/5",
+    "http://api.nlib.cc/nx/0100C8601A1CE000/screen/6"
+  ]
+}

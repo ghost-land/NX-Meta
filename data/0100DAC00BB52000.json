@@ -1,0 +1,16 @@
+{
+  "name": "Inventioneers",
+  "publisher": "Filimundus",
+  "releaseDate": "20190325",
+  "description": "BECOME AN INVENTIONEER!\nSolve clever and funny inventions with the help of the amazing Inventioneers! They have special powers you can use and at the same time learn about physics in a creative way. Blaze, for example, can create Fire. Magneta uses magnetism to pull metal stuff. Freezy likes to...freeze stuff. Bunny is a rabbit. The possibilities are endless. \n\nFAMILY COUCH SOLVING PUZZLE GAME\nUp to four players can work together and solve the same invention, creating the ultimate couch solving experience. (Every player need a separate Joy-Con™ controller though). The screen can also be used as a touch device for solving.\n\nBE CREATIVE!\nWith the built in-editor, you can create your own inventions! Challenge your friends and family with new ingenious creations!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DAC00BB52000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DAC00BB52000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DAC00BB52000/screen/1",
+    "http://api.nlib.cc/nx/0100DAC00BB52000/screen/2",
+    "http://api.nlib.cc/nx/0100DAC00BB52000/screen/3",
+    "http://api.nlib.cc/nx/0100DAC00BB52000/screen/4",
+    "http://api.nlib.cc/nx/0100DAC00BB52000/screen/5",
+    "http://api.nlib.cc/nx/0100DAC00BB52000/screen/6"
+  ]
+}

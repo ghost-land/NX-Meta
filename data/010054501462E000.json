@@ -1,0 +1,14 @@
+{
+  "name": "Mr Trials",
+  "publisher": "Entity3",
+  "releaseDate": "20210324",
+  "description": "Test your skills in Mr Trials\nCompete in 50 amazing levels over 5 different worlds\nBeat the stunt score to receive the Golden Helmets\nHave you got what it takes?",
+  "bannerUrl": "http://api.nlib.cc/nx/010054501462E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010054501462E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010054501462E000/screen/1",
+    "http://api.nlib.cc/nx/010054501462E000/screen/2",
+    "http://api.nlib.cc/nx/010054501462E000/screen/3",
+    "http://api.nlib.cc/nx/010054501462E000/screen/4"
+  ]
+}

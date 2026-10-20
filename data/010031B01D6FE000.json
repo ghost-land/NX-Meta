@@ -1,0 +1,14 @@
+{
+  "name": "Basketball Arcade",
+  "publisher": "IntuitiveComputers",
+  "releaseDate": "20231130",
+  "description": "How many baskets can you score in 40 seconds?\n\nBasketball Arcade is an addictive game designed for real basketball fans of all ages.\n\nFEATURES:\n\n- 4 balls with different scoring rules\n- Bonus round after every 40 points\n- Moving hoop in bonus rounds\n- Easy to pick up one touch swipe controls\n- Realistic physics",
+  "bannerUrl": "http://api.nlib.cc/nx/010031B01D6FE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010031B01D6FE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010031B01D6FE000/screen/1",
+    "http://api.nlib.cc/nx/010031B01D6FE000/screen/2",
+    "http://api.nlib.cc/nx/010031B01D6FE000/screen/3",
+    "http://api.nlib.cc/nx/010031B01D6FE000/screen/4"
+  ]
+}

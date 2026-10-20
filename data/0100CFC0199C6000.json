@@ -1,0 +1,16 @@
+{
+  "name": "Turret Lab",
+  "publisher": "Weakfish Studio",
+  "releaseDate": "20221022",
+  "description": "Will you be able to escape from this professor's lab?\n\nThis professor's lab isn't as easy as it looks.\nAn advanced lab with turrets and lots of traps.\nYou get stronger with each level you pass\nand you need to escape from this lab!\nThis crazy professor turned you a CYBORG!\n\nFeatures;\nChallenging Designed Levels,\nEach level has its own unique gameplay mechanics.\nA Crazy Professor.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CFC0199C6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CFC0199C6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CFC0199C6000/screen/1",
+    "http://api.nlib.cc/nx/0100CFC0199C6000/screen/2",
+    "http://api.nlib.cc/nx/0100CFC0199C6000/screen/3",
+    "http://api.nlib.cc/nx/0100CFC0199C6000/screen/4",
+    "http://api.nlib.cc/nx/0100CFC0199C6000/screen/5",
+    "http://api.nlib.cc/nx/0100CFC0199C6000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Jetpack Race",
+  "publisher": "Entity3",
+  "releaseDate": "20240706",
+  "description": "Compete for fuel as you race to the finish line wearing jetpacks!\n\nStick to the track or use up fuel to take short cuts to get ahead\n\nUnlock different characters and race many tracks!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F7A01F3BE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F7A01F3BE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F7A01F3BE000/screen/1",
+    "http://api.nlib.cc/nx/0100F7A01F3BE000/screen/2",
+    "http://api.nlib.cc/nx/0100F7A01F3BE000/screen/3",
+    "http://api.nlib.cc/nx/0100F7A01F3BE000/screen/4",
+    "http://api.nlib.cc/nx/0100F7A01F3BE000/screen/5"
+  ]
+}

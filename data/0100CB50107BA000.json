@@ -1,0 +1,16 @@
+{
+  "name": "Truck Driver",
+  "publisher": "Soedesco",
+  "releaseDate": "20201117",
+  "description": "When you inherit a truck from your father, you decide to take your chance and move to a new city. Here, it’s up to you to make a name for yourself and earn the respect of the local community. Drive through a seamless open world, work with all kinds of people ranging from a constructor to a lumberjack and honor your father by making it as a Truck Driver!\n\nFeatures\n● Enjoy a trucking experience focused on your career as a truck driver\n● Build stronger relationships with the local community with each job\n● Customize your truck with tons of parts and tune it to your liking\n● Navigate through diverse landscapes and interesting locations",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CB50107BA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CB50107BA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CB50107BA000/screen/1",
+    "http://api.nlib.cc/nx/0100CB50107BA000/screen/2",
+    "http://api.nlib.cc/nx/0100CB50107BA000/screen/3",
+    "http://api.nlib.cc/nx/0100CB50107BA000/screen/4",
+    "http://api.nlib.cc/nx/0100CB50107BA000/screen/5",
+    "http://api.nlib.cc/nx/0100CB50107BA000/screen/6"
+  ]
+}

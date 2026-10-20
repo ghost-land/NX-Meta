@@ -1,0 +1,18 @@
+{
+  "name": "Prison Escape Simulator 2026",
+  "publisher": "RoVi Ninen",
+  "releaseDate": "20260807",
+  "description": "Dig Your Way to Freedom\n\nTrapped behind bars, you have only one chance to escape: dig a secret tunnel beneath your prison cell and reach freedom before the guards discover your plan.\n\nEvery day is a careful balancing act. Dig deeper into the ground, hide the tunnel entrance under your cell's carpet, and keep an eye on guard patrols. One mistake is all it takes to get caught, lose progress, and start over.\n\nAs you excavate the tunnel, you'll uncover valuable items buried underground. Trade them with the prison cook for soap—the prison's underground currency—and invest in powerful upgrades. Buy better tools to dig faster, increase your carrying capacity, and expand your pockets to secretly transport more dirt.\n\nManaging the excavated soil is just as important as digging. Sneak outside and dispose of it before anyone becomes suspicious. The deeper your tunnel grows, the more careful you'll need to be.\n\nWith every upgrade, every successful digging session, and every close call with the guards, you'll move one step closer to freedom.\n\nCan you outsmart the prison, complete the tunnel, and make your escape?\n\nFeatures:\n\t•\tDig a secret tunnel beneath your prison cell.\n\t•\tAvoid guard inspections and stay hidden.\n\t•\tDiscover valuable items while excavating.\n\t•\tTrade found items for soap, the prison currency.\n\t•\tUpgrade tools, inventory space, and carrying capacity.\n\t•\tDispose of dirt without raising suspicion.\n\t•\tInteract with prison NPCs.\n\t•\tTake a break with a fun basketball minigame.\n\t•\tUnlock the final escape and earn your freedom.\n      \n The tunnel won't dig itself. Start digging.",
+  "bannerUrl": "http://api.nlib.cc/nx/010059E027D4E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010059E027D4E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010059E027D4E000/screen/1",
+    "http://api.nlib.cc/nx/010059E027D4E000/screen/2",
+    "http://api.nlib.cc/nx/010059E027D4E000/screen/3",
+    "http://api.nlib.cc/nx/010059E027D4E000/screen/4",
+    "http://api.nlib.cc/nx/010059E027D4E000/screen/5",
+    "http://api.nlib.cc/nx/010059E027D4E000/screen/6"
+  ],
+  "version": 0,
+  "size": 542161750
+}

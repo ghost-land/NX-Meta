@@ -1,0 +1,16 @@
+{
+  "name": "Mia's Christmas",
+  "publisher": "Nellyvision",
+  "releaseDate": "20221219",
+  "description": "Join Mia this Christmas as she prepares to decorate her flat in this deceptively simple, increasingly difficult puzzle game. Weave your way across the board collecting baubles and trinkets to fill her Christmas baskets with Christmas cheer. Race against the clock to collect the combinations Mia needs so she can complete the orders and make enough money to convert her flat into a Christmas wonderland.\n\nKeep an eye on what Mia’s collecting and test your memory with special ornament levels where you’ll need to collect the correct patterns of trinkets to make the items. \n\nUse your coins to upgrade Mia’s flat and gain extra time, or buy equipment to help you succeed like an alarm clock to slow down time! \n\nStruggling on a level, or just want some company? With local multiplayer your friends can jump in and help (or hinder) you on any level.   ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B4B019618000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B4B019618000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B4B019618000/screen/1",
+    "http://api.nlib.cc/nx/0100B4B019618000/screen/2",
+    "http://api.nlib.cc/nx/0100B4B019618000/screen/3",
+    "http://api.nlib.cc/nx/0100B4B019618000/screen/4",
+    "http://api.nlib.cc/nx/0100B4B019618000/screen/5",
+    "http://api.nlib.cc/nx/0100B4B019618000/screen/6"
+  ]
+}

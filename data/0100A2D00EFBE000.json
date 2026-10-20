@@ -1,0 +1,16 @@
+{
+  "name": "Guitar",
+  "publisher": "Sabec",
+  "releaseDate": "20201113",
+  "description": "Turn your Nintendo Switch™ into mini guitar and learn to play anywhere, anytime.\n\nGuitar is a simple and fun game for kids and adults of all age, that will let you learn and play your favourite songs with the touch screen and the Joy-Con™ controllers.\n\nChoose from one of the three modes of play, novice,  learn or compose. You will be surprised how easy it is to play something that sounds so amazing, so quick.\n\nAs bonus Guitar also comes with an acoustic, classic and electric guitar so you can amaze your family and friends with your new learnt musical talent.\n\nGuitar is the fun way for anyone to start learning to play the guitar and improve ones hand eye co-ordination.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A2D00EFBE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A2D00EFBE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A2D00EFBE000/screen/1",
+    "http://api.nlib.cc/nx/0100A2D00EFBE000/screen/2",
+    "http://api.nlib.cc/nx/0100A2D00EFBE000/screen/3",
+    "http://api.nlib.cc/nx/0100A2D00EFBE000/screen/4",
+    "http://api.nlib.cc/nx/0100A2D00EFBE000/screen/5",
+    "http://api.nlib.cc/nx/0100A2D00EFBE000/screen/6"
+  ]
+}

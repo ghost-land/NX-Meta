@@ -1,0 +1,15 @@
+{
+  "name": "Blipz",
+  "publisher": "THEDOLLARGAMESTORE",
+  "releaseDate": "20220210",
+  "description": "Welcome to Blipz, one of the most addictive and unique puzzlers to set foot on this planet. Play through 5 carefully crafted game modes as you aim for highscores, earn cool new badges, and face grading challenges to prove your mastery!\n--------\nClassic\n--------\nThe standard mode of Blipz. Play carefully as you try and group together Blipz of the same color, but be careful not to corner yourself! The faster you play the more score you earn.\n\n--------\nRush\n--------\n60 second rounds filled with utter chaos! Multiplier is always at max, and occasional bombs are given to clear out the board with spectacular explosions\n\n--------\nDropout\n--------\nA mode for the strategic thinkers! Every few moves a tile falls away, changing the way the board plays. Playing fast here has no benefit.\n\n--------\nShatter\n--------\nPositioning is key here. Normal matches don't grant a lot of points, but creating matches on the randomly selected gold tiles will reward you handsomely!\n\n--------\nRanked\n--------\nWant to strut your stuff and showcase your skills? Ranked presents you with some seriously tough challenges. Can you beat all of them and unlock the maximum ranked badge?",
+  "bannerUrl": "http://api.nlib.cc/nx/01002AC017848000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002AC017848000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002AC017848000/screen/1",
+    "http://api.nlib.cc/nx/01002AC017848000/screen/2",
+    "http://api.nlib.cc/nx/01002AC017848000/screen/3",
+    "http://api.nlib.cc/nx/01002AC017848000/screen/4",
+    "http://api.nlib.cc/nx/01002AC017848000/screen/5"
+  ]
+}

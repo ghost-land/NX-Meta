@@ -1,0 +1,14 @@
+{
+  "name": "Marbles Rush",
+  "publisher": "Kistler Studios",
+  "releaseDate": "20210707",
+  "description": "The game is an amazing three match puzzle game! Your target is to eliminate all the marble and don't let the chain reach the end. You elimate the balls by shooting the same color in the row to end up with a minimum of three of the same kind to eliminate them. Discover over 80 action packed levels and use different power ups to elimate the chain. ",
+  "bannerUrl": "http://api.nlib.cc/nx/010001601590E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010001601590E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010001601590E000/screen/1",
+    "http://api.nlib.cc/nx/010001601590E000/screen/2",
+    "http://api.nlib.cc/nx/010001601590E000/screen/3",
+    "http://api.nlib.cc/nx/010001601590E000/screen/4"
+  ]
+}

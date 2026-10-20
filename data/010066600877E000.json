@@ -1,0 +1,16 @@
+{
+  "name": "ACA NEOGEO ART OF FIGHTING 2",
+  "publisher": "HAMSTER",
+  "releaseDate": "20180111",
+  "description": "\"ART OF FIGHTING 2\" is a fighting game released by SNK in 1994.\n\nTwelve fighters compete to be crowned as the strongest one in the “King of Fighters” ultimate fighting championship.\n\nNew mechanics such as the revamped “Rage Guage”, the addition of both weak and strong attacks, and a landing recovery mechanic mean that battles are even more intense than in the previous title!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "bannerUrl": "http://api.nlib.cc/nx/010066600877E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010066600877E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010066600877E000/screen/1",
+    "http://api.nlib.cc/nx/010066600877E000/screen/2",
+    "http://api.nlib.cc/nx/010066600877E000/screen/3",
+    "http://api.nlib.cc/nx/010066600877E000/screen/4",
+    "http://api.nlib.cc/nx/010066600877E000/screen/5",
+    "http://api.nlib.cc/nx/010066600877E000/screen/6"
+  ]
+}

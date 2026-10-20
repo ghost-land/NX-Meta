@@ -1,0 +1,16 @@
+{
+  "name": "Poopdie - Chapter One",
+  "publisher": "Bulbware",
+  "releaseDate": "20200625",
+  "description": "Mold and manage your own Poops!  Upgrade them with unique skills. Fart ancient spells. Defeat evil Samron and his army of Buttcreatures.",
+  "bannerUrl": "http://api.nlib.cc/nx/010051A011AD8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010051A011AD8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010051A011AD8000/screen/1",
+    "http://api.nlib.cc/nx/010051A011AD8000/screen/2",
+    "http://api.nlib.cc/nx/010051A011AD8000/screen/3",
+    "http://api.nlib.cc/nx/010051A011AD8000/screen/4",
+    "http://api.nlib.cc/nx/010051A011AD8000/screen/5",
+    "http://api.nlib.cc/nx/010051A011AD8000/screen/6"
+  ]
+}

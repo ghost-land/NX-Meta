@@ -1,0 +1,16 @@
+{
+  "name": "Vandals",
+  "publisher": "ARTE Experience",
+  "releaseDate": "20190425",
+  "description": "Vandals is an infiltration game that will transport you to the most emblematic cities of street art. In this turn-based game, the aim is to sneak around police surveillance and spray walls that grow harder and harder to access.\n\nFrom Paris to Tokyo, via São Paulo, Berlin and New York, follow in the wake of ultra-famous street artists like Blek Le Rat and Keith Haring.\nWith Vandals, you can bomb your alias on the walls of New York like Lady Pink, paint childlike characters like Keith Haring, or get inspired by the poems of Miss.Tic and write your own. \n\nAfter Type:Rider, Vandals is the new project by Cosmografik. It is a video game published and co-produced by ARTE - the European cultural TV and digital channel - and Ex Nihilo.  ",
+  "bannerUrl": "http://api.nlib.cc/nx/01007C500D650000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007C500D650000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007C500D650000/screen/1",
+    "http://api.nlib.cc/nx/01007C500D650000/screen/2",
+    "http://api.nlib.cc/nx/01007C500D650000/screen/3",
+    "http://api.nlib.cc/nx/01007C500D650000/screen/4",
+    "http://api.nlib.cc/nx/01007C500D650000/screen/5",
+    "http://api.nlib.cc/nx/01007C500D650000/screen/6"
+  ]
+}

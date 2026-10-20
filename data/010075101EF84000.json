@@ -1,0 +1,16 @@
+{
+  "name": "Stray",
+  "publisher": "Annapurna Interactive",
+  "releaseDate": "20241119",
+  "description": "Lost, alone and separated from family, a stray cat must untangle an ancient mystery to escape a long-forgotten city.  \n\nStray is a third-person cat adventure game set amidst the detailed, neon-lit alleys of a decaying cybercity and the murky environments of its seedy underbelly. Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by curious droids and dangerous creatures. \n\nSee the world through the eyes of a cat and interact with the environment in playful ways. Be stealthy, nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this mysterious world. \n\nAlong the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo must find a way out. \n\nStray is developed by BlueTwelve Studio, a small team from the south of France mostly made up of cats and a handful of humans.",
+  "bannerUrl": "http://api.nlib.cc/nx/010075101EF84000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010075101EF84000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010075101EF84000/screen/1",
+    "http://api.nlib.cc/nx/010075101EF84000/screen/2",
+    "http://api.nlib.cc/nx/010075101EF84000/screen/3",
+    "http://api.nlib.cc/nx/010075101EF84000/screen/4",
+    "http://api.nlib.cc/nx/010075101EF84000/screen/5",
+    "http://api.nlib.cc/nx/010075101EF84000/screen/6"
+  ]
+}

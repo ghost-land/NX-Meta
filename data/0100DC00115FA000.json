@@ -1,0 +1,16 @@
+{
+  "name": "Ant-Gravity: Tiny's Adventure",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20200528",
+  "description": "Ant-gravity is a 2D Platform game with puzzle elements in which you control Tiny, an ant with the power to control gravity. \n \nUse your powers to explore the ever changing levels, avoid threats, overcome obstacles and find secrets in this classic 2D game.\n \nMain Features:\nGravity Manipulation\nChallenging gameplay.\nExplore non-linear paths using the power of gravity.\nLanguage Support for Brazilian Portuguese and English.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DC00115FA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DC00115FA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DC00115FA000/screen/1",
+    "http://api.nlib.cc/nx/0100DC00115FA000/screen/2",
+    "http://api.nlib.cc/nx/0100DC00115FA000/screen/3",
+    "http://api.nlib.cc/nx/0100DC00115FA000/screen/4",
+    "http://api.nlib.cc/nx/0100DC00115FA000/screen/5",
+    "http://api.nlib.cc/nx/0100DC00115FA000/screen/6"
+  ]
+}

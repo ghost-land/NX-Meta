@@ -1,0 +1,16 @@
+{
+  "name": "Frogo Deluxe",
+  "publisher": "Zakym",
+  "releaseDate": "20241017",
+  "description": "In this crossing road game, players must navigate through various obstacles, collecting coins and special items along the way. The coins collected can be used to purchase new animals, each with more lives, enhancing the gameplay experience. The game is infinite, becoming more challenging as players achieve higher scores. How far can you go?",
+  "bannerUrl": "http://api.nlib.cc/nx/010085A020A4E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010085A020A4E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010085A020A4E000/screen/1",
+    "http://api.nlib.cc/nx/010085A020A4E000/screen/2",
+    "http://api.nlib.cc/nx/010085A020A4E000/screen/3",
+    "http://api.nlib.cc/nx/010085A020A4E000/screen/4",
+    "http://api.nlib.cc/nx/010085A020A4E000/screen/5",
+    "http://api.nlib.cc/nx/010085A020A4E000/screen/6"
+  ]
+}

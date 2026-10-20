@@ -1,0 +1,16 @@
+{
+  "name": "Piano",
+  "publisher": "Sabec",
+  "releaseDate": "20200515",
+  "description": "Turn your Switch into a  mini piano and learn to play anywhere, anytime.\n\nPiano is a simple and fun game for kids and adults of all age, that will teach you how to play your favourite songs. \n\nChoose from one of the 9 included classic learning songs that will teach you how to play them like a professional by highlighting the keys.  You will be surprised how easy it is to play something that sounds so amazing so quick.\n\nPiano also comes with a free play mode, so you can anything you wany, maybe after enough practice in the learning mode you can play one of the included songs  without any assistance and amaze you family and friends.\n\nPiano is the fun way for anyone to start learning to play the piano and improve ones hand eye co-ordination.",
+  "bannerUrl": "http://api.nlib.cc/nx/010045B011E1E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010045B011E1E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010045B011E1E000/screen/1",
+    "http://api.nlib.cc/nx/010045B011E1E000/screen/2",
+    "http://api.nlib.cc/nx/010045B011E1E000/screen/3",
+    "http://api.nlib.cc/nx/010045B011E1E000/screen/4",
+    "http://api.nlib.cc/nx/010045B011E1E000/screen/5",
+    "http://api.nlib.cc/nx/010045B011E1E000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Trading Simulator",
+  "publisher": "ASI GAMES TECHNOLOGIES",
+  "releaseDate": "20240306",
+  "description": "Trading Simulator is an exciting and educational game that immerses you in the world of financial markets, where you become a virtual trader. In this game, you can test your trading skills on various markets such as stocks, commodities, currencies, and cryptocurrencies, without the risk of losing real money.\n\nThe game offers a wide range of features, including the ability to create your own trading strategies as well as educational materials and analytical tools to enhance your financial intelligence.\n\nTrading Simulator is the perfect way to start your journey into the world of investments and trading, providing you with practical experience and knowledge needed for successful management of your investments.",
+  "bannerUrl": "http://api.nlib.cc/nx/010079A01E344000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010079A01E344000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010079A01E344000/screen/1",
+    "http://api.nlib.cc/nx/010079A01E344000/screen/2",
+    "http://api.nlib.cc/nx/010079A01E344000/screen/3",
+    "http://api.nlib.cc/nx/010079A01E344000/screen/4",
+    "http://api.nlib.cc/nx/010079A01E344000/screen/5"
+  ]
+}

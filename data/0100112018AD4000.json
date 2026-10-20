@@ -1,0 +1,15 @@
+{
+  "name": "Jewel Diamonds",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20221006",
+  "description": "Try this unique and fun match 3 puzzle game. Progress throughout the game and unlock different power ups. Complete various challenges to unlock skins for your gems.\n\nFind and tap groups of 3 or more gems of the same colour to clear them from the field. Earn score to progress through the mine. Clearing larger groups earns you more score. Reach power ups to unlock them for usage.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100112018AD4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100112018AD4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100112018AD4000/screen/1",
+    "http://api.nlib.cc/nx/0100112018AD4000/screen/2",
+    "http://api.nlib.cc/nx/0100112018AD4000/screen/3",
+    "http://api.nlib.cc/nx/0100112018AD4000/screen/4",
+    "http://api.nlib.cc/nx/0100112018AD4000/screen/5"
+  ]
+}

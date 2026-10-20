@@ -1,0 +1,16 @@
+{
+  "name": "Missing Banban",
+  "publisher": "Feardemic",
+  "releaseDate": "20250529",
+  "description": "Your friend went missing, and a dark force is looming in this already deranged world. You, Sheriff Toadster, are the only toad that can save him in this intense action-packed side-scroller adventure! Jump around, shoot your way through and investigate the mysterious disappearance, all while exploring the land and meeting the intriguing characters of this universe!\n\nFeatures:\n• BEWARE OF TRAPS - avoid dangers and move with precision to get through the obstacles in your path.\n• DON’T STAND STILL - dash, climb walls and jump to conquer this challenging realm.\n• AROUND THE WORLD, AROUND THE WORLD - roam through beaches, forests, secret factories and other environments on your journey.\n• NEVER BACK DOWN - defeat the enemies to get closer to your friend.\n• TAKE YOUR PICK - choose from multiple weapons and special abilities to craft the best strategy.\n• FAMILIAR, BUT DIFFERENT - defeat your old friends, now corrupted by sickness. Save them and… Maybe reconcile later?\n\nAdditional languages:\n- Bulgarian (BG/БЪЛГАРСКИ),\n- Czech (CZ/ČEŠTINA),\n- Danish (DK/DANSK),\n- Finnish (FIN/SUOMI),\n- Hungarian (HU/MAGYAR),\n- Indonesian (IDN/INDONESIA),\n- Norwegian (NOR/NORGE),\n- Polish (PL/POLSKI),\n- Romanian (ROU/ROMÂNĂ),\n- Swedish (SE/SVENSKA),\n- Turkish (TUR/TÜRKÇE),\n- Ukrainian (UA/УКРАЇНСЬКА).",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E0C0226FC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E0C0226FC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E0C0226FC000/screen/1",
+    "http://api.nlib.cc/nx/0100E0C0226FC000/screen/2",
+    "http://api.nlib.cc/nx/0100E0C0226FC000/screen/3",
+    "http://api.nlib.cc/nx/0100E0C0226FC000/screen/4",
+    "http://api.nlib.cc/nx/0100E0C0226FC000/screen/5",
+    "http://api.nlib.cc/nx/0100E0C0226FC000/screen/6"
+  ]
+}

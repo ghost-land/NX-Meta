@@ -1,0 +1,16 @@
+{
+  "name": "Deadliest Catch: The Game",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20230628",
+  "description": "Take control of your fishing vessel, use realistic gear, battle the dangerous waters of Alaska and become the best crabcatcher in the world!\nEvery year, for a few days, experienced crab-catchers and rookies face the elements side by side, risking their health and lives. Their goal is to make a fortune and become the best crab catcher. Now you can become one of them!\nIn Deadliest Catch: The Game, you'll compete in dangerous sea rallies as you try to catch more crabs than you ever dreamed possible. The task is not easy - it is a fight against time, fishing quotas, crab migrations and - most importantly - against the sea. Such is your fate in the waters of Alaska!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FED01A3D6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FED01A3D6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FED01A3D6000/screen/1",
+    "http://api.nlib.cc/nx/0100FED01A3D6000/screen/2",
+    "http://api.nlib.cc/nx/0100FED01A3D6000/screen/3",
+    "http://api.nlib.cc/nx/0100FED01A3D6000/screen/4",
+    "http://api.nlib.cc/nx/0100FED01A3D6000/screen/5",
+    "http://api.nlib.cc/nx/0100FED01A3D6000/screen/6"
+  ]
+}

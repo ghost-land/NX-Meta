@@ -1,0 +1,16 @@
+{
+  "name": "Japanese Escape Games The Forbidden Garden",
+  "publisher": "Regista",
+  "releaseDate": "20221020",
+  "description": "The 10th Japanese Escape Games series!!\n\nGame system\nThis game is an escape-the-room game (mystery-adventure game).\n*Point the screen with a cursor to solve riddles, and this game goes on.\n\nStory\nThere is a place every adventurer talks about.\n\nAll adventurers who miraculously get back  from The place say,\n\"It’s the place of judgement.\"\n\nTo get back from the place alive,\nYou need to escape from there.\n\n-----\n\nSuddenly an airplane I controlled lost its control.\nI did everything I could, but nothing worked.\n\nI knew I would die in the plane alone.\nBut at the moment, I found myself in a mysterious place.\n\nAh, I got everything in a moment.\nI came into The place:\nThe Forbidden Garden.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003270191CA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003270191CA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003270191CA000/screen/1",
+    "http://api.nlib.cc/nx/01003270191CA000/screen/2",
+    "http://api.nlib.cc/nx/01003270191CA000/screen/3",
+    "http://api.nlib.cc/nx/01003270191CA000/screen/4",
+    "http://api.nlib.cc/nx/01003270191CA000/screen/5",
+    "http://api.nlib.cc/nx/01003270191CA000/screen/6"
+  ]
+}

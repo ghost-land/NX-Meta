@@ -1,0 +1,15 @@
+{
+  "name": "Lost Wing",
+  "publisher": "2Awesome Studio",
+  "releaseDate": "20200731",
+  "description": "Storm your way through three unique worlds, beat each stage, and destroy the bosses! Featuring an original electronic soundtrack, multiple play modes, stages, ships and weapons. Lost Wing is a perfect challenge for the most demanding players.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010064600F1D6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010064600F1D6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010064600F1D6000/screen/1",
+    "http://api.nlib.cc/nx/010064600F1D6000/screen/2",
+    "http://api.nlib.cc/nx/010064600F1D6000/screen/3",
+    "http://api.nlib.cc/nx/010064600F1D6000/screen/4",
+    "http://api.nlib.cc/nx/010064600F1D6000/screen/5"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Joker Poker - Video Poker",
+  "publisher": "eSolutions Nordic",
+  "releaseDate": "20210205",
+  "description": "Play \"Joker Poker\" and test your skills on your favorite Video Poker game.\n\nIt's like having a small slice of Las Vegas on your console.\n\n* Simple and clean design.\n* Fast and easy game play.\n* Gamble your winnings.\n* View statistics.\n* Climb the Leaderboard and earn bragging rights.",
+  "bannerUrl": "http://api.nlib.cc/nx/010055E012BAA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010055E012BAA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010055E012BAA000/screen/1",
+    "http://api.nlib.cc/nx/010055E012BAA000/screen/2",
+    "http://api.nlib.cc/nx/010055E012BAA000/screen/3",
+    "http://api.nlib.cc/nx/010055E012BAA000/screen/4",
+    "http://api.nlib.cc/nx/010055E012BAA000/screen/5"
+  ]
+}

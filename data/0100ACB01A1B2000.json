@@ -1,0 +1,16 @@
+{
+  "name": "AKIBA'S TRIP2 Director's Cut(아키바스 트립2 DC)",
+  "publisher": "Clouded Leopard Entertainment",
+  "releaseDate": "20230420",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ACB01A1B2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ACB01A1B2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ACB01A1B2000/screen/1",
+    "http://api.nlib.cc/nx/0100ACB01A1B2000/screen/2",
+    "http://api.nlib.cc/nx/0100ACB01A1B2000/screen/3",
+    "http://api.nlib.cc/nx/0100ACB01A1B2000/screen/4",
+    "http://api.nlib.cc/nx/0100ACB01A1B2000/screen/5",
+    "http://api.nlib.cc/nx/0100ACB01A1B2000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Neon Beats",
+  "publisher": "OKYO GAMES",
+  "releaseDate": "20241213",
+  "description": "Neon Beats is a 2D side view platformer game in which the player will evolve in different levels that are rhythmed by catchy musics.\n\nComplete levels as quickly as possible!\nGather several hidden collectibles!\nBrave different challenging obstacles!\n\nIn Neon Beats, you will find :\n• 8 different levels with it's own music\n• Rhythm based gameplay\n• A character with smooth and responsive controls\n• Simple and elegant neon ambiance\n• Several challenging level elements\n• Hidden collectibles adding instruments to the music\n• A score system based on your time, collectibles and deaths",
+  "bannerUrl": "http://api.nlib.cc/nx/010029F020172000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010029F020172000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010029F020172000/screen/1",
+    "http://api.nlib.cc/nx/010029F020172000/screen/2",
+    "http://api.nlib.cc/nx/010029F020172000/screen/3",
+    "http://api.nlib.cc/nx/010029F020172000/screen/4",
+    "http://api.nlib.cc/nx/010029F020172000/screen/5",
+    "http://api.nlib.cc/nx/010029F020172000/screen/6"
+  ]
+}

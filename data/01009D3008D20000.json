@@ -1,0 +1,16 @@
+{
+  "name": "Furi",
+  "publisher": "The Game Bakers",
+  "releaseDate": "20180111",
+  "description": "Fight your way free in this ultra-responsive, fast-paced sword fighting and dual-stick shooting game.\n\nFeel the tension and adrenaline of one-on-one duels against deadly adversaries: you will need absolute focus and skill to defeat each of the guardians.\n\nDo you have what it takes to reach the last gate?\n\nBoss design by Takashi Okazaki. Original soundtrack by Carpenter Brut, Danger and more!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01009D3008D20000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009D3008D20000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009D3008D20000/screen/1",
+    "http://api.nlib.cc/nx/01009D3008D20000/screen/2",
+    "http://api.nlib.cc/nx/01009D3008D20000/screen/3",
+    "http://api.nlib.cc/nx/01009D3008D20000/screen/4",
+    "http://api.nlib.cc/nx/01009D3008D20000/screen/5",
+    "http://api.nlib.cc/nx/01009D3008D20000/screen/6"
+  ]
+}

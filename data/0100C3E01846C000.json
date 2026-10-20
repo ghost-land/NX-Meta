@@ -1,0 +1,16 @@
+{
+  "name": "fig.",
+  "publisher": "Take IT Studio!",
+  "releaseDate": "20220804",
+  "description": "You do not know anything, yet you have to move forward.  Wander through the corridors of a mysterious factory and recover your abilities.  Fight patroling drones and break through to demanding boss battles.  Seek a way out and find the meaning of the game's title.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C3E01846C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C3E01846C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C3E01846C000/screen/1",
+    "http://api.nlib.cc/nx/0100C3E01846C000/screen/2",
+    "http://api.nlib.cc/nx/0100C3E01846C000/screen/3",
+    "http://api.nlib.cc/nx/0100C3E01846C000/screen/4",
+    "http://api.nlib.cc/nx/0100C3E01846C000/screen/5",
+    "http://api.nlib.cc/nx/0100C3E01846C000/screen/6"
+  ]
+}

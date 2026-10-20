@@ -1,0 +1,16 @@
+{
+  "name": "GUNBARICH for Nintendo Switch",
+  "publisher": "City Connection",
+  "releaseDate": "20170803",
+  "description": "Gunbarich launched in arcade version in 2001. It is a new game with elements of puzzle and shooting in the late works of Japanese brand \"Psikyo\". In Japan's amusement arcade, there is always one popular game.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002B2004F76000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002B2004F76000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002B2004F76000/screen/1",
+    "http://api.nlib.cc/nx/01002B2004F76000/screen/2",
+    "http://api.nlib.cc/nx/01002B2004F76000/screen/3",
+    "http://api.nlib.cc/nx/01002B2004F76000/screen/4",
+    "http://api.nlib.cc/nx/01002B2004F76000/screen/5",
+    "http://api.nlib.cc/nx/01002B2004F76000/screen/6"
+  ]
+}

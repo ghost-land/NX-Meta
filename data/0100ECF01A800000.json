@@ -1,0 +1,16 @@
+{
+  "name": "Hei",
+  "publisher": "Goca Games",
+  "releaseDate": "20230404",
+  "description": "Hei, a being with a humanoid appearance, got disoriented and fell from their favorite place. Now they are lost in a chaotic world full of riddles and mysterious characters. Journey through 4 different levels, each one with its own peculiarities, and meet a great variety of curious folks on the way.\n\nGame features:\n - Four levels to complete and more than 40 locations to explore.\n - Full compatibility with the touch screen and the Joy-Con™.\n - Achievements in the game.\n - A handmade, natural and fun soundtrack.\n - Original art style with vibrant colors.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ECF01A800000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ECF01A800000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ECF01A800000/screen/1",
+    "http://api.nlib.cc/nx/0100ECF01A800000/screen/2",
+    "http://api.nlib.cc/nx/0100ECF01A800000/screen/3",
+    "http://api.nlib.cc/nx/0100ECF01A800000/screen/4",
+    "http://api.nlib.cc/nx/0100ECF01A800000/screen/5",
+    "http://api.nlib.cc/nx/0100ECF01A800000/screen/6"
+  ]
+}

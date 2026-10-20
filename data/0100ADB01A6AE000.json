@@ -1,0 +1,16 @@
+{
+  "name": "Adventure Tanks",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20231116",
+  "description": "Engage in fierce battles against rival tanks in a variety of arenas, each with its own unique style and matching enemies. Strategize your moves, dodge enemy fire, and hunt down all your foes to reach the ultimate goal at the end of each level. Progress through the different arenas one by one, but beware, the path to victory is not easy. Face off against increasingly tough opponents and overcome thrilling combat challenges. Get ready for an epic adventure!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ADB01A6AE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ADB01A6AE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ADB01A6AE000/screen/1",
+    "http://api.nlib.cc/nx/0100ADB01A6AE000/screen/2",
+    "http://api.nlib.cc/nx/0100ADB01A6AE000/screen/3",
+    "http://api.nlib.cc/nx/0100ADB01A6AE000/screen/4",
+    "http://api.nlib.cc/nx/0100ADB01A6AE000/screen/5",
+    "http://api.nlib.cc/nx/0100ADB01A6AE000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Magic Potion Millionaire",
+  "publisher": "ARTIFACTS",
+  "releaseDate": "20211104",
+  "description": "Magic Potion Millionaire is a side-scrolling action game focused on money-making.\nEnter the dungeon to gather materials, make potions, and sell them to make profit!\n\n1. Enter the dungeon for materials!\nEnter and conquer procedurally generated dungeons with melee attacks, various ranged attacks and magic potions.\nYou can create potions with the materials you find from enemies in the dungeon. \nPotions are not only limited to healing drinks, and you can make other kinds such as explosive potions (bombs).\n\n2. Brew potions to make money!\nUsing the materials you gather in the dungeon, you can make potions the clients will order.\nYour potion shop will have many orders to fulfill, and much money to make.\n\n3. Buy stuff to become stronger!\nThere are many uses for gold you have earned.\nBuy equipments to improve your stats, buy recipes for more potions, find new dungeons to explore, and so on.\nThey will sure help you make more money!\n\nGold is everything here.\n\nPastel can buy various things to upgrade herself.\nBecome stronger, challenge harder dungeons, make more gold...\nuntil your competitor surrenders.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100672015B72000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100672015B72000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100672015B72000/screen/1",
+    "http://api.nlib.cc/nx/0100672015B72000/screen/2",
+    "http://api.nlib.cc/nx/0100672015B72000/screen/3",
+    "http://api.nlib.cc/nx/0100672015B72000/screen/4",
+    "http://api.nlib.cc/nx/0100672015B72000/screen/5",
+    "http://api.nlib.cc/nx/0100672015B72000/screen/6"
+  ]
+}

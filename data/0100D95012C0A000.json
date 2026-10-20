@@ -1,0 +1,16 @@
+{
+  "name": "Gibbous - A Cthulhu Adventure",
+  "publisher": "Stuck In Attic",
+  "releaseDate": "20201028",
+  "description": "Crazy cultists. Cthulhu. A talking cat. Gibbous takes you on a traditionally animated adventure. Play as three protagonists and explore a lushly rendered Lovecraft-inspired world, unraveling ancient conspiracies. A comedy cosmic horror adventure made in Transylvania!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D95012C0A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D95012C0A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D95012C0A000/screen/1",
+    "http://api.nlib.cc/nx/0100D95012C0A000/screen/2",
+    "http://api.nlib.cc/nx/0100D95012C0A000/screen/3",
+    "http://api.nlib.cc/nx/0100D95012C0A000/screen/4",
+    "http://api.nlib.cc/nx/0100D95012C0A000/screen/5",
+    "http://api.nlib.cc/nx/0100D95012C0A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Chippy",
+  "publisher": "Facepunch Studios",
+  "releaseDate": "20220323",
+  "description": "Your purpose is to eliminate all pixel-based lifeforms by breaking off their limbs and destroying their cores. Compete to be fastest on the leaderboards, watch replays from other players to learn their tricks, or team up with a friend in local co-op.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BEE01015E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BEE01015E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BEE01015E000/screen/1",
+    "http://api.nlib.cc/nx/0100BEE01015E000/screen/2",
+    "http://api.nlib.cc/nx/0100BEE01015E000/screen/3",
+    "http://api.nlib.cc/nx/0100BEE01015E000/screen/4",
+    "http://api.nlib.cc/nx/0100BEE01015E000/screen/5",
+    "http://api.nlib.cc/nx/0100BEE01015E000/screen/6"
+  ]
+}

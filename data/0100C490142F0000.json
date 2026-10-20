@@ -1,0 +1,16 @@
+{
+  "name": "Train Ride Simulator",
+  "publisher": "Lunaria Games",
+  "releaseDate": "20220818",
+  "description": "Do you like train and railroad driving simulation? Train Ride Simulator lets you drive the iconic locomotives on high-speed services, on long freight runs or in precise commuter traffic.\n\nShow great control, carefully managing power, speed and brakes, and be careful not to derail your train. Feel the thrill of a hyper-realistic train simulation game.\n\n- More than 10 types of trains, each with different skins.\n- Drive with passengers and material delivery to real locations in the state of California.\n- Select the railroad you want to travel on.\n- Weather and day/night effects.\n- Connect wagons to complete different quests.\n- Track your progression.\n- Easy train control.\n- Realistic graphics and sound effects.\n- Next updates with new quests and trains.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C490142F0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C490142F0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C490142F0000/screen/1",
+    "http://api.nlib.cc/nx/0100C490142F0000/screen/2",
+    "http://api.nlib.cc/nx/0100C490142F0000/screen/3",
+    "http://api.nlib.cc/nx/0100C490142F0000/screen/4",
+    "http://api.nlib.cc/nx/0100C490142F0000/screen/5",
+    "http://api.nlib.cc/nx/0100C490142F0000/screen/6"
+  ]
+}

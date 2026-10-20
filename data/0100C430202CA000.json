@@ -1,0 +1,15 @@
+{
+  "name": "Infinite Seek and Find",
+  "publisher": "Error300 Games",
+  "releaseDate": "20240822",
+  "description": "Welcome to your ultimate hidden object challenge. Infinite Seek and Find offers a wide selection of image sets and customizable difficulty level - from basic level where only the size matters to the most hardcore challenge, where the colors can trick you.\n\n- Over 10 image sets with different themes\n- 3 preset difficulty modes and a possibility to set your own custom difficulty\n- Images differing by size, rotation, reflection, and colors",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C430202CA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C430202CA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C430202CA000/screen/1",
+    "http://api.nlib.cc/nx/0100C430202CA000/screen/2",
+    "http://api.nlib.cc/nx/0100C430202CA000/screen/3",
+    "http://api.nlib.cc/nx/0100C430202CA000/screen/4",
+    "http://api.nlib.cc/nx/0100C430202CA000/screen/5"
+  ]
+}

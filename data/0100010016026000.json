@@ -1,0 +1,13 @@
+{
+  "name": "Block Puzzle",
+  "publisher": "Pix Arts",
+  "releaseDate": "20210903",
+  "description": "Block Puzzle is the classic puzzle game in its best version of all time!\n\nDrag the blocks onto the board to fill the squares. Try to fill blocks in a vertical or horizontal line to clear that line until no more blocks coming.\n\n✔ 4 Different game modes.\n✔ Game in your language.\n✔ 7 Game themes. \n✔ Daily Rewards.\n✔ Enjoyable, Relaxing and Fights Stress.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100010016026000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100010016026000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100010016026000/screen/1",
+    "http://api.nlib.cc/nx/0100010016026000/screen/2",
+    "http://api.nlib.cc/nx/0100010016026000/screen/3"
+  ]
+}

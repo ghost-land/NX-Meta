@@ -1,0 +1,15 @@
+{
+  "name": "METAL NINJA",
+  "publisher": "LYUS",
+  "releaseDate": "20221020",
+  "description": "Use time energy to bounce off walls and ceilings in every direction, defeating enemies with combos!\nMultiple endings with scenario branching depending on the choices you make along the way!\nWhat future will you choose when you find out the true reason why the world was destroyed?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100539019A2E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100539019A2E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100539019A2E000/screen/1",
+    "http://api.nlib.cc/nx/0100539019A2E000/screen/2",
+    "http://api.nlib.cc/nx/0100539019A2E000/screen/3",
+    "http://api.nlib.cc/nx/0100539019A2E000/screen/4",
+    "http://api.nlib.cc/nx/0100539019A2E000/screen/5"
+  ]
+}

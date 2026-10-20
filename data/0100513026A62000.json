@@ -1,0 +1,16 @@
+{
+  "name": "Astro Party EX",
+  "publisher": "Wild Rooster",
+  "releaseDate": "20260129",
+  "description": "Astro Party EX is a chaotic local multiplayer space brawler. Blast enemy ships, run over pilots, and laugh while you do it. The twist? Ships can only turn right. (whaaaaa?)\n\n• Up to 4 players\n• Two-button controls\n• Fully destructible arenas\n• Stylish pixel art & music",
+  "bannerUrl": "http://api.nlib.cc/nx/0100513026A62000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100513026A62000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100513026A62000/screen/1",
+    "http://api.nlib.cc/nx/0100513026A62000/screen/2",
+    "http://api.nlib.cc/nx/0100513026A62000/screen/3",
+    "http://api.nlib.cc/nx/0100513026A62000/screen/4",
+    "http://api.nlib.cc/nx/0100513026A62000/screen/5",
+    "http://api.nlib.cc/nx/0100513026A62000/screen/6"
+  ]
+}

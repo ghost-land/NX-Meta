@@ -1,0 +1,13 @@
+{
+  "name": "鞭空翔～Whip/Sky/Fly～",
+  "publisher": "AlignmentSharp",
+  "releaseDate": "20250731",
+  "description": "An action game where you attack enemies with whips and magic!\n\nIn addition to attacks, players can also place magic balls (wind pins) in the air.\n\nTwist a whip around the wind pin and use the recoil like a pendulum to jump high!\n\nFire more wind pins while jumping and use the whip to rise higher and higher.\n\nThere are enemies that you can't defeat unless you practice well, so try your best and practice.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FC5024726000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FC5024726000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FC5024726000/screen/1",
+    "http://api.nlib.cc/nx/0100FC5024726000/screen/2",
+    "http://api.nlib.cc/nx/0100FC5024726000/screen/3"
+  ]
+}

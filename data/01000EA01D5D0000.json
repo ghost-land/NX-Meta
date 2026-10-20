@@ -1,0 +1,15 @@
+{
+  "name": "Draw and Color",
+  "publisher": "ASI GAMES TECHNOLOGIES",
+  "releaseDate": "20231110",
+  "description": "Draw and Color is an addictive game for all ages that provides players with the opportunity to color and draw on virtual canvases. There is a huge variety of images available in the game, from cute animals to abstract works of art.\n\nKey Features:\n\nVariety of Tools: You can use brushes, pencils, markers, and other tools to create your works of art.\n\nMany colors: The color palette offers a huge number of different shades to give you complete freedom in choosing colors.\n\nMeditative Mode: The game offers a meditative drawing experience that helps you relax and relieve stress.\n\nDraw and Color is suitable for both children and adults and promotes creative thinking and relaxation, allowing everyone to become an artist.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000EA01D5D0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000EA01D5D0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000EA01D5D0000/screen/1",
+    "http://api.nlib.cc/nx/01000EA01D5D0000/screen/2",
+    "http://api.nlib.cc/nx/01000EA01D5D0000/screen/3",
+    "http://api.nlib.cc/nx/01000EA01D5D0000/screen/4",
+    "http://api.nlib.cc/nx/01000EA01D5D0000/screen/5"
+  ]
+}

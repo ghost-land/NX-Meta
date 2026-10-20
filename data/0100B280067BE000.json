@@ -1,0 +1,16 @@
+{
+  "name": "Penguin Wars",
+  "publisher": "Dispatch Games",
+  "releaseDate": "20190627",
+  "description": "Join Riley and his friends on their journey to Gira Gira land. Collect items and earn candy to evolve your favorite character. You can also buy \"Gira Skills\" that let you learn special moves for each character. You can play one on one, two on two, or even play with different rules such as using bombs and other items against your opponents. Each character has a different skill set so make sure to use and master appropriate characters to help you on your journey.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B280067BE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B280067BE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B280067BE000/screen/1",
+    "http://api.nlib.cc/nx/0100B280067BE000/screen/2",
+    "http://api.nlib.cc/nx/0100B280067BE000/screen/3",
+    "http://api.nlib.cc/nx/0100B280067BE000/screen/4",
+    "http://api.nlib.cc/nx/0100B280067BE000/screen/5",
+    "http://api.nlib.cc/nx/0100B280067BE000/screen/6"
+  ]
+}

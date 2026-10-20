@@ -1,0 +1,14 @@
+{
+  "name": "Calculator",
+  "publisher": "Sabec",
+  "releaseDate": "20210512",
+  "description": "A scientific calculator with a clear easy-to-read multi-line display, which should help with those not-so-easy-to-do maths problems. \n\nCalculator has an appealing modern and practical design, sure to be popular with all students and engineers.",
+  "bannerUrl": "http://api.nlib.cc/nx/010004701504A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010004701504A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010004701504A000/screen/1",
+    "http://api.nlib.cc/nx/010004701504A000/screen/2",
+    "http://api.nlib.cc/nx/010004701504A000/screen/3",
+    "http://api.nlib.cc/nx/010004701504A000/screen/4"
+  ]
+}

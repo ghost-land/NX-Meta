@@ -1,0 +1,14 @@
+{
+  "name": "Side View Golf",
+  "publisher": "Granzella",
+  "releaseDate": "20230706",
+  "description": "It is a golf game with simple rules that allows players to aim for a hole-in-one using five different clubs.\nEven if you do not know the rules of golf, you can  play it.\nMore than 300 holes to play. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DB601AFBA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DB601AFBA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DB601AFBA000/screen/1",
+    "http://api.nlib.cc/nx/0100DB601AFBA000/screen/2",
+    "http://api.nlib.cc/nx/0100DB601AFBA000/screen/3",
+    "http://api.nlib.cc/nx/0100DB601AFBA000/screen/4"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Mini Golf Simulator",
+  "publisher": "Takahiro Miyazawa",
+  "releaseDate": "20241219",
+  "description": "A new style of golf game featuring the 'Miyazawa-Style Putter Controller', where you swing by hanging the Joy-Con™!\nWho will claim victory?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E800213AA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E800213AA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E800213AA000/screen/1",
+    "http://api.nlib.cc/nx/0100E800213AA000/screen/2",
+    "http://api.nlib.cc/nx/0100E800213AA000/screen/3",
+    "http://api.nlib.cc/nx/0100E800213AA000/screen/4",
+    "http://api.nlib.cc/nx/0100E800213AA000/screen/5"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Brawlhalla",
+  "publisher": "Ubisoft",
+  "releaseDate": "20181106",
+  "description": "Come fight for glory in Brawlhalla® – an epic platform fighter for up to 8 players online or locally. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free! Play cross-platform with millions of players! Frequent updates. Over fifty Legends.\nJoin the eternal battle arena, where the greatest warriors in history brawl to prove who's the best! \n\nFeaturing both online and local competition as well as single-player and co-op modes. With nine free-to-play characters rotating every week, you can also play online to earn gold and unlock more Legends. 100% free to play with no pay-to-win advantages.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C6800B934000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C6800B934000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C6800B934000/screen/1",
+    "http://api.nlib.cc/nx/0100C6800B934000/screen/2",
+    "http://api.nlib.cc/nx/0100C6800B934000/screen/3",
+    "http://api.nlib.cc/nx/0100C6800B934000/screen/4",
+    "http://api.nlib.cc/nx/0100C6800B934000/screen/5",
+    "http://api.nlib.cc/nx/0100C6800B934000/screen/6"
+  ]
+}

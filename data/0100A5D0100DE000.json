@@ -1,0 +1,15 @@
+{
+  "name": "Frosty Jump",
+  "publisher": "Digital Game Group",
+  "releaseDate": "20200319",
+  "description": "Join Frosty on his quest and meet all his new snow friends! Play as Mrs. Frosty, Space Frosty and Cowboy Frosty! Collect over 50 additional Frosty friends!\n\nAvoid enemies and use your power-ups as you jump along this snowy endless jumping adventure!\n\n•\tHelp Frosty jump through endless frozen levels!\n•\tOver 50 different playable snow friends to collect!\n•\tAwesome power-ups to help Frosty escape!\n•\tPerfect for endless year-round fun!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A5D0100DE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A5D0100DE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A5D0100DE000/screen/1",
+    "http://api.nlib.cc/nx/0100A5D0100DE000/screen/2",
+    "http://api.nlib.cc/nx/0100A5D0100DE000/screen/3",
+    "http://api.nlib.cc/nx/0100A5D0100DE000/screen/4",
+    "http://api.nlib.cc/nx/0100A5D0100DE000/screen/5"
+  ]
+}

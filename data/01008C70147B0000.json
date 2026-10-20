@@ -1,0 +1,16 @@
+{
+  "name": "Heal: Console Edition",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20210416",
+  "description": "Heal is an experimental adventure game from the creator of DISTRAINT series, exploring the themes of aging and dementia.\n\nThe narrative is driven by a strong and obscure atmosphere, with instructions and dialog used only sparingly.\n\nWake up from a dreamless sleep, explore the mysteries of your surroundings and solve puzzles. \n\nFeatures\n* Side-scrolling 2D with unique, handmade graphics\n* Atmospheric sound design\n* An abstract world filled with puzzles\n* Narrative driven by the atmosphere",
+  "bannerUrl": "http://api.nlib.cc/nx/01008C70147B0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008C70147B0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008C70147B0000/screen/1",
+    "http://api.nlib.cc/nx/01008C70147B0000/screen/2",
+    "http://api.nlib.cc/nx/01008C70147B0000/screen/3",
+    "http://api.nlib.cc/nx/01008C70147B0000/screen/4",
+    "http://api.nlib.cc/nx/01008C70147B0000/screen/5",
+    "http://api.nlib.cc/nx/01008C70147B0000/screen/6"
+  ]
+}

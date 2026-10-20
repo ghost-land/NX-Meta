@@ -1,0 +1,16 @@
+{
+  "name": "SEGA AGES Fantasy Zone",
+  "publisher": "SEGA",
+  "releaseDate": "20200123",
+  "description": "An interplanetary monetary system collapses as its funds are mysteriously funneled towards the construction of a fortress in the Fantasy Zone. It's up to Opa-Opa to rescue the Fantasy Zone and find the culprit responsible!\n\nEliminate all the bases to reach the end boss and advance to the next level. Use lasers and bombs to destroy all enemies and take advantage of weapon and engine upgrades!  Want a change in palette?  Play as Opa-Opa’s brother, Upa-Upa! ",
+  "bannerUrl": "http://api.nlib.cc/nx/010072100E312000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010072100E312000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010072100E312000/screen/1",
+    "http://api.nlib.cc/nx/010072100E312000/screen/2",
+    "http://api.nlib.cc/nx/010072100E312000/screen/3",
+    "http://api.nlib.cc/nx/010072100E312000/screen/4",
+    "http://api.nlib.cc/nx/010072100E312000/screen/5",
+    "http://api.nlib.cc/nx/010072100E312000/screen/6"
+  ]
+}

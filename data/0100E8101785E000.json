@@ -1,0 +1,15 @@
+{
+  "name": "Ball Rush",
+  "publisher": "Entity3",
+  "releaseDate": "20220204",
+  "description": "Smash through shapes to reach the finish line!\nOnly hit your color shapes and watch the fly!\nThe most addictive experience yet! Play Now!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E8101785E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E8101785E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E8101785E000/screen/1",
+    "http://api.nlib.cc/nx/0100E8101785E000/screen/2",
+    "http://api.nlib.cc/nx/0100E8101785E000/screen/3",
+    "http://api.nlib.cc/nx/0100E8101785E000/screen/4",
+    "http://api.nlib.cc/nx/0100E8101785E000/screen/5"
+  ]
+}

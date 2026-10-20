@@ -1,0 +1,15 @@
+{
+  "name": "Jelly Fruits Adventure: Magic Match 3 Puzzle",
+  "publisher": "Megame",
+  "releaseDate": "20230831",
+  "description": "Classic match 3 puzzle in which you have to collect juicy fruits!\n\nThe rules of the puzzle are extremely simple, but the tasks become more and more difficult with each level. You need to match three or more fruits in a row to destroy them. Move and connect fruits in a row and column, destroy all the fruits and you will complete the level!\n\nThe last levels are a real workout for the mind! Despite the complexity of the puzzles, the gameplay will allow you to escape from the daily routine. And don't forget the hints - they will help you solve the puzzle!\n\nKey features:\n• Excellent workout for the mind and logic;\n• Lots of levels with different difficulty;\n• Four types of hints to make the game easier;\n• Management with the Joy-Con™️ controllers;\n• Relaxing musical accompaniment;",
+  "bannerUrl": "http://api.nlib.cc/nx/010082801BE02000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010082801BE02000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010082801BE02000/screen/1",
+    "http://api.nlib.cc/nx/010082801BE02000/screen/2",
+    "http://api.nlib.cc/nx/010082801BE02000/screen/3",
+    "http://api.nlib.cc/nx/010082801BE02000/screen/4",
+    "http://api.nlib.cc/nx/010082801BE02000/screen/5"
+  ]
+}

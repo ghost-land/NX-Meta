@@ -1,0 +1,14 @@
+{
+  "name": "The Cursed Frog",
+  "publisher": "Afil Games",
+  "releaseDate": "20250820",
+  "description": "The Cursed Frog is a single-player puzzle-platformer with an enchanted twist: switch between a brave princess during the day and a cursed frog at night to overcome magical challenges in the heart of Witchwood forest.\n\nSolve environmental puzzles, avoid treacherous traps, and use each form’s unique abilities to forge a path through 30 carefully crafted levels. The day-night shift mechanic changes not only the scenery but also the gameplay: jump higher as the frog to reach hidden areas, or fight enemies as the princess with ranged attacks and agile dashes.\n\nCombine logic and reflexes to activate magic bridges, manipulate platforms, and discover secret routes in this ever-changing enchanted world. Each level brings new challenges that test your creativity and strategy.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BB7024490000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BB7024490000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BB7024490000/screen/1",
+    "http://api.nlib.cc/nx/0100BB7024490000/screen/2",
+    "http://api.nlib.cc/nx/0100BB7024490000/screen/3",
+    "http://api.nlib.cc/nx/0100BB7024490000/screen/4"
+  ]
+}

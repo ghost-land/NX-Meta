@@ -1,0 +1,16 @@
+{
+  "name": "Alwa's Awakening",
+  "publisher": "Elden Pixels",
+  "releaseDate": "20180927",
+  "description": "Use your magic staff and progress through a large interconnected world where you'll solve puzzles, fight enemies and defeat bosses in order to help free the land of Alwa. Explore and uncover the secrets by using your platforming skills in this challenging and charming 8-bit adventure game.\n\nAlwa’s Awakening is a game that tries to stay as close as possible to the authentic 8-bit look with sweet pixel art, a soundtrack filled with catchy chiptunes and so much charm it’ll bring you right back to the golden age of video games. With easy to understand controls the game is easy to learn but tough to master, just like how games were in the old days!\n\n- A challenging adventure platform game\n- Use the magic staff to solve puzzles and defeat enemies\n- Find and unlock upgrades to your items and abilities\n- Explore a large interconnected world\n- Listen to a catchy 8-bit soundtrack with over 25 original tracks\n- All-new Assist Mode - Turn off/on item locations on map and enable instant respawn",
+  "bannerUrl": "http://api.nlib.cc/nx/01004C200B0B4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004C200B0B4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004C200B0B4000/screen/1",
+    "http://api.nlib.cc/nx/01004C200B0B4000/screen/2",
+    "http://api.nlib.cc/nx/01004C200B0B4000/screen/3",
+    "http://api.nlib.cc/nx/01004C200B0B4000/screen/4",
+    "http://api.nlib.cc/nx/01004C200B0B4000/screen/5",
+    "http://api.nlib.cc/nx/01004C200B0B4000/screen/6"
+  ]
+}

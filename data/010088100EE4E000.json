@@ -1,0 +1,16 @@
+{
+  "name": "Talk it Out: Handheld Game",
+  "publisher": "Pat-o-logic Studio",
+  "releaseDate": "20190920",
+  "description": "Everyone knows communication is the key to a successful relationship. So we decided to make it difficult for you! (You’re welcome.) All you need is six minutes, two players, one Nintendo Switch™, half a brain, and ample room for confusion.\n\nTalk It Out is a co-operative guessing game with a twist. Pick up your Nintendo Switch™, grab a friend, and start “talking”. You need to figure out what your co-player is seeing. Ask a question, get an answer. Simple enough, right?\n\nNot when your choice of questions is… less than co-operative. And the answers seem to make no sense. So choose wisely, and try to read between the lines. Because what is communication without interpretation? Bound to fail, that’s what!\n\nWe should probably mention you’re on a timer, too. No pressure.\n\nTalk It Out features:\n- Odd questions and downright rude responses\n- Short game rounds for quick coffee break fun\n- 2 additional unlockable item packs\n- 3 difficulty settings (because who wants to win ALL the time?)\n- 6 character choices that affect gameplay\n- A chance to make new friends!\n- Tons of opportunity for misunderstanding and losing friends!\n- A cat with underwear on its head for some reason",
+  "bannerUrl": "http://api.nlib.cc/nx/010088100EE4E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010088100EE4E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010088100EE4E000/screen/1",
+    "http://api.nlib.cc/nx/010088100EE4E000/screen/2",
+    "http://api.nlib.cc/nx/010088100EE4E000/screen/3",
+    "http://api.nlib.cc/nx/010088100EE4E000/screen/4",
+    "http://api.nlib.cc/nx/010088100EE4E000/screen/5",
+    "http://api.nlib.cc/nx/010088100EE4E000/screen/6"
+  ]
+}

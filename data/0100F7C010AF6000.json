@@ -1,0 +1,16 @@
+{
+  "name": "Tin & Kuna",
+  "publisher": "Aksys Games",
+  "releaseDate": "20200910",
+  "description": "Rock and Roll.  \n\nSpin and smash through the colorful, chaotic worlds of Tin & Kuna. Explore levels filled with puzzles and peril. As Kuna collects power crystals, he obtains special abilities; jumping higher, catching fire, and attaching to magnetic objects to rescue Tin. Use all your skills and abilities to bring the world into balance and defeat Chaos!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F7C010AF6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F7C010AF6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F7C010AF6000/screen/1",
+    "http://api.nlib.cc/nx/0100F7C010AF6000/screen/2",
+    "http://api.nlib.cc/nx/0100F7C010AF6000/screen/3",
+    "http://api.nlib.cc/nx/0100F7C010AF6000/screen/4",
+    "http://api.nlib.cc/nx/0100F7C010AF6000/screen/5",
+    "http://api.nlib.cc/nx/0100F7C010AF6000/screen/6"
+  ]
+}

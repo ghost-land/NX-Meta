@@ -1,0 +1,16 @@
+{
+  "name": "30XX",
+  "publisher": "Batterystaple",
+  "releaseDate": "20230901",
+  "description": "30XX combines the crisp controls and fluid movement you love from action platformers of yore, the replayability of a modern roguelike, and co-op play into a single gorgeous package.\n\nFeatures:\n- Pulse-pounding action, precise platforming, and beautiful spritework\n- Characters with fully distinct playstyles - master Ace's swift, combo-friendly Techniques and Nina's intricate Power Fusion system for even more replayability\n- A fresh new set of levels, items, and powers every time you play - 30XX is never the same game twice!\n- Roguelike-style progression that lets you tune the game's systems and difficulty as you play, even after you win\n- Local and online multiplayer, so you can enjoy 30XX with a friend\n\nAwaken a thousand years after 20XX to realize the world that needed you is gone, changed irreversibly by the advent of the Synthetic Mind and a human race that's lost the will to reach for the stars. Explore the lush, verdant prison our world has become, and fight to save what remains.\n\nRise. Fight. Fall. Adapt. There's a sublime meaning in this endless cycle, somewhere, buried deep.",
+  "bannerUrl": "http://api.nlib.cc/nx/010059B017F9E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010059B017F9E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010059B017F9E000/screen/1",
+    "http://api.nlib.cc/nx/010059B017F9E000/screen/2",
+    "http://api.nlib.cc/nx/010059B017F9E000/screen/3",
+    "http://api.nlib.cc/nx/010059B017F9E000/screen/4",
+    "http://api.nlib.cc/nx/010059B017F9E000/screen/5",
+    "http://api.nlib.cc/nx/010059B017F9E000/screen/6"
+  ]
+}

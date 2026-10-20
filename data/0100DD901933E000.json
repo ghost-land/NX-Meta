@@ -1,0 +1,16 @@
+{
+  "name": "Car Mats",
+  "publisher": "SPACEFARER GAMES",
+  "releaseDate": "20220920",
+  "description": "Have fun playing on different types of car mats!\nDrive in a police car, be chased by them, race in speedboats, avoid trains, ride the bumper cars and more! Fun for all ages!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DD901933E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DD901933E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DD901933E000/screen/1",
+    "http://api.nlib.cc/nx/0100DD901933E000/screen/2",
+    "http://api.nlib.cc/nx/0100DD901933E000/screen/3",
+    "http://api.nlib.cc/nx/0100DD901933E000/screen/4",
+    "http://api.nlib.cc/nx/0100DD901933E000/screen/5",
+    "http://api.nlib.cc/nx/0100DD901933E000/screen/6"
+  ]
+}

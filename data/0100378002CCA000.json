@@ -1,0 +1,16 @@
+{
+  "name": "Johnny Turbo’s Arcade: Express Raider",
+  "publisher": "Golem Entertainment",
+  "releaseDate": "20180712",
+  "description": "Save the Old West, with your rifle and your horse, from thieving Train Robbers.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100378002CCA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100378002CCA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100378002CCA000/screen/1",
+    "http://api.nlib.cc/nx/0100378002CCA000/screen/2",
+    "http://api.nlib.cc/nx/0100378002CCA000/screen/3",
+    "http://api.nlib.cc/nx/0100378002CCA000/screen/4",
+    "http://api.nlib.cc/nx/0100378002CCA000/screen/5",
+    "http://api.nlib.cc/nx/0100378002CCA000/screen/6"
+  ]
+}

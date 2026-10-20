@@ -1,0 +1,16 @@
+{
+  "name": "Royal Adviser",
+  "publisher": "Happy Hobgoblin",
+  "releaseDate": "20190404",
+  "description": "In Royal Adviser the players take on the roles of court advisers of an old King and attempt to seize power for themselves. Each player has a secret goal that they must achieve by manipulating the kingdom and advising the King on daily issues. They can also form secret alliances, spy, and accuse each other of their ambitions.  One match takes about 20-30 minutes.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ADF00C630000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ADF00C630000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ADF00C630000/screen/1",
+    "http://api.nlib.cc/nx/0100ADF00C630000/screen/2",
+    "http://api.nlib.cc/nx/0100ADF00C630000/screen/3",
+    "http://api.nlib.cc/nx/0100ADF00C630000/screen/4",
+    "http://api.nlib.cc/nx/0100ADF00C630000/screen/5",
+    "http://api.nlib.cc/nx/0100ADF00C630000/screen/6"
+  ]
+}

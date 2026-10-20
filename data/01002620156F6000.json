@@ -1,0 +1,16 @@
+{
+  "name": "Potato Arena",
+  "publisher": "Erik Games",
+  "releaseDate": "20241226",
+  "description": "Fun and challenging minigames are waiting for you and your friends. Play and compete to destroy your friends in this unique collection of minigames. This game is a \"Multiplayer Party Game\". You can play local and online multiplayer. Against 3 of your friends! And offline against Bots.\n\nGameplay Mechanics: Unique gameplay mechanics in each arena ranging from football to dogfighting in air.\n\nCo-op & Online Competitions: Dive into a series of challenges and uniquely created parkours with 3 of other potatoes online. Compete in leaderboards!\nChallenge your friends, Earn higher points. Became the best in the world.\n\n\n\nCompetitive & Cooperative: Mostly you will find yourself alone among other players; however there will be a map that you should work with your teammate to win! Also don't forget the old saying: \"Enemy of my enemy is my friend!\"\n\nCustomizable Character: Isn't playing with same outfit again and again boring? You will be able to change your clothes and exhibit your sense of fashion to other players!\n\nNote: Local Multiplayer game mode is only possible with multiple controllers.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002620156F6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002620156F6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002620156F6000/screen/1",
+    "http://api.nlib.cc/nx/01002620156F6000/screen/2",
+    "http://api.nlib.cc/nx/01002620156F6000/screen/3",
+    "http://api.nlib.cc/nx/01002620156F6000/screen/4",
+    "http://api.nlib.cc/nx/01002620156F6000/screen/5",
+    "http://api.nlib.cc/nx/01002620156F6000/screen/6"
+  ]
+}

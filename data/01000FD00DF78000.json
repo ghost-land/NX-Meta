@@ -1,0 +1,16 @@
+{
+  "name": "AnShi",
+  "publisher": "Lion Castle",
+  "releaseDate": "20220118",
+  "description": "Grab your hoverboard and explore the ancient, mysterious world of AnShi as you glide across caves, large deserts and old temple ruins to discover its secrets.\nWith the company of an energy being you explore this vast world together. Discover what happened to the planet and its being. Featuring stunning visuals and\nan original soundtrack, AnShi delivers a relaxing, unique, breathtaking experience.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000FD00DF78000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000FD00DF78000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000FD00DF78000/screen/1",
+    "http://api.nlib.cc/nx/01000FD00DF78000/screen/2",
+    "http://api.nlib.cc/nx/01000FD00DF78000/screen/3",
+    "http://api.nlib.cc/nx/01000FD00DF78000/screen/4",
+    "http://api.nlib.cc/nx/01000FD00DF78000/screen/5",
+    "http://api.nlib.cc/nx/01000FD00DF78000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Dungeon Solver",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20201124",
+  "description": "Take all hero’s pieces to the exit of the dungeon, avoiding enemies and traps present on your way.\n\ngame feature:\n60 challenging levels faces carefully designed;\n3 hero’s pieces with differents movements;\nrelaxing atmosphere with colorful and bright aspects; \nWith new elements as it progresses through the levels.",
+  "bannerUrl": "http://api.nlib.cc/nx/01008300128F2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008300128F2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008300128F2000/screen/1",
+    "http://api.nlib.cc/nx/01008300128F2000/screen/2",
+    "http://api.nlib.cc/nx/01008300128F2000/screen/3",
+    "http://api.nlib.cc/nx/01008300128F2000/screen/4",
+    "http://api.nlib.cc/nx/01008300128F2000/screen/5"
+  ]
+}

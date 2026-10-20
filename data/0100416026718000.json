@@ -1,0 +1,18 @@
+{
+  "name": "Wall World 2",
+  "publisher": "Alawar Premium",
+  "releaseDate": "20260528",
+  "description": "The world of the Wall awaits. Wall World 2 builds on the mining rogue-lite experience with expanded mechanics, new challenges, and deeper gameplay. Explore procedurally generated mines full of new discoveries and dangers. Extract valuable resources, harness lost technologies, and upgrade your robospider and exosuit to survive against hordes of raging monsters. Venture through incredible biomes and uncover the secrets entombed in the depths of the Wall.\n\nDELVE INTO THE MYSTERIES OF THE WALL\nVenture deep into the World Wall in your robospider. The mysterious Hole holds both deadly threats and long-lost answers. Risk everything to find out what lies on the other side of the unseen depths.\n\nBATTLE ON ALL FRONTS\nMonsters lurk everywhere — not only on the surface of the Wall, but also within its mines. Arm yourself with an arsenal of powerful weapons and abilities to fight off any threat that stands between you and the truth.\n\nADAPT TO A LIVING WORLD\nThe endless Wall is ever-changing. Its depths contain not only resources and technologies, but also anomalies that can help or hinder your journey. Navigate incredible biomes, overcome obstacles and discover new wonders as you carve your path deeper inside.\n\nUPGRADE AND CUSTOMIZE\nCustomize your robospider between expeditions and meet new characters in the sphere city. You'll have plenty of options to upgrade and enhance the equipment of both your exosuit and your mobile battle station. Each of them brings you one step closer to conquering the Wall.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100416026718000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100416026718000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100416026718000/screen/1",
+    "http://api.nlib.cc/nx/0100416026718000/screen/2",
+    "http://api.nlib.cc/nx/0100416026718000/screen/3",
+    "http://api.nlib.cc/nx/0100416026718000/screen/4",
+    "http://api.nlib.cc/nx/0100416026718000/screen/5",
+    "http://api.nlib.cc/nx/0100416026718000/screen/6"
+  ],
+  "version": 0,
+  "size": 249864741
+}

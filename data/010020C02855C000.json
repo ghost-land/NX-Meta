@@ -1,0 +1,18 @@
+{
+  "name": "Bob The Mad Rabbit",
+  "publisher": "Play Lab",
+  "releaseDate": "20260724",
+  "description": "Jump into a wildly unpredictable action adventure where a hot-headed rabbit leaves nothing but chaos in its wake. Battle through swarms of enemies, discover power-ups, and unleash ridiculous attacks as you carve a path through colorful comic-inspired arenas.\n\nGameplay features: \n\n- Fast-Paced Arcade Brawling: Take on relentless waves of enemies in energetic battles filled with action and satisfying combat.\n\n- Ever-Changing Runs: Choose from a variety of random enhancements and build a unique set of powers every time you play.\n\n- Escalating Challenges: Survive increasingly dangerous enemy encounters that demand constant adaptation.\n\n- Colorful Comic-Inspired Visuals: Explore vibrant arenas bursting with personality, humor, and stylized cartoon action.\n\nEach battle offers opportunities to combine upgrades, experiment with unexpected abilities, and create powerful combinations that can completely change your playstyle. Whether you're charging headfirst into danger or overwhelming opponents with bizarre attacks, every encounter delivers fast-paced action.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010020C02855C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010020C02855C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010020C02855C000/screen/1",
+    "http://api.nlib.cc/nx/010020C02855C000/screen/2",
+    "http://api.nlib.cc/nx/010020C02855C000/screen/3",
+    "http://api.nlib.cc/nx/010020C02855C000/screen/4",
+    "http://api.nlib.cc/nx/010020C02855C000/screen/5",
+    "http://api.nlib.cc/nx/010020C02855C000/screen/6"
+  ],
+  "version": 0,
+  "size": 644330469
+}

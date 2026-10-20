@@ -1,0 +1,16 @@
+{
+  "name": "Super Rebellion",
+  "publisher": "Cube Games",
+  "releaseDate": "20220708",
+  "description": "Humanity succumbed to the power of an intergalactic alien empire, but managed to organize itself and establish a resistance army. Join the peace-seeking rebels and help them defeat the evil that haunts the Earth.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010006C017174000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010006C017174000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010006C017174000/screen/1",
+    "http://api.nlib.cc/nx/010006C017174000/screen/2",
+    "http://api.nlib.cc/nx/010006C017174000/screen/3",
+    "http://api.nlib.cc/nx/010006C017174000/screen/4",
+    "http://api.nlib.cc/nx/010006C017174000/screen/5",
+    "http://api.nlib.cc/nx/010006C017174000/screen/6"
+  ]
+}

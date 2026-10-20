@@ -1,0 +1,16 @@
+{
+  "name": "LUNAR Remastered Collection",
+  "publisher": "GungHo America",
+  "releaseDate": "20250418",
+  "description": "Dive into the enchanting worlds of LUNAR: Silver Star Story Complete and LUNAR 2: Eternal Blue Complete, two beloved JRPGs that have captured the hearts of gamers for generations. \n\nLUNAR: Silver Star Story introduces Alex, an aspiring Dragonmaster who bands together with his friends to combat the perilous emergence of the Magic Emperor and stop him from taking over the world. \n\nLUNAR 2: Eternal Blue picks up a thousand years later, and follows Hiro and his friends as they set out in search of the Goddess Althena alongside an enigmatic girl named Lucia. On this grand quest, fend off enemies like Borgan and White Knight Leo, who hunt down the group to eradicate what they deem to be the \"Destroyer of Lunar.\" \n\nThis definitive remastered edition features enhanced graphics, audio, and quality-of-life improvements that will satiate that hunger for 90s nostalgia--better than you remember! Embark on these two adventures with updated language support, now available in English, Japanese, French, and German.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DCD01E9EE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DCD01E9EE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DCD01E9EE000/screen/1",
+    "http://api.nlib.cc/nx/0100DCD01E9EE000/screen/2",
+    "http://api.nlib.cc/nx/0100DCD01E9EE000/screen/3",
+    "http://api.nlib.cc/nx/0100DCD01E9EE000/screen/4",
+    "http://api.nlib.cc/nx/0100DCD01E9EE000/screen/5",
+    "http://api.nlib.cc/nx/0100DCD01E9EE000/screen/6"
+  ]
+}

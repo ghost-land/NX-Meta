@@ -1,0 +1,16 @@
+{
+  "name": "Pretty Girls Escape",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20221013",
+  "description": "A new game type is joining the popular Pretty Girls lineup! Pretty Girls Escape is a block puzzler where the objective is to clear blocks of the same color by moving them left or right. As you match and connect, lines will disappear and allow character blocks stacked on top to drop further down the screen. Get the character blocks to the exit at the bottom of the stack, and you win!\n\nAs you progress, new outfits will be revealed and unlocked for your female companions, which can then be viewed in Dressing Room mode or even used to create your own dioramas with the girls you meet. Are you clever enough to rescue all the girls?\n\nFeatures:\n\n• Clear dozens of puzzle stages with gradually increasing difficulty!\n• Slide blocks left and right to drop the character icon to the bottom.\n• Explore 2 unique game modes for unlimited replay value.\n• Meet 8 female characters voiced in Japanese!\n• Reveal new outfits for each girl as you progress.\n• View unlocked outfits and create your own dioramas in an enhanced Dressing Room mode!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F5B019876000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F5B019876000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F5B019876000/screen/1",
+    "http://api.nlib.cc/nx/0100F5B019876000/screen/2",
+    "http://api.nlib.cc/nx/0100F5B019876000/screen/3",
+    "http://api.nlib.cc/nx/0100F5B019876000/screen/4",
+    "http://api.nlib.cc/nx/0100F5B019876000/screen/5",
+    "http://api.nlib.cc/nx/0100F5B019876000/screen/6"
+  ]
+}

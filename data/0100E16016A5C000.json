@@ -1,0 +1,15 @@
+{
+  "name": "Air Racers",
+  "publisher": "Kistler Studios",
+  "releaseDate": "20211101",
+  "description": "Air Racers is an arcade air racing game with different game modes, power ups and splitscreen multiplayer. Five different tracks with different game modes and difficulties make your races different. Race Solo in Time Trail mode and hunt for the best track time, go into the championships solo or splitscreen  or just have an arcade race against the AI solo or with a friend.\n\nFeatures\n-Booster system\n-Dogfight power up system with 5 weapons\n-5 Tracks with Alternative routes\n-Solo and Versus modes\n-3 gameplay modes (Championship, Arcade and Time Trial)\n-3 difficulty levels\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E16016A5C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E16016A5C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E16016A5C000/screen/1",
+    "http://api.nlib.cc/nx/0100E16016A5C000/screen/2",
+    "http://api.nlib.cc/nx/0100E16016A5C000/screen/3",
+    "http://api.nlib.cc/nx/0100E16016A5C000/screen/4",
+    "http://api.nlib.cc/nx/0100E16016A5C000/screen/5"
+  ]
+}

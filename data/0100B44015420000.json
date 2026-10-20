@@ -1,0 +1,15 @@
+{
+  "name": "Red Ball Escape",
+  "publisher": "Kistler Studios",
+  "releaseDate": "20210608",
+  "description": "Red ball escape is a simple puzzle platformer game with 100 Levels to complete and simple controls which ends up in simply fun!\n\nFeatures :\n- Simple design\n- Simple controls\n- Simply fun\n- 100 Levels",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B44015420000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B44015420000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B44015420000/screen/1",
+    "http://api.nlib.cc/nx/0100B44015420000/screen/2",
+    "http://api.nlib.cc/nx/0100B44015420000/screen/3",
+    "http://api.nlib.cc/nx/0100B44015420000/screen/4",
+    "http://api.nlib.cc/nx/0100B44015420000/screen/5"
+  ]
+}

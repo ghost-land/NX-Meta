@@ -1,0 +1,15 @@
+{
+  "name": "PROJECT : KNIGHT",
+  "publisher": "Elushis",
+  "releaseDate": "20210515",
+  "description": "PROJECT : KNIGHT is a short, real-time combat Collect-A-Thon with a cartoon-y look. Collect golden coins and battle monsters to progress through 6 unique biomes ( worlds ). Defeating monsters will award you Soul Shards which you can use to upgrade your Knight's power and health.\nStart helpless and increase your power!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BE60149F2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BE60149F2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BE60149F2000/screen/1",
+    "http://api.nlib.cc/nx/0100BE60149F2000/screen/2",
+    "http://api.nlib.cc/nx/0100BE60149F2000/screen/3",
+    "http://api.nlib.cc/nx/0100BE60149F2000/screen/4",
+    "http://api.nlib.cc/nx/0100BE60149F2000/screen/5"
+  ]
+}

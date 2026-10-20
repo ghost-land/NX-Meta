@@ -1,0 +1,16 @@
+{
+  "name": "EARTHLOCK",
+  "publisher": "Snowcastle Games",
+  "releaseDate": "20180308",
+  "description": "Enter a beautiful world haunted by its fateful past and join a party of unlikely heroes on their journey to rescue Amon's uncle from an ancient cult and uncover the secret of EARTHLOCK.\n\nExplore the magical world of Umbra.\n\nFast-paced and highly strategic turn-based battles.\n\nHarvest magical materials to craft helpful items and perks on your home island.\n\nUtilize Your Talent Table: combining a classic 'skilltree' and equipment to customize your character's progression.\n\nAlternate between 6 playable characters.\n\nGrow your friendships between different character pairs for a strategic advantage in combat.\n\nHelp the people of Umbra along they way to unlock more useful items.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006E50042EA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006E50042EA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006E50042EA000/screen/1",
+    "http://api.nlib.cc/nx/01006E50042EA000/screen/2",
+    "http://api.nlib.cc/nx/01006E50042EA000/screen/3",
+    "http://api.nlib.cc/nx/01006E50042EA000/screen/4",
+    "http://api.nlib.cc/nx/01006E50042EA000/screen/5",
+    "http://api.nlib.cc/nx/01006E50042EA000/screen/6"
+  ]
+}

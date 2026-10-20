@@ -1,0 +1,16 @@
+{
+  "name": "Geometric Sniper - Blood in Paris",
+  "publisher": "Silesia Games",
+  "releaseDate": "20230216",
+  "description": "As a sniper, you'll have to pay attention to the details and find the perfect moment to shoot. Your targets know they are wanted and will try to hide in a variety of ways. Have the patience to establish a clear shot, memorizing the information for each mission.\n\nGame Modes:\n\nAdventure:\nAcross 10 missions, every detail counts, from carefully observing mission information to finding the perfect opportunity to shoot.\n\nElite:\nComplete the 10 adventure missions without the help of zoom and precision.\n\nMercenary:\nHave fun with new challenges and earn money to pay damages to the family of the civilian that you mistakenly killed during the missions.\n\nSurvival:\nFind randomly generated targets on the map while snipers look for you.\n\nFind:\nSearch for various objects scattered throughout these 10 missions and hit them before time runs out.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100363018384000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100363018384000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100363018384000/screen/1",
+    "http://api.nlib.cc/nx/0100363018384000/screen/2",
+    "http://api.nlib.cc/nx/0100363018384000/screen/3",
+    "http://api.nlib.cc/nx/0100363018384000/screen/4",
+    "http://api.nlib.cc/nx/0100363018384000/screen/5",
+    "http://api.nlib.cc/nx/0100363018384000/screen/6"
+  ]
+}

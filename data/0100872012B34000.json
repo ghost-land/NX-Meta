@@ -1,0 +1,16 @@
+{
+  "name": "My Little Dog Adventure",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20201105",
+  "description": "In Little Dog Adventure you play as a little dog that discovers the world on its mission to find its way back home. \n\nIt's a short emotional story-driven exploration game that will keep you interested with an immersive story and lovable characters. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100872012B34000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100872012B34000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100872012B34000/screen/1",
+    "http://api.nlib.cc/nx/0100872012B34000/screen/2",
+    "http://api.nlib.cc/nx/0100872012B34000/screen/3",
+    "http://api.nlib.cc/nx/0100872012B34000/screen/4",
+    "http://api.nlib.cc/nx/0100872012B34000/screen/5",
+    "http://api.nlib.cc/nx/0100872012B34000/screen/6"
+  ]
+}

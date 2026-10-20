@@ -1,0 +1,15 @@
+{
+  "name": "Sniper Rescue",
+  "publisher": "Entity3",
+  "releaseDate": "20240309",
+  "description": "Collect as many sniper bullets as you can and take aim\n\nProtect the innocent with your sniper rifle\n\nUse explosives and upgrades to help you in your missions\n\nCan you beat the boss?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C5A01DFD0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C5A01DFD0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C5A01DFD0000/screen/1",
+    "http://api.nlib.cc/nx/0100C5A01DFD0000/screen/2",
+    "http://api.nlib.cc/nx/0100C5A01DFD0000/screen/3",
+    "http://api.nlib.cc/nx/0100C5A01DFD0000/screen/4",
+    "http://api.nlib.cc/nx/0100C5A01DFD0000/screen/5"
+  ]
+}

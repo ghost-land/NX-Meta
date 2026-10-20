@@ -1,0 +1,16 @@
+{
+  "name": "ALIEN WAR",
+  "publisher": "Game Museum",
+  "releaseDate": "20220825",
+  "description": "In 2222 AD, only 5% of humanity survived the alien invasion.\nThe aliens have begun their final attack.\nDefeat the aliens by firing the guns of the KPO9, humanity’s strongest surface-to-air weapon.\nIntercepting enemies gives you EXP, which you can use to upgrade your weapon.\nThe fully automatic missile pods that help you attack can also be upgraded.\nThe future of humanity lies in your hands.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F9A0175CA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F9A0175CA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F9A0175CA000/screen/1",
+    "http://api.nlib.cc/nx/0100F9A0175CA000/screen/2",
+    "http://api.nlib.cc/nx/0100F9A0175CA000/screen/3",
+    "http://api.nlib.cc/nx/0100F9A0175CA000/screen/4",
+    "http://api.nlib.cc/nx/0100F9A0175CA000/screen/5",
+    "http://api.nlib.cc/nx/0100F9A0175CA000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "The Messenger",
+  "publisher": "Devolver Digital",
+  "releaseDate": "20180830",
+  "description": "As a demon army besieges his village, a young ninja ventures through a cursed world, to deliver a scroll paramount to his clan’s survival. What begins as a classic action platformer soon unravels into an expansive time-traveling adventure full of thrills, surprises, and humor.\n\n - Dynamic, acrobatic gameplay and ultra tight controls worthy of an epic ninja adventure.\n\n - Character upgrades, new abilities, hidden levels, and branching paths to discover.\n\n - Meticulously designed 8-bit and 16-bit sprites, animations, and backgrounds in the spirit of the classics.\n\n - A memorable cast of offbeat villains, bosses, and associates.\n\n - Original soundtrack by renowned chiptune composer Rainbowdragoneyes, handmade using Famitracker.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DC300AC78000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DC300AC78000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DC300AC78000/screen/1",
+    "http://api.nlib.cc/nx/0100DC300AC78000/screen/2",
+    "http://api.nlib.cc/nx/0100DC300AC78000/screen/3",
+    "http://api.nlib.cc/nx/0100DC300AC78000/screen/4",
+    "http://api.nlib.cc/nx/0100DC300AC78000/screen/5",
+    "http://api.nlib.cc/nx/0100DC300AC78000/screen/6"
+  ]
+}

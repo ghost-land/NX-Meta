@@ -1,0 +1,14 @@
+{
+  "name": "Hero Pop",
+  "publisher": "Digital Game Group",
+  "releaseDate": "20210604",
+  "description": "Help the Hero Matrix patrol the city she protects. \n\nMatch 3 or more of the same colors to clear the bubbles and saved the babies.\n\n200 levels of puzzles to play from. Various powers to use in each level.",
+  "bannerUrl": "http://api.nlib.cc/nx/010026F01162E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010026F01162E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010026F01162E000/screen/1",
+    "http://api.nlib.cc/nx/010026F01162E000/screen/2",
+    "http://api.nlib.cc/nx/010026F01162E000/screen/3",
+    "http://api.nlib.cc/nx/010026F01162E000/screen/4"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "사가 프론티어 2 리마스터 (SaGa Frontier 2 Remastered)",
+  "publisher": "ARC SYSTEM WORKS",
+  "releaseDate": "20250328",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/01001600210AE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001600210AE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001600210AE000/screen/1",
+    "http://api.nlib.cc/nx/01001600210AE000/screen/2",
+    "http://api.nlib.cc/nx/01001600210AE000/screen/3",
+    "http://api.nlib.cc/nx/01001600210AE000/screen/4",
+    "http://api.nlib.cc/nx/01001600210AE000/screen/5",
+    "http://api.nlib.cc/nx/01001600210AE000/screen/6"
+  ]
+}

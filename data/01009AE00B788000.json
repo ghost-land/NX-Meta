@@ -1,0 +1,16 @@
+{
+  "name": "Pumped BMX Pro",
+  "publisher": "Curve Digital",
+  "releaseDate": "20190207",
+  "description": "Pumped BMX Pro puts you back on the seat for another high adrenaline, fast-paced trickathon where chaining massive combos could put you at the number one spot on the global leaderboards. \n\nPump your way through 60 levels of ever increasing difficulty, making sure you’re racking up those platinum medals by completing Trick Challenges along the way. \n\nChoose from 15 riders with predesigned bikes, or get creative and design your own in the easy to use bike designer. \n\nPumped BMX Pro features;\n- 15 characters, each with their own spectacular bike!\n- 40+ radical tricks, from outrageous spins to insane grinds!\n- Over 200 challenges, each harder than the last!\n- 60 beautifully designed levels, from high top mountains to swampy depths!\n- Ragdoll physics, just in case you miss the ramp! \n",
+  "bannerUrl": "http://api.nlib.cc/nx/01009AE00B788000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009AE00B788000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009AE00B788000/screen/1",
+    "http://api.nlib.cc/nx/01009AE00B788000/screen/2",
+    "http://api.nlib.cc/nx/01009AE00B788000/screen/3",
+    "http://api.nlib.cc/nx/01009AE00B788000/screen/4",
+    "http://api.nlib.cc/nx/01009AE00B788000/screen/5",
+    "http://api.nlib.cc/nx/01009AE00B788000/screen/6"
+  ]
+}

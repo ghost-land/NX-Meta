@@ -1,0 +1,18 @@
+{
+  "name": "Sunrock Lake",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20260417",
+  "description": "Stroll through charming streets, blooming gardens, and hidden corners as you uncover everything the village has to offer. Every path invites discovery, and every detail tells a story of life, leisure, and sunlight.\n\nSunrock Lake focuses on peaceful exploration — no rush, no pressure — just wandering and finding the village’s secrets.\n\nFeatures:\n\n>Bright, sunny village environments\n\n>Search-and-find exploration gameplay\n\n>Hidden spots to discover\n\n>Relaxing, atmospheric world",
+  "bannerUrl": "http://api.nlib.cc/nx/01003D70279C4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003D70279C4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003D70279C4000/screen/1",
+    "http://api.nlib.cc/nx/01003D70279C4000/screen/2",
+    "http://api.nlib.cc/nx/01003D70279C4000/screen/3",
+    "http://api.nlib.cc/nx/01003D70279C4000/screen/4",
+    "http://api.nlib.cc/nx/01003D70279C4000/screen/5",
+    "http://api.nlib.cc/nx/01003D70279C4000/screen/6"
+  ],
+  "version": 0,
+  "size": 533280426
+}

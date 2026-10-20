@@ -1,0 +1,16 @@
+{
+  "name": "The Legend of Heroes: Trails of Cold Steel III",
+  "publisher": "NIS America",
+  "releaseDate": "20200630",
+  "description": "Rean Schwarzer uncovers a dark plot that threatens his homeland. To face their enemies, he must prepare a new generation of heroes as an instructor at a new branch campus and guide them towards victory.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005420101DA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005420101DA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005420101DA000/screen/1",
+    "http://api.nlib.cc/nx/01005420101DA000/screen/2",
+    "http://api.nlib.cc/nx/01005420101DA000/screen/3",
+    "http://api.nlib.cc/nx/01005420101DA000/screen/4",
+    "http://api.nlib.cc/nx/01005420101DA000/screen/5",
+    "http://api.nlib.cc/nx/01005420101DA000/screen/6"
+  ]
+}

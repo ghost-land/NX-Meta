@@ -1,0 +1,16 @@
+{
+  "name": "The VideoKid",
+  "publisher": "Chorus Worldwide Games",
+  "releaseDate": "20180830",
+  "description": "It's the 1980's. The Kid needed to earn some cash to take his girlfriend out. So by delivering pirate video tapes to his customers and staying one step in front of the cops, he quickly became... The VideoKid. \nRunning the gauntlet of his bogusly dangerous delivery route, The VideoKid must survive against all the odds to reach his beloved Jessica. Is today the day he'll finally reach her in time?\n\nThe VideoKid pays homage to the 1980s, and the classic videogames of that era. Harking back to a simpler time of pure gameplay, take control of The VideoKid as he hurls videos through the mailboxes, or windows, of his customers to earn cash. Dodge civilians, jump and grind cars and avoid the neighbourhood cops to stay alive. But this is no ordinary street... you may also encounter strangely-familiar characters from your past. How many will you spot?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D0500B0A6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D0500B0A6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D0500B0A6000/screen/1",
+    "http://api.nlib.cc/nx/0100D0500B0A6000/screen/2",
+    "http://api.nlib.cc/nx/0100D0500B0A6000/screen/3",
+    "http://api.nlib.cc/nx/0100D0500B0A6000/screen/4",
+    "http://api.nlib.cc/nx/0100D0500B0A6000/screen/5",
+    "http://api.nlib.cc/nx/0100D0500B0A6000/screen/6"
+  ]
+}

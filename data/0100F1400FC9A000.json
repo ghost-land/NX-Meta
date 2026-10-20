@@ -1,0 +1,16 @@
+{
+  "name": "Bezier: Second Edition",
+  "publisher": "Thalamus Digital",
+  "releaseDate": "20210121",
+  "description": "SCENARIO:\n\nBezier is a twin-stick blaster set inside a vast computer built deep underground. The story traces the principal's escape from this \"Noah's Ark\" gone wrong. A simple shooter on the surface, the deeper narrative pulls in his relationship between evolution and god, family and love. These themes question his motives, force him to confront what is real, and lead him to salvation.\n\nPowered by BezierSynth technology, traditional rendering is renounced in favour of a fluid aesthetic guided by story elements and player interaction, while an 80 minute soundtrack blends together orchestra, synthesizers and many ethnic instruments to drive the drama through fifteen dynamic game zones.\n\nFEATURES:\n\n- Pure twin-stick arcade action\n- Multiple playing modes\n- Seven devastating weapons\n- 15 different game zones\n- 100 different enemies\n- 80-minute soundtrack",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F1400FC9A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F1400FC9A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F1400FC9A000/screen/1",
+    "http://api.nlib.cc/nx/0100F1400FC9A000/screen/2",
+    "http://api.nlib.cc/nx/0100F1400FC9A000/screen/3",
+    "http://api.nlib.cc/nx/0100F1400FC9A000/screen/4",
+    "http://api.nlib.cc/nx/0100F1400FC9A000/screen/5",
+    "http://api.nlib.cc/nx/0100F1400FC9A000/screen/6"
+  ]
+}

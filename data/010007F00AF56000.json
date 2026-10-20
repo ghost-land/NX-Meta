@@ -1,0 +1,16 @@
+{
+  "name": "The Station",
+  "publisher": "The Station Game",
+  "releaseDate": "20200114",
+  "description": "The Station is a first-person sci-fi mystery set on a space station sent to study a sentient alien civilization. Assuming the role of a recon specialist, players must unravel a mystery which will decide the fate of two civilizations.",
+  "bannerUrl": "http://api.nlib.cc/nx/010007F00AF56000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010007F00AF56000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010007F00AF56000/screen/1",
+    "http://api.nlib.cc/nx/010007F00AF56000/screen/2",
+    "http://api.nlib.cc/nx/010007F00AF56000/screen/3",
+    "http://api.nlib.cc/nx/010007F00AF56000/screen/4",
+    "http://api.nlib.cc/nx/010007F00AF56000/screen/5",
+    "http://api.nlib.cc/nx/010007F00AF56000/screen/6"
+  ]
+}

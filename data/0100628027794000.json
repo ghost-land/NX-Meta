@@ -1,0 +1,18 @@
+{
+  "name": "Steamboat Incident",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20260605",
+  "description": "Steamboat Incident is a 3D survival horror experience set aboard a steamboat lost in the middle of the open sea. You have been kidnapped by the crazy monster. It is said that the monster went crazy after being locked up and away for over 95 years.\n\nCaptured and trapped with no clear way out, you wake up and must explore the ship’s tight corridors and rusting decks in search of clues, tools, and a way to escape.\n\nBut you are not alone. The monster is still there, reacting to sound and movement. Every step, every creak of the floorboards could give you away.\n\nHide, stay quiet, and think carefully as you solve puzzles and fix the steamboat in order to escape.\n\nFeatures:\n* A terrifying journey across the open ocean, stranded on a decaying steamboat while something hunts you from the depths. \n* Explore tight passageways and claustrophobic corridors as you uncover the steamboat dark secrets. \n* Search the steamboat for parts needed to fix the wheel and escape.\n* Scavenge for clues, supplies, and hiding spots to stay one step ahead of the creature trying to hunt you down. \n* Find items like canned food to recover, and broken wheel parts to bring the steamboat back to life. \n* Evade a horrifying barnacle-covered entity stalking the ship - run, hide, and survive. Take cover under tables or inside rooms to avoid detection. \n* Use tools like crowbars to break into locked areas and reveal hidden paths and deeper mysteries.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100628027794000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100628027794000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100628027794000/screen/1",
+    "http://api.nlib.cc/nx/0100628027794000/screen/2",
+    "http://api.nlib.cc/nx/0100628027794000/screen/3",
+    "http://api.nlib.cc/nx/0100628027794000/screen/4",
+    "http://api.nlib.cc/nx/0100628027794000/screen/5",
+    "http://api.nlib.cc/nx/0100628027794000/screen/6"
+  ],
+  "version": 0,
+  "size": 144592984
+}

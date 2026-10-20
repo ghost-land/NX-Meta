@@ -1,0 +1,14 @@
+{
+  "name": "Wordsweeper by POWGI",
+  "publisher": "Lightwood Games",
+  "releaseDate": "20190808",
+  "description": "A crossword puzzle solved using logic and deduction.\n\nThis new word game draws inspiration from the classic puzzle “minesweeper”, and is exclusive to POWGI!",
+  "bannerUrl": "http://api.nlib.cc/nx/01008A500ED8E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008A500ED8E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008A500ED8E000/screen/1",
+    "http://api.nlib.cc/nx/01008A500ED8E000/screen/2",
+    "http://api.nlib.cc/nx/01008A500ED8E000/screen/3",
+    "http://api.nlib.cc/nx/01008A500ED8E000/screen/4"
+  ]
+}

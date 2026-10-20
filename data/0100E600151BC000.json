@@ -1,0 +1,15 @@
+{
+  "name": "Witch Hunter",
+  "publisher": "Funbox Media",
+  "releaseDate": "20210826",
+  "description": "Witch Hunter is a 2D endless runner game. Play as 'Wolf', a famous monster slayer on his last adventure to redeem his name and become the most famous of his kind against hordes of creatures from dark forests. \n\nHave no mercy against every last monster standing in your way to boost your score while collecting coins to upgrade power-ups hidden all across the dark forests.\n\nShop\nThe player collects coins which allows them to purchase upgrades from the in-game shop. These upgrades aid progression against the trophies.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E600151BC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E600151BC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E600151BC000/screen/1",
+    "http://api.nlib.cc/nx/0100E600151BC000/screen/2",
+    "http://api.nlib.cc/nx/0100E600151BC000/screen/3",
+    "http://api.nlib.cc/nx/0100E600151BC000/screen/4",
+    "http://api.nlib.cc/nx/0100E600151BC000/screen/5"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Into the Breach",
+  "publisher": "Subset Games",
+  "releaseDate": "20180828",
+  "description": "The remnants of human civilization are threatened by gigantic creatures breeding beneath the earth. You must control powerful mechs from the future to hold off this alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game from the makers of FTL.  \n\nFeatures:\n\nDefend the Cities: Civilian buildings power your mechs. Defend them from the Vek and watch your fire!\n\nPerfect Your Strategy: All enemy attacks are telegraphed in minimalistic, turn-based combat. Analyze your opponent's attack and come up with the perfect counter every turn.\n\nBuild the Ultimate Mech: Find powerful new weapons and unique pilots as you battle the Vek infestation across Corporate-Nation islands.\n\nAnother Chance: Failure is not an option. When you are defeated, send help back through time to save another timeline!",
+  "bannerUrl": "http://api.nlib.cc/nx/010057D00B612000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010057D00B612000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010057D00B612000/screen/1",
+    "http://api.nlib.cc/nx/010057D00B612000/screen/2",
+    "http://api.nlib.cc/nx/010057D00B612000/screen/3",
+    "http://api.nlib.cc/nx/010057D00B612000/screen/4",
+    "http://api.nlib.cc/nx/010057D00B612000/screen/5",
+    "http://api.nlib.cc/nx/010057D00B612000/screen/6"
+  ]
+}

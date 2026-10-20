@@ -1,0 +1,16 @@
+{
+  "name": "Dragon's Dogma: Dark Arisen",
+  "publisher": "CAPCOM",
+  "releaseDate": "20190423",
+  "description": "The critically acclaimed action-RPG Dragon’s Dogma: Dark Arisen combines exhilarating and deep combat with the freedom to explore a huge open world. Enter the high-fantasy setting of Gransys, a land where dragons, chimeras, and other fabled monsters roam. Choose between three different starter vocations, which you can further develop for a total of nine unique vocations. Use a dynamic combat system to wield devastating skills and magicks to tackle deadly foes. Embark on your epic adventure with three AI companions, known as Pawns. These partners fight independently, demonstrating prowess and ability that they have developed based on traits learned from your playing style. Share these Pawns online and reap rewards of treasure, tips, and strategy hints for taking down the terrifying enemies. Pawns can also be borrowed when specific skills are needed to complete various challenging quests.",
+  "bannerUrl": "http://api.nlib.cc/nx/010032C00AC58000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010032C00AC58000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010032C00AC58000/screen/1",
+    "http://api.nlib.cc/nx/010032C00AC58000/screen/2",
+    "http://api.nlib.cc/nx/010032C00AC58000/screen/3",
+    "http://api.nlib.cc/nx/010032C00AC58000/screen/4",
+    "http://api.nlib.cc/nx/010032C00AC58000/screen/5",
+    "http://api.nlib.cc/nx/010032C00AC58000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Star Trek: Resurgence",
+  "publisher": "Brunerhouse",
+  "releaseDate": "20250828",
+  "description": "Star Trek: Resurgence is a narrative adventure game featuring dialog choices, relationship building, and exploration. Alongside dialog-driven role playing and rich branching storylines, you will also engage with the Star Trek universe in a variety of other gameplay styles, including shuttle piloting, phaser fights, tricorder scanning, stealth, and micro-gameplay mechanics.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DBB01FC1E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DBB01FC1E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DBB01FC1E000/screen/1",
+    "http://api.nlib.cc/nx/0100DBB01FC1E000/screen/2",
+    "http://api.nlib.cc/nx/0100DBB01FC1E000/screen/3",
+    "http://api.nlib.cc/nx/0100DBB01FC1E000/screen/4",
+    "http://api.nlib.cc/nx/0100DBB01FC1E000/screen/5",
+    "http://api.nlib.cc/nx/0100DBB01FC1E000/screen/6"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Froggy Crossing",
+  "publisher": "Pix Arts",
+  "releaseDate": "20220126",
+  "description": "Help Froggy the frog fill his belly with yummy coins!\n\nBut be carrefull, you'll have to cross roads full of danger...\n\nGet new characters to play with using your collected coins.\n\nHave fun!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EA90176AE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EA90176AE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EA90176AE000/screen/1",
+    "http://api.nlib.cc/nx/0100EA90176AE000/screen/2",
+    "http://api.nlib.cc/nx/0100EA90176AE000/screen/3"
+  ]
+}

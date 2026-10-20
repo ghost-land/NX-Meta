@@ -1,0 +1,16 @@
+{
+  "name": "Rubber Duck Race Simulator",
+  "publisher": "VRCFORGE STUDIOS",
+  "releaseDate": "20250726",
+  "description": "Dive into a fast and fun adventure with Rubber Duck Race Simulator! Choose your favorite duck, launch it into the water, and race against other competitors through raging rivers, spectacular waterfalls, and surprising tracks.\n\nWhat awaits you?\n- Dynamic tracks – Shifting currents, surprise obstacles, and hidden ramps that make every race unique.\n- Daily challenges – Complete quick missions for exclusive rewards.\n- Endless race mode – An infinite stream of procedurally generated tracks that grow more challenging.\n- Variety of ducks – Unlock a diverse range of ducks, each with its own unique style and special abilities.\n\nGet ready for limitless fun, show off your reflexes, and prove that your duck is the fastest on the water! Are you ready to make waves and be the first to cross the finish line?",
+  "bannerUrl": "http://api.nlib.cc/nx/01001B501F782000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001B501F782000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001B501F782000/screen/1",
+    "http://api.nlib.cc/nx/01001B501F782000/screen/2",
+    "http://api.nlib.cc/nx/01001B501F782000/screen/3",
+    "http://api.nlib.cc/nx/01001B501F782000/screen/4",
+    "http://api.nlib.cc/nx/01001B501F782000/screen/5",
+    "http://api.nlib.cc/nx/01001B501F782000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Spiritfall",
+  "publisher": "Gentle Giant Games",
+  "releaseDate": "20250509",
+  "description": "A PLATFORM FIGHTER ROGUELIKE\nSpiritfall combines tight Platform Fighter combat, smooth movement, and Roguelite mechanics into one! Trek across dangerous lands, string together deadly combos to fend off swarms of enemies, and harness an ever-changing set of powers through a randomly generated map.\n\nDIVINE SYNERGIES AWAIT\nThe divine spirits offer powerful blessings that enhance your abilities in combat. Discover your favorite abilities, and experiment with different builds. With over 150+ blessings to choose from, these gifts allow for a range of tactical approaches that encourage you to find synergies that fit your playstyle.\n\nGROW STRONGER FROM DEFEAT\nDeath is but a temporary setback. Reawaken stronger than before at the Sanctum and continue your adventure. Use the resources you gathered to upgrade your skills, unlock unique powers, and awaken mighty weapons with unique movesets.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B3C01E000000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B3C01E000000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B3C01E000000/screen/1",
+    "http://api.nlib.cc/nx/0100B3C01E000000/screen/2",
+    "http://api.nlib.cc/nx/0100B3C01E000000/screen/3",
+    "http://api.nlib.cc/nx/0100B3C01E000000/screen/4",
+    "http://api.nlib.cc/nx/0100B3C01E000000/screen/5",
+    "http://api.nlib.cc/nx/0100B3C01E000000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Alphadia III",
+  "publisher": "KEMCO",
+  "releaseDate": "20250918",
+  "description": "Before Alphadia I, the world was torn by the Energi War—fueled by humanity's lust for life energy. In the midst of it, an energi clone named Alfonso begins to question everything. With nothing but his doubts and determination, he sets off on a journey to uncover meaning in a world consumed by power. What truth awaits at the end of his path?\n\nAlphadia III returns with deep turn-based combat, SP Skills to shift the tide of battle, and new mechanics like Arrays and the Energi Crock system. Upgrade your ship into a seaplane, trade Energi Elements, and dive into missions, arenas, and more—all wrapped in charming pixel graphics and a beautiful fantasy RPG adventure.",
+  "bannerUrl": "http://api.nlib.cc/nx/010030F02465E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010030F02465E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010030F02465E000/screen/1",
+    "http://api.nlib.cc/nx/010030F02465E000/screen/2",
+    "http://api.nlib.cc/nx/010030F02465E000/screen/3",
+    "http://api.nlib.cc/nx/010030F02465E000/screen/4",
+    "http://api.nlib.cc/nx/010030F02465E000/screen/5",
+    "http://api.nlib.cc/nx/010030F02465E000/screen/6"
+  ]
+}

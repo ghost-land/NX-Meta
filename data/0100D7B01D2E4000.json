@@ -1,0 +1,15 @@
+{
+  "name": "Long Run",
+  "publisher": "Entity3",
+  "releaseDate": "20231021",
+  "description": "Collect as many people as possible and go for the high score\n\nAvoid walls and enemies, pass through gates to increase or decrease your run of men\n\nReach the cannon and fire all the men into the bonus wall\n\nCan you hold the best score?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D7B01D2E4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D7B01D2E4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D7B01D2E4000/screen/1",
+    "http://api.nlib.cc/nx/0100D7B01D2E4000/screen/2",
+    "http://api.nlib.cc/nx/0100D7B01D2E4000/screen/3",
+    "http://api.nlib.cc/nx/0100D7B01D2E4000/screen/4",
+    "http://api.nlib.cc/nx/0100D7B01D2E4000/screen/5"
+  ]
+}

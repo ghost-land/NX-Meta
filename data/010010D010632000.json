@@ -1,0 +1,16 @@
+{
+  "name": "Bouncing Hero",
+  "publisher": "Turtle Cream",
+  "releaseDate": "20210121",
+  "description": "Explore the castle packed with highly sophisticated traps by a knight riding pogo stick with your amazing control!\n\nThe castle, that is thirteen-story high and covered by magical power, changes its map every time randomly when you start to play. And statues with dead man's spirit are ready to threaten you in this scary castle. Well, who will be the one conquering this tower?",
+  "bannerUrl": "http://api.nlib.cc/nx/010010D010632000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010010D010632000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010010D010632000/screen/1",
+    "http://api.nlib.cc/nx/010010D010632000/screen/2",
+    "http://api.nlib.cc/nx/010010D010632000/screen/3",
+    "http://api.nlib.cc/nx/010010D010632000/screen/4",
+    "http://api.nlib.cc/nx/010010D010632000/screen/5",
+    "http://api.nlib.cc/nx/010010D010632000/screen/6"
+  ]
+}

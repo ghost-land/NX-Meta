@@ -1,0 +1,13 @@
+{
+  "name": "Retro Fighter - Dragon's Revenge",
+  "publisher": "Digital Game Group",
+  "releaseDate": "20210219",
+  "description": "Help Jade Dragon take back the streets of Wicker City. Fight through street gangs and uncover the secrets of the citys crime ring. \n\nRetro playstyle bringing back a classic beat em up with 80s restro storyline.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F4101443C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F4101443C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F4101443C000/screen/1",
+    "http://api.nlib.cc/nx/0100F4101443C000/screen/2",
+    "http://api.nlib.cc/nx/0100F4101443C000/screen/3"
+  ]
+}

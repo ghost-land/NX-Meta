@@ -1,0 +1,15 @@
+{
+  "name": "Bio Block",
+  "publisher": "Entity3",
+  "releaseDate": "20231028",
+  "description": "Take control of a fork lift in an unstable environment in an all new puzzle game\n\nExperience a new type of puzzle game with 60+ challenging levels\n\nLift and move blocks, raise platforms, use lift and avoid enemies!\n\n360 degree camera controls allow you to explore each visually beautiful level",
+  "bannerUrl": "http://api.nlib.cc/nx/01002F401D3C4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002F401D3C4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002F401D3C4000/screen/1",
+    "http://api.nlib.cc/nx/01002F401D3C4000/screen/2",
+    "http://api.nlib.cc/nx/01002F401D3C4000/screen/3",
+    "http://api.nlib.cc/nx/01002F401D3C4000/screen/4",
+    "http://api.nlib.cc/nx/01002F401D3C4000/screen/5"
+  ]
+}

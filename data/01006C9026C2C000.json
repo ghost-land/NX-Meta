@@ -1,0 +1,16 @@
+{
+  "name": "Minos Trials",
+  "publisher": "Afil Games",
+  "releaseDate": "20260501",
+  "description": "Step into the arena of Minos Trials, a 2D puzzle-platformer where brute strength and sharp thinking go hand in hand. Control Minos, a not-so-patient minotaur who solves problems with punches, pushing blocks, filling pits, activating pressure plates, and crushing nosy adventurers who insist on stealing his treasure.\n\nAcross 30 fast-paced stages set in elegant gardens and bubbling lava chambers, your goal is always clear: grab the chest, find the key, and open the Stairway Door. Use springs and geysers to reach impossible places, create clever shortcuts, and craft efficient solutions that deliver that satisfying “solved in one go” feeling.\n\nWith clean readability, instant restart, and smart challenges without punishment, Minos Trials is perfect for players who love sharp puzzles, optimized routes, and the joy of mastering each level with style. Think fast, hit hard, and prove that no one enters Minos’ labyrinth without permission.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006C9026C2C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006C9026C2C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006C9026C2C000/screen/1",
+    "http://api.nlib.cc/nx/01006C9026C2C000/screen/2",
+    "http://api.nlib.cc/nx/01006C9026C2C000/screen/3",
+    "http://api.nlib.cc/nx/01006C9026C2C000/screen/4"
+  ],
+  "version": 0,
+  "size": 58988805
+}

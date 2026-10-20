@@ -1,0 +1,16 @@
+{
+  "name": "Regions of Ruin",
+  "publisher": "JanduSoft",
+  "releaseDate": "20191223",
+  "description": "Regions of Ruin is a 2D side-scrolling RPG with town-building where you are introduced to an open world that progressively challenges your hero and settlement the further you delve into the vast continent.\n\nYou will discover a foreboding land ravaged by hundreds of years of hardship. Where, kingdoms have risen and fallen, settlements have been laid to waste and overrun by warring groups, and great mysteries lay hidden and waiting to be unearthed - assuming you can defeat their jealous guardians.\n\n\nMain Features include:\n\n• Styled combat system with stats and levelling\n• Skill tree to focus your fighting style\n• Extensive loot and rare items to discover\n• Forge your own equipment or smelt it for resources\n• Open world exploration with a hand crafted environment, no randomized maps or levels, everything you see has been made with care\n• Customised town building and expansion\n• Rescue and recruit dwarves for your township (save them from extinction!)\n• Send workers to harvest resources from explored regions\n• Hire Mercenaries to help in battle\n• Multitude of Quests and a main storyline",
+  "bannerUrl": "http://api.nlib.cc/nx/01005FD00F15A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005FD00F15A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005FD00F15A000/screen/1",
+    "http://api.nlib.cc/nx/01005FD00F15A000/screen/2",
+    "http://api.nlib.cc/nx/01005FD00F15A000/screen/3",
+    "http://api.nlib.cc/nx/01005FD00F15A000/screen/4",
+    "http://api.nlib.cc/nx/01005FD00F15A000/screen/5",
+    "http://api.nlib.cc/nx/01005FD00F15A000/screen/6"
+  ]
+}

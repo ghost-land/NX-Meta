@@ -1,0 +1,16 @@
+{
+  "name": "Cosmonauta",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20200211",
+  "description": "Cosmonauta is a platform game in which players must overcome a world full of challenging puzzles, which require more than their reflexes, their determination.\nDuring a space expedition, our hero experiences issues with the navigation systems on his ship and now needs to face the dangers of the unknown to find his way back home.\n\nMain Features:\n- Graphics inspired by the classics of the 8 and 16-bit era;\n- 64 Levels full of challenging puzzles;\n- Easy to play, difficult to master;\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01009DE010948000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009DE010948000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009DE010948000/screen/1",
+    "http://api.nlib.cc/nx/01009DE010948000/screen/2",
+    "http://api.nlib.cc/nx/01009DE010948000/screen/3",
+    "http://api.nlib.cc/nx/01009DE010948000/screen/4",
+    "http://api.nlib.cc/nx/01009DE010948000/screen/5",
+    "http://api.nlib.cc/nx/01009DE010948000/screen/6"
+  ]
+}

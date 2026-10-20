@@ -1,0 +1,16 @@
+{
+  "name": "Palland",
+  "publisher": "BoggySoft",
+  "releaseDate": "20250731",
+  "description": "Step into the world of Palland, a captivating survival, building, and exploration game where everything starts with a humble base. In a vast and dangerous environment, you decide how to gather resources, expand your shelter, and deal with wild creatures that can be both threats and valuable sources of power. \n\n- Build bases across three distinct maps: Each environment offers unique challenges, construction styles, and local resources. \n- Explore and gather essential materials: From rare crystals to vital essences – every item counts on your path to growth. \n- Survival management: Balance your character’s health, hunger, and energy to stay alive.\n- Quest-driven gameplay: Follow dynamic missions that guide your progress, offer rewards, and unlock new possibilities. \n\nPalland delivers a rich and immersive experience where base-building, combat, exploration, and evolution blend into one dynamic and strategic journey. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AC1023722000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AC1023722000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AC1023722000/screen/1",
+    "http://api.nlib.cc/nx/0100AC1023722000/screen/2",
+    "http://api.nlib.cc/nx/0100AC1023722000/screen/3",
+    "http://api.nlib.cc/nx/0100AC1023722000/screen/4",
+    "http://api.nlib.cc/nx/0100AC1023722000/screen/5",
+    "http://api.nlib.cc/nx/0100AC1023722000/screen/6"
+  ]
+}

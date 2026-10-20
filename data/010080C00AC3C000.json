@@ -1,0 +1,15 @@
+{
+  "name": "Caveman Chuck: Prehistoric Adventure",
+  "publisher": "PrimeBit Games",
+  "releaseDate": "20200121",
+  "description": "Caveman Chuck is a classic 2D platformer where you fight with dinosaurs in stone age. You’re taken back all the way to the Stone Age where you play the role of a crude caveman named Chuck. You’ll quickly realize he shares his cave with his wife, who is heavily invested in the relationship, and as things often have it, she yells at him rather frequently.\n\nOne day Chuck’s wife gets kidnapped by a pterodactyl much to Chuck’s delight. He’s pretty happy at first but eventually gets hungry and quickly comes to appreciate his wife’s cooking skills. He sets out to free his woman.",
+  "bannerUrl": "http://api.nlib.cc/nx/010080C00AC3C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010080C00AC3C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010080C00AC3C000/screen/1",
+    "http://api.nlib.cc/nx/010080C00AC3C000/screen/2",
+    "http://api.nlib.cc/nx/010080C00AC3C000/screen/3",
+    "http://api.nlib.cc/nx/010080C00AC3C000/screen/4",
+    "http://api.nlib.cc/nx/010080C00AC3C000/screen/5"
+  ]
+}

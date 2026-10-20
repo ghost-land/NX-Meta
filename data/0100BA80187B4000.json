@@ -1,0 +1,16 @@
+{
+  "name": "Resident Evil 7 biohazard Cloud Gameplay Demo",
+  "publisher": "CAPCOM",
+  "releaseDate": "20221202",
+  "description": "The \"Resident Evil 7 biohazard Cloud Gameplay Demo,\" allows you to experience stunning picture quality that surpasses the typical limits of portable game consoles.\n\nSurvive the unknown madness of a decaying abandoned house.\n\n*This demo allows you to enjoy the early stages of the game up to 3 times. Please use this demo to confirm your internet connection is appropriate for cloud gaming.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BA80187B4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BA80187B4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BA80187B4000/screen/1",
+    "http://api.nlib.cc/nx/0100BA80187B4000/screen/2",
+    "http://api.nlib.cc/nx/0100BA80187B4000/screen/3",
+    "http://api.nlib.cc/nx/0100BA80187B4000/screen/4",
+    "http://api.nlib.cc/nx/0100BA80187B4000/screen/5",
+    "http://api.nlib.cc/nx/0100BA80187B4000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Little Strays",
+  "publisher": "COMMANDO PANDA",
+  "releaseDate": "20241115",
+  "description": "• Search abandoned warehouses for food and rescue lost kittens.\n• Avoid obstacles and complete timed objectives.\n• Play through 16 challenging levels.\n• Compete in two-player split-screen mode.\n\nIn a desolate world where only the fittest survive, you step into the paws of a courageous cat determined to make a difference. As the city whispers of danger and abandonment, you listen closely, navigating through deserted warehouses in search of stranded and frightened kittens. Your mission is clear: find food, aid the helpless, and guide the lost to safety. Every corner holds a new challenge, but with a strong will and compassionate spirit, you’ll do whatever it takes to protect those who need it most!\n\nThe game also features a split-screen mode, allowing two players to compete head-to-head in their quest to rescue as many kittens as possible. Team up or face off for an added layer of excitement in this survival adventure!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F7F0210DA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F7F0210DA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F7F0210DA000/screen/1",
+    "http://api.nlib.cc/nx/0100F7F0210DA000/screen/2",
+    "http://api.nlib.cc/nx/0100F7F0210DA000/screen/3",
+    "http://api.nlib.cc/nx/0100F7F0210DA000/screen/4",
+    "http://api.nlib.cc/nx/0100F7F0210DA000/screen/5",
+    "http://api.nlib.cc/nx/0100F7F0210DA000/screen/6"
+  ]
+}

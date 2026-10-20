@@ -1,0 +1,16 @@
+{
+  "name": "Robozarro",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20200709",
+  "description": "Robozarro is a physics-based 2D action game where robots B0-3 and 0-Ramatron embark on an epic quest through the outskirts, underbelly and rooftops of Mech Angeles to uncover the mystery surrounding the disappearance of Dr. Zarro.\n\nFeatures:\n\n• Explore an unpredictable world brought to life by a dynamic 2D physics engine.\n• Master the “Grab N Blast” physics manipulation tool to turn your surroundings into explosive weaponry!\n• Collect junk while adventuring and trade for health, weapons or upgrades.\n• Recover unique gadgets to aid your journey across Mech Angeles.\n• Unlock time trials and attempt to beat levels with no checkpoints or taking zero damage!",
+  "bannerUrl": "http://api.nlib.cc/nx/010044A010BB8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010044A010BB8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010044A010BB8000/screen/1",
+    "http://api.nlib.cc/nx/010044A010BB8000/screen/2",
+    "http://api.nlib.cc/nx/010044A010BB8000/screen/3",
+    "http://api.nlib.cc/nx/010044A010BB8000/screen/4",
+    "http://api.nlib.cc/nx/010044A010BB8000/screen/5",
+    "http://api.nlib.cc/nx/010044A010BB8000/screen/6"
+  ]
+}

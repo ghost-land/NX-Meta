@@ -1,0 +1,16 @@
+{
+  "name": "City of Brass",
+  "publisher": "Uppercut Games",
+  "releaseDate": "20190208",
+  "description": "Become a daring thief in City of Brass, a first-person action adventure from senior BioShock developers. Armed with scimitar and a versatile whip, you’ll lash and slash, bait and trap your way to the heart of an opulent, Arabian Nights-themed metropolis – or face certain death as time runs out.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009BC00B872000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009BC00B872000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009BC00B872000/screen/1",
+    "http://api.nlib.cc/nx/01009BC00B872000/screen/2",
+    "http://api.nlib.cc/nx/01009BC00B872000/screen/3",
+    "http://api.nlib.cc/nx/01009BC00B872000/screen/4",
+    "http://api.nlib.cc/nx/01009BC00B872000/screen/5",
+    "http://api.nlib.cc/nx/01009BC00B872000/screen/6"
+  ]
+}

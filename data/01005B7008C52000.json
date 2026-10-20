@@ -1,0 +1,18 @@
+{
+  "name": "Pokémon™ Champions",
+  "publisher": "Nintendo",
+  "releaseDate": "20260408",
+  "description": "Battle with Pokémon, including with Mega-Evolved Pokémon like Mega Dragonite, against other players in the Pokémon™ Champions game—the same game used for official Pokémon Video Game Championship events! These single and double battles use familiar mechanics from previous Pokémon series games such as Pokémon types, Abilities, and moves, enabling the rich and varied battle strategies you may already know and love.\n\nCompete online* in Ranked Battles against players from near and far, or try Casual Battles for some easygoing fun. You can also have Private Battles with just your friends and family**.\n\nRecruit Pokémon to join your team and train them to hone their skills\n\nBefore you venture into the world of Pokémon battles, try finding Pokémon to fight alongside you! Once per day, you can recruit Pokémon on a trial basis and use them in battle to see if they’re a good fit for your style. Once you’ve found a match, use your in-game Victory Points (VP) to bring Pokémon on to your team permanently.\n\nYou can also use your VP to train the permanent members of your Pokémon squad. Hone their Attack, Defense, and other stats, and even alter their Abilities and moves to try out different strategies in battle!\n\nTeam up with partner Pokémon from other Pokémon series games with Pokémon HOME\n\nPokémon Champions will be compatible with Pokémon HOME***, the cloud service for the Nintendo Switch™ 2 and Nintendo Switch systems, and compatible mobile devices. That means, in addition to the Pokémon partners available in Pokémon Champions, you can also team up with certain Pokémon brought over from Pokémon GO and other Pokémon series RPGs. In fact, by storing a Chesnaught, Delphox, Greninja, or Eternal Flower Floette you befriended during the Pokémon Legends: Z-A game in Pokémon HOME and bringing them to Pokémon Champions as visitors, you can obtain their corresponding Mega Stones from your in-game mailbox in Pokémon Champions!",
+  "bannerUrl": "http://api.nlib.cc/nx/01005B7008C52000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005B7008C52000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005B7008C52000/screen/1",
+    "http://api.nlib.cc/nx/01005B7008C52000/screen/2",
+    "http://api.nlib.cc/nx/01005B7008C52000/screen/3",
+    "http://api.nlib.cc/nx/01005B7008C52000/screen/4",
+    "http://api.nlib.cc/nx/01005B7008C52000/screen/5",
+    "http://api.nlib.cc/nx/01005B7008C52000/screen/6"
+  ],
+  "version": 0,
+  "size": 46127159
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Overwatch® 2",
+  "publisher": "Blizzard Entertainment",
+  "releaseDate": "20221004",
+  "description": "Overwatch 2 is an always-on and ever-evolving free-to-play, team-based action game set in an optimistic future, where every match is the ultimate 5v5 battlefield brawl featuring new heroes and maps, different ways to play, and unique cosmetics! Lead the charge, ambush your enemies, or aid your allies as one of Overwatch’s 40 distinct heroes. Team up with friends, take them into battle across 25+ futuristic maps inspired by real-world locations, and master multiple unique game modes.\n\nOverwatch 2 – Season 18: Stadium Quick Play\n\nRise. Refresh. Reload.\n\nSeason 18: Stadium Quick Play reshapes the current with a PvP refresh, a massive Stadium overhaul, and the debut of our newest Support hero—the rebellious aquatic, Wuyang. Master the rhythm with a flow-powered kit, dive into the updated Stadium with new heroes and Payload Race mode plus climb the ranks after our PvP System Refresh resets the competitive playing field. Whether you're drafting comps, experimenting with Perks, or flexing your skills in third person Lucio Ball, it's time to make a splash. \n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F8600E21E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F8600E21E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F8600E21E000/screen/1",
+    "http://api.nlib.cc/nx/0100F8600E21E000/screen/2",
+    "http://api.nlib.cc/nx/0100F8600E21E000/screen/3",
+    "http://api.nlib.cc/nx/0100F8600E21E000/screen/4",
+    "http://api.nlib.cc/nx/0100F8600E21E000/screen/5",
+    "http://api.nlib.cc/nx/0100F8600E21E000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Sky Ride",
+  "publisher": "MUTAN",
+  "releaseDate": "20170817",
+  "description": "The player will fly over the ground, in the sky and various fields and fight utilizing 4 weapons. We aim for the game which offers a sense of exhilaration through routing the enemies all at once in addition to a sense of exhilaration felt though flying around in the sky.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DDB004F30000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DDB004F30000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DDB004F30000/screen/1",
+    "http://api.nlib.cc/nx/0100DDB004F30000/screen/2",
+    "http://api.nlib.cc/nx/0100DDB004F30000/screen/3",
+    "http://api.nlib.cc/nx/0100DDB004F30000/screen/4",
+    "http://api.nlib.cc/nx/0100DDB004F30000/screen/5",
+    "http://api.nlib.cc/nx/0100DDB004F30000/screen/6"
+  ]
+}

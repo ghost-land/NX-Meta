@@ -1,0 +1,16 @@
+{
+  "name": "Kart Life",
+  "publisher": "GenieGaming",
+  "releaseDate": "20241219",
+  "description": "Start your engines and prepare for an exhilarating experience in Kart Life, a high-speed kart racing game where skill and precision are key to victory. Race through a variety of dynamic tracks, upgrade your karts, and perfect your cornering as you strive for greatness on the road to karting excellence.\n\nChallenge yourself across a range of intricate tracks designed to test your skills and strategy. Perfect your cornering, accelerate through straightaways, and leave your competitors behind as you rise to the top.\n\nEnhance your kart with powerful upgrades and tailor it to your racing style. Each upgrade improves performance, giving you the edge in every race and allowing you to handle the toughest tracks with ease.\n\nKey Features\n- Thrilling kart racing with intense speed and action  \n- Upgradable karts with unique attributes  \n- Precision controls for smooth, responsive handling  \n- Stunning visuals and immersive sound design  \n- A variety of challenging tracks to master  \n- Feel the rush of racing and aim to become a karting legend  \n\nKart Life—where speed, skill, and determination lead to victory. ",
+  "bannerUrl": "http://api.nlib.cc/nx/010066E01F344000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010066E01F344000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010066E01F344000/screen/1",
+    "http://api.nlib.cc/nx/010066E01F344000/screen/2",
+    "http://api.nlib.cc/nx/010066E01F344000/screen/3",
+    "http://api.nlib.cc/nx/010066E01F344000/screen/4",
+    "http://api.nlib.cc/nx/010066E01F344000/screen/5",
+    "http://api.nlib.cc/nx/010066E01F344000/screen/6"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Toree Saturn",
+  "publisher": "Diplodocus Games",
+  "releaseDate": "20250808",
+  "description": "Toree Saturn is a speed-based 3D platformer featuring a round bird with sunglasses and a backpack!\n\nRun through linear levels from point A to B with a double jumping bird while avoiding enemies, collecting stars (if desired), and getting all kinds of little speed boosts along the way. \n\n- Simple to understand gameplay: Just run around and jump and you already set to get the highest rankings in each level\n- A variety of levels with different retro and colorful themes\n- Cool tunes inspired by late 90s as well as early Y2K styles.\n- A bird with sunglasses and a backpack!\n- Toree has two new moves! The player can now use a grounddash in mid air to descend faster and get a speedboost when impacting on the ground, as well as homing in on special stars to get a height and movement boost.\n\n- New Looks! Toree Saturns artstyle tries to be a combination of late 90s 3D with some of the more crazy looks of the early Y2K era. It's like a natural evolution of the artstyle of the previous games... I hope.\n\n- Controlling Toree got way easier!\n- Most actions (except for the trigger for the ground dash) only use the Jump button.\n- Ground Dash is performed by the now freed ZR Button",
+  "bannerUrl": "http://api.nlib.cc/nx/01002C3024984000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002C3024984000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002C3024984000/screen/1",
+    "http://api.nlib.cc/nx/01002C3024984000/screen/2",
+    "http://api.nlib.cc/nx/01002C3024984000/screen/3",
+    "http://api.nlib.cc/nx/01002C3024984000/screen/4",
+    "http://api.nlib.cc/nx/01002C3024984000/screen/5",
+    "http://api.nlib.cc/nx/01002C3024984000/screen/6"
+  ],
+  "version": 0,
+  "size": 872828651
+}

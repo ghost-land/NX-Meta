@@ -1,0 +1,16 @@
+{
+  "name": "Ponpu",
+  "publisher": "Silver Lining",
+  "releaseDate": "20201129",
+  "description": "As a herald of the almighty creator of the Universe – the Duck-God, battle it out with your siblings in an epic quest to save the world from destruction! \nOnce you’re done saving the world, engage in frantic multiplayer in a range of crazy game modes with up to 4 players.\nBombs on!\nFeatures: \n\nA fresh take on a classic game concept  \n\nAn epic campaign with massive bosses\n\nHectic 4-player multiplayer with three crazy game modes:\nTeam Deathmatch – Last Ponpu standing wins!\nCoin Chase – Hoard the most coins before the time is up. Dragon style! \nColor Fight – Paint the town red! (or you know… whichever color you prefer)\n       \nThe most epic egg-based arsenal ever witnessed!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010096B01179A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010096B01179A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010096B01179A000/screen/1",
+    "http://api.nlib.cc/nx/010096B01179A000/screen/2",
+    "http://api.nlib.cc/nx/010096B01179A000/screen/3",
+    "http://api.nlib.cc/nx/010096B01179A000/screen/4",
+    "http://api.nlib.cc/nx/010096B01179A000/screen/5",
+    "http://api.nlib.cc/nx/010096B01179A000/screen/6"
+  ]
+}

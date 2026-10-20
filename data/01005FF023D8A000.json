@@ -1,0 +1,18 @@
+{
+  "name": "Myst House",
+  "publisher": "Nerd Games",
+  "releaseDate": "20250705",
+  "description": "After your car breaks down near your late grandfather’s abandoned house, you step inside searching for help. But your search quickly turns into a nightmare — the house is no longer empty, and a violent lunatic is on the loose. Your only chance of survival is to explore every shadowy corner, solve puzzles, and uncover hidden items as you fight to stay alive… before it’s too late.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01005FF023D8A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005FF023D8A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005FF023D8A000/screen/1",
+    "http://api.nlib.cc/nx/01005FF023D8A000/screen/2",
+    "http://api.nlib.cc/nx/01005FF023D8A000/screen/3",
+    "http://api.nlib.cc/nx/01005FF023D8A000/screen/4",
+    "http://api.nlib.cc/nx/01005FF023D8A000/screen/5",
+    "http://api.nlib.cc/nx/01005FF023D8A000/screen/6"
+  ],
+  "version": 0,
+  "size": 213973923
+}

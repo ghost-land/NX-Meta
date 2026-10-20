@@ -1,0 +1,16 @@
+{
+  "name": "Planet Quiz: Learn & Discover",
+  "publisher": "QubicGames",
+  "releaseDate": "20211225",
+  "description": "Planet Quiz is a charming way to expand your knowledge about Earth, animals, culture… and a guaranteed fun time for you and your friends.\n\nIn this game you will find:\n» 4 modes - Campaign, Quick Play, Tournament, and Quizpedia.\n» Single or Multiplayer options (up to 4 players).\n» Three levels of difficulty (easy, medium and hard).\n» Various subjects covered in 17 categories, eg. cities, countries, mountains, bodies of water, people, animals, architecture, food, nature wonders. \n» Beautiful, handcrafted visuals.\n» Quizpedia with all the information appearing in the game.",
+  "bannerUrl": "http://api.nlib.cc/nx/010057C015C3A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010057C015C3A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010057C015C3A000/screen/1",
+    "http://api.nlib.cc/nx/010057C015C3A000/screen/2",
+    "http://api.nlib.cc/nx/010057C015C3A000/screen/3",
+    "http://api.nlib.cc/nx/010057C015C3A000/screen/4",
+    "http://api.nlib.cc/nx/010057C015C3A000/screen/5",
+    "http://api.nlib.cc/nx/010057C015C3A000/screen/6"
+  ]
+}

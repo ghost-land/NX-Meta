@@ -1,0 +1,14 @@
+{
+  "name": "Galaxy Revo 2",
+  "publisher": "ASI GAMES TECHNOLOGIES",
+  "releaseDate": "20230220",
+  "description": "Play as a spaceship in space full of dangers.\nYour job is to dodge enemy spaceships and fuel up new opportunities for you. The game is great for relaxing.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F8201A7E6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F8201A7E6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F8201A7E6000/screen/1",
+    "http://api.nlib.cc/nx/0100F8201A7E6000/screen/2",
+    "http://api.nlib.cc/nx/0100F8201A7E6000/screen/3",
+    "http://api.nlib.cc/nx/0100F8201A7E6000/screen/4"
+  ]
+}

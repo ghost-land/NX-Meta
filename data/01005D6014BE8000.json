@@ -1,0 +1,16 @@
+{
+  "name": "Timelie",
+  "publisher": "Silver Lining",
+  "releaseDate": "20211215",
+  "description": "Foresee and rewind\nThe Timeline ability gives players the power to control time just like a media player. Drag the Timeline left rewind time and undo your past mistakes. Drag it right to watch your future unfold and gain you valuable information to change your past.\n\nCoopreative play, for one\nControl both the girl and the cat simultaneously, timing their movements and actions to complement each other, escape detection, distract enemies, and ultimately escape the world they’re trapped in. Experience cooperative play for a single player like never before.\n\nA world beyond time\nLose yourself in a vibrant world filled with colorful abstractions and surreal visuals. Explore strange realms filled with danger…but also discovery.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01005D6014BE8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005D6014BE8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005D6014BE8000/screen/1",
+    "http://api.nlib.cc/nx/01005D6014BE8000/screen/2",
+    "http://api.nlib.cc/nx/01005D6014BE8000/screen/3",
+    "http://api.nlib.cc/nx/01005D6014BE8000/screen/4",
+    "http://api.nlib.cc/nx/01005D6014BE8000/screen/5",
+    "http://api.nlib.cc/nx/01005D6014BE8000/screen/6"
+  ]
+}

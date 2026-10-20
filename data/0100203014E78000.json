@@ -1,0 +1,14 @@
+{
+  "name": "Zumatch",
+  "publisher": "Digital Game Group",
+  "releaseDate": "20210514",
+  "description": "Help Explorer Dakota Jane navigate herself in this classic jungle adventure.\nMatch 3 balls or more together to advance further into the jungle. Use the bubble shooter to shoot balls to match its color to destroy them.\nLots of power ups to help through her challenges as they get harder and harder.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100203014E78000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100203014E78000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100203014E78000/screen/1",
+    "http://api.nlib.cc/nx/0100203014E78000/screen/2",
+    "http://api.nlib.cc/nx/0100203014E78000/screen/3",
+    "http://api.nlib.cc/nx/0100203014E78000/screen/4"
+  ]
+}

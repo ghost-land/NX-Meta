@@ -1,0 +1,16 @@
+{
+  "name": "Wild Dogs",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20230420",
+  "description": "The world is under a frantic alien attack. Amidst the chaos and with the army virtually subdued, the deadliest and most inconsequential pair of specialists are called upon to do what must be done. Join the war hunting aliens around the world and in every way possible.\n\nGame Features\n\n- 2D platformer with classic and varied mechanics;\n- Shoot in 8 directions;\n- Pilot planes, mecha and everything that is within your reach;\n- Most bizarre and varied boss fights;\n- Rain bullets with varied and powerful shots;\n- Switch between multiple color palettes.",
+  "bannerUrl": "http://api.nlib.cc/nx/010098201A97C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010098201A97C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010098201A97C000/screen/1",
+    "http://api.nlib.cc/nx/010098201A97C000/screen/2",
+    "http://api.nlib.cc/nx/010098201A97C000/screen/3",
+    "http://api.nlib.cc/nx/010098201A97C000/screen/4",
+    "http://api.nlib.cc/nx/010098201A97C000/screen/5",
+    "http://api.nlib.cc/nx/010098201A97C000/screen/6"
+  ]
+}

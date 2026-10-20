@@ -1,0 +1,14 @@
+{
+  "name": "2048 CAT",
+  "publisher": "Millo Games",
+  "releaseDate": "20191223",
+  "description": "Mischievous cats are messing with your 2048 board (#`Д´)ﾉ\nWell, how could you blame them if they are so cute!!\nCome and join them to play with 2048 game!\n\nHow to play:\nUse joystick to move all tiles.\nWhen two tiles with the same number touch, they merge into one.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005E101014C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005E101014C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005E101014C000/screen/1",
+    "http://api.nlib.cc/nx/01005E101014C000/screen/2",
+    "http://api.nlib.cc/nx/01005E101014C000/screen/3",
+    "http://api.nlib.cc/nx/01005E101014C000/screen/4"
+  ]
+}

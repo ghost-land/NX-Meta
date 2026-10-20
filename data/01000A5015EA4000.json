@@ -1,0 +1,16 @@
+{
+  "name": "Donut Match",
+  "publisher": "Digital Game Group",
+  "releaseDate": "20211022",
+  "description": "Joy's back! She is trying to start her own Donut shop. Help her combine different combinations of matching donuts and work her magic in her next match 3 adventure!\n\nVarious different conditions to win a level. Get new types of power ups as you go further into the levels.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000A5015EA4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000A5015EA4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000A5015EA4000/screen/1",
+    "http://api.nlib.cc/nx/01000A5015EA4000/screen/2",
+    "http://api.nlib.cc/nx/01000A5015EA4000/screen/3",
+    "http://api.nlib.cc/nx/01000A5015EA4000/screen/4",
+    "http://api.nlib.cc/nx/01000A5015EA4000/screen/5",
+    "http://api.nlib.cc/nx/01000A5015EA4000/screen/6"
+  ]
+}

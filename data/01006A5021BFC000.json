@@ -1,0 +1,15 @@
+{
+  "name": "Monster Popper",
+  "publisher": "Gametry",
+  "releaseDate": "20250418",
+  "description": "Step into a world full of fast-paced action and mischievous monsters! Monster Popper is a dynamic action platformer where you play as a young hero armed with a powerful energy blaster. Your mission is to eliminate waves of crazy, bouncing creatures and defeat giant bosses that threaten the magical kingdom.\n\n-Exciting gameplay – jump, shoot, and dodge traps in challenging levels\n-Epic battles – face off against massive dragons and cunning enemies\n-Humor and style – enjoy charming animations, quirky monsters, and vibrant fantasy visuals",
+  "bannerUrl": "http://api.nlib.cc/nx/01006A5021BFC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006A5021BFC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006A5021BFC000/screen/1",
+    "http://api.nlib.cc/nx/01006A5021BFC000/screen/2",
+    "http://api.nlib.cc/nx/01006A5021BFC000/screen/3",
+    "http://api.nlib.cc/nx/01006A5021BFC000/screen/4",
+    "http://api.nlib.cc/nx/01006A5021BFC000/screen/5"
+  ]
+}

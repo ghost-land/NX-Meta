@@ -1,0 +1,16 @@
+{
+  "name": "The World Next Door",
+  "publisher": "VIZ",
+  "releaseDate": "20190328",
+  "description": "An addictive mix of lightning-fast puzzle battles, powerful storytelling and immersive visual novel elements, The World Next Door follows Jun, a rebellious teen girl trapped in a parallel realm inhabited by magical creatures, who must find her way home before time runs out.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E6200D56E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E6200D56E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E6200D56E000/screen/1",
+    "http://api.nlib.cc/nx/0100E6200D56E000/screen/2",
+    "http://api.nlib.cc/nx/0100E6200D56E000/screen/3",
+    "http://api.nlib.cc/nx/0100E6200D56E000/screen/4",
+    "http://api.nlib.cc/nx/0100E6200D56E000/screen/5",
+    "http://api.nlib.cc/nx/0100E6200D56E000/screen/6"
+  ]
+}

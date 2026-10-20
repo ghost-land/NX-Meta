@@ -1,0 +1,16 @@
+{
+  "name": "Goosebumps The Game",
+  "publisher": "Game Mill",
+  "releaseDate": "20181009",
+  "description": "The walk home from school today is going to be a lot spookier than usual… Your sleepy neighborhood’s been overrun by monsters! Werewolves prowl the woods, Gnomes roam underfoot, and scarecrows walk at midnight. But these aren’t ordinary monsters—they’re R.L. Stine’s famous Goosebumps monsters, released from their books and looking to wreak havoc!\n\nYou’ll need to use your wits to investigate the surroundings, puzzle out clues, and outsmart the monsters before it’s too late! Survive a trek through your neighborhood, unravel the mysteries of the Dead House, and sneak through the mall after hours; only then can you confront Slappy and stop his plans for revenge!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B8000B190000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B8000B190000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B8000B190000/screen/1",
+    "http://api.nlib.cc/nx/0100B8000B190000/screen/2",
+    "http://api.nlib.cc/nx/0100B8000B190000/screen/3",
+    "http://api.nlib.cc/nx/0100B8000B190000/screen/4",
+    "http://api.nlib.cc/nx/0100B8000B190000/screen/5",
+    "http://api.nlib.cc/nx/0100B8000B190000/screen/6"
+  ]
+}

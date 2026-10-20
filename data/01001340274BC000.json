@@ -1,0 +1,18 @@
+{
+  "name": "TR-49",
+  "publisher": "inkle",
+  "releaseDate": "20260407",
+  "description": "A voice is saying your name. A WWII-era machine, long hidden in a church basement, whirs to life. Through a crackling speaker, a man asks you to find a stolen book. He only knows the title. Time is running out.\n\nThe machine, created by Bletchley Park engineers Cecil Caulderly and Beatrice Dooler, contains a vast archive of obscure books, letters, and journals fed in over the span of fifty years in an attempt to crack the code of reality. As their lives fell apart, the machine kept working.\n\nNavigate the computer’s archive. Link its obscure texts and uncover its creators’ secrets. Communicate with the man behind the speaker to figure out your role in this mystery. Destroy the book at the core of the machine — before it’s too late.\n\nNARRATIVE DEDUCTION\n\n• Deduce links through the archive to locate hidden sources.\n\n• Unravel the stories and unearth the secrets of the books’ authors and the machine's creators.\n\n• Map the archive and find the book that will rewrite the world.\n\nINTERACTIVE AUDIO DRAMA\n\n• Talk with your handler at any time, creating a dynamic audio drama that responds as you explore.\n\n• Featuring the voices of Rebekah McLoughlin, Paul Warren and Phillipe Bosher.\n\n• Original soundtrack by Laurence Chapman.\n\nWritten and created by the award-winning team behind Heaven's Vault, Overboard!, and A Highland Song.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001340274BC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001340274BC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001340274BC000/screen/1",
+    "http://api.nlib.cc/nx/01001340274BC000/screen/2",
+    "http://api.nlib.cc/nx/01001340274BC000/screen/3",
+    "http://api.nlib.cc/nx/01001340274BC000/screen/4",
+    "http://api.nlib.cc/nx/01001340274BC000/screen/5",
+    "http://api.nlib.cc/nx/01001340274BC000/screen/6"
+  ],
+  "version": 0,
+  "size": 302354509
+}

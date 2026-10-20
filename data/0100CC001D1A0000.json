@@ -1,0 +1,15 @@
+{
+  "name": "Flap Legends",
+  "publisher": "Entity3",
+  "releaseDate": "20231014",
+  "description": "Its time to get flapping!\n\nJust tap to flap, it couldnt be simpler!\n\nPass the rings perfectly and earn cash to make upgrades.\n\nBuild the perfect flapping machine and reach the highest distance possible",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CC001D1A0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CC001D1A0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CC001D1A0000/screen/1",
+    "http://api.nlib.cc/nx/0100CC001D1A0000/screen/2",
+    "http://api.nlib.cc/nx/0100CC001D1A0000/screen/3",
+    "http://api.nlib.cc/nx/0100CC001D1A0000/screen/4",
+    "http://api.nlib.cc/nx/0100CC001D1A0000/screen/5"
+  ]
+}

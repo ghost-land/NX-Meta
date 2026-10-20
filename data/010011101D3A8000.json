@@ -1,0 +1,16 @@
+{
+  "name": "MisBloody",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20231230",
+  "description": "Face deadly enemies while moving swiftly and precisely through complex and perilous environments. This game is a brutal test of reflexes and reasoning, where every decision you make can be the difference between success and failure, or even life and death. Get ready for a breathtaking challenge that will push your mind and skills to the limit.",
+  "bannerUrl": "http://api.nlib.cc/nx/010011101D3A8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010011101D3A8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010011101D3A8000/screen/1",
+    "http://api.nlib.cc/nx/010011101D3A8000/screen/2",
+    "http://api.nlib.cc/nx/010011101D3A8000/screen/3",
+    "http://api.nlib.cc/nx/010011101D3A8000/screen/4",
+    "http://api.nlib.cc/nx/010011101D3A8000/screen/5",
+    "http://api.nlib.cc/nx/010011101D3A8000/screen/6"
+  ]
+}

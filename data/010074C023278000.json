@@ -1,0 +1,16 @@
+{
+  "name": "Gang Wars - Cards and Bullets",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20250918",
+  "description": "Welcome to Gang Wars – Cards and Bullets, where crime, power, and strategy collide in a gritty card and board game set in the heart of a mafia-run city. Command a crew of dangerous gangsters or elite enforcers in fast-paced, tactical battles on the streets.\nChoose from a deck of uniquely designed underworld characters—mob bosses, street thugs, snipers, medics, and more—each with distinct skills and directional attacks. Place them on the 3x3 grid to deal damage, heal allies, or unleash explosive effects as soon as they hit the board. Once placed, their effects activate, and they stay in play with their defense stats until taken down.\nCollect new fighters from boosters, level them up by merging cards, and fine-tune your deck for maximum impact. Each new district brings a different battlefield that changes the rules and forces you to adapt your strategy. Fast, intense, and packed with gritty charm, Gang Wars – Cards and Bullets lets you rule the streets your way.",
+  "bannerUrl": "http://api.nlib.cc/nx/010074C023278000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010074C023278000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010074C023278000/screen/1",
+    "http://api.nlib.cc/nx/010074C023278000/screen/2",
+    "http://api.nlib.cc/nx/010074C023278000/screen/3",
+    "http://api.nlib.cc/nx/010074C023278000/screen/4",
+    "http://api.nlib.cc/nx/010074C023278000/screen/5",
+    "http://api.nlib.cc/nx/010074C023278000/screen/6"
+  ]
+}

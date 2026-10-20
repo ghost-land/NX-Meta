@@ -1,0 +1,16 @@
+{
+  "name": "Dollmare",
+  "publisher": "Feardemic",
+  "releaseDate": "20251106",
+  "description": "INSPECT ANOMALOUS DOLLS\nCarefully inspect each doll for strange defects or eerie behavior. Spot every anomaly, from subtle flaws to unsettling movements, and ensure that only the ‘safe’ dolls make it through.\n\nCREEPY WITHOUT SCREAMERS\nNot in the mood to be chased and screamed at by monsters? Tired of jumpscares and endless fights for survival? Dollmare is just for you.\nIt’s still a horror game - you'll get scared, feel uneasy and constantly sense that something is watching you. There's no telling what might happen… but something definitely will. \n\nUNIQUE PLAYTHROUGHS\nEvery playthrough is slightly different. Many events in the game are not scripted, meaning that what you encounter is shaped by the moment.\nNo two players will share the exact same experience - your journey is distinctly your own. Explore and uncover the factory’s secrets, where each moment keeps you from guessing what will happen next.\n\nWhat can you do on your shift?\n▪ Inspect the dolls for irregularities,\n▪ Explore the dark corners of the factory,\n▪ Maintain production equipment,\n▪ Follow strange protocols (just do - for your own safety),\n▪ Uncover the mystery behind the dolls and the factory,\n▪ Try not to lose your sanity… and your life.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F09024254000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F09024254000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F09024254000/screen/1",
+    "http://api.nlib.cc/nx/0100F09024254000/screen/2",
+    "http://api.nlib.cc/nx/0100F09024254000/screen/3",
+    "http://api.nlib.cc/nx/0100F09024254000/screen/4",
+    "http://api.nlib.cc/nx/0100F09024254000/screen/5",
+    "http://api.nlib.cc/nx/0100F09024254000/screen/6"
+  ]
+}

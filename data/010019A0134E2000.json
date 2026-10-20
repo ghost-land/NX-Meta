@@ -1,0 +1,12 @@
+{
+  "name": "Dodge These Balls",
+  "publisher": "EntwicklerX",
+  "releaseDate": "20201008",
+  "description": "This game is very simple. Try to dodge all grey balls with your red ball as long as you can. The more balls come, the more difficult the game becomes.",
+  "bannerUrl": "http://api.nlib.cc/nx/010019A0134E2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010019A0134E2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010019A0134E2000/screen/1",
+    "http://api.nlib.cc/nx/010019A0134E2000/screen/2"
+  ]
+}

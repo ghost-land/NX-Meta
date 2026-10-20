@@ -1,0 +1,14 @@
+{
+  "name": "Parkour Labs",
+  "publisher": "Pdpartid@games",
+  "releaseDate": "20260312",
+  "description": "Welcome to the Ultimate Parkour Game!\n\nWelcome to Parkour Labs, a vaporwave-inspired parkour game.\nSurf the waves of nostalgia and retro aesthetics, sliding down ramps and performing smooth turns.\nExplore colorful and surreal landscapes inspired by the culture, music, and art of the 80s and 90s.\nCollect glitch effects and artifacts to unlock new levels and secrets.\nExperience the synthwave atmosphere in this unique and original game that challenges your mouse control and movement skills.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C1D025AC4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C1D025AC4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C1D025AC4000/screen/1",
+    "http://api.nlib.cc/nx/0100C1D025AC4000/screen/2",
+    "http://api.nlib.cc/nx/0100C1D025AC4000/screen/3",
+    "http://api.nlib.cc/nx/0100C1D025AC4000/screen/4"
+  ]
+}

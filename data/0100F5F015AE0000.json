@@ -1,0 +1,16 @@
+{
+  "name": "Cuccchi",
+  "publisher": "Fantastico Studio",
+  "releaseDate": "20210730",
+  "description": "Cuccchi is the first artist archive created in the form of a video game.\nIt’s the official playable archive of Enzo Cucchi's works of art.\n\nCuccchi is a game where you explore beautiful dioramas and go through dangerous and trippy labyrinths, in a journey inside the paintings of Enzo Cucchi.\n\nSince the late ’70s, Enzo Cucchi has worked with many kinds of techniques and materials, creating a wide and diverse imaginary that has now been transformed into an impossible videogame chimera.\n\nFind your way through 10 unique areas and collect 78 hidden objects to unlock an archive gallery displaying the different artworks that inspired the visuals for the game.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F5F015AE0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F5F015AE0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F5F015AE0000/screen/1",
+    "http://api.nlib.cc/nx/0100F5F015AE0000/screen/2",
+    "http://api.nlib.cc/nx/0100F5F015AE0000/screen/3",
+    "http://api.nlib.cc/nx/0100F5F015AE0000/screen/4",
+    "http://api.nlib.cc/nx/0100F5F015AE0000/screen/5",
+    "http://api.nlib.cc/nx/0100F5F015AE0000/screen/6"
+  ]
+}

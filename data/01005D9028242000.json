@@ -1,0 +1,18 @@
+{
+  "name": "ZOMBIE CAM BODY CAM SHOOTER",
+  "publisher": "Dragon Path Games",
+  "releaseDate": "20260811",
+  "description": "Step into the chaos of ZOMBIE CAM: Bodycam Shooter, where every heartbeat counts and the undead are closing in. Feel the tension as you navigate dark corridors, dimly lit streets, and abandoned buildings, every step bringing danger closer.\nArm yourself with a mix of weapons and gear, from rifles and pistols to flashlights and grenades, and adapt on the fly to survive relentless waves of zombies. Each map offers a new challenge, each wave a test of courage—and every second matters.\n\nFeatures:\n• Immerse yourself in a gritty bodycam perspective\n• Fight through waves of slow, fast, and cunning zombies\n• Explore three unique, atmospheric maps\n• Tense, time-limited action that keeps you on edge\n• Strategic combat with weapons and tactical gear\n\nDo you have what it takes to survive the night? Every shot, every move, every decision could be your last.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005D9028242000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005D9028242000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005D9028242000/screen/1",
+    "http://api.nlib.cc/nx/01005D9028242000/screen/2",
+    "http://api.nlib.cc/nx/01005D9028242000/screen/3",
+    "http://api.nlib.cc/nx/01005D9028242000/screen/4",
+    "http://api.nlib.cc/nx/01005D9028242000/screen/5",
+    "http://api.nlib.cc/nx/01005D9028242000/screen/6"
+  ],
+  "version": 0,
+  "size": 487804893
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Puzzle Wars",
+  "publisher": "NOSTRA GAMES",
+  "releaseDate": "20251016",
+  "description": "\"Treat the battlefield like a puzzle - calculate your moves and choose the right tactics to ensure victory. Face the battle! \n\nGive orders and move your soldiers around the battlefield to control different directions of attack. Use your brain to face the danger. Enemies don't retreat, but you can. You can retreat to win - different tactics work in different situations.  Take the initiative and attack! \n\nTake your chance and not only protect your territory - attack and destroy all your enemies. Show no mercy. It was their choice to start the battle.  \n\nCheck out the new fun game from the NOSTRA.GAMES team. \n\nLet's go to victory! \"",
+  "bannerUrl": "http://api.nlib.cc/nx/01008AC022AA8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008AC022AA8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008AC022AA8000/screen/1",
+    "http://api.nlib.cc/nx/01008AC022AA8000/screen/2",
+    "http://api.nlib.cc/nx/01008AC022AA8000/screen/3",
+    "http://api.nlib.cc/nx/01008AC022AA8000/screen/4",
+    "http://api.nlib.cc/nx/01008AC022AA8000/screen/5",
+    "http://api.nlib.cc/nx/01008AC022AA8000/screen/6"
+  ]
+}

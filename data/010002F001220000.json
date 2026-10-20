@@ -1,0 +1,16 @@
+{
+  "name": "NAMCO MUSEUM",
+  "publisher": "BANDAI NAMCO Entertainment",
+  "releaseDate": "20170728",
+  "description": "Enjoy Namco classics such as PAC-MAN™, GALAGA™, SPLATTERHOUSE™, and TOWER OF DRUAGA™, or play games such as ROLLING THUNDER™, SKYKID™, or TANK FORCE™ with friends and family on the Nintendo Switch™! ",
+  "bannerUrl": "http://api.nlib.cc/nx/010002F001220000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010002F001220000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010002F001220000/screen/1",
+    "http://api.nlib.cc/nx/010002F001220000/screen/2",
+    "http://api.nlib.cc/nx/010002F001220000/screen/3",
+    "http://api.nlib.cc/nx/010002F001220000/screen/4",
+    "http://api.nlib.cc/nx/010002F001220000/screen/5",
+    "http://api.nlib.cc/nx/010002F001220000/screen/6"
+  ]
+}

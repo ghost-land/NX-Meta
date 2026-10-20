@@ -1,0 +1,16 @@
+{
+  "name": "LEGO® Worlds",
+  "publisher": "WB Games",
+  "releaseDate": "20170905",
+  "description": "EXPLORE. DISCOVER. CREATE. TOGETHER. LEGO® Worlds is an open environment of procedurally-generated Worlds made entirely of LEGO bricks which you can freely manipulate and dynamically populate with LEGO models. Create anything you can imagine one brick at a time, or use large-scale landscaping tools to create vast mountain ranges and dot your world with tropical islands. Drop in prefabricated structures to build and customize any world to your liking. Explore using helicopters, dragons, motorbikes or even gorillas and unlock treasures that enhance your gameplay. Watch your creations come to life through characters and creatures that interact with you and each other in unexpected ways. In LEGO Worlds, anything is possible!  ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100838002AEA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100838002AEA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100838002AEA000/screen/1",
+    "http://api.nlib.cc/nx/0100838002AEA000/screen/2",
+    "http://api.nlib.cc/nx/0100838002AEA000/screen/3",
+    "http://api.nlib.cc/nx/0100838002AEA000/screen/4",
+    "http://api.nlib.cc/nx/0100838002AEA000/screen/5",
+    "http://api.nlib.cc/nx/0100838002AEA000/screen/6"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Call of the Elder Gods",
+  "publisher": "Kwalee",
+  "releaseDate": "20260512",
+  "description": "All is not well at Miskatonic University. Professor Harry Everhart tries to ignore the shadows flitting at the corners of his vision, while student Evangeline Drayton is haunted with impossible dreams of an artifact uncovered a decade ago. In their search for answers, the pair will uncover revelations more ancient than anyone could have imagined.\n\nShocking Secrets\nCall of the Sea’s object and observation-based puzzles return with new depth. Scour richly-rendered environments for clues. Swap between Harry and Evangeline to solve complex, multi-part problems across time and space. Choose your own difficulty level with toggle-able hints, icons, and journal entries. For a true challenge, dare to read the Occult Books scattered about the world and meet new, reality-warping enigmas.\n\nDizzying Marvels\nHarry and Evangeline’s journey takes them from the firelit libraries of a New England mansion to the red sands of the Australian outback, through frozen wastelands and otherworldly cities out of time, all stunningly rendered in Unreal Engine 5 and featuring a soundtrack by multi-award-winning returning composer Eduardo De La Iglesia.\n\nA Shadow Out of Time\nFollow Harry Everhart and Evangeline Drayton as they search for the truth about their missing loved ones and come face-to-face with beings beyond their understanding. Inspired by H P Lovecraft's 'The Shadow out of Time', Call of the Elder Gods features a fully voice-acted story of grief, family, and sanity, starring returning talents Yuri Lowenthal (Spider-Man, Arcane, Final Fantasy VII Rebirth) and Cissy Jones (Firewatch, Starfield, Baldur’s Gate III).",
+  "bannerUrl": "http://api.nlib.cc/nx/01005BE023056000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005BE023056000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005BE023056000/screen/1",
+    "http://api.nlib.cc/nx/01005BE023056000/screen/2",
+    "http://api.nlib.cc/nx/01005BE023056000/screen/3",
+    "http://api.nlib.cc/nx/01005BE023056000/screen/4",
+    "http://api.nlib.cc/nx/01005BE023056000/screen/5",
+    "http://api.nlib.cc/nx/01005BE023056000/screen/6"
+  ],
+  "version": 0,
+  "size": 10396517056
+}

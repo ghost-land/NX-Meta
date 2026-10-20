@@ -1,0 +1,16 @@
+{
+  "name": "Arcade Archives THE NINJA WARRIORS",
+  "publisher": "HAMSTER",
+  "releaseDate": "20190718",
+  "description": "THE NINJA WARRIORS is a side-scrolling action game released by TAITO in 1987.\nControl the cyborg-ninjas, NINJA and KUNOICHI, as you take down the Demon King, Banglar.\nDefeat the onslaught of enemies with kunai and shuriken as your weapons.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DC000983A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DC000983A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DC000983A000/screen/1",
+    "http://api.nlib.cc/nx/0100DC000983A000/screen/2",
+    "http://api.nlib.cc/nx/0100DC000983A000/screen/3",
+    "http://api.nlib.cc/nx/0100DC000983A000/screen/4",
+    "http://api.nlib.cc/nx/0100DC000983A000/screen/5",
+    "http://api.nlib.cc/nx/0100DC000983A000/screen/6"
+  ]
+}

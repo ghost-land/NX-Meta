@@ -1,0 +1,16 @@
+{
+  "name": "Air Battle",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20230316",
+  "description": "Earn money in many aerial missions and buy new machines or upgrade the ones you already have in your hangar.\nFight with waves of different enemy machines and do not get hit in a bullet hell.\nGet the highest score on each mission.\nDefeat bosses controlling powerful planes.\n\nGet in your plane and join the air battle!",
+  "bannerUrl": "http://api.nlib.cc/nx/010082801ABD4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010082801ABD4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010082801ABD4000/screen/1",
+    "http://api.nlib.cc/nx/010082801ABD4000/screen/2",
+    "http://api.nlib.cc/nx/010082801ABD4000/screen/3",
+    "http://api.nlib.cc/nx/010082801ABD4000/screen/4",
+    "http://api.nlib.cc/nx/010082801ABD4000/screen/5",
+    "http://api.nlib.cc/nx/010082801ABD4000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Mahjong Minimal",
+  "publisher": "Hook Games",
+  "releaseDate": "20220826",
+  "description": "• 100 hand-made Mahjong puzzles\n• Beautiful abstract visuals\n• Full touch screen support\n• Multiple light and dark color themes\n• Ambient relaxing soundtrack",
+  "bannerUrl": "http://api.nlib.cc/nx/01008CE018E54000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008CE018E54000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008CE018E54000/screen/1",
+    "http://api.nlib.cc/nx/01008CE018E54000/screen/2",
+    "http://api.nlib.cc/nx/01008CE018E54000/screen/3",
+    "http://api.nlib.cc/nx/01008CE018E54000/screen/4",
+    "http://api.nlib.cc/nx/01008CE018E54000/screen/5",
+    "http://api.nlib.cc/nx/01008CE018E54000/screen/6"
+  ]
+}

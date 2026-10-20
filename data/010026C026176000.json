@@ -1,0 +1,18 @@
+{
+  "name": "Sp(L/R)ite",
+  "publisher": "Waku Waku Games",
+  "releaseDate": "20260409",
+  "description": "Sp(L/R)ite is an adventure game where you must escape a series of mysterious floating rooms in another dimension.\n\nUncover the secrets hidden within each room as you collaborate with an unnervingly energetic goddess and a neighbor you can only speak to through the wall.\n\nWhat lies beyond the final door? That’s for you to decide.\n\nSp(L/R)ite unfolds within a locked, crumbling house—an isolated, otherworldly space born from an unforeseen tangling of the “threads of fate” spun by Akrida.\n\nTo move from one room to the next, you’ll need to gather scattered items and piece together a mysterious picture—the key to your escape—guided by clues from Jean and Akrida.\n\nWith each image you complete, Jean’s and your lost memories begin to surface, slowly revealing your intertwined pasts and drawing you closer to the story’s end.\n\nWhat future lies ahead for you two? That depends on the choices you make.",
+  "bannerUrl": "http://api.nlib.cc/nx/010026C026176000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010026C026176000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010026C026176000/screen/1",
+    "http://api.nlib.cc/nx/010026C026176000/screen/2",
+    "http://api.nlib.cc/nx/010026C026176000/screen/3",
+    "http://api.nlib.cc/nx/010026C026176000/screen/4",
+    "http://api.nlib.cc/nx/010026C026176000/screen/5",
+    "http://api.nlib.cc/nx/010026C026176000/screen/6"
+  ],
+  "version": 0,
+  "size": 2281593430
+}

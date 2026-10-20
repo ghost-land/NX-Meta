@@ -1,0 +1,16 @@
+{
+  "name": "Snaky Snakes",
+  "publisher": "Zakym",
+  "releaseDate": "20241115",
+  "description": "Snaky Snakes is an exhilarating game where player control a snake through randomly generated obstacles while collecting cherries. Each cherry increases the snake's length and score. Additionally, player can use cherries to purchase new environments such as Desert, Asia, and Ballroom from the in-game shop. The objective is to achieve the highest score possible and unlock all environments.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D2C020B10000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D2C020B10000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D2C020B10000/screen/1",
+    "http://api.nlib.cc/nx/0100D2C020B10000/screen/2",
+    "http://api.nlib.cc/nx/0100D2C020B10000/screen/3",
+    "http://api.nlib.cc/nx/0100D2C020B10000/screen/4",
+    "http://api.nlib.cc/nx/0100D2C020B10000/screen/5",
+    "http://api.nlib.cc/nx/0100D2C020B10000/screen/6"
+  ]
+}

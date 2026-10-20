@@ -1,0 +1,16 @@
+{
+  "name": "Jetpack Kiwi",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20241108",
+  "description": "Jetpack Kiwi is a classic 2D side-scrolling shoot ‘em up game featuring 20 challenging levels, endless hordes of enemy spaceships, and 5 epic bosses.\n\nThe aliens have arrived and they’re up to no good. Only you can stop the aliens and their thirst for conquest.\n\nChoose between multiple characters to play, each one with a unique special attack ability. Complete the game in single player mode, or with a friend in local co-op multiplayer.Let the battle begin! \n\nFeatures\n* Shoot ‘em up gameplay\n* Colorful art\n* 20 levels\n* Choose between multiple characters\n* Cooperative multiplayer",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F5701F65A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F5701F65A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F5701F65A000/screen/1",
+    "http://api.nlib.cc/nx/0100F5701F65A000/screen/2",
+    "http://api.nlib.cc/nx/0100F5701F65A000/screen/3",
+    "http://api.nlib.cc/nx/0100F5701F65A000/screen/4",
+    "http://api.nlib.cc/nx/0100F5701F65A000/screen/5",
+    "http://api.nlib.cc/nx/0100F5701F65A000/screen/6"
+  ]
+}

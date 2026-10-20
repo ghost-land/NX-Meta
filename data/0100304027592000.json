@@ -1,0 +1,18 @@
+{
+  "name": "Urban Jungle",
+  "publisher": "Assemble Entertainment",
+  "releaseDate": "20260611",
+  "description": "Urban Jungle is a charming and relaxing simulation game that invites you to transform ordinary apartments into a lush, green haven by placing delightful plants with savvy. But no worries, you won’t have to deal with watering or pest control – the plants just need a good spot, and that's enough to create to comfiest and coziest home of them all. Oh, and don’t forget to pet your cat!\n\nFeatures:\n\n- Decorate with Plants: The core gameplay revolves around arranging a diverse selection of plants in your apartment. Each plant can be placed in different spots, challenging you to find the optimal placement to enhance the room’s coziness and aesthetics.\n- Puzzle Elements: While the game is primarily about decoration, it includes puzzle-like aspects. You’ll need to think strategically about where to place each plant to maximize the comfort and visual appeal of your home, ultimately unlocking new plants.\n- Relaxing Atmosphere: Urban Jungle is designed to be a stress-free experience. There are no time limits or high-pressure scenarios. You can move plants around freely and adjust your setup at your own pace.\n- Environmental Storytelling: The game’s narrative is subtly woven into the environment. As you progress, you’ll uncover pieces of a heartwarming story that unfolds across the different stages of the protagonist's life.\n- Interactive Elements: In addition to plants, you can interact with other items like lamps and humidifiers to alter the ambiance of your apartment, further enhancing the cozy feeling.\n\nImmerse yourself in the serene joy of plant decoration, where every decision brings your apartment closer to becoming a perfect green sanctuary.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100304027592000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100304027592000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100304027592000/screen/1",
+    "http://api.nlib.cc/nx/0100304027592000/screen/2",
+    "http://api.nlib.cc/nx/0100304027592000/screen/3",
+    "http://api.nlib.cc/nx/0100304027592000/screen/4",
+    "http://api.nlib.cc/nx/0100304027592000/screen/5",
+    "http://api.nlib.cc/nx/0100304027592000/screen/6"
+  ],
+  "version": 0,
+  "size": 460631031
+}

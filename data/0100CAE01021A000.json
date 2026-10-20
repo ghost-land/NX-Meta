@@ -1,0 +1,16 @@
+{
+  "name": "The TakeOver",
+  "publisher": "Antonios Pelekanos",
+  "releaseDate": "20200604",
+  "description": "The TakeOver is a side-scrolling beat'em up inspired by the genre defining classic games of the 90's. Battle solo or alongside a friend in local co-op while listening to awesome tunes from Little V Mills, Richie Branson, James Ronald and industry legend Yuzo Koshiro!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CAE01021A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CAE01021A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CAE01021A000/screen/1",
+    "http://api.nlib.cc/nx/0100CAE01021A000/screen/2",
+    "http://api.nlib.cc/nx/0100CAE01021A000/screen/3",
+    "http://api.nlib.cc/nx/0100CAE01021A000/screen/4",
+    "http://api.nlib.cc/nx/0100CAE01021A000/screen/5",
+    "http://api.nlib.cc/nx/0100CAE01021A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ヒーローシーカーズ",
+  "publisher": "ケムコ",
+  "releaseDate": "20260109",
+  "description": "The world has been rewritten, and the very name of \"Hero\" erased from memory. Once, three brave warriors defeated the Demon King and brought peace to the land—but now their deeds are lost to time. Lunette, the only one who remembers the true history, sets out on a journey to restore it by summoning the forgotten souls of heroes and reclaiming the light once stolen from the world.\n\nExperience a full-fledged fantasy JRPG filled with classic turn-based battles, dungeon exploration, and strategic party building. Form teams of up to five heroes, combining unique traits and skills to create powerful synergies. Strengthen your allies through training, gear up at shops, and master the art of command battles where every move counts. With features like high-speed combat, dungeon escape spells, and smooth progression, enjoy an adventure that blends nostalgic JRPG charm with modern convenience.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100206024CFC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100206024CFC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100206024CFC000/screen/1",
+    "http://api.nlib.cc/nx/0100206024CFC000/screen/2",
+    "http://api.nlib.cc/nx/0100206024CFC000/screen/3",
+    "http://api.nlib.cc/nx/0100206024CFC000/screen/4",
+    "http://api.nlib.cc/nx/0100206024CFC000/screen/5",
+    "http://api.nlib.cc/nx/0100206024CFC000/screen/6"
+  ]
+}

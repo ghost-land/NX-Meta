@@ -1,0 +1,16 @@
+{
+  "name": "Wayout",
+  "publisher": "Hook Games",
+  "releaseDate": "20190711",
+  "description": "Turn off the grid by pushing all the buttons in the right order and find a WayOut of this puzzle. It's not as easy as it sounds. ;)\n\nFeatures:\n- Combination of new and classic Lights Out gameplay\n- 60+ handcrafted levels\n- 6 chapters, each with their unique set of puzzle mechanics\n- Abstract artstyle with minimalistic approach\n- Ambient soundtracks grants beautiful relaxing atmosphere\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01008E300E400000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008E300E400000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008E300E400000/screen/1",
+    "http://api.nlib.cc/nx/01008E300E400000/screen/2",
+    "http://api.nlib.cc/nx/01008E300E400000/screen/3",
+    "http://api.nlib.cc/nx/01008E300E400000/screen/4",
+    "http://api.nlib.cc/nx/01008E300E400000/screen/5",
+    "http://api.nlib.cc/nx/01008E300E400000/screen/6"
+  ]
+}

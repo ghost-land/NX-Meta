@@ -1,0 +1,16 @@
+{
+  "name": "JigSaw Abundance",
+  "publisher": "Playstige Interactive",
+  "releaseDate": "20200326",
+  "description": "JigSaw Puzzle game with touch-screen support!\nUse your finger to play your favorite jigsaw puzzle games....\nNow with more themes and more puzzles!\n50 Different High-Quality Puzzle Images...10 different themes to choose from...14 calming puzzle music tracks...\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B440119AA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B440119AA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B440119AA000/screen/1",
+    "http://api.nlib.cc/nx/0100B440119AA000/screen/2",
+    "http://api.nlib.cc/nx/0100B440119AA000/screen/3",
+    "http://api.nlib.cc/nx/0100B440119AA000/screen/4",
+    "http://api.nlib.cc/nx/0100B440119AA000/screen/5",
+    "http://api.nlib.cc/nx/0100B440119AA000/screen/6"
+  ]
+}

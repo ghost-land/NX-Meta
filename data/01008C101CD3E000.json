@@ -1,0 +1,16 @@
+{
+  "name": "Cube Airport",
+  "publisher": "Isaias Game Dev",
+  "releaseDate": "20230914",
+  "description": "Cube Airport is a puzzle game where your objective is to construct a runway to enable the airplane to take off safely. To do this, you need to correctly fit the runway cubes into the indicated positions on the platform and proceed to the next level.\n\nFeatures:\n- 40 levels;\n- Original soundtrack;\n- Satisfactory puzzles;\n- Low poly;\n\nDeveloper Colossus Game Studio \nPublisher GramikGames",
+  "bannerUrl": "http://api.nlib.cc/nx/01008C101CD3E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008C101CD3E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008C101CD3E000/screen/1",
+    "http://api.nlib.cc/nx/01008C101CD3E000/screen/2",
+    "http://api.nlib.cc/nx/01008C101CD3E000/screen/3",
+    "http://api.nlib.cc/nx/01008C101CD3E000/screen/4",
+    "http://api.nlib.cc/nx/01008C101CD3E000/screen/5",
+    "http://api.nlib.cc/nx/01008C101CD3E000/screen/6"
+  ]
+}

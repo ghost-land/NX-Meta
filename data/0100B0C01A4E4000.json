@@ -1,0 +1,16 @@
+{
+  "name": "Deep Space Shooter",
+  "publisher": "Valkyrie Initiative",
+  "releaseDate": "20230119",
+  "description": "An automatic station deep in the space has sent an alarm signal and then the connection disrupted. Your spaceship set off there to carry out reconnaissance. But all of a sudden you encounter huge forces of an unknown enemy. Now there’s no way back – you either defeat them or die.\n\nThis game is a vertical scroll-shooter with numerous enemies and a gradually increasing level of complexity.\nGame's features:\n- 24 original levels\n- 12 bosses\n- An endless level mode with strong enemies\n- Stylish 8-bit music\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B0C01A4E4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B0C01A4E4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B0C01A4E4000/screen/1",
+    "http://api.nlib.cc/nx/0100B0C01A4E4000/screen/2",
+    "http://api.nlib.cc/nx/0100B0C01A4E4000/screen/3",
+    "http://api.nlib.cc/nx/0100B0C01A4E4000/screen/4",
+    "http://api.nlib.cc/nx/0100B0C01A4E4000/screen/5",
+    "http://api.nlib.cc/nx/0100B0C01A4E4000/screen/6"
+  ]
+}

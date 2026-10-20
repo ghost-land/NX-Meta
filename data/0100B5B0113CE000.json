@@ -1,0 +1,16 @@
+{
+  "name": "Troubleshooter",
+  "publisher": "Kodobur Yazilim",
+  "releaseDate": "20200306",
+  "description": "Troubleshooter is a top-down arcade shooter. Fight through endless waves of unsuspecting dinosaurs and prove you are the best!  \nGrab a friend and rampage together.  Use meteors showers and upgrades to your advantage.\n \nKey features:\n- Co-op mode\n- Endless gameplay\n- Weapon upgrades\n- Customization options\n- Awesome music\n- Boss fights\n- Llamas",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B5B0113CE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B5B0113CE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B5B0113CE000/screen/1",
+    "http://api.nlib.cc/nx/0100B5B0113CE000/screen/2",
+    "http://api.nlib.cc/nx/0100B5B0113CE000/screen/3",
+    "http://api.nlib.cc/nx/0100B5B0113CE000/screen/4",
+    "http://api.nlib.cc/nx/0100B5B0113CE000/screen/5",
+    "http://api.nlib.cc/nx/0100B5B0113CE000/screen/6"
+  ]
+}

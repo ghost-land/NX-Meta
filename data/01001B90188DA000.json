@@ -1,0 +1,16 @@
+{
+  "name": "Roll The Cat",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20220805",
+  "description": "Did you ever wake up in the middle of the night because you hear a cat meowing? Roll The Cat is a game about that!\n\nOn each level, you have to roll the cats back into their bed. Only then you will convince them to sleep. \n\nUse your spatial logic and try to put the cats back to bed. A simple relaxing game for puzzle lovers!\n\nFeatures:\n* 50 levels of puzzles\n* Intuitive gameplay\n* Up to 5 cute cats\n* Increasing difficulty",
+  "bannerUrl": "http://api.nlib.cc/nx/01001B90188DA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001B90188DA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001B90188DA000/screen/1",
+    "http://api.nlib.cc/nx/01001B90188DA000/screen/2",
+    "http://api.nlib.cc/nx/01001B90188DA000/screen/3",
+    "http://api.nlib.cc/nx/01001B90188DA000/screen/4",
+    "http://api.nlib.cc/nx/01001B90188DA000/screen/5",
+    "http://api.nlib.cc/nx/01001B90188DA000/screen/6"
+  ]
+}

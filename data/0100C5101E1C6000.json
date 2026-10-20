@@ -1,0 +1,16 @@
+{
+  "name": "Pool Together 2",
+  "publisher": "Soroka Games",
+  "releaseDate": "20240302",
+  "description": "Welcome to Pool Together 2! Grab your friends or take on the computer AI in this delightful game\n\n• 8-Ball and 9-Ball Modes:\nChoose your game - classic 8-ball or the dynamic challenge of 9-ball. With Pool Together 2, the stage is set for exciting rounds of pocket battles.\n\n• Up to 4 Players on One Console:\nGather your crew and turn your living room into a virtual pool hall. Pool Together 2 supports up to 4 players on a single console, ensuring that everyone gets a chance to showcase their skills.\n\n• AI Opponents for Solo Play:\nDon't have a full crew? No worries! Face off against AI opponents that adapt to your playstyle.\n\nIt's time to break, aim, and sink your way to victory in Pool Together 2!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C5101E1C6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C5101E1C6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C5101E1C6000/screen/1",
+    "http://api.nlib.cc/nx/0100C5101E1C6000/screen/2",
+    "http://api.nlib.cc/nx/0100C5101E1C6000/screen/3",
+    "http://api.nlib.cc/nx/0100C5101E1C6000/screen/4",
+    "http://api.nlib.cc/nx/0100C5101E1C6000/screen/5",
+    "http://api.nlib.cc/nx/0100C5101E1C6000/screen/6"
+  ]
+}

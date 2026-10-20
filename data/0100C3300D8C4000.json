@@ -1,0 +1,16 @@
+{
+  "name": "The Touryst",
+  "publisher": "Shin’en Multimedia",
+  "releaseDate": "20191121",
+  "description": "You are just arriving at the Monument Islands. Want to go swimming? Or rather take a dive into the deep sea? Or do you want to visit the amusement arcade, do some shopping, dance at the beach party? Fancy some surfing? Or will you talk with the strange old tourist and listen what he has to say about these ancient mysterious monuments..",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C3300D8C4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C3300D8C4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C3300D8C4000/screen/1",
+    "http://api.nlib.cc/nx/0100C3300D8C4000/screen/2",
+    "http://api.nlib.cc/nx/0100C3300D8C4000/screen/3",
+    "http://api.nlib.cc/nx/0100C3300D8C4000/screen/4",
+    "http://api.nlib.cc/nx/0100C3300D8C4000/screen/5",
+    "http://api.nlib.cc/nx/0100C3300D8C4000/screen/6"
+  ]
+}

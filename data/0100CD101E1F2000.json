@@ -1,0 +1,15 @@
+{
+  "name": "Cat Survivors",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20240309",
+  "description": "Cat Survivors is a casual roguelite game in which a cat fights against different creatures to survive while becoming stronger through new weapons and upgrades. Shoot, dodge and create powerful combos to become stronger with each attempt to survive the chaos.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CD101E1F2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CD101E1F2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CD101E1F2000/screen/1",
+    "http://api.nlib.cc/nx/0100CD101E1F2000/screen/2",
+    "http://api.nlib.cc/nx/0100CD101E1F2000/screen/3",
+    "http://api.nlib.cc/nx/0100CD101E1F2000/screen/4",
+    "http://api.nlib.cc/nx/0100CD101E1F2000/screen/5"
+  ]
+}

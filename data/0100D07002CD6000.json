@@ -1,0 +1,16 @@
+{
+  "name": "Johnny Turbo's Arcade: Nitro Ball",
+  "publisher": "Golem Entertainment",
+  "releaseDate": "20180816",
+  "description": "Join the game show and blast your way through 5 intense levels gathering power-ups and special weapons, including a special super power.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D07002CD6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D07002CD6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D07002CD6000/screen/1",
+    "http://api.nlib.cc/nx/0100D07002CD6000/screen/2",
+    "http://api.nlib.cc/nx/0100D07002CD6000/screen/3",
+    "http://api.nlib.cc/nx/0100D07002CD6000/screen/4",
+    "http://api.nlib.cc/nx/0100D07002CD6000/screen/5",
+    "http://api.nlib.cc/nx/0100D07002CD6000/screen/6"
+  ]
+}

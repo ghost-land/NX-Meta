@@ -1,0 +1,16 @@
+{
+  "name": "Sparking Beam Strike 1000",
+  "publisher": "SUCCESS",
+  "releaseDate": "20241212",
+  "description": "This game is a puzzle where you reflect beams and guide the light to the goal.\nMove the blocks that can reflect beams skillfully, and clear the stage by hitting all the beams to the goal.\n\nThe game offers 1,000 puzzles, plus Extra Stages with even greater difficulty.\n\nIt’s a challenge that will put your calculation skills to the test as you figure out complex reflections.",
+  "bannerUrl": "http://api.nlib.cc/nx/010084E020F6A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010084E020F6A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010084E020F6A000/screen/1",
+    "http://api.nlib.cc/nx/010084E020F6A000/screen/2",
+    "http://api.nlib.cc/nx/010084E020F6A000/screen/3",
+    "http://api.nlib.cc/nx/010084E020F6A000/screen/4",
+    "http://api.nlib.cc/nx/010084E020F6A000/screen/5",
+    "http://api.nlib.cc/nx/010084E020F6A000/screen/6"
+  ]
+}

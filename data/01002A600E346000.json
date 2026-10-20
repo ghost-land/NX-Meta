@@ -1,0 +1,14 @@
+{
+  "name": "Word Wheel by POWGI",
+  "publisher": "Lightwood Games",
+  "releaseDate": "20190606",
+  "description": "The classic word wheel puzzle goes digital! Find as many words as you can from the letters shown, always using the middle letter!\n\nThere are 100 puzzles to solve and 100 groan-worthy jokes to reveal!\n\nUp to four can play! Connect extra controllers to solve the puzzle as a team, or see who can find the most words.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01002A600E346000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002A600E346000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002A600E346000/screen/1",
+    "http://api.nlib.cc/nx/01002A600E346000/screen/2",
+    "http://api.nlib.cc/nx/01002A600E346000/screen/3",
+    "http://api.nlib.cc/nx/01002A600E346000/screen/4"
+  ]
+}

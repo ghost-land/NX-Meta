@@ -1,0 +1,16 @@
+{
+  "name": "Paint",
+  "publisher": "Sabec",
+  "releaseDate": "20200618",
+  "description": "Take your Nintendo Switch™ and unleash the artist in you!\n\nNow with Paint you can draw, paint and colour-in anytime, anywhere.\n\nWith so many different drawing tools available there is no limit to creating your masterpiece. Use the touch screen or the the Joy-Con for maximum accuracy\n\nPaint will transform your Nintendo Switch™ into a real \"drawing board\" complete with all the accessories you need.\n\nAs a bonus we have also included some colouring-in pictures.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100946012446000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100946012446000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100946012446000/screen/1",
+    "http://api.nlib.cc/nx/0100946012446000/screen/2",
+    "http://api.nlib.cc/nx/0100946012446000/screen/3",
+    "http://api.nlib.cc/nx/0100946012446000/screen/4",
+    "http://api.nlib.cc/nx/0100946012446000/screen/5",
+    "http://api.nlib.cc/nx/0100946012446000/screen/6"
+  ]
+}

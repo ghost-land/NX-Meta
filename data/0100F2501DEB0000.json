@@ -1,0 +1,16 @@
+{
+  "name": "Nordic Ashes: The Complete Saga",
+  "publisher": "Noxfall Studios",
+  "releaseDate": "20251219",
+  "description": "Nordic Ashes is a challenging Norse inspired roguelite-survivor game, where you’ll have to survive hordes of creatures that come your way.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F2501DEB0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F2501DEB0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F2501DEB0000/screen/1",
+    "http://api.nlib.cc/nx/0100F2501DEB0000/screen/2",
+    "http://api.nlib.cc/nx/0100F2501DEB0000/screen/3",
+    "http://api.nlib.cc/nx/0100F2501DEB0000/screen/4",
+    "http://api.nlib.cc/nx/0100F2501DEB0000/screen/5",
+    "http://api.nlib.cc/nx/0100F2501DEB0000/screen/6"
+  ]
+}

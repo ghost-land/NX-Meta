@@ -1,0 +1,15 @@
+{
+  "name": "BREAK DOT",
+  "publisher": "Caerux",
+  "releaseDate": "20200903",
+  "description": "ARCADE MODE\nTry clearing all 20 stages in a row.\nYou can enjoy as speedrun challenge or highest score challenge.\nThe secrets of this world wil appear as you move forward ... Will you reach to the truth? \n\nCREATE MODE\nYou can create your own original stage.\nChangin the color, arrangement of items, background, etc.\nEnjoy with storaging locally, or publishing it ONLINE. \n\nONLINE MODE\nPlay stages posted from all around the world.\nThe wide variety of stages may lead to new tales.\nPress Good! for your favorite stages",
+  "bannerUrl": "http://api.nlib.cc/nx/010086E01037C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010086E01037C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010086E01037C000/screen/1",
+    "http://api.nlib.cc/nx/010086E01037C000/screen/2",
+    "http://api.nlib.cc/nx/010086E01037C000/screen/3",
+    "http://api.nlib.cc/nx/010086E01037C000/screen/4",
+    "http://api.nlib.cc/nx/010086E01037C000/screen/5"
+  ]
+}

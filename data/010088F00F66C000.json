@@ -1,0 +1,15 @@
+{
+  "name": "Twister Road",
+  "publisher": "Digital Game Group",
+  "releaseDate": "20191101",
+  "description": "Random twisting roads every time you play so you’ll never play the same game twice!   Endless twisting roads for endless fun!\n\n●\tTwist and turn your way through this vibrant 3D endless runner!\n●\tCollect orbs to change your speed and help avoid black holes! \n●\tConstantly changing courses and fast paced music!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010088F00F66C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010088F00F66C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010088F00F66C000/screen/1",
+    "http://api.nlib.cc/nx/010088F00F66C000/screen/2",
+    "http://api.nlib.cc/nx/010088F00F66C000/screen/3",
+    "http://api.nlib.cc/nx/010088F00F66C000/screen/4",
+    "http://api.nlib.cc/nx/010088F00F66C000/screen/5"
+  ]
+}

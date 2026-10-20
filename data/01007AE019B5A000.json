@@ -1,0 +1,16 @@
+{
+  "name": "Vampire Slayer: The Resurrection",
+  "publisher": "Wobbly Tooth",
+  "releaseDate": "20230102",
+  "description": "Only the Slayers carry weapons. \n\nThe Vampires have stealth, speed and deadly melee attacks. \n\nSlayers must knock a vampire to the ground before staking them. \n\nIf they do not stake them within a few seconds the Vampire will resurrect.\n\nA Vampire can feed from dead Slayers to regain strength.\n\nLeap from tall buildings onto your prey or hunt in the dark.\n\nNow YOU must choose a side.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007AE019B5A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007AE019B5A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007AE019B5A000/screen/1",
+    "http://api.nlib.cc/nx/01007AE019B5A000/screen/2",
+    "http://api.nlib.cc/nx/01007AE019B5A000/screen/3",
+    "http://api.nlib.cc/nx/01007AE019B5A000/screen/4",
+    "http://api.nlib.cc/nx/01007AE019B5A000/screen/5",
+    "http://api.nlib.cc/nx/01007AE019B5A000/screen/6"
+  ]
+}

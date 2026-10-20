@@ -1,0 +1,16 @@
+{
+  "name": "Just Xiangqi",
+  "publisher": "Studio Amateur",
+  "releaseDate": "20230420",
+  "description": "This is a refreshing Chinese chess game with realistic graphics and a detailed audio tutorial that will keep you entertained, even as a novice. A variety of well-designed challenges will test your tactics. Sit back and relax, as you transform into a master of strategy.\n\nChinese Chess is one of the three major types of chess in the world, and is played with red and black round pieces on a square board. It simulates an ancient battle between two armies on a dynamic battlefield, in which the opponent's general is captured to achieve ultimate victory.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A4201A7F6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A4201A7F6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A4201A7F6000/screen/1",
+    "http://api.nlib.cc/nx/0100A4201A7F6000/screen/2",
+    "http://api.nlib.cc/nx/0100A4201A7F6000/screen/3",
+    "http://api.nlib.cc/nx/0100A4201A7F6000/screen/4",
+    "http://api.nlib.cc/nx/0100A4201A7F6000/screen/5",
+    "http://api.nlib.cc/nx/0100A4201A7F6000/screen/6"
+  ]
+}

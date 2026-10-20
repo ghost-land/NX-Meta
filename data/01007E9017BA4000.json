@@ -1,0 +1,16 @@
+{
+  "name": "ElecHead",
+  "publisher": "NamaTakahashi",
+  "releaseDate": "20220623",
+  "description": "In a world enshrouded by darkness, deep inside a factory, the light of hope still shines.\nElecHead has you play as Elec, a small robot on a mission to bring light back to the world.\nWhen Elec touches walls, floors, platforms, switches, and more, he makes electricity run through them, activating them.\nHe can also detach and throw his head to trigger things remotely, but be careful: if he doesn't get his head back within ten seconds, he will shut down.\nElec will have to use his head, literally and figuratively, to find a way out of this trap-ridden facility.\n\nKey features:\n・Simple and intuitive  controls\n・There’s a limited amount of gimmicks, but it’s up to the player to find the different ways to use them to solve puzzles in the different levels\n・Minimalist graphics with a retro-feel that lets the player focus on the game mechanics\n・Playtime: 2-3 hours, even busy people can play (Hidden rooms or secrets to discover)\n・No in-game text or tutorial: can be played by anyone around the globe, intuitive gameplay\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01007E9017BA4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007E9017BA4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007E9017BA4000/screen/1",
+    "http://api.nlib.cc/nx/01007E9017BA4000/screen/2",
+    "http://api.nlib.cc/nx/01007E9017BA4000/screen/3",
+    "http://api.nlib.cc/nx/01007E9017BA4000/screen/4",
+    "http://api.nlib.cc/nx/01007E9017BA4000/screen/5",
+    "http://api.nlib.cc/nx/01007E9017BA4000/screen/6"
+  ]
+}

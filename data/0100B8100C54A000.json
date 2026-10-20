@@ -1,0 +1,16 @@
+{
+  "name": "Rack N Ruin",
+  "publisher": "Secret Item Games",
+  "releaseDate": "20200313",
+  "description": "Join Rack on an epic adventure across a world filled with magic and wonder. Then watch in astonishment as Rack befouls, corrupts, slaughters, and brings about a general air of misfortune to everything and everyone he confronts. Chaos reigns in this top-down action adventure rpg that's infused with the intensity of a classic shoot 'em up.\n \nFeatures\n-Burn through hordes of foes with an arsenal of over 28 different spells, items, and abilities.\n-Weave through complex bullet patterns while smiting titanic bosses and over 30 unique enemies.\n-Explore an enchanted benevolent world, and then transform it into a nightmarish image of its former self.\n-Ransack castles, pillage dungeons, escape eternal prisons, navigate gloomy caves, and awaken ancient evils.\n-Meet a charming cast of townsfolk, and collect their souls to upgrade your weapons.\n-Unravel devious puzzles, and scour the land for over 100 secrets.\n-And of course, destroy the world.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B8100C54A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B8100C54A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B8100C54A000/screen/1",
+    "http://api.nlib.cc/nx/0100B8100C54A000/screen/2",
+    "http://api.nlib.cc/nx/0100B8100C54A000/screen/3",
+    "http://api.nlib.cc/nx/0100B8100C54A000/screen/4",
+    "http://api.nlib.cc/nx/0100B8100C54A000/screen/5",
+    "http://api.nlib.cc/nx/0100B8100C54A000/screen/6"
+  ]
+}

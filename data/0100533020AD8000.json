@@ -1,0 +1,16 @@
+{
+  "name": "Puzzle & Summoner",
+  "publisher": "HUNTERS",
+  "releaseDate": "20250213",
+  "description": "Puzzle & Summoner is a competitive puzzle game.\nTry to erase blocks by swapping blocks and aligning blocks of the same color.\nWhen you erase a block, a monster is summoned and starts attacking.\nThe more you chain the monsters together, the higher their level and the more powerful their attacks will be.\nSummon monsters with various abilities to win the battle.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100533020AD8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100533020AD8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100533020AD8000/screen/1",
+    "http://api.nlib.cc/nx/0100533020AD8000/screen/2",
+    "http://api.nlib.cc/nx/0100533020AD8000/screen/3",
+    "http://api.nlib.cc/nx/0100533020AD8000/screen/4",
+    "http://api.nlib.cc/nx/0100533020AD8000/screen/5",
+    "http://api.nlib.cc/nx/0100533020AD8000/screen/6"
+  ]
+}

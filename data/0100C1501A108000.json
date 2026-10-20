@@ -1,0 +1,16 @@
+{
+  "name": "Gravity Thrust",
+  "publisher": "Sprakelsoft",
+  "releaseDate": "20230102",
+  "description": "\"Gravity Thrust\" lets you fly a spaceship through caves so you need to be cautious to survive!\nIt features:\n- 42 missions with different goals (destroy enemies, collect crates, ...)\n- 6 race level where you can do multiplayers races (with up to 4 players)\n- 6 battle level where you can do multiplayer fights (with up to 4 players).",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C1501A108000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C1501A108000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C1501A108000/screen/1",
+    "http://api.nlib.cc/nx/0100C1501A108000/screen/2",
+    "http://api.nlib.cc/nx/0100C1501A108000/screen/3",
+    "http://api.nlib.cc/nx/0100C1501A108000/screen/4",
+    "http://api.nlib.cc/nx/0100C1501A108000/screen/5",
+    "http://api.nlib.cc/nx/0100C1501A108000/screen/6"
+  ]
+}

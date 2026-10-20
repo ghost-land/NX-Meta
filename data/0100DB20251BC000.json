@@ -1,0 +1,14 @@
+{
+  "name": "Mechatris",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20250830",
+  "description": "Inspired by the most iconic puzzle game in video game history, you’ll take control of a powerful robot equipped with explosive punches and devastating bombs. Break apart, shift, and reposition the pieces to clear perfect lines and rack up points.\n\nThe real challenge? Keeping your base organised while an endless stream of blocks keeps crashing down from above!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DB20251BC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DB20251BC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DB20251BC000/screen/1",
+    "http://api.nlib.cc/nx/0100DB20251BC000/screen/2",
+    "http://api.nlib.cc/nx/0100DB20251BC000/screen/3",
+    "http://api.nlib.cc/nx/0100DB20251BC000/screen/4"
+  ]
+}

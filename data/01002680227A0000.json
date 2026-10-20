@@ -1,0 +1,16 @@
+{
+  "name": "Parking Pro: Top-Down Challenge",
+  "publisher": "Gametry",
+  "releaseDate": "20250328",
+  "description": "Parking Pro: Top-Down Challenge is a precision driving game that puts your parking skills to the ultimate test. Navigate tight spaces, master tricky turns, and conquer increasingly challenging levels from a top-down perspective. With realistic physics, various car types, and dynamic obstacles, every level offers a new puzzle to solve.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002680227A0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002680227A0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002680227A0000/screen/1",
+    "http://api.nlib.cc/nx/01002680227A0000/screen/2",
+    "http://api.nlib.cc/nx/01002680227A0000/screen/3",
+    "http://api.nlib.cc/nx/01002680227A0000/screen/4",
+    "http://api.nlib.cc/nx/01002680227A0000/screen/5",
+    "http://api.nlib.cc/nx/01002680227A0000/screen/6"
+  ]
+}

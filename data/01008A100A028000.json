@@ -1,0 +1,15 @@
+{
+  "name": "FOX n FORESTS",
+  "publisher": "astragon",
+  "releaseDate": "20180517",
+  "description": "FOX n FORESTS is a 2D action platformer with RPG and puzzle elements inspired by the glorious days of 16-bit! Switch between various seasons on the fly, shoot and slash with your magic melee crossbow and snatch loot to unveil the mystery of the 5th seasons. A thrilling pixel art fable with rewarding super secrets, screen filling bosses and thriving exploration. This is 16-bit how you remember it!\n\n5 SEASONS! Switch between various seasons to explore new areas, outfox enemies and uncover amazing secrets.\nMAGIC MELEE CROSSBOW! Wield a weapon like no other to shoot, slash, slide and switch seasons.\nFOXTASTIC FABLE! Help Rick the Fox uncover the mystery of the 5th season and bring back justice to the forests and its inhabitants.\nRETROTAINMENT! 16-bit how you remember it with gorgeous pixel art and a catchy chiptunes soundtrack.\nACTION PLATFORMER! A thrilling adventure with engaging RPG elements, clever puzzles and pixel perfect platforming.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01008A100A028000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008A100A028000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008A100A028000/screen/1",
+    "http://api.nlib.cc/nx/01008A100A028000/screen/2",
+    "http://api.nlib.cc/nx/01008A100A028000/screen/3",
+    "http://api.nlib.cc/nx/01008A100A028000/screen/4",
+    "http://api.nlib.cc/nx/01008A100A028000/screen/5"
+  ]
+}

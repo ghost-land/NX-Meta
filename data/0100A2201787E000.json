@@ -1,0 +1,15 @@
+{
+  "name": "Phlegethon",
+  "publisher": "RandomSpin Games",
+  "releaseDate": "20220203",
+  "description": "Make your way through this hellish dimension. Destroy all monsters, crush their skulls.\n-Old school shooter with 90's style graphics.\n-A wide variety of monsters.\n-Decent arsenal of powerful weapons.\n-Gloomy atmosphere.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A2201787E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A2201787E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A2201787E000/screen/1",
+    "http://api.nlib.cc/nx/0100A2201787E000/screen/2",
+    "http://api.nlib.cc/nx/0100A2201787E000/screen/3",
+    "http://api.nlib.cc/nx/0100A2201787E000/screen/4",
+    "http://api.nlib.cc/nx/0100A2201787E000/screen/5"
+  ]
+}

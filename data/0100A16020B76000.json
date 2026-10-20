@@ -1,0 +1,16 @@
+{
+  "name": "Sheepy: A Short Adventure",
+  "publisher": "Seeking Blue Records",
+  "releaseDate": "20251224",
+  "description": "Help Sheepy, an abandoned plushy brought to life, as he explores a forgotten and broken world. Sheepy: A Short Adventure is the first short game from MrSuicideSheep.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A16020B76000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A16020B76000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A16020B76000/screen/1",
+    "http://api.nlib.cc/nx/0100A16020B76000/screen/2",
+    "http://api.nlib.cc/nx/0100A16020B76000/screen/3",
+    "http://api.nlib.cc/nx/0100A16020B76000/screen/4",
+    "http://api.nlib.cc/nx/0100A16020B76000/screen/5",
+    "http://api.nlib.cc/nx/0100A16020B76000/screen/6"
+  ]
+}

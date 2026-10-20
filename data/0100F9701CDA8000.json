@@ -1,0 +1,14 @@
+{
+  "name": "Draw and Go!",
+  "publisher": "ASI GAMES TECHNOLOGIES",
+  "releaseDate": "20231109",
+  "description": "Before you is an incredible adventure, during which you must make every effort to defeat the enemy!\n\nDraw paths to move forward and further victory!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F9701CDA8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F9701CDA8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F9701CDA8000/screen/1",
+    "http://api.nlib.cc/nx/0100F9701CDA8000/screen/2",
+    "http://api.nlib.cc/nx/0100F9701CDA8000/screen/3",
+    "http://api.nlib.cc/nx/0100F9701CDA8000/screen/4"
+  ]
+}

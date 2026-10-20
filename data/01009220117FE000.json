@@ -1,0 +1,16 @@
+{
+  "name": "Flewfie's Adventure",
+  "publisher": "Valorware",
+  "releaseDate": "20220601",
+  "description": "One day, disaster strikes on the sweet, colorful world of Cutemellow – a cruel, angry cat named Uzzu and their swarm of monsters have invaded! Under their orders, they begin wreaking havoc on the once peaceful planet …\n\nWho is Uzzu and what do they want? When they break into the best laboratory of Cutemellow, they take off with Scientist Snail’s top secret experiments with one goal in mind: To take control over Cutemellow and all surrounding worlds!\n\nJoin Flewfie on this epic adventure! Fly across the sticky Caramel Coves, the shimmering scenes of the Crystal Plains and sneak through the murky depths of the Abandosphere – and explore each world to discover many quests on your journey! With the help of your friends Scientist Snail, Bunn Bunn and Pinky Panda, can you put an end to the chaos and stop Uzzu?",
+  "bannerUrl": "http://api.nlib.cc/nx/01009220117FE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009220117FE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009220117FE000/screen/1",
+    "http://api.nlib.cc/nx/01009220117FE000/screen/2",
+    "http://api.nlib.cc/nx/01009220117FE000/screen/3",
+    "http://api.nlib.cc/nx/01009220117FE000/screen/4",
+    "http://api.nlib.cc/nx/01009220117FE000/screen/5",
+    "http://api.nlib.cc/nx/01009220117FE000/screen/6"
+  ]
+}

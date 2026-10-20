@@ -1,0 +1,16 @@
+{
+  "name": "Lost Sea",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20180531",
+  "description": "After a freak storm over the Atlantic, you find yourself stranded on the shores of a mysterious island. Do you have what it takes to escape the Lost Sea?\n\nLost Sea is an action-adventure game set inside the Bermuda Triangle. Recruit a crew of survivors who can help you explore the hazardous islands as you hunt for the artifacts needed to navigate the Lost Sea.\n\nFeatures:\n\n• Explore millions of procedurally generated islands.\n• Encounter an array of deadly traps and dangerous critters.\n• Recruit from a large cast of stranded with their own traits.\n• Challenging gameplay and permadeath for you and your crew.\n• Unlock powerful new player abilities and special moves.\n• Discover useful items that will help you survive.\n• Buy valuable ship upgrades that will assist you in your journey.",
+  "bannerUrl": "http://api.nlib.cc/nx/010071B00964A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010071B00964A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010071B00964A000/screen/1",
+    "http://api.nlib.cc/nx/010071B00964A000/screen/2",
+    "http://api.nlib.cc/nx/010071B00964A000/screen/3",
+    "http://api.nlib.cc/nx/010071B00964A000/screen/4",
+    "http://api.nlib.cc/nx/010071B00964A000/screen/5",
+    "http://api.nlib.cc/nx/010071B00964A000/screen/6"
+  ]
+}

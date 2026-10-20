@@ -1,0 +1,14 @@
+{
+  "name": "Found it!",
+  "publisher": "MASK",
+  "releaseDate": "20231228",
+  "description": "This is a spot-the-difference game where you can easily train your brain by finding one different icon among many icons within the time limit.\n\nEasy-to-play\n・Look carefully at the picture\n・Touch it within the time limit as you find one of the mistakes!\n\nEven though it seems to be easy if you look carefully, it’s surprisingly difficult when you have a time limit!? So quickly you can play, it’s a perfect game to pass the time.\n\nIf you just can’t figure out, press the Hint button!\nIt will roughly tell you where it is.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C2501D626000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C2501D626000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C2501D626000/screen/1",
+    "http://api.nlib.cc/nx/0100C2501D626000/screen/2",
+    "http://api.nlib.cc/nx/0100C2501D626000/screen/3",
+    "http://api.nlib.cc/nx/0100C2501D626000/screen/4"
+  ]
+}

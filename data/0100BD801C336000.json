@@ -1,0 +1,16 @@
+{
+  "name": "Super Ultimate Fighters",
+  "publisher": "HUNTERS",
+  "releaseDate": "20231019",
+  "description": "Super Ultimate Fighters is a 2D fighting game.\nThe game brings together various fighters from karate, judo, sumo, aikido, taekwondo, drunken fist, mantis style, capoeira, boxing, and more.\nWhen the technique gauge is accumulated, super special moves can be activated!\nLet's win by deciding on unique techniques.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BD801C336000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BD801C336000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BD801C336000/screen/1",
+    "http://api.nlib.cc/nx/0100BD801C336000/screen/2",
+    "http://api.nlib.cc/nx/0100BD801C336000/screen/3",
+    "http://api.nlib.cc/nx/0100BD801C336000/screen/4",
+    "http://api.nlib.cc/nx/0100BD801C336000/screen/5",
+    "http://api.nlib.cc/nx/0100BD801C336000/screen/6"
+  ]
+}

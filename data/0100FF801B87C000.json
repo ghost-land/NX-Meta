@@ -1,0 +1,16 @@
+{
+  "name": "Bubble Monsters",
+  "publisher": "EntwicklerX",
+  "releaseDate": "20230518",
+  "description": "Bubble Monsters is a classic bubble shoot game. \nThis addictive classic bubble blast match-three game comes with a cute monster graphics style, \ngreat challenging levels and some nice special items for better game experience in harder levels. \nStylish 3D graphics, multiple environments and unique monster characters gives the game a special touch.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FF801B87C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FF801B87C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FF801B87C000/screen/1",
+    "http://api.nlib.cc/nx/0100FF801B87C000/screen/2",
+    "http://api.nlib.cc/nx/0100FF801B87C000/screen/3",
+    "http://api.nlib.cc/nx/0100FF801B87C000/screen/4",
+    "http://api.nlib.cc/nx/0100FF801B87C000/screen/5",
+    "http://api.nlib.cc/nx/0100FF801B87C000/screen/6"
+  ]
+}

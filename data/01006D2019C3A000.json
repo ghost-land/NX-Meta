@@ -1,0 +1,16 @@
+{
+  "name": "Void Prison",
+  "publisher": "Untold Tales",
+  "releaseDate": "20230119",
+  "description": "Void Prison is a fast-paced, endless arcade twin-stick shooter that puts you inside an ever-shrinking ring. Survive by fighting emerging enemies around you and don't get consumed by the void. It's not as easy as you think!\nVoid Prison game is inspired by old-school bullet hell game formula that is easy to pick up and hard to master.  The players will be able to earn multiple achievements, unlock new skins and powerups, and try to get their name on top of the worldwide leaderboards.\n\nGame features:\n- Simple yet beautiful and impactful pixel art and effects;\n- Various achievements and global leaderboards;\n- Endless arcade gameplay featuring competitive and rewarding mechanics;\n- Balanced gameplay loop that will drive players to improve with each run;\n- Unlockable skins and powerups;\n- Multiple unique enemy types.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01006D2019C3A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006D2019C3A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006D2019C3A000/screen/1",
+    "http://api.nlib.cc/nx/01006D2019C3A000/screen/2",
+    "http://api.nlib.cc/nx/01006D2019C3A000/screen/3",
+    "http://api.nlib.cc/nx/01006D2019C3A000/screen/4",
+    "http://api.nlib.cc/nx/01006D2019C3A000/screen/5",
+    "http://api.nlib.cc/nx/01006D2019C3A000/screen/6"
+  ]
+}

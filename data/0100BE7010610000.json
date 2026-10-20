@@ -1,0 +1,14 @@
+{
+  "name": "Circuit Dude",
+  "publisher": "Sickhead Games",
+  "releaseDate": "20200907",
+  "description": "Help Circuit Dude build his ultimate secret invention by plugging in chips, pushing blocks, stepping on switches, rotating walls and so much more in this game featuring over 15 hours of gameplay over 120 levels. If that's not enough, you can design your own master contraptions using the in-game level editor and even upload it to the internet for others to try out!\n\nWhat is Circuit Dude building?\nFinish the first 100 levels to find out!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BE7010610000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BE7010610000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BE7010610000/screen/1",
+    "http://api.nlib.cc/nx/0100BE7010610000/screen/2",
+    "http://api.nlib.cc/nx/0100BE7010610000/screen/3",
+    "http://api.nlib.cc/nx/0100BE7010610000/screen/4"
+  ]
+}

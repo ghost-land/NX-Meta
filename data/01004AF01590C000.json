@@ -1,0 +1,16 @@
+{
+  "name": "Puzzle Car",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20210909",
+  "description": "A minimalist and relaxing experience. Challenge yourself to move pieces to assemble a safe path for your car and collect all the items on the way, while listening to a relaxing soundtrack in a totally minimalist environment. In this game, create a safe path using curves, intersections, tunnels and collect all the items on the way, always respecting crosswalks. Have fun!\n\nFeatures\n• 50 challenges.\n• Calm and relaxing soundtrack.\n• Satisfactory sound effect.\n• Unique puzzles.\n• Simple and minimalist puzzle game.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004AF01590C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004AF01590C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004AF01590C000/screen/1",
+    "http://api.nlib.cc/nx/01004AF01590C000/screen/2",
+    "http://api.nlib.cc/nx/01004AF01590C000/screen/3",
+    "http://api.nlib.cc/nx/01004AF01590C000/screen/4",
+    "http://api.nlib.cc/nx/01004AF01590C000/screen/5",
+    "http://api.nlib.cc/nx/01004AF01590C000/screen/6"
+  ]
+}

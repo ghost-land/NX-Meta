@@ -1,0 +1,16 @@
+{
+  "name": "Recolit",
+  "publisher": "room6",
+  "releaseDate": "20241017",
+  "description": "Recolit is a pixel art puzzle-adventure game where you search for lights in a town where night never ends.\n\nYour spaceship crashes, and you find yourself in a dark town that looks just like any other, but that has something different about it. Its people go about their daily lives as if nothing was off, even though the sky above their heads is always black.\n\nThis person wants something to drink. This other person wants to play with a pigeon.\nAs you help them with these little, trivial things, you advance toward what really matters.\n\nAnd then, the mysterious girl you met along the way tells you something:\n\"All right. I'll wait for you.\"",
+  "bannerUrl": "http://api.nlib.cc/nx/01008FB01E962000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008FB01E962000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008FB01E962000/screen/1",
+    "http://api.nlib.cc/nx/01008FB01E962000/screen/2",
+    "http://api.nlib.cc/nx/01008FB01E962000/screen/3",
+    "http://api.nlib.cc/nx/01008FB01E962000/screen/4",
+    "http://api.nlib.cc/nx/01008FB01E962000/screen/5",
+    "http://api.nlib.cc/nx/01008FB01E962000/screen/6"
+  ]
+}

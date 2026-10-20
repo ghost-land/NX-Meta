@@ -1,0 +1,16 @@
+{
+  "name": "Onigo Hunter",
+  "publisher": "KEMCO",
+  "releaseDate": "20230525",
+  "description": "While investigating ancient ruins, the King has completely disappeared. His daughter, whose position as Princess is under threat, makes a request for help. A fledgling hunter takes on this request and sets off on a quest to find the King...\n\nFight turn-based battles and aim to become the strongest hunter by taking on requests at the guild. Set traps to capture monsters, combine and turn them into equipment and items! Changing your equipment will also change your outfit look. Complete a whole range of challenges, including a monster catalog and a skill list to complete!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D0001B5FC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D0001B5FC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D0001B5FC000/screen/1",
+    "http://api.nlib.cc/nx/0100D0001B5FC000/screen/2",
+    "http://api.nlib.cc/nx/0100D0001B5FC000/screen/3",
+    "http://api.nlib.cc/nx/0100D0001B5FC000/screen/4",
+    "http://api.nlib.cc/nx/0100D0001B5FC000/screen/5",
+    "http://api.nlib.cc/nx/0100D0001B5FC000/screen/6"
+  ]
+}

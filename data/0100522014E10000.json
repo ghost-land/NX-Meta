@@ -1,0 +1,16 @@
+{
+  "name": "ISLANDERS",
+  "publisher": "Coatsink Software",
+  "releaseDate": "20210811",
+  "description": "ISLANDERS is a relaxing, minimalist strategy game about building cities on colourful islands.\n\nWith simple and intuitive building mechanics, you have the freedom to create your own cities on the rugged cliffs of the game’s islands in half an hour or less. \n\nExplore these procedurally generated Islands from lush green grasslands to dry deserts and snowy mountainscapes and expand your settlements from sprawling villages to vast cities.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100522014E10000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100522014E10000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100522014E10000/screen/1",
+    "http://api.nlib.cc/nx/0100522014E10000/screen/2",
+    "http://api.nlib.cc/nx/0100522014E10000/screen/3",
+    "http://api.nlib.cc/nx/0100522014E10000/screen/4",
+    "http://api.nlib.cc/nx/0100522014E10000/screen/5",
+    "http://api.nlib.cc/nx/0100522014E10000/screen/6"
+  ]
+}

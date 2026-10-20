@@ -1,0 +1,16 @@
+{
+  "name": "Vigor",
+  "publisher": "Bohemia Interactive",
+  "releaseDate": "20200708",
+  "description": "Survive the post-war Norway and outlive the apocalypse in Vigor, a free-to-play multiplayer looter shooter.\n\nExplore the Nordic scenery in Encounters. Choose your playstyle - sneaky looter or deadly shooter.\n\nBuild the Shelter from resources acquired in Encounters and upgrade it to unlock extra features.\n\nPlay Shootout, a fast-paced solo combat, or Elimination, a 5v5 tactical, round based team fight.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E8200DAF4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E8200DAF4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E8200DAF4000/screen/1",
+    "http://api.nlib.cc/nx/0100E8200DAF4000/screen/2",
+    "http://api.nlib.cc/nx/0100E8200DAF4000/screen/3",
+    "http://api.nlib.cc/nx/0100E8200DAF4000/screen/4",
+    "http://api.nlib.cc/nx/0100E8200DAF4000/screen/5",
+    "http://api.nlib.cc/nx/0100E8200DAF4000/screen/6"
+  ]
+}

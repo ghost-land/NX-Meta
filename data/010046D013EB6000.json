@@ -1,0 +1,16 @@
+{
+  "name": "Project AETHER: First Contact",
+  "publisher": "Forever Entertainment",
+  "releaseDate": "20210805",
+  "description": "Fight the alien threat across  unique levels, each with a powerful boss to defeat.\n\nCustomize your mech's loadout with an assortment of powerful weapons, including the rapid fire assault rifle, high impact railgun, concentrated particle beam, and more.\n\nChoose your own approach to combat. Pick your foes off with ranged weapons, or get in close with devastating sword strikes. Adapt your tactics to the scenario at hand.\n\nUse the enemy forces to your advantage! As you damage foes they become primed for a powerful EMP blast, which will destroy them and any ships caught in the blast.\n\nProve your prowess with boss rush and survival modes, and get your name on the leaderboard!\n\nA range of difficulty modes allow hardcore players to experience the ultimate challenge, while providing a more forgiving experience for genre newcomers.",
+  "bannerUrl": "http://api.nlib.cc/nx/010046D013EB6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010046D013EB6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010046D013EB6000/screen/1",
+    "http://api.nlib.cc/nx/010046D013EB6000/screen/2",
+    "http://api.nlib.cc/nx/010046D013EB6000/screen/3",
+    "http://api.nlib.cc/nx/010046D013EB6000/screen/4",
+    "http://api.nlib.cc/nx/010046D013EB6000/screen/5",
+    "http://api.nlib.cc/nx/010046D013EB6000/screen/6"
+  ]
+}

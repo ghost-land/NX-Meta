@@ -1,0 +1,16 @@
+{
+  "name": "Accident",
+  "publisher": "Duality Games",
+  "releaseDate": "20220916",
+  "description": "The course of each accident consists of several stages and possibilities:\nProviding assistance to accident victims. It is necessary to check the condition of accident victims and help those who need it most. Every accident is different so it is necessary to assess the situation quickly. This can include stopping the bleeding, performing CPR, and putting the victims in a safe position. \nAfter the rescue operation and secure accident area,  discover the reasons of the tragedy.",
+  "bannerUrl": "http://api.nlib.cc/nx/010057B017F5C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010057B017F5C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010057B017F5C000/screen/1",
+    "http://api.nlib.cc/nx/010057B017F5C000/screen/2",
+    "http://api.nlib.cc/nx/010057B017F5C000/screen/3",
+    "http://api.nlib.cc/nx/010057B017F5C000/screen/4",
+    "http://api.nlib.cc/nx/010057B017F5C000/screen/5",
+    "http://api.nlib.cc/nx/010057B017F5C000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Ducky Quacky",
+  "publisher": "Weakfish Studio",
+  "releaseDate": "20221025",
+  "description": "Ducky Quacky is 3D Platformer Game,\n\nOur main character is a Duck living in Duckland.\nHe's a Duckish!\nYou must collect all the keys in the levels,\nOpen the lock and go to the next level.\nI think it's a good idea to collect apples in levels.\nSome sections have Merchants who can sell you some clothes for Apples!\n\nThere are enemies in the levels.\nYou can beat them with your duck voice!\n\n\nFeatures;\n20 Cute and Unique designed levels.\nClothing System, You can buy accessories, cloths from Merchants.\nBeat enemies with your Duck Voice.\nCollect All Keys,\nCollect Apples,\nand Ducks!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F59017AFA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F59017AFA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F59017AFA000/screen/1",
+    "http://api.nlib.cc/nx/0100F59017AFA000/screen/2",
+    "http://api.nlib.cc/nx/0100F59017AFA000/screen/3",
+    "http://api.nlib.cc/nx/0100F59017AFA000/screen/4",
+    "http://api.nlib.cc/nx/0100F59017AFA000/screen/5",
+    "http://api.nlib.cc/nx/0100F59017AFA000/screen/6"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Guts 'n Grunts Jr.",
+  "publisher": "Cascadia Games",
+  "releaseDate": "20260123",
+  "description": "AUG 12, 2045. The Technate has ruled for 15 years. Its robotic army, Slaughterhouse AI, roams the Earth in search of all processable flesh. Pigs everywhere remain in hiding.\n\nOne small boar takes matters into his own hands. He is unusually fast and armed with a blaster. His name is Gunnar Harsvin. His message: the pigs will fight for their lives. Gunnar must destroy the machines of the evil technocracy and rescue his fellow pigs.\n\nPlay a missing classic from the genesis of the 16-bit era. Roll like a hedgehog! Shoot like a soldier!",
+  "bannerUrl": "http://api.nlib.cc/nx/01002920269CA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002920269CA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002920269CA000/screen/1",
+    "http://api.nlib.cc/nx/01002920269CA000/screen/2",
+    "http://api.nlib.cc/nx/01002920269CA000/screen/3",
+    "http://api.nlib.cc/nx/01002920269CA000/screen/4",
+    "http://api.nlib.cc/nx/01002920269CA000/screen/5",
+    "http://api.nlib.cc/nx/01002920269CA000/screen/6"
+  ],
+  "version": 0,
+  "size": 93973373
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Idle Immortal",
+  "publisher": "Happy Player",
+  "releaseDate": "20260813",
+  "description": "+ Idle Gameplay: Enjoy a relaxing idle experience designed to help you unwind. Even while you are away, your sect keeps battling, growing stronger, and moving closer to ascension. \n\n+ Squad Building: Recruit from 16 playable characters. Each character has unique talents, classes, and skills. Bring in the disciples you need and freely build your own squad. \n\n+ Character Growth: Each character can choose one of six different cultivation paths. They can also practice different cultivation techniques to gain unique bonuses. Even characters of the same class can grow into completely different builds. \n\n+ Explore the World: Journey across the land, discover other sects and factions, and advance the story. Gather resources for personal cultivation and sect development. Encounter random events and uncover unexpected treasures. \n\n+ Sect Management: While exploring the world, you will also manage your own sect. Earn reputation and sect resources to upgrade and expand your home base. Build different sect facilities to continuously produce useful items. A powerful sect will help you go further on the path to immortality.",
+  "bannerUrl": "http://api.nlib.cc/nx/010037D02742E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010037D02742E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010037D02742E000/screen/1",
+    "http://api.nlib.cc/nx/010037D02742E000/screen/2",
+    "http://api.nlib.cc/nx/010037D02742E000/screen/3",
+    "http://api.nlib.cc/nx/010037D02742E000/screen/4",
+    "http://api.nlib.cc/nx/010037D02742E000/screen/5",
+    "http://api.nlib.cc/nx/010037D02742E000/screen/6"
+  ],
+  "version": 0,
+  "size": 892057828
+}

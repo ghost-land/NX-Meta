@@ -1,0 +1,13 @@
+{
+  "name": "Kizuna AI - Touch the Beat!",
+  "publisher": "Gemdrops",
+  "releaseDate": "20230525",
+  "description": "■Game Overview\nKizuna AI: Touch the Beat is a rhythm game that features Kizuna AI.\nThis edition also includes a View Mode, which lets you travel through the game's stages free as a bird.\nThe rhythm portion of this game supports tap controls, and the View Mode supports both tap and gyro controls.\n\n■Songs & DLC\nIncludes 15 popular songs performed by Kizuna AI, including her massive hit \"Hello, Morning,\" which has garnered over 2,170,000 views.\nPost-launch DLC is in the works, including additional songs and outfits, and other content.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BF2019B98000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BF2019B98000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BF2019B98000/screen/1",
+    "http://api.nlib.cc/nx/0100BF2019B98000/screen/2",
+    "http://api.nlib.cc/nx/0100BF2019B98000/screen/3"
+  ]
+}

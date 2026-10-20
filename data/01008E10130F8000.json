@@ -1,0 +1,15 @@
+{
+  "name": "Funimation",
+  "publisher": "Funimation Global Group",
+  "releaseDate": "20201215",
+  "description": "Watch a massive collection of English-dubbed anime and hundreds of subtitled shows from Japan on Funimation. Stream our library of ad-free anime in HD on your Nintendo Switch. A library full of movies, OVAs, extras, and best of all: the hottest, top-trending shows like Demon Slayer: Kimetsu no Yaiba, My Hero Academia, Fruits Basket, Black Clover, Attack on Titan, Dragon Ball, and more! \n\nStream for two weeks free and begin your anime adventure today. \n\nFunimation subscription benefits include:\n\nAd-Free\nNobody interrupts your anime. Nobody. \n\nSimultaneous Streams\nGet up to five simultaneous streams on one account.",
+  "bannerUrl": "http://api.nlib.cc/nx/01008E10130F8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008E10130F8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008E10130F8000/screen/1",
+    "http://api.nlib.cc/nx/01008E10130F8000/screen/2",
+    "http://api.nlib.cc/nx/01008E10130F8000/screen/3",
+    "http://api.nlib.cc/nx/01008E10130F8000/screen/4",
+    "http://api.nlib.cc/nx/01008E10130F8000/screen/5"
+  ]
+}

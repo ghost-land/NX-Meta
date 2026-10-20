@@ -1,0 +1,16 @@
+{
+  "name": "3D Arcade Fishing",
+  "publisher": "TREVA",
+  "releaseDate": "20210318",
+  "description": "Good Fishing! Prove your skill in handling the fishing rod at lakes around the world that are rich in fish (e.g., Loch Ness). When hunting the fish, keep calm so that the prey doesn't escape from the hook at the last minute. Pull bigger and bigger fish to land - this will increase your experience level. This way you can unlock new bait and buy better equipment in the tackle shop.\n\n- 11 different fish species\n- 15 fishing spots at 3 lakes\n- 9 anglers\n- Simple game principle\n- Guaranteed long lasting gaming fun",
+  "bannerUrl": "http://api.nlib.cc/nx/010010C013F2A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010010C013F2A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010010C013F2A000/screen/1",
+    "http://api.nlib.cc/nx/010010C013F2A000/screen/2",
+    "http://api.nlib.cc/nx/010010C013F2A000/screen/3",
+    "http://api.nlib.cc/nx/010010C013F2A000/screen/4",
+    "http://api.nlib.cc/nx/010010C013F2A000/screen/5",
+    "http://api.nlib.cc/nx/010010C013F2A000/screen/6"
+  ]
+}

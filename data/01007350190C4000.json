@@ -1,0 +1,16 @@
+{
+  "name": "Alice's Warped Wonderland:REcollection",
+  "publisher": "Nightmare STUDIO",
+  "releaseDate": "20220825",
+  "description": "<Alice's Warped Wonderland:REcollection> is a horror visual novel adventure game with multiple endings.\n\nI awoke at school one day when a strange person calling himself the \"Cheshire Cat\" said to me so...\n\"Now, Our Alice, let's chase the White Rabbit.\"\n\n- <Updated Version> of Alice's Warped Wonderland fully converted to support horizontal display from previous vertical display\n- Supports touch controls\n- Features a rewrite by the original team, with care to keep the charm of the original game\n- New BGM arrangements, exclusive to Recollection\n- Features text skipping and auto-play features for convenient reading\n- Secret images and video added to the Gallery\n\nPlease note: Recollection does not include the Character Columns. ",
+  "bannerUrl": "http://api.nlib.cc/nx/01007350190C4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007350190C4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007350190C4000/screen/1",
+    "http://api.nlib.cc/nx/01007350190C4000/screen/2",
+    "http://api.nlib.cc/nx/01007350190C4000/screen/3",
+    "http://api.nlib.cc/nx/01007350190C4000/screen/4",
+    "http://api.nlib.cc/nx/01007350190C4000/screen/5",
+    "http://api.nlib.cc/nx/01007350190C4000/screen/6"
+  ]
+}

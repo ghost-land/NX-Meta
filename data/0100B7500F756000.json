@@ -1,0 +1,13 @@
+{
+  "name": "Minefield",
+  "publisher": "Kodobur Yazilim",
+  "releaseDate": "20191007",
+  "description": "Minefield is a pretty simple game.\nOpen all the boxes without detonating bombs to finish the game.If u believe there is a bomb in the box,put a flag there.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B7500F756000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B7500F756000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B7500F756000/screen/1",
+    "http://api.nlib.cc/nx/0100B7500F756000/screen/2",
+    "http://api.nlib.cc/nx/0100B7500F756000/screen/3"
+  ]
+}

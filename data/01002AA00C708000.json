@@ -1,0 +1,13 @@
+{
+  "name": "Word Sudoku by POWGI",
+  "publisher": "Lightwood Games",
+  "releaseDate": "20181122",
+  "description": "It's Sudoku with words! Place letters in the grid according to normal Sudoku rules and one row or column will spell the word.\n\nOf course, you can switch back to number mode if you prefer.\n\nWord Sudoku by POWGI includes 240 unique and beautifully symmetrical Word Sudoku puzzles, graded for difficulty from beginner to expert.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002AA00C708000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002AA00C708000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002AA00C708000/screen/1",
+    "http://api.nlib.cc/nx/01002AA00C708000/screen/2",
+    "http://api.nlib.cc/nx/01002AA00C708000/screen/3"
+  ]
+}

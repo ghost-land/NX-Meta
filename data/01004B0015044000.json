@@ -1,0 +1,16 @@
+{
+  "name": "Papa's Quiz",
+  "publisher": "Old Apes",
+  "releaseDate": "20210730",
+  "description": "Papa’s Quiz is a party game for 1-8 players. Use phones or tablets as controllers and compete in multiple question types, where the smartest and fastest player will be the last standing victor!\n\nQuiz!\nWe crafted over 3000 original questions in 185 categories for this game.\n\nDress up!\nCreate your avatar, and give it a fun name! Dress it up with creative clothes and use it to express your victories in the game.\n\nFight for category!\nGive the other players a good fight for which category to play.\nTap, tap, tap to win!\n\nDance!\nChoose your dance moves to express your good fortune.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004B0015044000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004B0015044000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004B0015044000/screen/1",
+    "http://api.nlib.cc/nx/01004B0015044000/screen/2",
+    "http://api.nlib.cc/nx/01004B0015044000/screen/3",
+    "http://api.nlib.cc/nx/01004B0015044000/screen/4",
+    "http://api.nlib.cc/nx/01004B0015044000/screen/5",
+    "http://api.nlib.cc/nx/01004B0015044000/screen/6"
+  ]
+}

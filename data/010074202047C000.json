@@ -1,0 +1,13 @@
+{
+  "name": "BallZ DX",
+  "publisher": "Max Interactive Studio",
+  "releaseDate": "20240926",
+  "description": "BallZ Deluxe: The Ultimate Brick Breaker Experience!\n\nGet ready to break bricks like never before! Your mission is simple: smash as many bricks as you can before they reach the bottom. Collect extra balls along the way to boost your firepower, and earn bonus coins and gems to unlock even more powerful balls!\n\n- Endless fun: Keep playing as long as you can keep the bricks at bay.\n- Online leaderboard: Show off your high scores and see how you stack up against players worldwide.\n- 27 unique balls: Unlock and choose from a variety of cool balls.\n- Multilingual support: Play in your preferred language.\n- Immersive audio: Enjoy professional sound effects and music that enhance your gameplay.",
+  "bannerUrl": "http://api.nlib.cc/nx/010074202047C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010074202047C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010074202047C000/screen/1",
+    "http://api.nlib.cc/nx/010074202047C000/screen/2",
+    "http://api.nlib.cc/nx/010074202047C000/screen/3"
+  ]
+}

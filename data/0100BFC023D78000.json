@@ -1,0 +1,16 @@
+{
+  "name": "The Cabin Factory",
+  "publisher": "Feardemic",
+  "releaseDate": "20251016",
+  "description": "Welcome to The Cabin Factory!\nYou're now a newly hired Cabin Inspector - congratulations!\nYour job is simple - inspect the cabins and determine whether or not they are haunted. \n\nStressed on your first day? \nNo worries - here’s a quick introduction:\nStep 1: Inspect the entire cabin. Don’t miss a detail and trust your instincts.\nStep 2: If the cabin is safe, press ‘CLEAR’ and move on.\nBut if it’s haunted - quickly turn back and press ‘DANGER’.\n\nFEATURES:\n▪ Atmospheric horror awaits - step into the anomaly-hunting experience, inspired by liminal spaces and psychological horror walking simulators, \n▪ Compact story - tired of long games? Experience the full narrative in one evening,\n▪ Thirteen supported languages - choose to fully immerse yourself in the game. \n\nAdditional languages:\n- Catalan (CAT/CATALÀ),\n- Turkish (TUR/TÜRKÇE).",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BFC023D78000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BFC023D78000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BFC023D78000/screen/1",
+    "http://api.nlib.cc/nx/0100BFC023D78000/screen/2",
+    "http://api.nlib.cc/nx/0100BFC023D78000/screen/3",
+    "http://api.nlib.cc/nx/0100BFC023D78000/screen/4",
+    "http://api.nlib.cc/nx/0100BFC023D78000/screen/5",
+    "http://api.nlib.cc/nx/0100BFC023D78000/screen/6"
+  ]
+}

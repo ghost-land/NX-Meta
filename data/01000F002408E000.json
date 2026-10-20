@@ -1,0 +1,16 @@
+{
+  "name": "Boost Zero",
+  "publisher": "FuriouSoftPhoenix",
+  "releaseDate": "20250704",
+  "description": "In this dystopian universe, gravity is reinvented: what is normally vertical becomes horizontal, and the notion of \"up\" is transformed. Each competition challenges you with unique objectives, whether it's beating time trials, competing against more than 22 other drivers, or taking on the demanding challenge of the \"hare game,\" which will test your reflexes and skills to the limit.\n\nThroughout your races, you can unlock 24 unique ships, each with a special personality and characteristics. Learn to master the turbo boost, but use it with caution, as it consumes a considerable amount of energy. The tracks are also dotted with special zones: the Yellow Zone gives you extra super acceleration, while the Blue Zone repairs and maximizes your energy. And for those critical moments, unlock the devastating \"Whirlwind Destroyer System,\" which, when activated near your rivals, allows you to spin 360° and thus eliminate them from the competition.\n\nFeatures:\n   * Compete with more than 22 rivals.\n   * Turbo Boost and Whirlwind Destroyer System.\n   * 8 different worlds.\n   * Two competition modes.\n   * Choose from 24 unique ships.\n   * Hyperdrive.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000F002408E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000F002408E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000F002408E000/screen/1",
+    "http://api.nlib.cc/nx/01000F002408E000/screen/2",
+    "http://api.nlib.cc/nx/01000F002408E000/screen/3",
+    "http://api.nlib.cc/nx/01000F002408E000/screen/4",
+    "http://api.nlib.cc/nx/01000F002408E000/screen/5",
+    "http://api.nlib.cc/nx/01000F002408E000/screen/6"
+  ]
+}

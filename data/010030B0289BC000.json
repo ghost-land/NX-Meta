@@ -1,0 +1,18 @@
+{
+  "name": "Gods With Guns",
+  "publisher": "MifaGames",
+  "releaseDate": "20260806",
+  "description": "Become a Norse myth hero\nPlay as legendary characters like Odin, Thor, Loki, and Hela to fight against Ragnarok. \n\nEnjoy fast-paced 2D gunplay\nExperience smooth gun handling as you battle through storms of bullets and waves of enemies. \n\nBuild card combinations to enhance your power\nCollect cards to strengthen your character and face endless enemies.",
+  "bannerUrl": "http://api.nlib.cc/nx/010030B0289BC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010030B0289BC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010030B0289BC000/screen/1",
+    "http://api.nlib.cc/nx/010030B0289BC000/screen/2",
+    "http://api.nlib.cc/nx/010030B0289BC000/screen/3",
+    "http://api.nlib.cc/nx/010030B0289BC000/screen/4",
+    "http://api.nlib.cc/nx/010030B0289BC000/screen/5",
+    "http://api.nlib.cc/nx/010030B0289BC000/screen/6"
+  ],
+  "version": 0,
+  "size": 117308382
+}

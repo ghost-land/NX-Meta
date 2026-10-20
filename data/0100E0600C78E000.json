@@ -1,0 +1,16 @@
+{
+  "name": "Monster Crown",
+  "publisher": "Soedesco",
+  "releaseDate": "20211012",
+  "description": "Dive into a dark world where monsters rule and make pacts with them to defeat an evil young woman seeking power. Hunt, battle, tame and breed monsters to create your own legacy. Together with your monsters, you can restore the balance to Crown Island\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E0600C78E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E0600C78E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E0600C78E000/screen/1",
+    "http://api.nlib.cc/nx/0100E0600C78E000/screen/2",
+    "http://api.nlib.cc/nx/0100E0600C78E000/screen/3",
+    "http://api.nlib.cc/nx/0100E0600C78E000/screen/4",
+    "http://api.nlib.cc/nx/0100E0600C78E000/screen/5",
+    "http://api.nlib.cc/nx/0100E0600C78E000/screen/6"
+  ]
+}

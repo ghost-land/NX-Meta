@@ -1,0 +1,16 @@
+{
+  "name": "Paper Bad",
+  "publisher": "Entity3",
+  "releaseDate": "20221104",
+  "description": "Complete your delivery round by causing as much damage as you can!\n\nTake the shot and watch it all destroy!\n\nUnlock new weapons, charatcers and worlds!",
+  "bannerUrl": "http://api.nlib.cc/nx/01002A0019914000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002A0019914000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002A0019914000/screen/1",
+    "http://api.nlib.cc/nx/01002A0019914000/screen/2",
+    "http://api.nlib.cc/nx/01002A0019914000/screen/3",
+    "http://api.nlib.cc/nx/01002A0019914000/screen/4",
+    "http://api.nlib.cc/nx/01002A0019914000/screen/5",
+    "http://api.nlib.cc/nx/01002A0019914000/screen/6"
+  ]
+}

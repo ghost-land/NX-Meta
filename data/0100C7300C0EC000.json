@@ -1,0 +1,16 @@
+{
+  "name": "RogueCube",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20200807",
+  "description": "Pick your cube and blast your way to victory in RogueCube!\n\nChoose from solo campaign, local multiplayer campaign or local multiplayer competitive modes and duke it out. Can you capture the eight vertices and clear each zone?\n\nJump dodge and shoot your way to victory!\n\nFeatures\n* 3 playable cube characters and 6 additional unlockable characters\n* 37 unique weapons to take down your enemies\n* 11 exciting levels to explore\n* 4 unique bosses",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C7300C0EC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C7300C0EC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C7300C0EC000/screen/1",
+    "http://api.nlib.cc/nx/0100C7300C0EC000/screen/2",
+    "http://api.nlib.cc/nx/0100C7300C0EC000/screen/3",
+    "http://api.nlib.cc/nx/0100C7300C0EC000/screen/4",
+    "http://api.nlib.cc/nx/0100C7300C0EC000/screen/5",
+    "http://api.nlib.cc/nx/0100C7300C0EC000/screen/6"
+  ]
+}

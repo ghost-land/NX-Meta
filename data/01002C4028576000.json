@@ -1,0 +1,18 @@
+{
+  "name": "Star Troopers - Combat Force",
+  "publisher": "St Pow Games",
+  "releaseDate": "20260813",
+  "description": "Enter a high-speed combat arena where every second matters and every move decides your survival.\n\nSet in a futuristic cyberpunk world, you fight as an elite operator inside advanced simulation arenas controlled by powerful corporations. Move constantly and use speed and positioning to stay in control during intense combat encounters.\n\nDash, jump, and react instantly while collecting resources and adapting to fast-changing combat situations. Each arena offers vertical gameplay, interactive elements, and multiple ways to approach every fight.\n\nKey Features:\n\t•\tArena Shooter Gameplay: Fast-paced combat in dynamic arenas\n\t•\tCyberpunk Setting: Neon environments and futuristic locations\n\t•\tDynamic Movement: Dash, double jump, and vertical gameplay\n\t•\tInteractive Arenas: Power-ups, destructible elements, and multi-level design\n\t•\tChallenging Encounters: Test your reflexes and reaction speed\nFight, adapt, and stay one step ahead in a world built for combat.\n\nStar Troopers – Combat Force delivers an intense, fast-paced shooter experience where reflexes, movement, and precision define every battle.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01002C4028576000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002C4028576000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002C4028576000/screen/1",
+    "http://api.nlib.cc/nx/01002C4028576000/screen/2",
+    "http://api.nlib.cc/nx/01002C4028576000/screen/3",
+    "http://api.nlib.cc/nx/01002C4028576000/screen/4",
+    "http://api.nlib.cc/nx/01002C4028576000/screen/5",
+    "http://api.nlib.cc/nx/01002C4028576000/screen/6"
+  ],
+  "version": 0,
+  "size": 413825576
+}

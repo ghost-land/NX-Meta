@@ -1,0 +1,15 @@
+{
+  "name": "Exit Station 7",
+  "publisher": "SURPRISED HOTDOG",
+  "releaseDate": "20240817",
+  "description": "You entered a train station and appear to be stuck in a loop. Multiple levels to test your observation skill. See if you have what it takes to escape the loop! ",
+  "bannerUrl": "http://api.nlib.cc/nx/01005BD01FB0C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005BD01FB0C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005BD01FB0C000/screen/1",
+    "http://api.nlib.cc/nx/01005BD01FB0C000/screen/2",
+    "http://api.nlib.cc/nx/01005BD01FB0C000/screen/3",
+    "http://api.nlib.cc/nx/01005BD01FB0C000/screen/4",
+    "http://api.nlib.cc/nx/01005BD01FB0C000/screen/5"
+  ]
+}

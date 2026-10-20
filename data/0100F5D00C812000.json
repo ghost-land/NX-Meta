@@ -1,0 +1,16 @@
+{
+  "name": "Wondershot",
+  "publisher": "QubicGames",
+  "releaseDate": "20181222",
+  "description": "Enjoy a new \"couch game\" with your friends and family, presented by the publishers of the best-selling Astro Bears Party.\n\nNo luck, just skill and rage!\n\nFOUR WEAPONS:\n\nHammer: You can dash over walls and ammos with this melee weapon. If you load the hammer, you will dash even further.\n\nBow: The snipers' favorites. If you load the bow, your arrow will be extremely fast, if not it will have some auto aiming.\n\nBoomerang: This very fast weapon always comes back. If your load the boomerang, it keep spinning on one spot and comes back when you decide.\n\nSlingshot: Each shot bounces three times before stopping. It's a very tricky weapon! If you load the slingshot, the projectile becomes faster, but smaller.\n\n3 GAME MODES:\n\nMultiplayer: fight with up to 4 players. \n\nChallenges (solo mode): 45 challenges to bring out your best moves.\n\nEndless (cooperation mode): battle with friends against waves of monsters. The map changes dynamically for each wave! You will have to survive Mages, Chargers, Supports, Ranged and Melee monsters.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F5D00C812000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F5D00C812000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F5D00C812000/screen/1",
+    "http://api.nlib.cc/nx/0100F5D00C812000/screen/2",
+    "http://api.nlib.cc/nx/0100F5D00C812000/screen/3",
+    "http://api.nlib.cc/nx/0100F5D00C812000/screen/4",
+    "http://api.nlib.cc/nx/0100F5D00C812000/screen/5",
+    "http://api.nlib.cc/nx/0100F5D00C812000/screen/6"
+  ]
+}

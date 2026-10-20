@@ -1,0 +1,15 @@
+{
+  "name": "Throne of Egypt",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20240212",
+  "description": "Step into the golden sandals of an ancient Egyptian Pharaoh, guiding your empire through the sands of time. Address the diverse concerns of your subjects, from state affairs and spiritual dilemmas to courtly intrigues and romances. Your decisions will either amass wealth, enhance the economy, and glorify the empire with grand temples and pyramids, or lead to its downfall. Engage with gods balancing their favor and wrath. Each choice weaves into the rich tapestry of your reign, with past decisions shaping future challenges. Rule wisely to avoid rebellion and maintain divine favor, ensuring your legacy endures through the ages.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B0C01DCBE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B0C01DCBE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B0C01DCBE000/screen/1",
+    "http://api.nlib.cc/nx/0100B0C01DCBE000/screen/2",
+    "http://api.nlib.cc/nx/0100B0C01DCBE000/screen/3",
+    "http://api.nlib.cc/nx/0100B0C01DCBE000/screen/4",
+    "http://api.nlib.cc/nx/0100B0C01DCBE000/screen/5"
+  ]
+}

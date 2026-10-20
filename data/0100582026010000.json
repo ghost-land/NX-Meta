@@ -1,0 +1,16 @@
+{
+  "name": "崩れる密室",
+  "publisher": "Happy Player",
+  "releaseDate": "20260305",
+  "description": "This is a box-pushing puzzle escape game set in a collapsing room. You’ll need to count your moves precisely, dodge bottomless pits and traps, use all kinds of mechanisms in the room, and push crates to solve puzzles—escape before the walls crush you into a puddle!\n\nThe amount of content is insane! Over 300+ escape-room levels, 5 large themed chapters, plus tons of exhibits packed with dark-humor jokes.\n\nWatch the timing of the walls closing in each turn, plan your steps with precision, avoid traps, make smart use of the stage’s interactive mechanics, push boxes to open the exit, and get out before the walls turn you into mince!\n\nAll kinds of fun gadgets await inside: signal panels, polymers, portals... and many more tricky, high-difficulty puzzles for you to crack! Bring it on!\n\nYou can freely explore the level-select hub. Clear the main challenges to earn compute points and unlock later chapters—but the tough puzzles hidden in the corners are the real test. And when you need a break from solving puzzles, you can also explore virtual exhibits and hunt for hidden levels—there are loads of Easter eggs waiting to be found.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100582026010000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100582026010000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100582026010000/screen/1",
+    "http://api.nlib.cc/nx/0100582026010000/screen/2",
+    "http://api.nlib.cc/nx/0100582026010000/screen/3",
+    "http://api.nlib.cc/nx/0100582026010000/screen/4",
+    "http://api.nlib.cc/nx/0100582026010000/screen/5",
+    "http://api.nlib.cc/nx/0100582026010000/screen/6"
+  ]
+}

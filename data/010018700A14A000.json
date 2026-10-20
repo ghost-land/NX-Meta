@@ -1,0 +1,14 @@
+{
+  "name": "レコチョク",
+  "publisher": "レコチョク",
+  "releaseDate": "20181012",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/010018700A14A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010018700A14A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010018700A14A000/screen/1",
+    "http://api.nlib.cc/nx/010018700A14A000/screen/2",
+    "http://api.nlib.cc/nx/010018700A14A000/screen/3",
+    "http://api.nlib.cc/nx/010018700A14A000/screen/4"
+  ]
+}

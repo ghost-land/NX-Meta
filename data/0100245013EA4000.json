@@ -1,0 +1,16 @@
+{
+  "name": "Sector 781",
+  "publisher": "Refold",
+  "releaseDate": "20210507",
+  "description": "Battle your way through 3 realms of 'Sector 781', a pixel art platformer. Upgrade your character and weapons; collect shards to increase your energy supply. Use teleports to navigate around the realms. Shoot things that move and some that don't move. Activate checkpoints to save your position.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100245013EA4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100245013EA4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100245013EA4000/screen/1",
+    "http://api.nlib.cc/nx/0100245013EA4000/screen/2",
+    "http://api.nlib.cc/nx/0100245013EA4000/screen/3",
+    "http://api.nlib.cc/nx/0100245013EA4000/screen/4",
+    "http://api.nlib.cc/nx/0100245013EA4000/screen/5",
+    "http://api.nlib.cc/nx/0100245013EA4000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Damways",
+  "publisher": "Afil Games",
+  "releaseDate": "20260814",
+  "description": "Get ready for a clever, relaxing, and strategy-filled adventure across a lake where every move matters. In Damways, you control a resourceful beaver that slides endlessly across the water, reshaping the environment with dams and creating unlikely paths toward home.\n\nBut nothing here is as simple as it seems. The beaver does not move step by step. Once it starts sliding, it only stops when it hits an obstacle, a wall, wood, or one of your own dams. This turns every direction into an important decision where predicting the trajectory matters just as much as choosing the destination.\n\nCollect bundles of wood scattered around the lake and use them to build strategic dams capable of completely reshaping the map. Create new barriers, redirect routes, open impossible paths, and transform the environment piece by piece until the perfect solution appears.\n\nEvery piece of wood is precious. You can carry only one at a time, so deciding when to collect, where to build, and how to reorganize the lake makes all the difference. A badly placed dam can block your entire route… but with Undo and Restart features, there is always room to experiment with new ideas.\n\nAs the journey continues, the challenges become increasingly creative, bringing more complex maps, clever obstacles, and puzzles that demand observation, planning, and spatial reasoning. The result is a relaxing yet deeply satisfying experience for players who love well-crafted puzzles.\n\nWith cozy visuals, a peaceful atmosphere, and that wonderful feeling of finally understanding the solution, Damways transforms every lake into a strategic playground full of possibilities.\n\nObserve the environment, slide through the water, and build the perfect path toward the den.",
+  "bannerUrl": "http://api.nlib.cc/nx/010052B02893E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010052B02893E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010052B02893E000/screen/1",
+    "http://api.nlib.cc/nx/010052B02893E000/screen/2",
+    "http://api.nlib.cc/nx/010052B02893E000/screen/3",
+    "http://api.nlib.cc/nx/010052B02893E000/screen/4"
+  ],
+  "version": 0,
+  "size": 79267690
+}

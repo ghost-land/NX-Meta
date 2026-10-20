@@ -1,0 +1,15 @@
+{
+  "name": "Go Minimal",
+  "publisher": "Hook Games",
+  "releaseDate": "20220121",
+  "description": "- Online multiplayer, play Blitz (30 seconds) or Classic (10 minutes) match\n- Global leaderboards, Elo rating system\n- Private online games with your friend\n- Local multiplayer on a single device\n- Touch support\n- Beautiful minimal design\n\nGo is an abstract strategy board game for two players in which the aim is to surround more territory than the opponent.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004FF016F46000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004FF016F46000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004FF016F46000/screen/1",
+    "http://api.nlib.cc/nx/01004FF016F46000/screen/2",
+    "http://api.nlib.cc/nx/01004FF016F46000/screen/3",
+    "http://api.nlib.cc/nx/01004FF016F46000/screen/4",
+    "http://api.nlib.cc/nx/01004FF016F46000/screen/5"
+  ]
+}

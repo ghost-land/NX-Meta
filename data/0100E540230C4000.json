@@ -1,0 +1,16 @@
+{
+  "name": "Cozy Woods",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20250330",
+  "description": "Step into Cozy Woods, a serene walking simulator where exploration and relaxation go hand in hand. Wander through lush forests, hidden groves, and scenic overlooks as you take in the beauty of a world that shifts between day and night.\n\nExplore & Discover\nRoam freely across stunning landscapes filled with charming details and hidden secrets.\nUncover unique locations, from misty lakesides to glowing firefly meadows.\nExperience a world that changes with the time of day, revealing new sights under the golden sun or twinkling stars.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E540230C4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E540230C4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E540230C4000/screen/1",
+    "http://api.nlib.cc/nx/0100E540230C4000/screen/2",
+    "http://api.nlib.cc/nx/0100E540230C4000/screen/3",
+    "http://api.nlib.cc/nx/0100E540230C4000/screen/4",
+    "http://api.nlib.cc/nx/0100E540230C4000/screen/5",
+    "http://api.nlib.cc/nx/0100E540230C4000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Detective Case and Clown Bot in: Murder in The Hotel Lisbon",
+  "publisher": "Nerd Monkeys",
+  "releaseDate": "20200930",
+  "description": "A strange murder has occurred in the Hotel Lisbon. A man committed suicide with 14 stabs to the back, while at the same time peacefully drinking his coffee. This case, with contradictory facts, could only be solved by the amazing Detective Case and his sidekick Clown Bot.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AB700AF14000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AB700AF14000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AB700AF14000/screen/1",
+    "http://api.nlib.cc/nx/0100AB700AF14000/screen/2",
+    "http://api.nlib.cc/nx/0100AB700AF14000/screen/3",
+    "http://api.nlib.cc/nx/0100AB700AF14000/screen/4",
+    "http://api.nlib.cc/nx/0100AB700AF14000/screen/5",
+    "http://api.nlib.cc/nx/0100AB700AF14000/screen/6"
+  ]
+}

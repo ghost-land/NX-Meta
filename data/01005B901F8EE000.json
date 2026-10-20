@@ -1,0 +1,16 @@
+{
+  "name": "LEGO® Voyagers",
+  "publisher": "Annapurna Interactive",
+  "releaseDate": "20250915",
+  "description": "From the makers of LEGO® Builder's Journey comes a new 2-player co-op adventure about friendship and play. When two friends make it their mission to rescue an abandoned spaceship, they embark on a journey beyond their wildest dreams, ultimately learning the value of being connected.\n\n● Experience what it feels like to be a LEGO brick. Tumble, jump, snap together, and build your way through rich brick worlds.\n● Unravel a poetic, non verbal narrative, set in beautiful brick built environments, supported by an atmospheric soundtrack.\n● Cooperatively solve the game's many challenges and discover how two bricks are better than one. Play locally on the same screen, or online.\n● Invite a friend to join your adventure for free with the Friend’s Pass. As long as one of you owns LEGO Voyagers, you can both play the full co-op experience together.\n\nLEGO Voyagers asks open questions about building friendships, sharing dreams, and giving space.\n\nIt reminds us that while playing and being creative is for all shapes and sizes, it’s always better when you share it with a friend.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005B901F8EE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005B901F8EE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005B901F8EE000/screen/1",
+    "http://api.nlib.cc/nx/01005B901F8EE000/screen/2",
+    "http://api.nlib.cc/nx/01005B901F8EE000/screen/3",
+    "http://api.nlib.cc/nx/01005B901F8EE000/screen/4",
+    "http://api.nlib.cc/nx/01005B901F8EE000/screen/5",
+    "http://api.nlib.cc/nx/01005B901F8EE000/screen/6"
+  ]
+}

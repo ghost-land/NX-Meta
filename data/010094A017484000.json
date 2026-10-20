@@ -1,0 +1,16 @@
+{
+  "name": "Husky's Adventures",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20220620",
+  "description": "Jump into the great adventure of Husky!\n\nEach level has an unique atmosphere to it, and great challage.\n\n\nTry to complete all level using basic movement, jump and dash!",
+  "bannerUrl": "http://api.nlib.cc/nx/010094A017484000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010094A017484000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010094A017484000/screen/1",
+    "http://api.nlib.cc/nx/010094A017484000/screen/2",
+    "http://api.nlib.cc/nx/010094A017484000/screen/3",
+    "http://api.nlib.cc/nx/010094A017484000/screen/4",
+    "http://api.nlib.cc/nx/010094A017484000/screen/5",
+    "http://api.nlib.cc/nx/010094A017484000/screen/6"
+  ]
+}

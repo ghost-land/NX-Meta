@@ -1,0 +1,14 @@
+{
+  "name": "Words With Freds",
+  "publisher": "Mokuzai Studio",
+  "releaseDate": "20220303",
+  "description": "Words With Freds is a simple word game where you must guess the randomly picked word within six tries. Every wrong guess will give you hints that will guide you to the answer!",
+  "bannerUrl": "http://api.nlib.cc/nx/010030E017C6C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010030E017C6C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010030E017C6C000/screen/1",
+    "http://api.nlib.cc/nx/010030E017C6C000/screen/2",
+    "http://api.nlib.cc/nx/010030E017C6C000/screen/3",
+    "http://api.nlib.cc/nx/010030E017C6C000/screen/4"
+  ]
+}

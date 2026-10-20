@@ -1,0 +1,16 @@
+{
+  "name": "Bubble Shooter FX",
+  "publisher": "EntwicklerX",
+  "releaseDate": "20210916",
+  "description": "Bubble Shooter FX is a classic bubble shoot game.\n\nThis addictive classic bubble blast match-three game comes with clean and modern graphics, hundreds of\ngreat challenging levels and some nice special items for better game experience in harder levels.\n\nClean and simple 3D graphics with nice light effects gives the game a special touch.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C7C016454000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C7C016454000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C7C016454000/screen/1",
+    "http://api.nlib.cc/nx/0100C7C016454000/screen/2",
+    "http://api.nlib.cc/nx/0100C7C016454000/screen/3",
+    "http://api.nlib.cc/nx/0100C7C016454000/screen/4",
+    "http://api.nlib.cc/nx/0100C7C016454000/screen/5",
+    "http://api.nlib.cc/nx/0100C7C016454000/screen/6"
+  ]
+}

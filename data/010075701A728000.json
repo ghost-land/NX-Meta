@@ -1,0 +1,16 @@
+{
+  "name": "My Lovely Pets Collector's Edition",
+  "publisher": "Ocean Media",
+  "releaseDate": "20230210",
+  "description": "As any pet owner can tell you, our constant companions are full of personality and love to cause mischief by hiding in the most unusual places! \nVisit relaxing locations to find these funny, playful pets and colorful hidden objects, and enjoy a treasure trove of favorite mini-games!\n\nCollector's edition includes:\n- 8 additional locations for even more cute pets to find!\n- 8 more mini-games!\n- Listen to the relaxing soundtracks",
+  "bannerUrl": "http://api.nlib.cc/nx/010075701A728000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010075701A728000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010075701A728000/screen/1",
+    "http://api.nlib.cc/nx/010075701A728000/screen/2",
+    "http://api.nlib.cc/nx/010075701A728000/screen/3",
+    "http://api.nlib.cc/nx/010075701A728000/screen/4",
+    "http://api.nlib.cc/nx/010075701A728000/screen/5",
+    "http://api.nlib.cc/nx/010075701A728000/screen/6"
+  ]
+}

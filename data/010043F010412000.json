@@ -1,0 +1,15 @@
+{
+  "name": "Jurassic Excite",
+  "publisher": "BIG BOYS STUDIO",
+  "releaseDate": "20200116",
+  "description": "Dinosaurs who lived in peace began to rampage with the power of magic!\nWith a magic hammer Help the dinosaurs!\n\nJust swing the hammer in the direction of the dinosaurs!\nYou can also shake a hammer with Joy-Con!\n\nBecause you can play together with them,\nChallenge your friends and family to difficult stages!\n\nSomething happens if you get a high score on a difficult stage.",
+  "bannerUrl": "http://api.nlib.cc/nx/010043F010412000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010043F010412000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010043F010412000/screen/1",
+    "http://api.nlib.cc/nx/010043F010412000/screen/2",
+    "http://api.nlib.cc/nx/010043F010412000/screen/3",
+    "http://api.nlib.cc/nx/010043F010412000/screen/4",
+    "http://api.nlib.cc/nx/010043F010412000/screen/5"
+  ]
+}

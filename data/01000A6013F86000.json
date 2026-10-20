@@ -1,0 +1,16 @@
+{
+  "name": "Strange Field Football",
+  "publisher": "Wildbus Studio",
+  "releaseDate": "20210128",
+  "description": "This is a game that allows light gamers to have the fun of football. There is no fouls, no out of bounds, the only rule is to score more goals within the specified time. Pro gamers can also find their fun. Players' Hit point, use of special skills, and differences in tactics, every small operation may affect the final result.\n\nKey Features\n• 3D Cartoon pixel style\n• Every player has his own special skills\n• Take advantage of scene elements\n• Up to 4 people to play locally\n• Game stable at 60fps\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01000A6013F86000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000A6013F86000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000A6013F86000/screen/1",
+    "http://api.nlib.cc/nx/01000A6013F86000/screen/2",
+    "http://api.nlib.cc/nx/01000A6013F86000/screen/3",
+    "http://api.nlib.cc/nx/01000A6013F86000/screen/4",
+    "http://api.nlib.cc/nx/01000A6013F86000/screen/5",
+    "http://api.nlib.cc/nx/01000A6013F86000/screen/6"
+  ]
+}

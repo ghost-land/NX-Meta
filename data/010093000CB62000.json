@@ -1,0 +1,16 @@
+{
+  "name": "Sudoku Universe",
+  "publisher": "Hook Games",
+  "releaseDate": "20190808",
+  "description": "Sudoku - is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid (also called \"boxes\", \"blocks\", or \"regions\") contains all of the digits from 1 to 9.",
+  "bannerUrl": "http://api.nlib.cc/nx/010093000CB62000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010093000CB62000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010093000CB62000/screen/1",
+    "http://api.nlib.cc/nx/010093000CB62000/screen/2",
+    "http://api.nlib.cc/nx/010093000CB62000/screen/3",
+    "http://api.nlib.cc/nx/010093000CB62000/screen/4",
+    "http://api.nlib.cc/nx/010093000CB62000/screen/5",
+    "http://api.nlib.cc/nx/010093000CB62000/screen/6"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Hook",
+  "publisher": "Rainbow Train",
+  "releaseDate": "20190314",
+  "description": "\"Hook\" is a relaxing, minimal, puzzle game. \n\nIt is more of a game-like experience than a challenge. No menus, no achievements, just you and a puzzle. Player is surrounded by calming sounds and music. \n\nMade by Maciej Targoni and Wojciech Wasiak. \nThank you for your support!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DFF00DA4E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DFF00DA4E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DFF00DA4E000/screen/1",
+    "http://api.nlib.cc/nx/0100DFF00DA4E000/screen/2",
+    "http://api.nlib.cc/nx/0100DFF00DA4E000/screen/3",
+    "http://api.nlib.cc/nx/0100DFF00DA4E000/screen/4"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "The Witcher 3: Wild Hunt — Complete Edition",
+  "publisher": "CD PROJEKT",
+  "releaseDate": "20191015",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/010076F00E9C8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010076F00E9C8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010076F00E9C8000/screen/1",
+    "http://api.nlib.cc/nx/010076F00E9C8000/screen/2",
+    "http://api.nlib.cc/nx/010076F00E9C8000/screen/3",
+    "http://api.nlib.cc/nx/010076F00E9C8000/screen/4",
+    "http://api.nlib.cc/nx/010076F00E9C8000/screen/5",
+    "http://api.nlib.cc/nx/010076F00E9C8000/screen/6"
+  ]
+}

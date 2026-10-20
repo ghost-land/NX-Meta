@@ -1,0 +1,16 @@
+{
+  "name": "Pocket Bravery",
+  "publisher": "PQube",
+  "releaseDate": "20250409",
+  "description": "Get your first taste of Pocket Bravery with the demo!\n\nInspired by classic fighting games from the 90's, 'Pocket Bravery' channels a modern fighting game with a retro twist!\n\nWith original characters, vibrant colours and an impressive combat system, 'Pocket Bravery' is designed with high-level players in mind, while making it easily accessible for beginners to pick-up-and-play!\n\nChoose Your Fighter - 12 diverse characters to choose from, all with unique abilities and play styles!\n\nThe World's Stage - Pick your arena with 20 different world-wide areas to choose from!\n\nStory Time - Follow the story of Nuno and others as they investigate the criminal organisation Matilha! \n\nCompetitive and accessible control schemes included, based on your level of fighting game experience\n\nLocal and Online Multiplayer with 'Rollback Netcode' for ultra low latency online fighting!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E3E01A9AC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E3E01A9AC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E3E01A9AC000/screen/1",
+    "http://api.nlib.cc/nx/0100E3E01A9AC000/screen/2",
+    "http://api.nlib.cc/nx/0100E3E01A9AC000/screen/3",
+    "http://api.nlib.cc/nx/0100E3E01A9AC000/screen/4",
+    "http://api.nlib.cc/nx/0100E3E01A9AC000/screen/5",
+    "http://api.nlib.cc/nx/0100E3E01A9AC000/screen/6"
+  ]
+}

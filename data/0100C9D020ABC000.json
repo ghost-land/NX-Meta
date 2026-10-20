@@ -1,0 +1,16 @@
+{
+  "name": "Eden Survivors",
+  "publisher": "Aeternum Game Studios",
+  "releaseDate": "20250318",
+  "description": "Eden Survivors is an intense action roguelike where you must fight endless waves of enemies in a world on the brink of collapse. Choose from unique heroes, unlock devastating abilities, and create unstoppable power combos to survive.\n\nEach run is a new opportunity to evolve your combat style, discover deadly synergies, and challenge formidable bosses. Will you survive long enough to unleash your full potential?\n\nKey Features:\n- Fast-paced battles with dynamic roguelike mechanics.\n- A wide selection of heroes, weapons, and abilities to customize your strategy.\n- Permanent upgrades to help you progress with every attempt.\n- Challenging maps filled with secrets and dangers at every turn.\n\nThe fate of humanity is in your hands. Survive, evolve, and dominate the chaos in Eden Survivors!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C9D020ABC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C9D020ABC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C9D020ABC000/screen/1",
+    "http://api.nlib.cc/nx/0100C9D020ABC000/screen/2",
+    "http://api.nlib.cc/nx/0100C9D020ABC000/screen/3",
+    "http://api.nlib.cc/nx/0100C9D020ABC000/screen/4",
+    "http://api.nlib.cc/nx/0100C9D020ABC000/screen/5",
+    "http://api.nlib.cc/nx/0100C9D020ABC000/screen/6"
+  ]
+}

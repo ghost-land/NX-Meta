@@ -1,0 +1,14 @@
+{
+  "name": "Brawl.io 2",
+  "publisher": "ASI GAMES TECHNOLOGIES",
+  "releaseDate": "20231113",
+  "description": "In Brawl.io 2 you can use superpowers to attack, get new skins, go forward and destroy as many players as possible during the match!",
+  "bannerUrl": "http://api.nlib.cc/nx/010080B01D63C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010080B01D63C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010080B01D63C000/screen/1",
+    "http://api.nlib.cc/nx/010080B01D63C000/screen/2",
+    "http://api.nlib.cc/nx/010080B01D63C000/screen/3",
+    "http://api.nlib.cc/nx/010080B01D63C000/screen/4"
+  ]
+}

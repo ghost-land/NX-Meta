@@ -1,0 +1,16 @@
+{
+  "name": "The Casebook of Arkady Smith",
+  "publisher": "Wobbly Tooth",
+  "releaseDate": "20200416",
+  "description": "An open world investigation game set in a futuristic city.\n\nTake on the role of Arkady Smith, the famous investigator.\n\nExplore the vast city, search for hidden clues, solve fiendish puzzles and speak to elusive suspects.\n\nCan you uncover the mystery of each crime?",
+  "bannerUrl": "http://api.nlib.cc/nx/01008AB00FBA6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008AB00FBA6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008AB00FBA6000/screen/1",
+    "http://api.nlib.cc/nx/01008AB00FBA6000/screen/2",
+    "http://api.nlib.cc/nx/01008AB00FBA6000/screen/3",
+    "http://api.nlib.cc/nx/01008AB00FBA6000/screen/4",
+    "http://api.nlib.cc/nx/01008AB00FBA6000/screen/5",
+    "http://api.nlib.cc/nx/01008AB00FBA6000/screen/6"
+  ]
+}

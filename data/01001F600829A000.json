@@ -1,0 +1,16 @@
+{
+  "name": "Romancing SaGa 2",
+  "publisher": "SQUARE ENIX",
+  "releaseDate": "20171215",
+  "description": "Sit upon the throne of the Varennes Empire and control several generations of rulers in a valiant battle against the Seven Heroes. A dynamic freeform scenario system - a hallmark of the million-selling SaGa RPG series - enables you to take command of a variety of protagonists along the line of imperial succession and experience the history of a nation as it grows and changes based on your actions.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01001F600829A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001F600829A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001F600829A000/screen/1",
+    "http://api.nlib.cc/nx/01001F600829A000/screen/2",
+    "http://api.nlib.cc/nx/01001F600829A000/screen/3",
+    "http://api.nlib.cc/nx/01001F600829A000/screen/4",
+    "http://api.nlib.cc/nx/01001F600829A000/screen/5",
+    "http://api.nlib.cc/nx/01001F600829A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Awesome Pea 2",
+  "publisher": "Sometimes You",
+  "releaseDate": "20200603",
+  "description": "Greedy Pea is back in the game! Now with even more dark dungeons, deadly traps and gold!\n\nWhat you will definitely find in this game (again):\n- Pixel gameboy-style graphics (when everything is green)\n- 25 different levels\n- Retro soundtrack (sounds like your old computer)\n- Lots of shiny coins",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B7D01147E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B7D01147E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B7D01147E000/screen/1",
+    "http://api.nlib.cc/nx/0100B7D01147E000/screen/2",
+    "http://api.nlib.cc/nx/0100B7D01147E000/screen/3",
+    "http://api.nlib.cc/nx/0100B7D01147E000/screen/4",
+    "http://api.nlib.cc/nx/0100B7D01147E000/screen/5",
+    "http://api.nlib.cc/nx/0100B7D01147E000/screen/6"
+  ]
+}

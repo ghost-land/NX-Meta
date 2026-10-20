@@ -1,0 +1,16 @@
+{
+  "name": "Johnny Turbo's Arcade: Gate Of Doom",
+  "publisher": "Golem Entertainment",
+  "releaseDate": "20180215",
+  "description": "Gate of Doom a is classic multiplayer action RPG for one to two players. Originally release in 1990, and a noted classic arcade title from the 90s. ",
+  "bannerUrl": "http://api.nlib.cc/nx/010069B002CDE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010069B002CDE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010069B002CDE000/screen/1",
+    "http://api.nlib.cc/nx/010069B002CDE000/screen/2",
+    "http://api.nlib.cc/nx/010069B002CDE000/screen/3",
+    "http://api.nlib.cc/nx/010069B002CDE000/screen/4",
+    "http://api.nlib.cc/nx/010069B002CDE000/screen/5",
+    "http://api.nlib.cc/nx/010069B002CDE000/screen/6"
+  ]
+}

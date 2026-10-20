@@ -1,0 +1,18 @@
+{
+  "name": "The Vanishing Train",
+  "publisher": "Regista",
+  "releaseDate": "20260604",
+  "description": "This title is a psychological horror game in which you play as a train conductor on a local line in Japan.\n\n●Story\nAs usual, the protagonist begins his shift driving a local train deep in the mountains.\nHowever, as he goes about his duties, mysterious and inexplicable events gradually begin to unfold...\n\n●Game Features\n- A horror game set in Japan\n- Train driver duties experience\n- A first-person 3D horror game\n- Features five different endings\n\n●Additional elements\nA new ending has been added.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001E0027FE8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001E0027FE8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001E0027FE8000/screen/1",
+    "http://api.nlib.cc/nx/01001E0027FE8000/screen/2",
+    "http://api.nlib.cc/nx/01001E0027FE8000/screen/3",
+    "http://api.nlib.cc/nx/01001E0027FE8000/screen/4",
+    "http://api.nlib.cc/nx/01001E0027FE8000/screen/5",
+    "http://api.nlib.cc/nx/01001E0027FE8000/screen/6"
+  ],
+  "version": 0,
+  "size": 206434300
+}

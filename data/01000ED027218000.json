@@ -1,0 +1,18 @@
+{
+  "name": "Killer Toys",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20260409",
+  "description": "The toys are awake. And they’re not playing.\nIn Killer Toys, you’re thrown into a rogue-like first-person shooter where corrupted animatronic toys roam abandoned play spaces, factories, and warehouses. Cute on the outside, deadly on the inside — these machines charge, shoot, shield themselves, and explode in relentless waves.\nBefore each run, you choose your difficulty — then you’re on your own. No gimmicks. No mercy.\nEach arena is a nightmare playground: flickering lights, conveyor belts, towering shelves, and malfunctioning machines that can be turned into deadly traps. Explosive crates, crushing presses, and sparking generators can be used to thin the horde — if you react fast enough.\nYou start with a simple pistol. Kill toys, collect glowing orbs, level up, and choose upgrades that shape your run. Boost damage, reload speed, and mobility — or spawn powerful new weapons to survive longer as the waves grow stronger and more aggressive.\nThe longer you last, the worse it gets. Bigger animatronics appear. Enemies combine abilities. The factory fills with noise, sparks, and flying debris — until the swarm finally overwhelms you.\nSurvive, unlock new arenas, and dive back in.\nThey’re waiting.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000ED027218000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000ED027218000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000ED027218000/screen/1",
+    "http://api.nlib.cc/nx/01000ED027218000/screen/2",
+    "http://api.nlib.cc/nx/01000ED027218000/screen/3",
+    "http://api.nlib.cc/nx/01000ED027218000/screen/4",
+    "http://api.nlib.cc/nx/01000ED027218000/screen/5",
+    "http://api.nlib.cc/nx/01000ED027218000/screen/6"
+  ],
+  "version": 0,
+  "size": 2457765669
+}

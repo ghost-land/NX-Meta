@@ -1,0 +1,16 @@
+{
+  "name": "Pyramid Quest",
+  "publisher": "EntwicklerX",
+  "releaseDate": "20220120",
+  "description": "Pyramid Quest is an exploration and treasure-hunting game inspired by classic platform games.\nThe goal is to find the three parts of an artefact and open the gate to the next level while collecting diamonds and coins.\n \nTraps, obstacles, and enemies from old days make the quest very dangerous and challenging.\n \n3D graphics packed in a nice graphics style, great 2.5D levels and proven gameplay gives you hours of fun.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A4E017372000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A4E017372000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A4E017372000/screen/1",
+    "http://api.nlib.cc/nx/0100A4E017372000/screen/2",
+    "http://api.nlib.cc/nx/0100A4E017372000/screen/3",
+    "http://api.nlib.cc/nx/0100A4E017372000/screen/4",
+    "http://api.nlib.cc/nx/0100A4E017372000/screen/5",
+    "http://api.nlib.cc/nx/0100A4E017372000/screen/6"
+  ]
+}

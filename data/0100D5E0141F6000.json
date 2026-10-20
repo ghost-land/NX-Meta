@@ -1,0 +1,15 @@
+{
+  "name": "Mini Car Racing",
+  "publisher": "Kistler Studios",
+  "releaseDate": "20210527",
+  "description": "Mini Car Racing is an arcade fun racer up to 2 players locally. Choose between different cars and tracks. Compete in the championship mode and unlock new tracks, get the best time in time trail or just play an arcade round.\n\nFeatures :\n- Three game modes (Championship,time trail,arcade)\n- 9 Tracks\n- Two player splitscreen mode",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D5E0141F6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D5E0141F6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D5E0141F6000/screen/1",
+    "http://api.nlib.cc/nx/0100D5E0141F6000/screen/2",
+    "http://api.nlib.cc/nx/0100D5E0141F6000/screen/3",
+    "http://api.nlib.cc/nx/0100D5E0141F6000/screen/4",
+    "http://api.nlib.cc/nx/0100D5E0141F6000/screen/5"
+  ]
+}

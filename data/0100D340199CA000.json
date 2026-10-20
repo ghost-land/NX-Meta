@@ -1,0 +1,16 @@
+{
+  "name": "Blub",
+  "publisher": "SPACEFARER GAMES",
+  "releaseDate": "20231020",
+  "description": "Cute, but radioactive! Join Blub in his quest to return to his home, the chemical plant! Watch out for rats, sentinent phone boxes and collect the chemical waste on your way home. With challenging, detailed platforming levels to complete, guide Blub home!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D340199CA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D340199CA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D340199CA000/screen/1",
+    "http://api.nlib.cc/nx/0100D340199CA000/screen/2",
+    "http://api.nlib.cc/nx/0100D340199CA000/screen/3",
+    "http://api.nlib.cc/nx/0100D340199CA000/screen/4",
+    "http://api.nlib.cc/nx/0100D340199CA000/screen/5",
+    "http://api.nlib.cc/nx/0100D340199CA000/screen/6"
+  ]
+}

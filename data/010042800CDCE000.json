@@ -1,0 +1,16 @@
+{
+  "name": "Neon Caves",
+  "publisher": "Force of Habit",
+  "releaseDate": "20190327",
+  "description": "Recently rediscovered by your research team, use your ship's anchor ability and elite implements to stabilise the cave while keeping the hostile inhabitants at bay.\n\nFEATURES\n* Endless arcade-action gameplay. How long can you survive?\n* 9 unique enemy types: including historically accurate giant crustaceans!\n* 4 awesome power-ups: rapid fire, bombs, invincibility and ghost ship!\n* 28 Achievements\n* Online Leaderboards",
+  "bannerUrl": "http://api.nlib.cc/nx/010042800CDCE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010042800CDCE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010042800CDCE000/screen/1",
+    "http://api.nlib.cc/nx/010042800CDCE000/screen/2",
+    "http://api.nlib.cc/nx/010042800CDCE000/screen/3",
+    "http://api.nlib.cc/nx/010042800CDCE000/screen/4",
+    "http://api.nlib.cc/nx/010042800CDCE000/screen/5",
+    "http://api.nlib.cc/nx/010042800CDCE000/screen/6"
+  ]
+}

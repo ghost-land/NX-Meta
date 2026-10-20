@@ -1,0 +1,15 @@
+{
+  "name": "Color Your World",
+  "publisher": "Mindscape",
+  "releaseDate": "20210520",
+  "description": "Travel the world and through the seasons on a journey full of colorful labyrinths. Think fast and leave no path unpainted! Color each maze with as few moves as possible to earn 3 stars and unlock new challenging levels. Play 100 levels and encounter obstacles such as moving walls, teleporters and treadmills!\n\nChallenge your friends in the multiplayer mode with up to four players. Who will come up with the best strategy to become the champion? Use special power-ups to get an edge over your opponents. Only the smartest players will be victorious, and paint the world in their color!\n\nFeatures:\n• 100 colorful levels with increasing difficulty\n• 8+ obstacles and useful tools such as teleporters, pressure plates and bouncy walls\n• Multiplayer mode with up to four players. Use your smarts (and power-ups) to win!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EB00132FE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EB00132FE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EB00132FE000/screen/1",
+    "http://api.nlib.cc/nx/0100EB00132FE000/screen/2",
+    "http://api.nlib.cc/nx/0100EB00132FE000/screen/3",
+    "http://api.nlib.cc/nx/0100EB00132FE000/screen/4",
+    "http://api.nlib.cc/nx/0100EB00132FE000/screen/5"
+  ]
+}

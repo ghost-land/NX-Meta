@@ -1,0 +1,16 @@
+{
+  "name": "Greedroid",
+  "publisher": "PLiCy",
+  "releaseDate": "20200507",
+  "description": "Take control of the robot \"IB\" and explore the dungeon!\nRogue-like dungeons change shape and form every time you dive in them.\nDefeat enemies and dig blocks to get to the door to the next floor.\n\nIB can lift any block or trap and throw it at you.\nYou can use the surrounding terrain to fight off enemies from a distance!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BD800DFA6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BD800DFA6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BD800DFA6000/screen/1",
+    "http://api.nlib.cc/nx/0100BD800DFA6000/screen/2",
+    "http://api.nlib.cc/nx/0100BD800DFA6000/screen/3",
+    "http://api.nlib.cc/nx/0100BD800DFA6000/screen/4",
+    "http://api.nlib.cc/nx/0100BD800DFA6000/screen/5",
+    "http://api.nlib.cc/nx/0100BD800DFA6000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Gramik Paint Roller",
+  "publisher": "Isaias Game Dev",
+  "releaseDate": "20230615",
+  "description": "Paint the levels, develop strategies, a challenging and relaxing game, and enjoy the more than 50 levels.\n\nReaching the end will be your greatest achievement!",
+  "bannerUrl": "http://api.nlib.cc/nx/010046801ADDE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010046801ADDE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010046801ADDE000/screen/1",
+    "http://api.nlib.cc/nx/010046801ADDE000/screen/2",
+    "http://api.nlib.cc/nx/010046801ADDE000/screen/3",
+    "http://api.nlib.cc/nx/010046801ADDE000/screen/4",
+    "http://api.nlib.cc/nx/010046801ADDE000/screen/5",
+    "http://api.nlib.cc/nx/010046801ADDE000/screen/6"
+  ]
+}

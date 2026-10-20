@@ -1,0 +1,16 @@
+{
+  "name": "UnderMine",
+  "publisher": "Thorium Entertainment",
+  "releaseDate": "20210211",
+  "description": "Delve deep into the UnderMine and discover its secrets, one peasant at a time! UnderMine is an action-adventure roguelike that blends combat and dungeon crawling with rpg-like progression. Mine gold, die, upgrade yourself, and try again! Discover hundreds of items including relics, potions, blessings, and curses that all combo and stack for a new experience every run. Challenge dangerous bosses and rescue helpful characters that provide new upgrades for your adventure. Decipher the cryptic messages of the Undermine’s residents and unfold the mystery at the heart of the dungeon.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000B3012F3A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000B3012F3A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000B3012F3A000/screen/1",
+    "http://api.nlib.cc/nx/01000B3012F3A000/screen/2",
+    "http://api.nlib.cc/nx/01000B3012F3A000/screen/3",
+    "http://api.nlib.cc/nx/01000B3012F3A000/screen/4",
+    "http://api.nlib.cc/nx/01000B3012F3A000/screen/5",
+    "http://api.nlib.cc/nx/01000B3012F3A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "BrainZ",
+  "publisher": "Polygon Art",
+  "releaseDate": "20201112",
+  "description": "A colorfull Zombie shooter in a post apocalyptic US City. Your only goal is to survive while waves of Zombies attack you. Search for loot, call in resupplys and manage your resources and find a way to leave the city.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004A800F0CA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004A800F0CA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004A800F0CA000/screen/1",
+    "http://api.nlib.cc/nx/01004A800F0CA000/screen/2",
+    "http://api.nlib.cc/nx/01004A800F0CA000/screen/3",
+    "http://api.nlib.cc/nx/01004A800F0CA000/screen/4",
+    "http://api.nlib.cc/nx/01004A800F0CA000/screen/5",
+    "http://api.nlib.cc/nx/01004A800F0CA000/screen/6"
+  ]
+}

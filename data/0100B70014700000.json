@@ -1,0 +1,16 @@
+{
+  "name": "Skycadia",
+  "publisher": "Studio Nisse",
+  "releaseDate": "20220908",
+  "description": "The world of Skycadia is overrun with sky pirates -- and there's profit to be made! Take to the skies and collect bounties by shooting down the scoundrels in this light-hearted flying adventure.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B70014700000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B70014700000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B70014700000/screen/1",
+    "http://api.nlib.cc/nx/0100B70014700000/screen/2",
+    "http://api.nlib.cc/nx/0100B70014700000/screen/3",
+    "http://api.nlib.cc/nx/0100B70014700000/screen/4",
+    "http://api.nlib.cc/nx/0100B70014700000/screen/5",
+    "http://api.nlib.cc/nx/0100B70014700000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Earthfall: Alien Horde",
+  "publisher": "Nimble",
+  "releaseDate": "20191029",
+  "description": "Earthfall™ is a 4-player co-op shooter where you team up with friends or play alone to save the world from invading aliens. Search for over 20 different kinds of weapons, or use 3D printers to print your own! Automatic turrets, deployable barricades, or mounted guns let you set up defenses to channel the enemy into kill zones. Battle your way through 16 epic levels that tell the continuing story of humanity's struggle to survive. Every playthrough is a unique experience, with dynamic spawns and reactive enemies for maximum replay value.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DFC00E472000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DFC00E472000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DFC00E472000/screen/1",
+    "http://api.nlib.cc/nx/0100DFC00E472000/screen/2",
+    "http://api.nlib.cc/nx/0100DFC00E472000/screen/3",
+    "http://api.nlib.cc/nx/0100DFC00E472000/screen/4",
+    "http://api.nlib.cc/nx/0100DFC00E472000/screen/5",
+    "http://api.nlib.cc/nx/0100DFC00E472000/screen/6"
+  ]
+}

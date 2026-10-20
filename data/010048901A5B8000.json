@@ -1,0 +1,16 @@
+{
+  "name": "Masarada Town Story",
+  "publisher": "sugar star",
+  "releaseDate": "20231223",
+  "description": "Masarada Town is a desolate town with few tourists.\nA museum was built to revitalize the town, but there is nothing on display.\nThis is the story of Jewel, an apprentice miner who was sent to such a town.\n\nShe digs up mines with her hammer.\n　You can find ores, fossils and gems.\n　Collect as many rocks as you can to complete your museum.\n\nThe town is a lonely place at first, but it grows up with Jewel's effort.\n　Buses will run, stores will have more menus, new shops will open, and so on. New stores may open.\n\n◆Various people live in the town.\n　There is a doctor girl, a young blacksmith, a mercenary girl, and so on.\n　Each of them has a story and will tell you many things if you get to know them well.",
+  "bannerUrl": "http://api.nlib.cc/nx/010048901A5B8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010048901A5B8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010048901A5B8000/screen/1",
+    "http://api.nlib.cc/nx/010048901A5B8000/screen/2",
+    "http://api.nlib.cc/nx/010048901A5B8000/screen/3",
+    "http://api.nlib.cc/nx/010048901A5B8000/screen/4",
+    "http://api.nlib.cc/nx/010048901A5B8000/screen/5",
+    "http://api.nlib.cc/nx/010048901A5B8000/screen/6"
+  ]
+}

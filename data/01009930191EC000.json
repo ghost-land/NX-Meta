@@ -1,0 +1,16 @@
+{
+  "name": "Super Double Dragon",
+  "publisher": "ARC SYSTEM WORKS",
+  "releaseDate": "20231109",
+  "description": "Super Double Dragon comes to modern consoles for the first time!\nThis stage-based side scrolling action classic first came out for the \"Super Nintendo Entertainment System™\" in 1992.\nThe border of the screen can now be customized with a choice of 5 wallpapers. Play with your background of choice!\n\nYou can now ramp up the action, with customizable play speed going up to double speed!\nDiscover a whole new way to enjoy the game with extra tumultuous battles!\n\nKey Features:\n・Fend off enemy attacks with the Guard command\n・Build up the newly added Dragon Power gauge to unleash new moves\n・Take out enemies with the help of items such as sandbags and punching bags throughout the stage\n・Choosing Mode B turns on friendly fire\n\nTake control of the twin Dragons to make waves in the modern era!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01009930191EC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009930191EC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009930191EC000/screen/1",
+    "http://api.nlib.cc/nx/01009930191EC000/screen/2",
+    "http://api.nlib.cc/nx/01009930191EC000/screen/3",
+    "http://api.nlib.cc/nx/01009930191EC000/screen/4",
+    "http://api.nlib.cc/nx/01009930191EC000/screen/5",
+    "http://api.nlib.cc/nx/01009930191EC000/screen/6"
+  ]
+}

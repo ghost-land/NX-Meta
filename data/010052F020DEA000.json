@@ -1,0 +1,16 @@
+{
+  "name": "Shadows Bounce Once",
+  "publisher": "liica",
+  "releaseDate": "20250220",
+  "description": "The most exciting puzzle & stealth action game that presented by『Q』series staff is coming to Nintendo Switch™! \n\nHere are some tips to enjoy this game.\n\n- Ninja always bounces once.\n- Don't say that the ninja and the floor are hard to see.\n　Darkness is your ally.\n- Just move from dark to dark.\n- Red objects are dangerous. Both for the enemy and for you.\n- Some light sources can be destroyed.\n- In some cases, cutting the rope can open the path.\n- Watch out for places without walls or floors.",
+  "bannerUrl": "http://api.nlib.cc/nx/010052F020DEA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010052F020DEA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010052F020DEA000/screen/1",
+    "http://api.nlib.cc/nx/010052F020DEA000/screen/2",
+    "http://api.nlib.cc/nx/010052F020DEA000/screen/3",
+    "http://api.nlib.cc/nx/010052F020DEA000/screen/4",
+    "http://api.nlib.cc/nx/010052F020DEA000/screen/5",
+    "http://api.nlib.cc/nx/010052F020DEA000/screen/6"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Video Poker at Aces Casino",
+  "publisher": "Digital Game Group",
+  "releaseDate": "20200312",
+  "description": "Do you have what it takes to be a BIG winner? \n\nThe best video poker game for the Nintendo Switch! Las Vegas style video poker machines and gameplay! Play your way to big wins and video poker success! Classic 5 card draw video poker with different themes to choose from, real card shuffling and real pay tables. Become the top video poker player!",
+  "bannerUrl": "http://api.nlib.cc/nx/010049901147A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010049901147A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010049901147A000/screen/1",
+    "http://api.nlib.cc/nx/010049901147A000/screen/2",
+    "http://api.nlib.cc/nx/010049901147A000/screen/3",
+    "http://api.nlib.cc/nx/010049901147A000/screen/4"
+  ]
+}

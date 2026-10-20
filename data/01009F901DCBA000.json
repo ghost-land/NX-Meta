@@ -1,0 +1,14 @@
+{
+  "name": "Your Majesty",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20240216",
+  "description": "Dive into the intricate world of medieval politics - as the king, your decisions shape the kingdom's fate, balancing money, health, justice, agriculture, and army. Face dilemmas ranging from court intrigue, wars, and peasant uprisings to religious conflicts and diplomatic negotiations. Each choice impacts the kingdom's wellbeing, leading to prosperity or downfall. Navigate this ever-evolving narrative, where your rule's longevity depends on your wisdom and strategy. Will you be a revered monarch or meet a traitor's end?",
+  "bannerUrl": "http://api.nlib.cc/nx/01009F901DCBA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009F901DCBA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009F901DCBA000/screen/1",
+    "http://api.nlib.cc/nx/01009F901DCBA000/screen/2",
+    "http://api.nlib.cc/nx/01009F901DCBA000/screen/3",
+    "http://api.nlib.cc/nx/01009F901DCBA000/screen/4"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Swapshot",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20231025",
+  "description": "Get ready for an intense platforming adventure with the bravest little girl of them all! In Swapshot, you take control of this fearless heroine equipped with a teleportation gun. Your mission is to overcome a series of challenges in a 2D world filled with brainteasing puzzles. Explore 35 meticulously designed levels, full of treacherous spikes and cunning traps, using your gun to hit teleportation boxes and instantly swap positions with them, opening up a world of strategic possibilities.\n\nFeatures:\n\n• Wield a teleportation gun to overcome dozens of unique puzzle stages!\n• Run, jump and warp your way through single-screen platforming challenges.\n• Swap places with teleportation blocks to reach distant platforms!\n• Avoid traps and unlock exits to progress.\n• Enjoy retro pixel art presentation and chill tunes!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D4F01C478000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D4F01C478000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D4F01C478000/screen/1",
+    "http://api.nlib.cc/nx/0100D4F01C478000/screen/2",
+    "http://api.nlib.cc/nx/0100D4F01C478000/screen/3",
+    "http://api.nlib.cc/nx/0100D4F01C478000/screen/4",
+    "http://api.nlib.cc/nx/0100D4F01C478000/screen/5",
+    "http://api.nlib.cc/nx/0100D4F01C478000/screen/6"
+  ]
+}

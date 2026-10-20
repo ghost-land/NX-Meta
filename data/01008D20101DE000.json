@@ -1,0 +1,13 @@
+{
+  "name": "ボク姫PROJECT",
+  "publisher": "日本一ソフトウェア",
+  "releaseDate": "20200423",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/01008D20101DE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008D20101DE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008D20101DE000/screen/1",
+    "http://api.nlib.cc/nx/01008D20101DE000/screen/2",
+    "http://api.nlib.cc/nx/01008D20101DE000/screen/3"
+  ]
+}

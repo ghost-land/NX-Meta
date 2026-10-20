@@ -1,0 +1,16 @@
+{
+  "name": "Bleed Complete Bundle",
+  "publisher": "Digerati",
+  "releaseDate": "20200305",
+  "description": "This bundle contains Bleed and Bleed 2. \n\nA double-dose of the indie smash hit action-platformer series in one super stylish bullet-dodging bundle. Help pink-haired heroine Wryn defeat a relentless barrage of baddies and bosses and be the Greatest Hero of All Time! Both games feature Arcade mode (try and beat the game with just one life!) and couch-friendly 2-player local co-op.",
+  "bannerUrl": "http://api.nlib.cc/nx/010006001107E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010006001107E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010006001107E000/screen/1",
+    "http://api.nlib.cc/nx/010006001107E000/screen/2",
+    "http://api.nlib.cc/nx/010006001107E000/screen/3",
+    "http://api.nlib.cc/nx/010006001107E000/screen/4",
+    "http://api.nlib.cc/nx/010006001107E000/screen/5",
+    "http://api.nlib.cc/nx/010006001107E000/screen/6"
+  ]
+}

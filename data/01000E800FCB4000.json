@@ -1,0 +1,14 @@
+{
+  "name": "Ships",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20191105",
+  "description": "Participate in the extraction of large-scale marine facilities from the bottom of the sea, in the transport and assembly of large offshore installations, as well as in rescue and transport missions.\n\nIn a special game mode, you will take direct control of crew members and appropriate accessories (e.g. fire extinguishers, fire hoses, water cannons, inflatable boats, searchlights) to defend the ship against pirate attacks, put out a fire or pick out survivors.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000E800FCB4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000E800FCB4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000E800FCB4000/screen/1",
+    "http://api.nlib.cc/nx/01000E800FCB4000/screen/2",
+    "http://api.nlib.cc/nx/01000E800FCB4000/screen/3",
+    "http://api.nlib.cc/nx/01000E800FCB4000/screen/4"
+  ]
+}

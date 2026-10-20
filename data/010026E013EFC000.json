@@ -1,0 +1,16 @@
+{
+  "name": "Paint the Town Red",
+  "publisher": "South East Games",
+  "releaseDate": "20210729",
+  "description": "The voxel-based enemies can be punched, bashed, kicked, stabbed and sliced completely dynamically using almost anything that isn't nailed down.\n\nIn the Scenario levels you'll need to use your wits, speed and anything you can get your hands on in epic bar fights, disco brawls, old west saloon rumbles and more.\n\nIn the epic rogue-lite Beneath you'll have to delve deep underground battling terrifying monsters and unlocking powerful upgrades in a battle against ancient evils.\n\nFeatures\n\n- Demolish completely destructible voxel-based enemies\n- Dive into action-packed scenarios including a Biker Bar, Disco, Prison, Pirate Cove and Western Saloon each filled with unique enemies and weapons\n- Face the ultimate challenge in Beneath, a massive roguelike campaign filled with deadly creatures, secrets, and bosses.\n- Choose from a variety of classes with unique stats and abilities and upgrade them to become unstoppable\n- Join the fray in the Arena mode with multiple challenges and survive as long as possible in the Endless Mode\n- Stab, shoot, and eviscerate foes with a vast array of period-appropriate weaponry\n- Defeat boss enemies with unique challenges and rewards",
+  "bannerUrl": "http://api.nlib.cc/nx/010026E013EFC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010026E013EFC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010026E013EFC000/screen/1",
+    "http://api.nlib.cc/nx/010026E013EFC000/screen/2",
+    "http://api.nlib.cc/nx/010026E013EFC000/screen/3",
+    "http://api.nlib.cc/nx/010026E013EFC000/screen/4",
+    "http://api.nlib.cc/nx/010026E013EFC000/screen/5",
+    "http://api.nlib.cc/nx/010026E013EFC000/screen/6"
+  ]
+}

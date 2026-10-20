@@ -1,0 +1,16 @@
+{
+  "name": "Color Zen",
+  "publisher": "Cypronia",
+  "releaseDate": "20181206",
+  "description": "Color Zen is a new kind of puzzle game. With simple, intuitive controls, the game invites you to relax and immerse yourself. There are no points or penalties for failure; just an abstract world of color to move through at your own pace. So put on your headphones and find your way, with Color Zen.\n\nGame features:\nMeditative puzzle-cracking flow: just match the colors to win the level\nImmersive soundtrack keeps you in the groove\n460 levels to solve (all DLCs)\nMusic by Steve Woodzell",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CA100C0BA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CA100C0BA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CA100C0BA000/screen/1",
+    "http://api.nlib.cc/nx/0100CA100C0BA000/screen/2",
+    "http://api.nlib.cc/nx/0100CA100C0BA000/screen/3",
+    "http://api.nlib.cc/nx/0100CA100C0BA000/screen/4",
+    "http://api.nlib.cc/nx/0100CA100C0BA000/screen/5",
+    "http://api.nlib.cc/nx/0100CA100C0BA000/screen/6"
+  ]
+}

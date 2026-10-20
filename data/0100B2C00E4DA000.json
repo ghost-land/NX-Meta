@@ -1,0 +1,16 @@
+{
+  "name": "Served!",
+  "publisher": "Light Maze",
+  "releaseDate": "20200227",
+  "description": "The game features different typical characters from the world cuisine, in iconic venues of local gastronomy.\nEach playable character has his own attack corresponding to his cuisine to spice the game up.\nBon appétit!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B2C00E4DA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B2C00E4DA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B2C00E4DA000/screen/1",
+    "http://api.nlib.cc/nx/0100B2C00E4DA000/screen/2",
+    "http://api.nlib.cc/nx/0100B2C00E4DA000/screen/3",
+    "http://api.nlib.cc/nx/0100B2C00E4DA000/screen/4",
+    "http://api.nlib.cc/nx/0100B2C00E4DA000/screen/5",
+    "http://api.nlib.cc/nx/0100B2C00E4DA000/screen/6"
+  ]
+}

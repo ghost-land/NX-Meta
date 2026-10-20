@@ -1,0 +1,14 @@
+{
+  "name": "Forest Pop",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20221020",
+  "description": "The game offers you quite a few levels to be solved. You can do so by popping mushrooms. There are different types of them and each has different and unique behaviour when tapped. Think ahead  and tap with caution.\n\nTap different mushrooms for corresponding action. Goal of the game is simple. Clear all the mushrooms from the board in as few attempts as possible. More attempts you take, less stars you get for finishing the current level.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100440018960000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100440018960000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100440018960000/screen/1",
+    "http://api.nlib.cc/nx/0100440018960000/screen/2",
+    "http://api.nlib.cc/nx/0100440018960000/screen/3",
+    "http://api.nlib.cc/nx/0100440018960000/screen/4"
+  ]
+}

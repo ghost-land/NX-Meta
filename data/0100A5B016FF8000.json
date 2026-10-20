@@ -1,0 +1,16 @@
+{
+  "name": "The Ramp",
+  "publisher": "Coatsink Software",
+  "releaseDate": "20220317",
+  "description": "The Ramp is a minimalist, digital vert skateboarding toy that’s all about pure flow.\n\nDesigned by a skater for skateboard lovers, The Ramp offers satisfying and unique gameplay with tricks that are easy to learn but hard to master.\n\nNo unlockables, scores, or missions, just you, a board, and the chance to shred, spin, and slide through a halfpipe without the extra gaming fluff.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A5B016FF8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A5B016FF8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A5B016FF8000/screen/1",
+    "http://api.nlib.cc/nx/0100A5B016FF8000/screen/2",
+    "http://api.nlib.cc/nx/0100A5B016FF8000/screen/3",
+    "http://api.nlib.cc/nx/0100A5B016FF8000/screen/4",
+    "http://api.nlib.cc/nx/0100A5B016FF8000/screen/5",
+    "http://api.nlib.cc/nx/0100A5B016FF8000/screen/6"
+  ]
+}

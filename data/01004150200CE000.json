@@ -1,0 +1,16 @@
+{
+  "name": "FAITH: The Unholy Trinity",
+  "publisher": "New Blood",
+  "releaseDate": "20241010",
+  "description": "As a young priest, struggle against demons, insane cultists, and your own weakening faith in this pixel horror game inspired by the era of classic 8-bit gaming and the \"Satanic Scare\" of the 1980s.\n\nEXPERIENCE ALL 3 CHAPTERS OF THE UNHOLY TRINITY!\n\nFAITH - Haunted by nightmares and searching for answers, a young priest returns to the house where an exorcism went horribly wrong a year before.\n\nFAITH: Chapter II - After confronting unspeakable paranormal entities and narrowly escaping with his life, a young priest descends into a new nightmare.\n\nFAITH: Chapter III - Aided by a mysterious stranger, a young priest travels the dark countryside to stop a Satanic cult from summoning a horrifically powerful demon.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004150200CE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004150200CE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004150200CE000/screen/1",
+    "http://api.nlib.cc/nx/01004150200CE000/screen/2",
+    "http://api.nlib.cc/nx/01004150200CE000/screen/3",
+    "http://api.nlib.cc/nx/01004150200CE000/screen/4",
+    "http://api.nlib.cc/nx/01004150200CE000/screen/5",
+    "http://api.nlib.cc/nx/01004150200CE000/screen/6"
+  ]
+}

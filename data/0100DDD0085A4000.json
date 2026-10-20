@@ -1,0 +1,16 @@
+{
+  "name": "Sushi Striker™: The Way of Sushido",
+  "publisher": "Nintendo",
+  "releaseDate": "20180608",
+  "description": "Help Musashi end the Empire’s tyrannical monopoly of the world’s sushi supply by becoming a Sushi Striker! Devour conveyor-belt sushi, matching plates and sushi types to defeat any enemy or boss who stands between you and victory. Befriend Sushi Sprites and use their powerful skills in battle. Deliciously strategic action-RPG-puzzle battles await!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DDD0085A4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DDD0085A4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DDD0085A4000/screen/1",
+    "http://api.nlib.cc/nx/0100DDD0085A4000/screen/2",
+    "http://api.nlib.cc/nx/0100DDD0085A4000/screen/3",
+    "http://api.nlib.cc/nx/0100DDD0085A4000/screen/4",
+    "http://api.nlib.cc/nx/0100DDD0085A4000/screen/5",
+    "http://api.nlib.cc/nx/0100DDD0085A4000/screen/6"
+  ]
+}

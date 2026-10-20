@@ -1,0 +1,16 @@
+{
+  "name": "Ben 10",
+  "publisher": "Outright Games",
+  "releaseDate": "20171114",
+  "description": "It’s Hero Time! \n\nAs Ben Tennyson, it’s up to you to save the world. Take on some of Ben’s most infamous enemies, including Zombozo, Queen Bee, and the Weatherheads. Unlock and transform into all ten of Ben’s incredible alien forms. \n\nDiscover an exciting new story across three new episodes and use each alien’s unique combat moves to defeat enemies, solve fun puzzles and save the day. \n",
+  "bannerUrl": "http://api.nlib.cc/nx/01006E1004404000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006E1004404000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006E1004404000/screen/1",
+    "http://api.nlib.cc/nx/01006E1004404000/screen/2",
+    "http://api.nlib.cc/nx/01006E1004404000/screen/3",
+    "http://api.nlib.cc/nx/01006E1004404000/screen/4",
+    "http://api.nlib.cc/nx/01006E1004404000/screen/5",
+    "http://api.nlib.cc/nx/01006E1004404000/screen/6"
+  ]
+}

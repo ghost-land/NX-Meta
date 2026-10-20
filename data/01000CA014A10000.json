@@ -1,0 +1,16 @@
+{
+  "name": "Classic Solitaire",
+  "publisher": "Piotr Skalski",
+  "releaseDate": "20210514",
+  "description": "Classic Solitaire is an exciting card game that comes with 15 card styles and 5 backgrounds. It’s very easy to play, and it follows the classic Solitaire rules, while also bringing in a time counter system as well. You have a scoring system that helps you check just how well you are doing and how good this run really is.\nYou also have a vast range of difficulty levels, and you can easily retry in case you get stuck. This is a fun and interesting game for anyone that loves to play cards and relax. Check it out for yourself and immerse yourself into an exciting, immersive and enticing card game world.\nFeatures:\n\t•\t15 card styles\n\t•\t5 different backgrounds\n\t•\tAmazing visual effects\n\t•\tHint system\n\t•\tMultiple difficulties",
+  "bannerUrl": "http://api.nlib.cc/nx/01000CA014A10000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000CA014A10000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000CA014A10000/screen/1",
+    "http://api.nlib.cc/nx/01000CA014A10000/screen/2",
+    "http://api.nlib.cc/nx/01000CA014A10000/screen/3",
+    "http://api.nlib.cc/nx/01000CA014A10000/screen/4",
+    "http://api.nlib.cc/nx/01000CA014A10000/screen/5",
+    "http://api.nlib.cc/nx/01000CA014A10000/screen/6"
+  ]
+}

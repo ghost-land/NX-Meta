@@ -1,0 +1,16 @@
+{
+  "name": "Disco Elysium - The Final Cut",
+  "publisher": "ZA/UM",
+  "releaseDate": "20211012",
+  "description": "Disco Elysium - The Final Cut is the definitive edition of the groundbreaking role playing game. You’re a detective with a unique skill system at your disposal and a whole city block to carve your path across. Interrogate unforgettable characters, crack murders, or take bribes. Become a hero or an absolute disaster of a human being.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006C5015E84000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006C5015E84000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006C5015E84000/screen/1",
+    "http://api.nlib.cc/nx/01006C5015E84000/screen/2",
+    "http://api.nlib.cc/nx/01006C5015E84000/screen/3",
+    "http://api.nlib.cc/nx/01006C5015E84000/screen/4",
+    "http://api.nlib.cc/nx/01006C5015E84000/screen/5",
+    "http://api.nlib.cc/nx/01006C5015E84000/screen/6"
+  ]
+}

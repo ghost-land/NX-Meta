@@ -1,0 +1,16 @@
+{
+  "name": "Jamjam",
+  "publisher": "No Gravity Games",
+  "releaseDate": "20250530",
+  "description": "In Jamjam, you control a delightful character—a squishy, bouncy square of jelly. Master the art of flicking your jelly hero across intricate levels filled with diverse obstacles, ensuring every jump is perfectly timed and aimed.\n\nGameplay Features:\n- Precision Jumping: Point, drag, and observe the trajectory to make your jelly character leap across platforms. \n- Challenging Levels: Navigate through stages packed with obstacles that test your timing and skill. Every level offers a unique challenge and an opportunity to prove your mastery.\n- Collect and Perfect: Gather all the coins and stars scattered across each level to achieve a perfect score. Can you complete every stage flawlessly?\n- Cosmetic Upgrades: Unlock a variety of cosmetic items like skins and bandanas. Customize your jelly character to show off your unique style!\n- Special Levels and Rewards: Special level at the end of each world. Conquer them to earn exclusive rewards and advance to new, exciting worlds.\n\nWhy You'll Love Jamjam:\nJamjam brings a refreshing take on platformers, blending fun and skillful gameplay with a charming character that you'll love to control. The game's intuitive aim-to-jump mechanics make it easy to learn but challenging to master. With every level and world, you'll find yourself more engrossed in this delightful and dynamic jelly-filled adventure.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000F002133A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000F002133A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000F002133A000/screen/1",
+    "http://api.nlib.cc/nx/01000F002133A000/screen/2",
+    "http://api.nlib.cc/nx/01000F002133A000/screen/3",
+    "http://api.nlib.cc/nx/01000F002133A000/screen/4",
+    "http://api.nlib.cc/nx/01000F002133A000/screen/5",
+    "http://api.nlib.cc/nx/01000F002133A000/screen/6"
+  ]
+}

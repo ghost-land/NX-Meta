@@ -1,0 +1,13 @@
+{
+  "name": "Magic Card Tricks",
+  "publisher": "Interactive Reader Studio",
+  "releaseDate": "20230105",
+  "description": "They say a magician never reveals his tricks. What if I told you that this time I will?\n\nWe all hide a little magic in us, you just need the right knowledge to surprise everyone with exciting card tricks.\n\nChoose the trick you like the most, read the description and practice until the cards become your allies. \n\nWill you be able to learn all the tricks and become a great magician?",
+  "bannerUrl": "http://api.nlib.cc/nx/010091D01A20C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010091D01A20C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010091D01A20C000/screen/1",
+    "http://api.nlib.cc/nx/010091D01A20C000/screen/2",
+    "http://api.nlib.cc/nx/010091D01A20C000/screen/3"
+  ]
+}

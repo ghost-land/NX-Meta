@@ -1,0 +1,16 @@
+{
+  "name": "Bendy and the Dark Revival",
+  "publisher": "Joey Drew Studios",
+  "releaseDate": "20250711",
+  "description": "Bendy and the Dark Revival® is a first-person survival horror game and the much anticipated sequel to Bendy and the Ink Machine®. Play as Audrey as she explores the depths of a curiously creepy animation studio that’s gone completely mad. Combat ink-tainted enemies, solve puzzles, and evade the ever-lurking Ink Demon while seeking your way back to the real world. You never know who or what is going to be around the next corner in this dilapidated realm of shadows and ink.\n\nDiscover the truth. Escape the studio. Above all, fear the Ink Demon…and survive.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100207021C3C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100207021C3C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100207021C3C000/screen/1",
+    "http://api.nlib.cc/nx/0100207021C3C000/screen/2",
+    "http://api.nlib.cc/nx/0100207021C3C000/screen/3",
+    "http://api.nlib.cc/nx/0100207021C3C000/screen/4",
+    "http://api.nlib.cc/nx/0100207021C3C000/screen/5",
+    "http://api.nlib.cc/nx/0100207021C3C000/screen/6"
+  ]
+}

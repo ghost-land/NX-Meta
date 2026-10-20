@@ -1,0 +1,16 @@
+{
+  "name": "Bleep Bloop",
+  "publisher": "Zerouno Games",
+  "releaseDate": "20190131",
+  "description": "Meet Bleep and Bloop as they help each other overcome all the challenges that stand in their way. A light-hearted and playful puzzle game about working together.\n\nPlay alone controlling both characters or share the experience with a friend. Bleep Bloop is extremely easy to learn, but that doesn't mean the puzzles will be a piece of cake.\n\n- Enough levels to keep you entertained during a lazy Sunday, but not enough to make you wish the game had ended already.\n\n- Beautiful soundtrack that makes getting stuck on a level a bit less painful.\n\n- Perfect for single-player or two-player coop. Yelling at each other doesn't improve your puzzle-solving skills, but it's always fun.\n\n- Features a small secret hidden somewhere. Go look for it.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AEA00CCAE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AEA00CCAE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AEA00CCAE000/screen/1",
+    "http://api.nlib.cc/nx/0100AEA00CCAE000/screen/2",
+    "http://api.nlib.cc/nx/0100AEA00CCAE000/screen/3",
+    "http://api.nlib.cc/nx/0100AEA00CCAE000/screen/4",
+    "http://api.nlib.cc/nx/0100AEA00CCAE000/screen/5",
+    "http://api.nlib.cc/nx/0100AEA00CCAE000/screen/6"
+  ]
+}

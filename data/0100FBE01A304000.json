@@ -1,0 +1,16 @@
+{
+  "name": "Seasonspree",
+  "publisher": "Kitewing Studio",
+  "releaseDate": "20240920",
+  "description": "Play as Sunny, an adorable tanuki with the power to walk back and forth through time, as she helps her friends prepare for each season's final days. Going back in time is as easy as turning around and walking back to where you came from, and everything you do can be undone at any time.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FBE01A304000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FBE01A304000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FBE01A304000/screen/1",
+    "http://api.nlib.cc/nx/0100FBE01A304000/screen/2",
+    "http://api.nlib.cc/nx/0100FBE01A304000/screen/3",
+    "http://api.nlib.cc/nx/0100FBE01A304000/screen/4",
+    "http://api.nlib.cc/nx/0100FBE01A304000/screen/5",
+    "http://api.nlib.cc/nx/0100FBE01A304000/screen/6"
+  ]
+}

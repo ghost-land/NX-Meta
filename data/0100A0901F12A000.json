@@ -1,0 +1,16 @@
+{
+  "name": "Smack",
+  "publisher": "Sabec",
+  "releaseDate": "20240502",
+  "description": "Step into the retro world of \"Smack,\" where you'll face off against a swarm of tiny cube monsters inside a simulated arcade cabinet. Your job? Slam them down before they take over!\n\nThis game offers four levels of difficulty: Easy, Medium, Hard, and Ultra. Each level cranks up the challenge, with faster and trickier monsters to smack.\n\nGrab your virtual mallet and get ready to smash those cubes with speed and accuracy. But watch out - if you hesitate, the monsters will swarm and you'll lose ground fast!\n\n\"Smack\" is easy to pick up but tough to master, offering fast-paced fun for anyone ready to take on the cube invasion!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A0901F12A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A0901F12A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A0901F12A000/screen/1",
+    "http://api.nlib.cc/nx/0100A0901F12A000/screen/2",
+    "http://api.nlib.cc/nx/0100A0901F12A000/screen/3",
+    "http://api.nlib.cc/nx/0100A0901F12A000/screen/4",
+    "http://api.nlib.cc/nx/0100A0901F12A000/screen/5",
+    "http://api.nlib.cc/nx/0100A0901F12A000/screen/6"
+  ]
+}

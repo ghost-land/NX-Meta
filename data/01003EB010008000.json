@@ -1,0 +1,16 @@
+{
+  "name": "inbento",
+  "publisher": "Afterburn",
+  "releaseDate": "20200312",
+  "description": "Experience a calming, wordless story about cats and parenthood by solving adorable puzzles in inbento. Relax, tease your brain, and prepare tasty bento dishes. Arrange them in an elaborate lunchbox while sticking to the recipe shown on screen.\n\nComplete over 100 fun puzzles, aesthetically served with traditional boiled rice. Immerse yourself in a silent tale about a cute family of felines and enjoy the tranquil soundtrack. Master the mechanics, follow the hand-crafted recipes, and beat all the bonus stages in this culinary logic game.\n\nLife of a modern cat can be stressful. Why don't you PAWS for a second and relax with a few rounds of inbento? (=^.^=)",
+  "bannerUrl": "http://api.nlib.cc/nx/01003EB010008000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003EB010008000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003EB010008000/screen/1",
+    "http://api.nlib.cc/nx/01003EB010008000/screen/2",
+    "http://api.nlib.cc/nx/01003EB010008000/screen/3",
+    "http://api.nlib.cc/nx/01003EB010008000/screen/4",
+    "http://api.nlib.cc/nx/01003EB010008000/screen/5",
+    "http://api.nlib.cc/nx/01003EB010008000/screen/6"
+  ]
+}

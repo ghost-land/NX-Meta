@@ -1,0 +1,16 @@
+{
+  "name": "NightGhast",
+  "publisher": "Playstige Interactive",
+  "releaseDate": "20240328",
+  "description": "\"I have received an invitation from a widow named Mildred Bartgis, who resides in the countryside. She claims that her house became haunted after her divorce. She insists that an entity by the name of 'Schnabelperchten' is angry with her because her house is never clean enough. Perhaps, due to her depression after the divorce, she has become obsessive-compulsive.\nHowever, I'm not a psychologist, so I'm not concerned about her mental state. This case is perfect for me as it holds many paranormal clues. I must search her house to determine whether it is genuinely haunted or not.\"",
+  "bannerUrl": "http://api.nlib.cc/nx/01009E201E9F4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009E201E9F4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009E201E9F4000/screen/1",
+    "http://api.nlib.cc/nx/01009E201E9F4000/screen/2",
+    "http://api.nlib.cc/nx/01009E201E9F4000/screen/3",
+    "http://api.nlib.cc/nx/01009E201E9F4000/screen/4",
+    "http://api.nlib.cc/nx/01009E201E9F4000/screen/5",
+    "http://api.nlib.cc/nx/01009E201E9F4000/screen/6"
+  ]
+}

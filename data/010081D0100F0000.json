@@ -1,0 +1,16 @@
+{
+  "name": "Rhythm of the Gods",
+  "publisher": "Nellyvision",
+  "releaseDate": "20200323",
+  "description": "Slide, jump & slash to the beat to please the Gods of Rhythm! Solve the problems that the mortal realm faces in this auto-running, Greek-inspired rhythm game. Fight a variety of mythological monsters that are causing a chorus of chaos to impress each god and earn your right to challenge them one-on-one - in a battle of rhythm, of course. Keep in time and reveal each gods’ true tune to persuade them that you have what it takes.\n\nUnique Beatmaps\nClear the base stage to unlock God Mode’s special beatmap and challenge the Gods of Rhythm one-on-one. Enjoy these fast-paced rhythmic battles set to addictive original music from composer Nathan Fitzpatrick. \n\nMarathon Mode\nTest your rhythmic stamina in Marathon mode! See how long you can last and refine your skills.\n\nHigh Scores & Trophies\nKeep track of your best scores and take on a variety of tasks to earn all the trophies. \n\nTimewarp Mode\nSomething seems different in the mortal realm - it looks like there’s a whole new, unlockable game mode! Take on familiar tracks with a fresh twist.  \n\nEasy Mode\nCan’t find your rhythm? The Titans will turn down the volume. Challenge each level at an easier pace. \n\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010081D0100F0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010081D0100F0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010081D0100F0000/screen/1",
+    "http://api.nlib.cc/nx/010081D0100F0000/screen/2",
+    "http://api.nlib.cc/nx/010081D0100F0000/screen/3",
+    "http://api.nlib.cc/nx/010081D0100F0000/screen/4",
+    "http://api.nlib.cc/nx/010081D0100F0000/screen/5",
+    "http://api.nlib.cc/nx/010081D0100F0000/screen/6"
+  ]
+}

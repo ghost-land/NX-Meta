@@ -1,0 +1,16 @@
+{
+  "name": "Shogun Showdown",
+  "publisher": "Goblinz Studio",
+  "releaseDate": "20240905",
+  "description": "- Turn-based combat where every action counts. Carefully position yourself, build up and unleash your attacks at the right time!\n\n- Upgrade your attack tiles and combo them!\nGain new skills and build the best deck you can before facing the Shogun.\n\n- Rogue-like: death is not the end, but the beginning of your journey towards mastery. As you play, you will unlock new characters, attacks, skills and more!\nEnjoy a Japanese-inspired setting with pixel art graphics.",
+  "bannerUrl": "http://api.nlib.cc/nx/010096F01B4D8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010096F01B4D8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010096F01B4D8000/screen/1",
+    "http://api.nlib.cc/nx/010096F01B4D8000/screen/2",
+    "http://api.nlib.cc/nx/010096F01B4D8000/screen/3",
+    "http://api.nlib.cc/nx/010096F01B4D8000/screen/4",
+    "http://api.nlib.cc/nx/010096F01B4D8000/screen/5",
+    "http://api.nlib.cc/nx/010096F01B4D8000/screen/6"
+  ]
+}

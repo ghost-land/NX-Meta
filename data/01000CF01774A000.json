@@ -1,0 +1,16 @@
+{
+  "name": "Mr Maker 3D Level Editor",
+  "publisher": "Isaias Game Dev",
+  "releaseDate": "20220217",
+  "description": "Play as Mr Maker, a young builder who owns a boomerang hammer capable of collecting items, destroying boxes and defeating enemies from a distance.\n\nADVENTURE MODE\nPlay 50 fun and colorful levels that inspire your constructions.\n\nPHASE CREATOR\nYou can create your levels however you like. Add blocks, traps, enemies, coins, spikes, cannons, trees, decorations, ramps and more.\n\nBONUS\nComplete adventure mode to unlock 200 new levels to play at any time.\nDeveloper Derik D.F",
+  "bannerUrl": "http://api.nlib.cc/nx/01000CF01774A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000CF01774A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000CF01774A000/screen/1",
+    "http://api.nlib.cc/nx/01000CF01774A000/screen/2",
+    "http://api.nlib.cc/nx/01000CF01774A000/screen/3",
+    "http://api.nlib.cc/nx/01000CF01774A000/screen/4",
+    "http://api.nlib.cc/nx/01000CF01774A000/screen/5",
+    "http://api.nlib.cc/nx/01000CF01774A000/screen/6"
+  ]
+}

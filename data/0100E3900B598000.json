@@ -1,0 +1,15 @@
+{
+  "name": "RollerCoaster Tycoon Adventures",
+  "publisher": "Atari",
+  "releaseDate": "20181213",
+  "description": "In RollerCoaster Tycoon Adventures, players have three distinct game modes to build their entertainment empire — Adventure Mode (a spin on the classic Campaign mode), tricky Scenarios and the open Sandbox. Over 120 wonderfully wacky rides, restaurants, and shops ensure parks burst with eye-catching action, and the intuitive coaster builder lets players create wild, death-defying coasters with ease. Four unique themed environments, along with water and terrain options, ensure every park is distinct and exciting. A streamlined simulation and game economy allow players of all ages and skill levels to build the park of their dreams. Play it on your TV or on-the-go — becoming a RollerCoaster Tycoon has never been easier!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E3900B598000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E3900B598000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E3900B598000/screen/1",
+    "http://api.nlib.cc/nx/0100E3900B598000/screen/2",
+    "http://api.nlib.cc/nx/0100E3900B598000/screen/3",
+    "http://api.nlib.cc/nx/0100E3900B598000/screen/4",
+    "http://api.nlib.cc/nx/0100E3900B598000/screen/5"
+  ]
+}

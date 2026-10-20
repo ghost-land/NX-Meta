@@ -1,0 +1,16 @@
+{
+  "name": "Chip's Challenge",
+  "publisher": "Pixel Games UK",
+  "releaseDate": "20240125",
+  "description": "The classic puzzle game from 1989 returns, with over 140 levels to tax your mind and fingers.\n\nTake on the role of puzzle-obsessed Chip, who desperately wants to join Melinda the Mental Marvel's computer club. His initiation test is a series of increasingly difficult puzzles. Chip must collect items, slide blocks, dodge hazards and more to collect the computer chips needed to pass each level. Are you up to the Challenge?\n\nThis collection allows you to play these classic games with many modern features, including:\n• Display filters, including retro LCD and CRT filters\n• Save games - save and restore your game at any point\n• Right- and left-handed control presets",
+  "bannerUrl": "http://api.nlib.cc/nx/010096201DE50000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010096201DE50000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010096201DE50000/screen/1",
+    "http://api.nlib.cc/nx/010096201DE50000/screen/2",
+    "http://api.nlib.cc/nx/010096201DE50000/screen/3",
+    "http://api.nlib.cc/nx/010096201DE50000/screen/4",
+    "http://api.nlib.cc/nx/010096201DE50000/screen/5",
+    "http://api.nlib.cc/nx/010096201DE50000/screen/6"
+  ]
+}

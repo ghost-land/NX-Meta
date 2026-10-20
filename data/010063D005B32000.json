@@ -1,0 +1,16 @@
+{
+  "name": "KYUB",
+  "publisher": "NextNinja",
+  "releaseDate": "20190207",
+  "description": "The puzzle game \"KYUB\" that fascinated the world now available on NintendoSwitch ™!\nMove the cubic object \"KYUB\" and solve the mysterious problem using its ability!\nSwitch between action and puzzle phases where you　manipulate other cubes to climb walls and destroy obstacles with lasers or activate switches to trigger new paths.\nThe atmosphere of mysterious and exciting \"KYUB\" is waiting for you!",
+  "bannerUrl": "http://api.nlib.cc/nx/010063D005B32000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010063D005B32000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010063D005B32000/screen/1",
+    "http://api.nlib.cc/nx/010063D005B32000/screen/2",
+    "http://api.nlib.cc/nx/010063D005B32000/screen/3",
+    "http://api.nlib.cc/nx/010063D005B32000/screen/4",
+    "http://api.nlib.cc/nx/010063D005B32000/screen/5",
+    "http://api.nlib.cc/nx/010063D005B32000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Last Escape: Dead Complex",
+  "publisher": "Mad Jackal Games",
+  "releaseDate": "20231201",
+  "description": "Dead Complex is a 2D Top Down, Survival Horror Game.\nSneak, Loot and Fight your way out of an infested apartment complex and begin your final escape from the city.\n\nFeatures:\n- Classic Survival Horror Gameplay\n- Loot System\n- Multiple Endings",
+  "bannerUrl": "http://api.nlib.cc/nx/010018301A6C2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010018301A6C2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010018301A6C2000/screen/1",
+    "http://api.nlib.cc/nx/010018301A6C2000/screen/2",
+    "http://api.nlib.cc/nx/010018301A6C2000/screen/3",
+    "http://api.nlib.cc/nx/010018301A6C2000/screen/4",
+    "http://api.nlib.cc/nx/010018301A6C2000/screen/5",
+    "http://api.nlib.cc/nx/010018301A6C2000/screen/6"
+  ]
+}

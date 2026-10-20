@@ -1,0 +1,16 @@
+{
+  "name": "Tippy Pads",
+  "publisher": "Entity3",
+  "releaseDate": "20240217",
+  "description": "Take on the tower of tippy pads!\n\nTilt the pads and drop the ball to the next floor\n\nNaviagte mazes, spikes and traps as you try to complete each tower\n\nHow many towers can you beat?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C6C01DFC8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C6C01DFC8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C6C01DFC8000/screen/1",
+    "http://api.nlib.cc/nx/0100C6C01DFC8000/screen/2",
+    "http://api.nlib.cc/nx/0100C6C01DFC8000/screen/3",
+    "http://api.nlib.cc/nx/0100C6C01DFC8000/screen/4",
+    "http://api.nlib.cc/nx/0100C6C01DFC8000/screen/5",
+    "http://api.nlib.cc/nx/0100C6C01DFC8000/screen/6"
+  ]
+}

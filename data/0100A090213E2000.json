@@ -1,0 +1,16 @@
+{
+  "name": "Hoarding Simulator 2.0",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20250125",
+  "description": "One of the best high-tech simulations ever created is here! \n\nYour mission is simple: collect as much as you can. A third-person adventure with one goal—grab it all! Explore a peaceful town, but beware—unexpected, chaotic events can turn your experience into a total nightmare!\n\nFeatures:\n\n• Real-life physics: Experience some of the best physics ever made.\n• Strategy mode: Challenge yourself with 20 exciting levels.\n• Day/Night system: Dynamic time changes for an immersive experience.\n• Train in the gym: Get stronger to carry heavier items.\n• Total chaos: Beware—low friendship levels can lead to unpredictable disasters!\n• More than 20 collectible items: Discover and collect them all!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A090213E2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A090213E2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A090213E2000/screen/1",
+    "http://api.nlib.cc/nx/0100A090213E2000/screen/2",
+    "http://api.nlib.cc/nx/0100A090213E2000/screen/3",
+    "http://api.nlib.cc/nx/0100A090213E2000/screen/4",
+    "http://api.nlib.cc/nx/0100A090213E2000/screen/5",
+    "http://api.nlib.cc/nx/0100A090213E2000/screen/6"
+  ]
+}

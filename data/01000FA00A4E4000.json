@@ -1,0 +1,16 @@
+{
+  "name": "Garage",
+  "publisher": "tinyBuild Games",
+  "releaseDate": "20180510",
+  "description": "Garage - United by Death\n \nGarage is a bloody shooter in the style of an 80s B-movie. Playing as a drug dealer named Butch, you stand alone against hordes of the living dead.\n \nExplore every dark corner of an underground parking garage and discover a passageway to a supernatural world that has never seen the light of day.\n \nFind new weapons and master them in order to survive. Solve the mystery of this cursed place and the creatures that inhabit it.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000FA00A4E4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000FA00A4E4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000FA00A4E4000/screen/1",
+    "http://api.nlib.cc/nx/01000FA00A4E4000/screen/2",
+    "http://api.nlib.cc/nx/01000FA00A4E4000/screen/3",
+    "http://api.nlib.cc/nx/01000FA00A4E4000/screen/4",
+    "http://api.nlib.cc/nx/01000FA00A4E4000/screen/5",
+    "http://api.nlib.cc/nx/01000FA00A4E4000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "RIOT - Civil Unrest",
+  "publisher": "Silver Lining",
+  "releaseDate": "20190207",
+  "description": "RIOT – Civil Unrest is the highly anticipated real-time riot simulator that places the player right in the heart of some of the world’s most fractious clashes. Campaigns include: Indignados (Spain), Arab Spring (Egypt), Keratea (Greece) and NoTAV (Italy). Seventeen single level scenarios include Rome, Oakland, Paris, London and Ukraine. \n\nRIOT – Civil Unrest’s creator, Leonard Menchiari, experienced rioting first-hand at the NoTAV protests in Italy. He created the game to tell the stories and express the feelings experienced during these clashes. What triggers the crowd to behave with such anger and aggression? Often outnumbered, what does a police officer feel like during the conflict? RIOT – Civil Unrest presents the player with the opportunity to experience both sides of the fight - a fight in which there really are no winners. Who is right and who is wrong? Experience RIOT – Civil Unrest and draw your own conclusions.",
+  "bannerUrl": "http://api.nlib.cc/nx/010088E00B816000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010088E00B816000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010088E00B816000/screen/1",
+    "http://api.nlib.cc/nx/010088E00B816000/screen/2",
+    "http://api.nlib.cc/nx/010088E00B816000/screen/3",
+    "http://api.nlib.cc/nx/010088E00B816000/screen/4",
+    "http://api.nlib.cc/nx/010088E00B816000/screen/5",
+    "http://api.nlib.cc/nx/010088E00B816000/screen/6"
+  ]
+}

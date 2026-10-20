@@ -1,0 +1,14 @@
+{
+  "name": "Paint your Pet",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20200731",
+  "description": "Paint your Pet allows player to paint different pets. You can use a variety of colors and textures to make incredible animals. Save your creations and return to it at any time you want to modify it! Paint your Pet is fun, easy to pick up game, suitable for children at any age.  ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AB90129CA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AB90129CA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AB90129CA000/screen/1",
+    "http://api.nlib.cc/nx/0100AB90129CA000/screen/2",
+    "http://api.nlib.cc/nx/0100AB90129CA000/screen/3",
+    "http://api.nlib.cc/nx/0100AB90129CA000/screen/4"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "GRIP : COMBAT RACING (그립 : 컴뱃 레이싱)",
+  "publisher": "H2 INTERACTIVE",
+  "releaseDate": "20181106",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CE600BE26000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CE600BE26000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CE600BE26000/screen/1",
+    "http://api.nlib.cc/nx/0100CE600BE26000/screen/2",
+    "http://api.nlib.cc/nx/0100CE600BE26000/screen/3",
+    "http://api.nlib.cc/nx/0100CE600BE26000/screen/4",
+    "http://api.nlib.cc/nx/0100CE600BE26000/screen/5",
+    "http://api.nlib.cc/nx/0100CE600BE26000/screen/6"
+  ]
+}

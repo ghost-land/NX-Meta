@@ -1,0 +1,16 @@
+{
+  "name": "Japanese Escape Games The Mansion of Tricks",
+  "publisher": "Regista",
+  "releaseDate": "20220915",
+  "description": "The 9th Japanese Escape Games series!!\n\nGame system\nThis game is an escape-the-room game (mystery-adventure game).\n*Point the screen with a cursor to solve riddles, and this game goes on.\n\nStory\nI was lost in a wood in heavy rain.\nA light of hope reached out for me in a wood of despair.\nThe light came from a Mansion.\n\nI thought I couldn't stand in heavy rain forever,\nSo, I decided to go in the Mansion.\n\nAs soon as I came in, I heard a sound the door's locked.\nI still doubted that sound wasn't real at that time.\nBut it WAS real.\n\nI have been trapped in this strange Mansion.\nI've tried to open the door several times, but all failed.\n\nI have been calling for help, but none's answered.\nI got to find the way out by myself...",
+  "bannerUrl": "http://api.nlib.cc/nx/01000580191C2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000580191C2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000580191C2000/screen/1",
+    "http://api.nlib.cc/nx/01000580191C2000/screen/2",
+    "http://api.nlib.cc/nx/01000580191C2000/screen/3",
+    "http://api.nlib.cc/nx/01000580191C2000/screen/4",
+    "http://api.nlib.cc/nx/01000580191C2000/screen/5",
+    "http://api.nlib.cc/nx/01000580191C2000/screen/6"
+  ]
+}

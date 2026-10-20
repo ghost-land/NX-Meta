@@ -1,0 +1,14 @@
+{
+  "name": "Kitten Island",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20230603",
+  "description": "In a world filled with thrilling challenges, hidden secrets, and plenty of meows, take control of an extraordinary kitten on a daring journey! Break blocks, leap over adorable creatures, dodge perilous spikes, and conquer one level after another. Explore vibrant and ever-changing environments—from lush green forests to icy glaciers and blazing deserts. Every jump brings you closer to victory!",
+  "bannerUrl": "http://api.nlib.cc/nx/01001CB01AB78000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001CB01AB78000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001CB01AB78000/screen/1",
+    "http://api.nlib.cc/nx/01001CB01AB78000/screen/2",
+    "http://api.nlib.cc/nx/01001CB01AB78000/screen/3",
+    "http://api.nlib.cc/nx/01001CB01AB78000/screen/4"
+  ]
+}

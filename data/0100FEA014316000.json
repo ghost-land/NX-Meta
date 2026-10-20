@@ -1,0 +1,15 @@
+{
+  "name": "Backworlds",
+  "publisher": "Skymap Games",
+  "releaseDate": "20210520",
+  "description": "Backworlds is a multi-dimensional puzzle platform game in which you explore by painting. Move between two parallel worlds, each with its own unique set of properties, using your brush to flow seamlessly from one to the other. Solve environmental conundrums by using each world’s physical properties to your advantage, and use your own creativity to craft original solutions to the game’s puzzles.\n\nFeatures\n• Unique painting puzzle mechanic - let creativity flow in your solutions\n• Non-linear - choose your own path to explore and play\n• 4 distinct worlds - each with their own atmosphere and mechanics\n• Boss levels and secrets\n• Beautiful soundtrack by BAFTA nominated composer David Housden\n• Unleash your creativity with new touch screen support\n• Control your brush with the built-in gyroscope",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FEA014316000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FEA014316000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FEA014316000/screen/1",
+    "http://api.nlib.cc/nx/0100FEA014316000/screen/2",
+    "http://api.nlib.cc/nx/0100FEA014316000/screen/3",
+    "http://api.nlib.cc/nx/0100FEA014316000/screen/4",
+    "http://api.nlib.cc/nx/0100FEA014316000/screen/5"
+  ]
+}

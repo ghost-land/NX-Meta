@@ -1,0 +1,16 @@
+{
+  "name": "INAZUMA ELEVEN: Victory Road Worldwide Beta Test Demo \"Leave Your Inazuma Mark on the World!\"",
+  "publisher": "LEVEL5",
+  "releaseDate": "20240328",
+  "description": "Beta testing for the latest entry in the \"Inazuma Eleven\" series is about to begin!\n\nNot only can you enjoy a solitary game with \"1P Match,\" but you can also face off against friends and players from all over the world in an \"Online Match\" or even hop into \"Story Mode\" to experience the beginning of the story!\n*These modes will be released on a staggered schedule.\n\nYou can even train the players you take into these competitions, so let the heated preliminary matches commence!",
+  "bannerUrl": "http://api.nlib.cc/nx/010066401D88E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010066401D88E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010066401D88E000/screen/1",
+    "http://api.nlib.cc/nx/010066401D88E000/screen/2",
+    "http://api.nlib.cc/nx/010066401D88E000/screen/3",
+    "http://api.nlib.cc/nx/010066401D88E000/screen/4",
+    "http://api.nlib.cc/nx/010066401D88E000/screen/5",
+    "http://api.nlib.cc/nx/010066401D88E000/screen/6"
+  ]
+}

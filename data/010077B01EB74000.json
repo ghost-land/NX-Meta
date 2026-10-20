@@ -1,0 +1,16 @@
+{
+  "name": "Operation STEEL",
+  "publisher": "RAWRLAB Games",
+  "releaseDate": "20240620",
+  "description": "Blow up loads of enemies, destroy huge bosses, find weapons, and upgrade your load-out between levels. Combat the electronic legion across 20+ procedurally generated levels!\n\nFeatures:\n- Procedurally generated levels with randomised enemy waves and pickups\n- Branching paths - select from 20+ levels\n- 25+ weird and wonderful bosses\n- 35+ unique weapons and items to find\n- Upgrade your ship between levels at the shop\n- Boss Rush mode\n- Awesome soundtrack by the amazing Dolphin!",
+  "bannerUrl": "http://api.nlib.cc/nx/010077B01EB74000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010077B01EB74000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010077B01EB74000/screen/1",
+    "http://api.nlib.cc/nx/010077B01EB74000/screen/2",
+    "http://api.nlib.cc/nx/010077B01EB74000/screen/3",
+    "http://api.nlib.cc/nx/010077B01EB74000/screen/4",
+    "http://api.nlib.cc/nx/010077B01EB74000/screen/5",
+    "http://api.nlib.cc/nx/010077B01EB74000/screen/6"
+  ]
+}

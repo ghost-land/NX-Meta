@@ -1,0 +1,16 @@
+{
+  "name": "The Jackbox Party Starter",
+  "publisher": "Jackbox Games",
+  "releaseDate": "20220630",
+  "description": "Your next game night is all planned out with The Jackbox Party Starter! Featuring new updates to Quiplash 3, Trivia Murder Party 2 and Tee K.O.! Leave the life of the party to us at your next event with The Jackbox Party Starter!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100814017CB6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100814017CB6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100814017CB6000/screen/1",
+    "http://api.nlib.cc/nx/0100814017CB6000/screen/2",
+    "http://api.nlib.cc/nx/0100814017CB6000/screen/3",
+    "http://api.nlib.cc/nx/0100814017CB6000/screen/4",
+    "http://api.nlib.cc/nx/0100814017CB6000/screen/5",
+    "http://api.nlib.cc/nx/0100814017CB6000/screen/6"
+  ]
+}

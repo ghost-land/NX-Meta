@@ -1,0 +1,16 @@
+{
+  "name": "Gardener's Path",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20211222",
+  "description": "Gardener’s Path is a top-down turn-based puzzle game, about fighting giant insects and protecting underground gardens. \n\nSolve increasingly elaborate puzzles scattered throughout 60 handcrafted gardens, each one with their own set of friends and foes. Take the advantage in a fight by wielding powerful artifacts, allowing you to travel back in time and perform elemental attacks.\n\nFulfill your duty as a gardener, and fight against the pest of giant insects, to protect the ones you love.\n\n\nFEATURES\n* 60 unique, hand-crafted puzzles\n* Defeat insects while being aided by plants and power-ups\n* Season based pixel art graphics\n* Relaxing new-age soundtrack\n* Garden logbook full of information and illustrations",
+  "bannerUrl": "http://api.nlib.cc/nx/010019F016BFC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010019F016BFC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010019F016BFC000/screen/1",
+    "http://api.nlib.cc/nx/010019F016BFC000/screen/2",
+    "http://api.nlib.cc/nx/010019F016BFC000/screen/3",
+    "http://api.nlib.cc/nx/010019F016BFC000/screen/4",
+    "http://api.nlib.cc/nx/010019F016BFC000/screen/5",
+    "http://api.nlib.cc/nx/010019F016BFC000/screen/6"
+  ]
+}

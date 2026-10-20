@@ -1,0 +1,16 @@
+{
+  "name": "Bone's Cafe",
+  "publisher": "Acute Owl Studio",
+  "releaseDate": "20230331",
+  "description": "Follow the journey of Bones the necromancer as you grow and expand your cafe. Serve your customers quickly, design your own cafe, discover recipes, customize your menu, strategically attract, kill, and harvest customers for fresh ingredients and use their souls to raise an undead army!\n\nFEATURES\nCustomizable cafe layout.\nCustomizable cafe menu.\nExperiment with ingredients in the kitchen to discover 97 recipes.\nUse stealth to harvest exotic ingredients from your cafe customers.\nAutomate your cafe with minions.\nPlay with your friends in local co-op 1-4 players.",
+  "bannerUrl": "http://api.nlib.cc/nx/01008C001A070000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008C001A070000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008C001A070000/screen/1",
+    "http://api.nlib.cc/nx/01008C001A070000/screen/2",
+    "http://api.nlib.cc/nx/01008C001A070000/screen/3",
+    "http://api.nlib.cc/nx/01008C001A070000/screen/4",
+    "http://api.nlib.cc/nx/01008C001A070000/screen/5",
+    "http://api.nlib.cc/nx/01008C001A070000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Corner Driver",
+  "publisher": "Gametry",
+  "releaseDate": "20221111",
+  "description": "When you play Corner Driver you have the intense Pacman-like experience but also the fear of avoiding police cars, as getting caught by them will diminish your chances. Corner Driver is a very intense, fun game and also a casual one with creative gameplay ideas.\n\nFeatures:\nAn immersive, fun arcade racer\nAvoid the police cars and keep your lives\nBeautiful, retro themed world",
+  "bannerUrl": "http://api.nlib.cc/nx/0100410019D3C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100410019D3C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100410019D3C000/screen/1",
+    "http://api.nlib.cc/nx/0100410019D3C000/screen/2",
+    "http://api.nlib.cc/nx/0100410019D3C000/screen/3",
+    "http://api.nlib.cc/nx/0100410019D3C000/screen/4",
+    "http://api.nlib.cc/nx/0100410019D3C000/screen/5",
+    "http://api.nlib.cc/nx/0100410019D3C000/screen/6"
+  ]
+}

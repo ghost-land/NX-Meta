@@ -1,0 +1,16 @@
+{
+  "name": "Mission Commando",
+  "publisher": "Pix Arts",
+  "releaseDate": "20221104",
+  "description": "As a member of the famous marines commando, you are sent on a perilous mission in an hostile territory.\nDefeat the ennemies and their powerfull weapons and fight bosses til victory.\n\nVast variety of weapons:\n\nPlayer:\n-Handgun\n-Machine gun\n-Rocket\n-Shotgun\n-Grenade\n\nEnemy:\n-5 Bosses fight scenes\n-Helicopter\n-Tank\n-Turret\n-Rocket\n-Soldiers (Throw, Parachute, Melee, Gun,...)",
+  "bannerUrl": "http://api.nlib.cc/nx/01005D5019396000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005D5019396000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005D5019396000/screen/1",
+    "http://api.nlib.cc/nx/01005D5019396000/screen/2",
+    "http://api.nlib.cc/nx/01005D5019396000/screen/3",
+    "http://api.nlib.cc/nx/01005D5019396000/screen/4",
+    "http://api.nlib.cc/nx/01005D5019396000/screen/5",
+    "http://api.nlib.cc/nx/01005D5019396000/screen/6"
+  ]
+}

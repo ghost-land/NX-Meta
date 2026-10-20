@@ -1,0 +1,16 @@
+{
+  "name": "Devious Dungeon 2",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20190517",
+  "description": "It is said that great adventures await behind the walls of this dark castle, Devious Dungeon 2 is a medieval focused action platformer title.\nThe castles ever shifting halls are filled with deadly monsters! Treacherous traps have claimed the lives of many adventurers! It is rumoured the castle contains treasures beyond imagination.\nHowever, it is also the domain of The Summoner and he does not look kindly upon uninvited guests!\nSlay monsters, collect loot, level up and upgrade your gear, you can play with three different playable heroes, each one with their own special ability.\n\nFeatures:\n * Level randomization\n * 3 different playable heroes with their own special ability\n * 6 different worlds with a final boss\n * 12 mini-bosses\n * RPG styled upgrades\n * Mission system\n * Lots of weapons and gear",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F1800DD4E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F1800DD4E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F1800DD4E000/screen/1",
+    "http://api.nlib.cc/nx/0100F1800DD4E000/screen/2",
+    "http://api.nlib.cc/nx/0100F1800DD4E000/screen/3",
+    "http://api.nlib.cc/nx/0100F1800DD4E000/screen/4",
+    "http://api.nlib.cc/nx/0100F1800DD4E000/screen/5",
+    "http://api.nlib.cc/nx/0100F1800DD4E000/screen/6"
+  ]
+}

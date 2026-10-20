@@ -1,0 +1,18 @@
+{
+  "name": "Montabi",
+  "publisher": "Akupara Games",
+  "releaseDate": "20260806",
+  "description": "A Creature-Collector Roguelike Deckbuilding Game.\n\nAssemble your team of Montabi to outsmart the bad guys and save the city!\n\nIf you're going to be the big hero and save the city, you've gotta get some Montabi! Each Montabi has a unique set of skills, giving you endless combinations for team synergies. Collect equipment and charms and utilize them to chart the path to victory!  \n\nTrain your Montabi to grow stronger, unlocking new moves to enhance your team's strategy. As they level up, your Montabi evolve into more powerful forms, gaining new card abilities and expanding your tactical options. If you work together, there's nothing you and your Montabi can't achieve!\n\nDeploy your best strategies to beat up the bad guys in a unique 3x3 grid-based system. With every Montabi's unique abilities, you'll have endless options to outthink the competition and win the day. Just make sure you rest up at a cafe every now and then to recover those hit points!\n\nSelect from diverse trainers, each with a unique playstyle. Do you wanna put your team in the perfect position, get right up in their faces and duke it out, or buff up your Montabi with a hearty meal? When the city's at stake, everyone pitches in! Just make sure to stay safe! Like the king in chess, if your trainer is defeated, the game ends.\n\nFeature List\n• Build your Montabi Team - Collect and Fight with over 60 Montabi!\n• Evolve and Draft Skills - Each time you Montabi evolves, draft a legendary ability!\n• Outsmart your Opponents - Strategize on the 3x3 tactical battlemap!\n• Choose your Trainer - The student, fighter or chef will lead your synergistic team!",
+  "bannerUrl": "http://api.nlib.cc/nx/010025F0249CE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010025F0249CE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010025F0249CE000/screen/1",
+    "http://api.nlib.cc/nx/010025F0249CE000/screen/2",
+    "http://api.nlib.cc/nx/010025F0249CE000/screen/3",
+    "http://api.nlib.cc/nx/010025F0249CE000/screen/4",
+    "http://api.nlib.cc/nx/010025F0249CE000/screen/5",
+    "http://api.nlib.cc/nx/010025F0249CE000/screen/6"
+  ],
+  "version": 0,
+  "size": 469216616
+}

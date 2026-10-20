@@ -1,0 +1,16 @@
+{
+  "name": "Sunshine Manor",
+  "publisher": "Hound Picked Games",
+  "releaseDate": "20231005",
+  "description": "Embark on a spine-chilling 8-bit Horror Adventure in Sunshine Manor as Ada, a reluctant adventurer who accepts the challenge to spend a night in the haunted mansion. Encounter ghosts, demons, and blood-soaked horrors as you delve into the prequel to 2016's Camp Sunshine. Along the way, meet quirky characters with unique challenges, adding charm to the eerie atmosphere.\n\nTraverse between the mortal and demon realms, outwit the cunning Shadow Man, and solve puzzles and riddles while exploring the treacherous mansion. Enjoy stunning hand-drawn 8-bit graphics and an 80s-inspired soundtrack that heightens the tension of this hauntingly thrilling experience.\n\nUncover the mansion's dark secrets and the tragic events that took place before the massacre at Big Bear Lake. Step into a captivating journey that blends horror, comedy and a sprinkling of retro charm.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01009A8019090000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009A8019090000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009A8019090000/screen/1",
+    "http://api.nlib.cc/nx/01009A8019090000/screen/2",
+    "http://api.nlib.cc/nx/01009A8019090000/screen/3",
+    "http://api.nlib.cc/nx/01009A8019090000/screen/4",
+    "http://api.nlib.cc/nx/01009A8019090000/screen/5",
+    "http://api.nlib.cc/nx/01009A8019090000/screen/6"
+  ]
+}

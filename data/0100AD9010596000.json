@@ -1,0 +1,16 @@
+{
+  "name": "Project Starship",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20200214",
+  "description": "Take the role of Garret or Gwen, pilots charged with saving their world from an ancient evil. Evade, adapt and survive randomly generated challenges that are never the same twice. Take down gods and demons alike in unpredictable bullet hell shoot 'em up action, and dive deeper to confront the hidden eye that watches over all!\n\nFeatures:\n\n• Choose to play a male or female pilot.\n• Save the world from an ancient evil.\n• Challenge evil gods and mad demons in full-screen bullet hell shoot 'em up action!\n• Dive into the unknown and defeat the Hidden Eye!\n• Evade, adapt and blast your way through a randomized galaxy.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AD9010596000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AD9010596000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AD9010596000/screen/1",
+    "http://api.nlib.cc/nx/0100AD9010596000/screen/2",
+    "http://api.nlib.cc/nx/0100AD9010596000/screen/3",
+    "http://api.nlib.cc/nx/0100AD9010596000/screen/4",
+    "http://api.nlib.cc/nx/0100AD9010596000/screen/5",
+    "http://api.nlib.cc/nx/0100AD9010596000/screen/6"
+  ]
+}

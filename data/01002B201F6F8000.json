@@ -1,0 +1,13 @@
+{
+  "name": "バンパーキティ",
+  "publisher": "Max Interactive Studio",
+  "releaseDate": "20240627",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/01002B201F6F8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002B201F6F8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002B201F6F8000/screen/1",
+    "http://api.nlib.cc/nx/01002B201F6F8000/screen/2",
+    "http://api.nlib.cc/nx/01002B201F6F8000/screen/3"
+  ]
+}

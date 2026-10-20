@@ -1,0 +1,16 @@
+{
+  "name": "The Knights of the Cross",
+  "publisher": "LongYou Game",
+  "releaseDate": "20260326",
+  "description": "The Knights of the Cross is an RPG card game adapted from The Knights of the Cross by Nobel Prize-winning author Henryk Sienkiewicz. You will play as the knight Zbyszko and embark on a medieval adventure. Recruit companions, build your deck, and help the Polish-Lithuanian Commonwealth battle the Teutonic Order in the epic Battle of Grunwald.\n\n【Recruit Allies, Join the Fight】\nRecruit over 30 unique companions, each with their own storyline. Completing their storyline unlock exclusive items.\nEach character is equipped with dynamic portraits and stunning ultimate abilities and effects, offering a rich visual experience.\n\n【Unique Synergy, Build Your Strategy】\nThe innovative Teambuilding Combo System: The cards you play will dictate your allies' actions in the turn.\nCombine cards and relics with your teammates' abilities to create powerful combat strategies like burn, bleed, poison, and more—offering fresh experiences on each playthrough.\nBosses come with their own special mechanics, such as cleansing their debuffs or limiting card types. Adapt your deck and tactics to break through tough encounters and feel the thrill of victory.\n\n【Engaging Story, Immersive World】\nA branching main story with multiple endings, allowing you to change the fate of the original characters.\nOver a hundred side quests and random events that immerse you in medieval festivals, folk traditions, and daily life.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BAF0259CC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BAF0259CC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BAF0259CC000/screen/1",
+    "http://api.nlib.cc/nx/0100BAF0259CC000/screen/2",
+    "http://api.nlib.cc/nx/0100BAF0259CC000/screen/3",
+    "http://api.nlib.cc/nx/0100BAF0259CC000/screen/4",
+    "http://api.nlib.cc/nx/0100BAF0259CC000/screen/5",
+    "http://api.nlib.cc/nx/0100BAF0259CC000/screen/6"
+  ]
+}

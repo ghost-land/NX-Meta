@@ -1,0 +1,16 @@
+{
+  "name": "Sir Happenlance",
+  "publisher": "Triple Fault Games",
+  "releaseDate": "20240704",
+  "description": "Climb huge mountains, impale hundreds of enemies, and solve tricky physics puzzles... all using only a spear. Pole-vault yourself to victory in this epic joust-'em-up adventure!",
+  "bannerUrl": "http://api.nlib.cc/nx/010082101943E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010082101943E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010082101943E000/screen/1",
+    "http://api.nlib.cc/nx/010082101943E000/screen/2",
+    "http://api.nlib.cc/nx/010082101943E000/screen/3",
+    "http://api.nlib.cc/nx/010082101943E000/screen/4",
+    "http://api.nlib.cc/nx/010082101943E000/screen/5",
+    "http://api.nlib.cc/nx/010082101943E000/screen/6"
+  ]
+}

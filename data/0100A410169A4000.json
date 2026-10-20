@@ -1,0 +1,16 @@
+{
+  "name": "Tales of Symphonia Remastered",
+  "publisher": "BANDAI NAMCO Entertainment",
+  "releaseDate": "20230217",
+  "description": "Tales of Symphonia, an action RPG and one of the most critically-acclaimed titles in the series, returns with a full HD remastering.\n\nThe story takes place in Sylvarant, a world in danger of extinction due to the exploitation of mana by an evil group thought to be sealed away by the hero Mithos 4,000 years ago.\n\nColette, The Chosen One, receives an oracle from the heavenly institution Cruxis, and sets out on a World Regeneration journey with her childhood friend Lloyd.\n\nThis profound and magnificent adventure fantasy is spun by characters rich in personality and full of charm.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A410169A4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A410169A4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A410169A4000/screen/1",
+    "http://api.nlib.cc/nx/0100A410169A4000/screen/2",
+    "http://api.nlib.cc/nx/0100A410169A4000/screen/3",
+    "http://api.nlib.cc/nx/0100A410169A4000/screen/4",
+    "http://api.nlib.cc/nx/0100A410169A4000/screen/5",
+    "http://api.nlib.cc/nx/0100A410169A4000/screen/6"
+  ]
+}

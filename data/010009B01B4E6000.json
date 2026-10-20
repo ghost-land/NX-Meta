@@ -1,0 +1,16 @@
+{
+  "name": "Moolii's Dreamland",
+  "publisher": "OKJOY",
+  "releaseDate": "20230801",
+  "description": "Help Moolii on her nightmare of the forest! Use claws and bullets and dodge in the roguelite bullet-hell where all Moolii's cuttie friends become Mobs and Bosses! Collect and upgrade bullets to help Moolii!",
+  "bannerUrl": "http://api.nlib.cc/nx/010009B01B4E6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010009B01B4E6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010009B01B4E6000/screen/1",
+    "http://api.nlib.cc/nx/010009B01B4E6000/screen/2",
+    "http://api.nlib.cc/nx/010009B01B4E6000/screen/3",
+    "http://api.nlib.cc/nx/010009B01B4E6000/screen/4",
+    "http://api.nlib.cc/nx/010009B01B4E6000/screen/5",
+    "http://api.nlib.cc/nx/010009B01B4E6000/screen/6"
+  ]
+}

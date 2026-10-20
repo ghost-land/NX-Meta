@@ -1,0 +1,16 @@
+{
+  "name": "Frogice",
+  "publisher": "Weakfish Studio",
+  "releaseDate": "20220928",
+  "description": "The adventure of a Chubby Frog trying to reach the Pond!\nIn levels,You need to reach the flag but you can't reach the flag but your long tongue is too good to pass these levels.\n\nHe has a long tongue!\nAnd he can use it very well.\nHe can move frozen things with his tongue, and this feature makes it very easy for him in this adventure.\n\nDon't look easy. You have to set up your own logic to pass the levels!\n\nFeatures;\nCool water physics,\nDiffrent designed Puzzle Levels.\nand a long-tongued Chubby Frog",
+  "bannerUrl": "http://api.nlib.cc/nx/010092D01971A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010092D01971A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010092D01971A000/screen/1",
+    "http://api.nlib.cc/nx/010092D01971A000/screen/2",
+    "http://api.nlib.cc/nx/010092D01971A000/screen/3",
+    "http://api.nlib.cc/nx/010092D01971A000/screen/4",
+    "http://api.nlib.cc/nx/010092D01971A000/screen/5",
+    "http://api.nlib.cc/nx/010092D01971A000/screen/6"
+  ]
+}

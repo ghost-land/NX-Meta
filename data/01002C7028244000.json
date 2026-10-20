@@ -1,0 +1,18 @@
+{
+  "name": "Medieval Castle Siege Defense vs Invaders",
+  "publisher": "St Pow Games",
+  "releaseDate": "20260626",
+  "description": "Defend the gates. Survive the siege.\nStep into a medieval battlefield where your strategy and skill decide the fate of the kingdom. Build defenses, fight back, and hold your fortress against relentless waves of invaders.\nPrepare your defenses, place towers, and get ready for incoming waves of enemies. Each enemy type requires a different approach — from fast attackers to heavily armored units and powerful siege weapons that threaten to break your gates.\nYou are not just a commander — you fight alongside your defenses. Use your crossbow and repair structures during battle to keep your fortress standing. Every decision matters as the pressure increases with each wave.\nEarn resources by defeating enemies and use them wisely to build new defenses or upgrade existing ones. Balance your strategy between offense and defense to handle growing threats and survive until the final wave.\nWith every attack, the battlefield becomes more intense, forcing you to adapt, reposition, and react quickly to protect your base at all costs.\nKey Features:\n\t•\tCombine FPS combat with tower defense gameplay\n\t•\tBuild and upgrade defensive structures\n\t•\tSurvive waves of increasingly powerful enemies\n\t•\tFight actively using weapons \n\t•\tManage resources to strengthen your defense\n\t•\tFace diverse enemy types and strategic challenges\nStand your ground, defend your kingdom, and survive every wave.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002C7028244000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002C7028244000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002C7028244000/screen/1",
+    "http://api.nlib.cc/nx/01002C7028244000/screen/2",
+    "http://api.nlib.cc/nx/01002C7028244000/screen/3",
+    "http://api.nlib.cc/nx/01002C7028244000/screen/4",
+    "http://api.nlib.cc/nx/01002C7028244000/screen/5",
+    "http://api.nlib.cc/nx/01002C7028244000/screen/6"
+  ],
+  "version": 0,
+  "size": 342730092
+}

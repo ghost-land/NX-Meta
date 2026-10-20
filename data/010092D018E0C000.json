@@ -1,0 +1,16 @@
+{
+  "name": "Roar of Revenge",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20220923",
+  "description": "Inspired by epic platforming classics from days gone by, Roar of Revenge is an exhilarating adventure through a vibrant world full of monsters, magic, and challenge.\n\nTake control of Keel the Barbarian, and face a vast bestiary of foes while collecting the ancient relics to empower your skills!\n\nWill you manage to stop the fury of the villainous, powerful man-lion called Leomhann?\n\n\nFeatures:\n* Checkpoints and saves to guarantee a balanced challenge!\n* Acquire new skills by getting relics\n* Variety of enemies and bosses\n* Unlock multiple endings\n* Pixel art graphics \n* 8-bit chiptune soundtrack\n* Pure old-school action",
+  "bannerUrl": "http://api.nlib.cc/nx/010092D018E0C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010092D018E0C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010092D018E0C000/screen/1",
+    "http://api.nlib.cc/nx/010092D018E0C000/screen/2",
+    "http://api.nlib.cc/nx/010092D018E0C000/screen/3",
+    "http://api.nlib.cc/nx/010092D018E0C000/screen/4",
+    "http://api.nlib.cc/nx/010092D018E0C000/screen/5",
+    "http://api.nlib.cc/nx/010092D018E0C000/screen/6"
+  ]
+}

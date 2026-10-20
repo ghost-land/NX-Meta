@@ -1,0 +1,16 @@
+{
+  "name": "SENTRY",
+  "publisher": "Rising Sun Studios",
+  "releaseDate": "20201113",
+  "description": "Become a SENTRY. \n\nSENTRY is a stylish minimalistic twin-stick shooter with silky smooth controls where your only goal is to eliminate the hostile invaders. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A5D012DAC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A5D012DAC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A5D012DAC000/screen/1",
+    "http://api.nlib.cc/nx/0100A5D012DAC000/screen/2",
+    "http://api.nlib.cc/nx/0100A5D012DAC000/screen/3",
+    "http://api.nlib.cc/nx/0100A5D012DAC000/screen/4",
+    "http://api.nlib.cc/nx/0100A5D012DAC000/screen/5",
+    "http://api.nlib.cc/nx/0100A5D012DAC000/screen/6"
+  ]
+}

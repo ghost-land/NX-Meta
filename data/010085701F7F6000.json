@@ -1,0 +1,16 @@
+{
+  "name": "Busway Islands - Puzzle",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20240711",
+  "description": "Busway Islands is a puzzle game about organizing roads and rails across a large archipelago. Your goal is to create a safe and efficient route between bus stations, ensuring that all passengers are picked up along the way.\n\nChallenge your logical skills with 35 unique and captivating challenges, while enjoying relaxing sound effects and having fun with challenging puzzles in a minimalist and relaxing experience.\n\n- 35 unique islands.\n- Satisfying and relaxing sound effects.\n- Unique puzzles.",
+  "bannerUrl": "http://api.nlib.cc/nx/010085701F7F6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010085701F7F6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010085701F7F6000/screen/1",
+    "http://api.nlib.cc/nx/010085701F7F6000/screen/2",
+    "http://api.nlib.cc/nx/010085701F7F6000/screen/3",
+    "http://api.nlib.cc/nx/010085701F7F6000/screen/4",
+    "http://api.nlib.cc/nx/010085701F7F6000/screen/5",
+    "http://api.nlib.cc/nx/010085701F7F6000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Puzzle by Nikoli S Hitori",
+  "publisher": "HAMSTER",
+  "releaseDate": "20230713",
+  "description": "\"Hitori\" is a puzzle in which you fill in any unnecessary numbers, making sure that the same number doesn't appear twice in the same line. Once you get the hang of it, you can feel the joy of figuring out the many various gimmicks thought up by the creator. This is a puzzle for real connoisseurs.\n\nThe options menu, manual, and other text are available in Japanese, English, French, German, Italian, and Spanish.",
+  "bannerUrl": "http://api.nlib.cc/nx/010036800E994000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010036800E994000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010036800E994000/screen/1",
+    "http://api.nlib.cc/nx/010036800E994000/screen/2",
+    "http://api.nlib.cc/nx/010036800E994000/screen/3",
+    "http://api.nlib.cc/nx/010036800E994000/screen/4",
+    "http://api.nlib.cc/nx/010036800E994000/screen/5",
+    "http://api.nlib.cc/nx/010036800E994000/screen/6"
+  ]
+}

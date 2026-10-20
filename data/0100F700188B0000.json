@@ -1,0 +1,16 @@
+{
+  "name": "Snug Finder",
+  "publisher": "Soroka Games",
+  "releaseDate": "20220625",
+  "description": "Snug Finder - is a beautiful hidden object game. Become a finder and try to find all the objects, but be careful, sometimes it’s not that easy. \n\nImmerse yourself in a wonderful game with lovely illustrations, gorgeous sounds and cozy atmosphere. Spend hours on 36 amazing levels with over 300 hidden objects. Let’s start adventure!\n\nFeatures:\n360 hidden objects\n36 gorgeous levels\nAmazing illustrations\nCozy atmosphere\nTouchscreen support",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F700188B0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F700188B0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F700188B0000/screen/1",
+    "http://api.nlib.cc/nx/0100F700188B0000/screen/2",
+    "http://api.nlib.cc/nx/0100F700188B0000/screen/3",
+    "http://api.nlib.cc/nx/0100F700188B0000/screen/4",
+    "http://api.nlib.cc/nx/0100F700188B0000/screen/5",
+    "http://api.nlib.cc/nx/0100F700188B0000/screen/6"
+  ]
+}

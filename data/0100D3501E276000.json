@@ -1,0 +1,15 @@
+{
+  "name": "Jello Run",
+  "publisher": "Entity3",
+  "releaseDate": "20240316",
+  "description": "Collect as many jellos as possible to grow your jello!\n\nChoose a mold and make your jello shape!\n\nDash and resize your jello as your power to the finish line!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D3501E276000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D3501E276000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D3501E276000/screen/1",
+    "http://api.nlib.cc/nx/0100D3501E276000/screen/2",
+    "http://api.nlib.cc/nx/0100D3501E276000/screen/3",
+    "http://api.nlib.cc/nx/0100D3501E276000/screen/4",
+    "http://api.nlib.cc/nx/0100D3501E276000/screen/5"
+  ]
+}

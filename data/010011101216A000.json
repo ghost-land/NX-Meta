@@ -1,0 +1,16 @@
+{
+  "name": "Bush Hockey League",
+  "publisher": "V7 Entertainment",
+  "releaseDate": "20220414",
+  "description": "Experience hockey the way it was meant to be played in this old-school arcade-style 5v5 hockey game where blood on the ice is just another day at the rink. 70s afros, big mustaches, no helmets, dirty hits, bench-clearing brawls, goalie fights, stick fights – that's Bush Hockey League.",
+  "bannerUrl": "http://api.nlib.cc/nx/010011101216A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010011101216A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010011101216A000/screen/1",
+    "http://api.nlib.cc/nx/010011101216A000/screen/2",
+    "http://api.nlib.cc/nx/010011101216A000/screen/3",
+    "http://api.nlib.cc/nx/010011101216A000/screen/4",
+    "http://api.nlib.cc/nx/010011101216A000/screen/5",
+    "http://api.nlib.cc/nx/010011101216A000/screen/6"
+  ]
+}

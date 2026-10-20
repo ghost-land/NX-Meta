@@ -1,0 +1,14 @@
+{
+  "name": "Purple Slime Production Line",
+  "publisher": "Stephen OGorman",
+  "releaseDate": "20240425",
+  "description": "Guide the slimes to their destiny, across 100 levels of gravity shifting puzzle action!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D5F01ED42000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D5F01ED42000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D5F01ED42000/screen/1",
+    "http://api.nlib.cc/nx/0100D5F01ED42000/screen/2",
+    "http://api.nlib.cc/nx/0100D5F01ED42000/screen/3",
+    "http://api.nlib.cc/nx/0100D5F01ED42000/screen/4"
+  ]
+}

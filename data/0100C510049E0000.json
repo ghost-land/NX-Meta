@@ -1,0 +1,16 @@
+{
+  "name": "Penny-Punching Princess",
+  "publisher": "NIS America",
+  "releaseDate": "20180403",
+  "description": "Penny-Punching Princess is an isometric brawler that takes place in a world ruled by capitalism, where cash is king. Fight or bribe your way to reclaiming your kingdom from the greedy Dragoloans.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C510049E0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C510049E0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C510049E0000/screen/1",
+    "http://api.nlib.cc/nx/0100C510049E0000/screen/2",
+    "http://api.nlib.cc/nx/0100C510049E0000/screen/3",
+    "http://api.nlib.cc/nx/0100C510049E0000/screen/4",
+    "http://api.nlib.cc/nx/0100C510049E0000/screen/5",
+    "http://api.nlib.cc/nx/0100C510049E0000/screen/6"
+  ]
+}

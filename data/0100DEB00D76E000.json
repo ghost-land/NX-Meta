@@ -1,0 +1,16 @@
+{
+  "name": "Bard's Gold - Nintendo Switch Edition",
+  "publisher": "Pixel Lantern",
+  "releaseDate": "20190305",
+  "description": "Bard's Gold is a challenging platformer that let's you explore eerie worlds in a quest for a Goblin that stole your gold. \n\nKey Features:\n\n- Old school platforming experience - No tutorials or explanations how things should be done. Everything including the basic game mechanics must be figured out by yourself as you go. \n\n- Rogue-lite - Different layouts for each level is randomly chosen every playthrough. While getting the chance to memorize levels and get better at them, the 'random level' system will keep your interest. With the gems you collect you will be able to upgrade your character on the Game Over screen.\n\n- 100+ Randomly picked levels to play\n\n- Extremely challenging, yet rewarding gameplay \n\n- Beautifully designed retro-inspired graphics \n\n- Gain powerful new abilities by finding skill books ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DEB00D76E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DEB00D76E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DEB00D76E000/screen/1",
+    "http://api.nlib.cc/nx/0100DEB00D76E000/screen/2",
+    "http://api.nlib.cc/nx/0100DEB00D76E000/screen/3",
+    "http://api.nlib.cc/nx/0100DEB00D76E000/screen/4",
+    "http://api.nlib.cc/nx/0100DEB00D76E000/screen/5",
+    "http://api.nlib.cc/nx/0100DEB00D76E000/screen/6"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Fastest on the Buzzer",
+  "publisher": "Sabec",
+  "releaseDate": "20230704",
+  "description": "Fastest on the Buzzer is a fast action multi-player trivia game you play  against other players  \n\nSimply press your buzzer before the other contestants to answer the question, but be careful because if you get it wrong you will lose points and give the other contestants a chance to win those points.\n\nAnd remember if you lose all your points your out of the game.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BD201C0CC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BD201C0CC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BD201C0CC000/screen/1",
+    "http://api.nlib.cc/nx/0100BD201C0CC000/screen/2",
+    "http://api.nlib.cc/nx/0100BD201C0CC000/screen/3",
+    "http://api.nlib.cc/nx/0100BD201C0CC000/screen/4"
+  ]
+}

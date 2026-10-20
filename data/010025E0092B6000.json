@@ -1,0 +1,16 @@
+{
+  "name": "Pirate Pop Plus",
+  "publisher": "13AM Games",
+  "releaseDate": "20180531",
+  "description": "Join Pete Jr on his quest to defeat the nefarious Bubble Pirate, an evil villain who has trapped the innocent townsfolk in bubbles! Dodge and pop bubbles with your anchor while collecting power-ups and managing Bubble Pirate’s constant gravity-switching mischief! When you feel at your Piratey-est, test your skill in the ultra-challenging Hyper Mode... The game may be faster and harder, but you'll find treasures beyond your wildest dreams. Coins as far as the eye can see! Collect coins to unlock content in the game’s shop like new music, new faceplates, buttons, backlights, and even characters for your bubble-popping mayhem! Yarr!",
+  "bannerUrl": "http://api.nlib.cc/nx/010025E0092B6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010025E0092B6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010025E0092B6000/screen/1",
+    "http://api.nlib.cc/nx/010025E0092B6000/screen/2",
+    "http://api.nlib.cc/nx/010025E0092B6000/screen/3",
+    "http://api.nlib.cc/nx/010025E0092B6000/screen/4",
+    "http://api.nlib.cc/nx/010025E0092B6000/screen/5",
+    "http://api.nlib.cc/nx/010025E0092B6000/screen/6"
+  ]
+}

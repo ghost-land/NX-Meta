@@ -1,0 +1,15 @@
+{
+  "name": "OMORI",
+  "publisher": "OMOCAT",
+  "releaseDate": "20220617",
+  "description": "Explore a strange world full of colorful friends and foes. Navigate through the vibrant and the mundane in order to uncover a forgotten past. When the time comes, the path you’ve chosen will determine your fate... and perhaps the fate of others as well.\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010014E017B14000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010014E017B14000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010014E017B14000/screen/1",
+    "http://api.nlib.cc/nx/010014E017B14000/screen/2",
+    "http://api.nlib.cc/nx/010014E017B14000/screen/3",
+    "http://api.nlib.cc/nx/010014E017B14000/screen/4",
+    "http://api.nlib.cc/nx/010014E017B14000/screen/5"
+  ]
+}

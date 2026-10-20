@@ -1,0 +1,16 @@
+{
+  "name": "SEGA AGES Out Run",
+  "publisher": "SEGA",
+  "releaseDate": "20190110",
+  "description": "The 3D driving game that launched a legacy returns on Nintendo Switch™! Featuring new motion controls, newly added music tracks, and a new ranking system.\n\nSpeed through the streets of SEGA AGES Out Run, the award-winning title that paved the road for the racing genre. Your favorite stages and soundtrack are back. Do you have what it takes to beat the clock?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D4D00AC62000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D4D00AC62000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D4D00AC62000/screen/1",
+    "http://api.nlib.cc/nx/0100D4D00AC62000/screen/2",
+    "http://api.nlib.cc/nx/0100D4D00AC62000/screen/3",
+    "http://api.nlib.cc/nx/0100D4D00AC62000/screen/4",
+    "http://api.nlib.cc/nx/0100D4D00AC62000/screen/5",
+    "http://api.nlib.cc/nx/0100D4D00AC62000/screen/6"
+  ]
+}

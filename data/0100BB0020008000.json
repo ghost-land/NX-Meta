@@ -1,0 +1,16 @@
+{
+  "name": "World War: Fury Wave",
+  "publisher": "TROOOZE",
+  "releaseDate": "20240822",
+  "description": "Action Shooter Set on the Battlefields of WWII. Trapped in a broken tank, players must use machine guns and shells to fend off advancing enemies and clear wave-based stages.\n\n・Fend off incoming enemies and clear increasingly difficult waves.\n・After clearing waves, various items will appear to aid in victory.\n・Pick up items that increase your maximum HP by 10%.\n・Receive items that increase maximum ammo by 5 rounds.\n・Receive items that increase base ammo by 1.\n・Upgrade your tank with loot!\n・Strategically use limited resources in a broken tank to fend off enemies and survive.\n・An emotional ending awaits you after clearing dozens of waves.\n\nThis strategic and intense game, set against the backdrop of brutal combat, challenges you to stop advancing enemies in a broken tank. Lead an impossible war to victory and make history!\n\nPrologue\nDuring World War II, on a certain battlefield...\nThe final battle order is given on the front line, surrounded by the enemy.\n\nIn the midst of the battle, a new order is received to provide fire support for an isolated friendly infantry regiment, and a heavy tank battalion of the 66th Armored Regiment moves forward to perform this new task.\n\nWhile moving for the operation, they encounter an ambushed German armored unit and engage in fierce combat, after which only a handful of allies manage to survive.\n\nJust then, the surviving allies find themselves in the path of the SS Dispositional Troops.\n\nThe surviving allies decide to stand against the SS Dispositional Troops. However, after several battles, most of their comrades are lost, and only a broken tank, immobilized and inoperable, remains, along with the exhausted members of the unit.\n\nTheir impossible war to change history begins!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BB0020008000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BB0020008000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BB0020008000/screen/1",
+    "http://api.nlib.cc/nx/0100BB0020008000/screen/2",
+    "http://api.nlib.cc/nx/0100BB0020008000/screen/3",
+    "http://api.nlib.cc/nx/0100BB0020008000/screen/4",
+    "http://api.nlib.cc/nx/0100BB0020008000/screen/5",
+    "http://api.nlib.cc/nx/0100BB0020008000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Star Drives",
+  "publisher": "DEV4PLAY",
+  "releaseDate": "20211008",
+  "description": "Simple and fun space game. Fly in circles and avoid crashing into the enemy ships. Complete the missions and fly through the galaxy. Survive as long as you can. Speed up or slow down, just don't crash and have fun. Can you unlock and fly with all the spaceships available? Get ready, pilot!",
+  "bannerUrl": "http://api.nlib.cc/nx/010011D015FF6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010011D015FF6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010011D015FF6000/screen/1",
+    "http://api.nlib.cc/nx/010011D015FF6000/screen/2",
+    "http://api.nlib.cc/nx/010011D015FF6000/screen/3",
+    "http://api.nlib.cc/nx/010011D015FF6000/screen/4",
+    "http://api.nlib.cc/nx/010011D015FF6000/screen/5",
+    "http://api.nlib.cc/nx/010011D015FF6000/screen/6"
+  ]
+}

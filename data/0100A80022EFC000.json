@@ -1,0 +1,16 @@
+{
+  "name": "Shape Drop",
+  "publisher": "Entity3",
+  "releaseDate": "20250412",
+  "description": "Shape Drop is a fast-paced arcade game where precision and timing are everything. \n\nNavigate your way through a series of rotating shapes, skillfully dropping and jumping to avoid deadly spikes. \n\nYour goal is simple, guide the ball past tricky obstacles and into the tube to advance. \n\nTake on thrilling, heart-pounding jumps and daring drops as you push your reflexes to the limit. \n\nUnlock a variety of unique balls as you conquer endless levels filled with ever-increasing challenges. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A80022EFC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A80022EFC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A80022EFC000/screen/1",
+    "http://api.nlib.cc/nx/0100A80022EFC000/screen/2",
+    "http://api.nlib.cc/nx/0100A80022EFC000/screen/3",
+    "http://api.nlib.cc/nx/0100A80022EFC000/screen/4",
+    "http://api.nlib.cc/nx/0100A80022EFC000/screen/5",
+    "http://api.nlib.cc/nx/0100A80022EFC000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Uncharted Tides: Port Royal",
+  "publisher": "Artifex Mundi",
+  "releaseDate": "20200220",
+  "description": "Dead men tell no tales!\nAnd tales about an infamous ship - The Cursed Rose - probably cost renowned sailor Mason Owens his life. As his daughter you can do only one thing - find the damned ship and learn your father's fate.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CC8011000000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CC8011000000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CC8011000000/screen/1",
+    "http://api.nlib.cc/nx/0100CC8011000000/screen/2",
+    "http://api.nlib.cc/nx/0100CC8011000000/screen/3",
+    "http://api.nlib.cc/nx/0100CC8011000000/screen/4",
+    "http://api.nlib.cc/nx/0100CC8011000000/screen/5",
+    "http://api.nlib.cc/nx/0100CC8011000000/screen/6"
+  ]
+}

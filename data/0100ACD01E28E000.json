@@ -1,0 +1,15 @@
+{
+  "name": "Helium Run",
+  "publisher": "Entity3",
+  "releaseDate": "20240406",
+  "description": "Inflate your balloons and pick up the stranded on the way\n\nRaise and lower your height by adding or releasing some air\n\nAvoid the obstacles and go fo the top score!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ACD01E28E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ACD01E28E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ACD01E28E000/screen/1",
+    "http://api.nlib.cc/nx/0100ACD01E28E000/screen/2",
+    "http://api.nlib.cc/nx/0100ACD01E28E000/screen/3",
+    "http://api.nlib.cc/nx/0100ACD01E28E000/screen/4",
+    "http://api.nlib.cc/nx/0100ACD01E28E000/screen/5"
+  ]
+}

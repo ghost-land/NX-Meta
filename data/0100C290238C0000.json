@@ -1,0 +1,16 @@
+{
+  "name": "Quisisana",
+  "publisher": "Domynyo",
+  "releaseDate": "20250821",
+  "description": "There is a storm, and you find yourself standing in front of an old villa, shrouded in darkness. The full moon shines in the sky, the house appears abandoned, yet something compels you to enter.\n\nAs soon as you step through the door, you immediately sense that something is wrong. An unnatural silence fills the air, cold and heavy. You don’t remember how you got here, but one thing is certain: you are not alone. Something moves in the shadows… and it is watching you.\n\nYou must explore the villa, search for clues, and solve puzzles to understand what is happening and, most importantly, find a way out. But be careful: the presence haunting this place won’t let you leave so easily.\n\nWill you survive and uncover the truth?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C290238C0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C290238C0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C290238C0000/screen/1",
+    "http://api.nlib.cc/nx/0100C290238C0000/screen/2",
+    "http://api.nlib.cc/nx/0100C290238C0000/screen/3",
+    "http://api.nlib.cc/nx/0100C290238C0000/screen/4",
+    "http://api.nlib.cc/nx/0100C290238C0000/screen/5",
+    "http://api.nlib.cc/nx/0100C290238C0000/screen/6"
+  ]
+}

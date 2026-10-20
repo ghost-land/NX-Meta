@@ -1,0 +1,16 @@
+{
+  "name": "My Brother Ate My Pudding!",
+  "publisher": "hap Inc.",
+  "releaseDate": "20220421",
+  "description": "Hey! Who's eaten my pudding?\n\nTry to hide and escape from your sister in anger for the pudding you ate!\n\nAn easy-going and funny escape game in a situation everyone has experienced!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D49017CEE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D49017CEE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D49017CEE000/screen/1",
+    "http://api.nlib.cc/nx/0100D49017CEE000/screen/2",
+    "http://api.nlib.cc/nx/0100D49017CEE000/screen/3",
+    "http://api.nlib.cc/nx/0100D49017CEE000/screen/4",
+    "http://api.nlib.cc/nx/0100D49017CEE000/screen/5",
+    "http://api.nlib.cc/nx/0100D49017CEE000/screen/6"
+  ]
+}

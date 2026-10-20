@@ -1,0 +1,16 @@
+{
+  "name": "Monster Salon Manager",
+  "publisher": "Fun Games Studio",
+  "releaseDate": "20250826",
+  "description": "Monster Salon Manager — where fangs, fur, and facials go hand in hand.\n\nYou’ve just opened your very own care center for monsters, and they’re lining up with sore wings, muddy scales, and a whole lot of stress. It’s your job to pamper, heal, and spoil every creature that crawls, slithers, or stomps through your doors.\n\nStart with a modest setup and grow into a legendary monster wellness empire. Treat quirky clients, hatch rare eggs, and train your own lovable beasties into majestic companions. Whether you're giving a hydra a hot stone massage or playing fetch with a fire-breathing pup, every monster needs a little tender loving care.\n\nUpgrade your salon, hire a loyal crew, decorate your own cozy upstairs pad, and create a relaxing haven—because even chaos gremlins deserve a day off.\n\nIt’s cute, it’s chaotic, and yes—someone’s probably shedding on the carpet again.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B31024814000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B31024814000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B31024814000/screen/1",
+    "http://api.nlib.cc/nx/0100B31024814000/screen/2",
+    "http://api.nlib.cc/nx/0100B31024814000/screen/3",
+    "http://api.nlib.cc/nx/0100B31024814000/screen/4",
+    "http://api.nlib.cc/nx/0100B31024814000/screen/5",
+    "http://api.nlib.cc/nx/0100B31024814000/screen/6"
+  ]
+}

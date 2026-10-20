@@ -1,0 +1,16 @@
+{
+  "name": "Minecraft",
+  "publisher": "Mojang",
+  "releaseDate": "20180620",
+  "description": "Minecraft is a game about placing blocks and going on adventures.\n\nExplore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off the dangerous mobs.\n\nIncludes Super Mario Mash-Up and more!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D71004694000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D71004694000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D71004694000/screen/1",
+    "http://api.nlib.cc/nx/0100D71004694000/screen/2",
+    "http://api.nlib.cc/nx/0100D71004694000/screen/3",
+    "http://api.nlib.cc/nx/0100D71004694000/screen/4",
+    "http://api.nlib.cc/nx/0100D71004694000/screen/5",
+    "http://api.nlib.cc/nx/0100D71004694000/screen/6"
+  ]
+}

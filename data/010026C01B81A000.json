@@ -1,0 +1,16 @@
+{
+  "name": "Haunted Hell House",
+  "publisher": "HUNTERS",
+  "releaseDate": "20230720",
+  "description": "Haunted Hell House is a 2D horror adventure.\nFind the key and move on while avoiding creepy clowns and traps.\nThe game includes Episode 1 starring four high school students and Episode 2 depicting a past incident that took place in the house.\nExperience various gimmicks and enjoy the horror.",
+  "bannerUrl": "http://api.nlib.cc/nx/010026C01B81A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010026C01B81A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010026C01B81A000/screen/1",
+    "http://api.nlib.cc/nx/010026C01B81A000/screen/2",
+    "http://api.nlib.cc/nx/010026C01B81A000/screen/3",
+    "http://api.nlib.cc/nx/010026C01B81A000/screen/4",
+    "http://api.nlib.cc/nx/010026C01B81A000/screen/5",
+    "http://api.nlib.cc/nx/010026C01B81A000/screen/6"
+  ]
+}

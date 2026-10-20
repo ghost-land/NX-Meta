@@ -1,0 +1,16 @@
+{
+  "name": "Space Junk Seekers",
+  "publisher": "Stephen OGorman",
+  "releaseDate": "20231130",
+  "description": "- Gather space junk. \n- Try to sell your space junk.\n- But space junk is also your only weapon?\n- Oh...\n\nHead out into the Trash Expanse in search of Earth's lost treasures.\n\n- Survive as long as you can to find better stuff.\n- Shoot rhythmically to build your combos...\n- ...Or just panic and press the frankly ludicrous bullet hell overdrive button!\n- Upgrade your clunky old mech with whatever you can find.\n- 4 stages to unlock and mysteries to solve.\n\nA short game set amidst the rubble of a long-dead planet.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003A301D48E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003A301D48E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003A301D48E000/screen/1",
+    "http://api.nlib.cc/nx/01003A301D48E000/screen/2",
+    "http://api.nlib.cc/nx/01003A301D48E000/screen/3",
+    "http://api.nlib.cc/nx/01003A301D48E000/screen/4",
+    "http://api.nlib.cc/nx/01003A301D48E000/screen/5",
+    "http://api.nlib.cc/nx/01003A301D48E000/screen/6"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "A Western Drama",
+  "publisher": "IV Productions",
+  "releaseDate": "20230522",
+  "description": "A Western Drama is an arcade audiogame with a deep story set in the American frontier of the nineteenth century, starring two bounty hunters, the young Wade and his master Drake.\n\nAs Wade, the player will have to face caravan thieves, robbers, cutthroats, and mercenaries in violent shootouts and fast duels, trying to capture the four most dangerous criminals in the West and get to the heart of Wade's recurring nightmares.\n\nBinaural audio allows players to live in a realistic world, without using any visual feedback. Through binaural audio, the player is immersed in a three-dimensional audio world, that we have designed following the typical atmospheres of spaghetti western stories, full of characters, small outposts, dirt roads, and cities.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100644017AA8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100644017AA8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100644017AA8000/screen/1",
+    "http://api.nlib.cc/nx/0100644017AA8000/screen/2",
+    "http://api.nlib.cc/nx/0100644017AA8000/screen/3"
+  ]
+}

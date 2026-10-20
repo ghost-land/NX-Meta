@@ -1,0 +1,16 @@
+{
+  "name": "Chess Knights: Shinobi",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20210518",
+  "description": "Chess Knights: Shinobi is an original turn-based puzzle game inspired by Chess.\n\nFeaturing:\n\n- All pieces move like in a chess game. You play as a Shinobi Knight who needs to move stealthy through a game board full of Samurai enemies;\n\n- 50 hand-crafted levels with increasing complexity (+ 10 secret \"surreal\" levels. Can you find them?).\n\n-Play in beautiful environments of ancient Japan in the Edo era;\n\n- Originally composed soundtracks;\n\n- A chess game without any chess. This is an original game concept for chess lovers and newcomers alike (you do not need to know any chess to play it).",
+  "bannerUrl": "http://api.nlib.cc/nx/01009D6013CB0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009D6013CB0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009D6013CB0000/screen/1",
+    "http://api.nlib.cc/nx/01009D6013CB0000/screen/2",
+    "http://api.nlib.cc/nx/01009D6013CB0000/screen/3",
+    "http://api.nlib.cc/nx/01009D6013CB0000/screen/4",
+    "http://api.nlib.cc/nx/01009D6013CB0000/screen/5",
+    "http://api.nlib.cc/nx/01009D6013CB0000/screen/6"
+  ]
+}

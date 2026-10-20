@@ -1,0 +1,16 @@
+{
+  "name": "HYNPYTOL",
+  "publisher": "base0",
+  "releaseDate": "20250116",
+  "description": "HYNPYTOL (meaning \"white blood cell\" in Korean) is a retro-themed puzzle action adventure game. Embark on a journey to save a crumbling immune system as a chosen \"Killer T\", guided by a rather grumpy \"Dendritic\". \n\n◆ A simple yet versatile \"high-five\" action\nIn this perilous world, all that the \"Killer T\" can do is \"high-five\". Learn to use your hand for everything: from moving around and talking to other cells, to overcoming obstacles and taking care of infection!\n\n◆ A reimagniation of the 90's visuals and sounds\nHYNPYTOL is inspired by the pixel graphics and sounds of 90's games, and reimagines them with a modern touch for a unique charm. Immerse yourself in this nostalgic world; you may also find some easter eggs along the way!\n\n◆ The immune system: separating \"you\" from \"us\"\nExplore the human body and the various mechanisms of the immune system! The Immunopedia will guide you through the story and its settings. Also, don't miss the achievements! Maybe there's more hiding...?\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100346020880000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100346020880000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100346020880000/screen/1",
+    "http://api.nlib.cc/nx/0100346020880000/screen/2",
+    "http://api.nlib.cc/nx/0100346020880000/screen/3",
+    "http://api.nlib.cc/nx/0100346020880000/screen/4",
+    "http://api.nlib.cc/nx/0100346020880000/screen/5",
+    "http://api.nlib.cc/nx/0100346020880000/screen/6"
+  ]
+}

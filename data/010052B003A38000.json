@@ -1,0 +1,16 @@
+{
+  "name": "The Long Reach",
+  "publisher": "Silver Lining",
+  "releaseDate": "20180315",
+  "description": "The Long Reach takes place in New Hampshire, in the fictional town of Baervox. The game draws its inspiration from Lone Survivor and The Cave and all the classical adventures (except that The Long Reach is set in the present day). You don't play in a post-apocalyptic world or explore a fairy-filled fantasy world. You’re in the thick of it, just around the corner from the place where you buy your groceries.",
+  "bannerUrl": "http://api.nlib.cc/nx/010052B003A38000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010052B003A38000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010052B003A38000/screen/1",
+    "http://api.nlib.cc/nx/010052B003A38000/screen/2",
+    "http://api.nlib.cc/nx/010052B003A38000/screen/3",
+    "http://api.nlib.cc/nx/010052B003A38000/screen/4",
+    "http://api.nlib.cc/nx/010052B003A38000/screen/5",
+    "http://api.nlib.cc/nx/010052B003A38000/screen/6"
+  ]
+}

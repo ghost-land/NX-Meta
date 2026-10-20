@@ -1,0 +1,16 @@
+{
+  "name": "Blobufo",
+  "publisher": "Weakfish Studio",
+  "releaseDate": "20220916",
+  "description": "Blobufo Platformer Game with Diffrent Mechanic on Space!\n\nOur character moves with the power splash from his weapon.\nComplete the levels in this space without hitting the enemies and Thorns!\nDon't look easy! Seriously hard!\nDo you think it would be easy to move through space and pass the creatures? No!\n\nFeatures;\nDiffrent Platformer Gameplay,\n15 Completable Challenging Levels,\nEnemies and\nGalaxy!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D0901963E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D0901963E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D0901963E000/screen/1",
+    "http://api.nlib.cc/nx/0100D0901963E000/screen/2",
+    "http://api.nlib.cc/nx/0100D0901963E000/screen/3",
+    "http://api.nlib.cc/nx/0100D0901963E000/screen/4",
+    "http://api.nlib.cc/nx/0100D0901963E000/screen/5",
+    "http://api.nlib.cc/nx/0100D0901963E000/screen/6"
+  ]
+}

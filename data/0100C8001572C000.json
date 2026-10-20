@@ -1,0 +1,16 @@
+{
+  "name": "Reknum DX",
+  "publisher": "Nape Games",
+  "releaseDate": "20220914",
+  "description": "Accompany Cheri on her first mission in REKNUM DX, an upgraded version of the original Reknum exclusive to this edition. It includes new character sprites, a fully remastered HD HUD and world, new mechanics, and an extended story to explain her connection to the PLOIDS and the end of the adventure.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C8001572C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C8001572C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C8001572C000/screen/1",
+    "http://api.nlib.cc/nx/0100C8001572C000/screen/2",
+    "http://api.nlib.cc/nx/0100C8001572C000/screen/3",
+    "http://api.nlib.cc/nx/0100C8001572C000/screen/4",
+    "http://api.nlib.cc/nx/0100C8001572C000/screen/5",
+    "http://api.nlib.cc/nx/0100C8001572C000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Techno Tanks",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20210506",
+  "description": "Be ready for the Techno Tank experience!\nDeafest the enemy tanks while dodging their deadly bullets.\nImprove your aim and maneuver skills while surviving a crazy retro bullet hell.\nLevel by level the enemy's tanks get faster, smarter, and deadlier.\nCan you defeat them all?\n\nPlay alone, together with friends, or against your friends as the game features the following game modes:\n- Singleplayer Stage Mode \n- Singleplayer and Co-op Retro Mode with more than 50 levels\n- VS Mode for FFA Battles for up to 4 players",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F4A01487A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F4A01487A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F4A01487A000/screen/1",
+    "http://api.nlib.cc/nx/0100F4A01487A000/screen/2",
+    "http://api.nlib.cc/nx/0100F4A01487A000/screen/3",
+    "http://api.nlib.cc/nx/0100F4A01487A000/screen/4",
+    "http://api.nlib.cc/nx/0100F4A01487A000/screen/5",
+    "http://api.nlib.cc/nx/0100F4A01487A000/screen/6"
+  ]
+}

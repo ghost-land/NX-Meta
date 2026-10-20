@@ -1,0 +1,16 @@
+{
+  "name": "Hello Neighbor Hide and Seek",
+  "publisher": "tinyBuild Games",
+  "releaseDate": "20181207",
+  "description": "Hello Neighbor: Hide and Seek follows the tragic story of the Neighbor’s family in this dramatic prequel to Hello Neighbor. Experience playing a game of hide-and-seek with your brother as you both deal with a loss of a family member. The game explains events that lead up to the original Stealth Horror hit Hello Neighbor.",
+  "bannerUrl": "http://api.nlib.cc/nx/010092B00C4F0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010092B00C4F0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010092B00C4F0000/screen/1",
+    "http://api.nlib.cc/nx/010092B00C4F0000/screen/2",
+    "http://api.nlib.cc/nx/010092B00C4F0000/screen/3",
+    "http://api.nlib.cc/nx/010092B00C4F0000/screen/4",
+    "http://api.nlib.cc/nx/010092B00C4F0000/screen/5",
+    "http://api.nlib.cc/nx/010092B00C4F0000/screen/6"
+  ]
+}

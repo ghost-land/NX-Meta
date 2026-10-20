@@ -1,0 +1,16 @@
+{
+  "name": "Popeye",
+  "publisher": "Sabec",
+  "releaseDate": "20211104",
+  "description": "The official Popeye game in which you play the spinach eating sailor in this modernized adaptation of the classic arcade game. \n\nThe objective of the game is to get the highest score by completing  as many levels as you can by collecting hearts and letters thrown down by Olive all while trying to avoid the dangers of the witch, vulture and Popeye's rival Brutus.\n\nFind and eat the spinach and get the special powers needed to punch your enemies into the sea and become faster at collecting the items before they return.\n\nPopeye is a simple, pick up and play, fast action, fun game which anyone can play, but be warned winning a high score won't come easy.",
+  "bannerUrl": "http://api.nlib.cc/nx/010058E014EBC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010058E014EBC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010058E014EBC000/screen/1",
+    "http://api.nlib.cc/nx/010058E014EBC000/screen/2",
+    "http://api.nlib.cc/nx/010058E014EBC000/screen/3",
+    "http://api.nlib.cc/nx/010058E014EBC000/screen/4",
+    "http://api.nlib.cc/nx/010058E014EBC000/screen/5",
+    "http://api.nlib.cc/nx/010058E014EBC000/screen/6"
+  ]
+}

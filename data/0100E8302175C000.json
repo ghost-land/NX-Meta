@@ -1,0 +1,16 @@
+{
+  "name": "Shalnor: Silverwind Saga",
+  "publisher": "Johnny Ostad",
+  "releaseDate": "20250122",
+  "description": "Rynna has arrived on one of Shalnor's most dangerous islands. Once a haven for tourism, now the island is abandoned due to the presence of the Slime Queen. To prove her worth, our young Elven hero has to overcome the challenges of the island by finding powerful weapons and items to use against the hordes of monsters in challenging gauntlet-style combat encounters.\n\nFEATURES:\n- Large variety of monsters as well as \"Elite\" Monsters.\n- Unique dungeons with engaging boss fights.\n- An arsenal of weapons and items that add variation to combat.\n- Quick and swift movement that makes fighting hordes of monsters fun.\n- Multiple vibrant zones each beautifully hand-crafted.\n- Trick monsters by walking them into traps.\n- Find Rubies and Emeralds to increase your Health and Stamina.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E8302175C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E8302175C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E8302175C000/screen/1",
+    "http://api.nlib.cc/nx/0100E8302175C000/screen/2",
+    "http://api.nlib.cc/nx/0100E8302175C000/screen/3",
+    "http://api.nlib.cc/nx/0100E8302175C000/screen/4",
+    "http://api.nlib.cc/nx/0100E8302175C000/screen/5",
+    "http://api.nlib.cc/nx/0100E8302175C000/screen/6"
+  ]
+}

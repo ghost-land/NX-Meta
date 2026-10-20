@@ -1,0 +1,16 @@
+{
+  "name": "Immortus Temporus",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20211013",
+  "description": "Enter a puzzle experience that defies conventional design! Immortus Temporus is a game created by a speedrunner for those who love to hone their skills through practice, trial and error, determination and relentless replay. Stages have numerous ways to beat them. Crashing into hazards will deactivate them and teleport the player back to the spawn point, allowing free passage from A to B, but is that the fastest route?\n\nThe actions you take in Immortus Temporus persist through death, whether it’s collecting a pick-up or destroying an obstacle. Levels only reset when you run out of time. Each attempt will challenge you to outperform yourself, to think outside the box and break the game!\n\nFeatures:\n\n• Speedrun your way through dozens of puzzling levels.\n• Respawn instantly upon death!\n• Push your skills to the limit with zero RNG sabotage.\n• Discover tricks and exploits intentionally layered within the design.\n• Skip any 30 levels and still finish the game!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100211015A7E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100211015A7E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100211015A7E000/screen/1",
+    "http://api.nlib.cc/nx/0100211015A7E000/screen/2",
+    "http://api.nlib.cc/nx/0100211015A7E000/screen/3",
+    "http://api.nlib.cc/nx/0100211015A7E000/screen/4",
+    "http://api.nlib.cc/nx/0100211015A7E000/screen/5",
+    "http://api.nlib.cc/nx/0100211015A7E000/screen/6"
+  ]
+}

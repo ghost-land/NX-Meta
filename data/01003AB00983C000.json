@@ -1,0 +1,16 @@
+{
+  "name": "Lethal League Blaze",
+  "publisher": "Team Reptile",
+  "releaseDate": "20190712",
+  "description": "Lethal League Blaze is an intense, high speed ball game, with unique characters, outta sight sounds and none of that weak shit. In Shine City, the anti-gravity ball game has long been illegal. The group who kept playing was dubbed the Lethal League. Even now, with their sport pushed underground, players and crews compete in the League for challenge and respect.\n\nIn the game, the goal is to beat your opponents with the ball. You can manipulate the ball to get the perfect angle and use your character's special moves to surprise them. But every strike speeds up the ball or even doubles its speed, up to shatteringly extreme velocities. You can tag the ball to your color, but on those high speeds the tables are quickly turned. You can play locally with friends and foes, by yourself in the singleplayer modes or battle it out online!",
+  "bannerUrl": "http://api.nlib.cc/nx/01003AB00983C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003AB00983C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003AB00983C000/screen/1",
+    "http://api.nlib.cc/nx/01003AB00983C000/screen/2",
+    "http://api.nlib.cc/nx/01003AB00983C000/screen/3",
+    "http://api.nlib.cc/nx/01003AB00983C000/screen/4",
+    "http://api.nlib.cc/nx/01003AB00983C000/screen/5",
+    "http://api.nlib.cc/nx/01003AB00983C000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Neon Junctions",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20190607",
+  "description": "Neon Junctions is a First Person Puzzle-Platformer imbued with atmosphere of synthwave and 80s. \n\nPlunge into cyberspace and try to overcome 34 levels capable to challenge not only your savvy but also dexterity. Capture and move conductive cubes, close electrical circuits and restore power of the interactive objects around you to get to the teleportation plant which is able to take you to the next level of the game!\n\nFeatures: \n * 34 levels\n * Increasing puzzle difficulty\n * 3D levels\n * Synth-filled 80s-inspired vaporware soundtrack",
+  "bannerUrl": "http://api.nlib.cc/nx/010085900E3B6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010085900E3B6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010085900E3B6000/screen/1",
+    "http://api.nlib.cc/nx/010085900E3B6000/screen/2",
+    "http://api.nlib.cc/nx/010085900E3B6000/screen/3",
+    "http://api.nlib.cc/nx/010085900E3B6000/screen/4",
+    "http://api.nlib.cc/nx/010085900E3B6000/screen/5",
+    "http://api.nlib.cc/nx/010085900E3B6000/screen/6"
+  ]
+}

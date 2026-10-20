@@ -1,0 +1,16 @@
+{
+  "name": "Morphite",
+  "publisher": "Blowfish Studios",
+  "releaseDate": "20171102",
+  "description": "Set in a distant future where humanity has colonized the far reaches of space, Morphite follows the story of Myrah Kale, a young woman whose life takes a sudden turn when a simple mission develops into an epic interstellar journey revealing her mysterious past and relation to a coveted substance called Morphite.\n \nMyrah will voyage to the furthest corners of space and explore uncharted procedurally-generated planets, each with diverse landscapes and teeming with exotic flora and fauna. With the help of a scanner, Myrah will sell biological information for ship, suit and weapon upgrades.\n \nInside Myrah’s vessel, players will engage in random encounters with real-time space combat, trade with other travelers across the galaxy and navigate outer space with Morphite’s easy-to-use Starmap system.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100776003F0C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100776003F0C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100776003F0C000/screen/1",
+    "http://api.nlib.cc/nx/0100776003F0C000/screen/2",
+    "http://api.nlib.cc/nx/0100776003F0C000/screen/3",
+    "http://api.nlib.cc/nx/0100776003F0C000/screen/4",
+    "http://api.nlib.cc/nx/0100776003F0C000/screen/5",
+    "http://api.nlib.cc/nx/0100776003F0C000/screen/6"
+  ]
+}

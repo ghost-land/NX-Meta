@@ -1,0 +1,16 @@
+{
+  "name": "Blazing Strike",
+  "publisher": "Numskull Games",
+  "releaseDate": "20241016",
+  "description": "After surviving an apocalyptic event, the remains of human civilization are in disarray. In this dystopian world run by a corrupt and murderous government, a resistance group is ready to stand up for the people. Will they succeed in overthrowing these evil autocrats?\n\nDive into the world of Blazing Strike and join the battle to face the strongest fighters in this post-apocalyptic world as they are destined to clash in a long journey to victory.\n\nClassic meets Modern: Blazing Strike’s rush system creates a new way to experience a classic 2D fighting game. Select from 14 unique playable fighters and fight against your friends, the CPU, or play online matches against fighters from around the globe with zero network delay, thanks to Rollback Netcode.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010015201EA92000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010015201EA92000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010015201EA92000/screen/1",
+    "http://api.nlib.cc/nx/010015201EA92000/screen/2",
+    "http://api.nlib.cc/nx/010015201EA92000/screen/3",
+    "http://api.nlib.cc/nx/010015201EA92000/screen/4",
+    "http://api.nlib.cc/nx/010015201EA92000/screen/5",
+    "http://api.nlib.cc/nx/010015201EA92000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Dissection",
+  "publisher": "RandomSpin Games",
+  "releaseDate": "20220331",
+  "description": "- Avoid meeting a 'living corpse'.\n- Hide from him in closets.\n- Find key items to progress through the game.\n- Find the key to the front door and run away from this house.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100751017FC8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100751017FC8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100751017FC8000/screen/1",
+    "http://api.nlib.cc/nx/0100751017FC8000/screen/2",
+    "http://api.nlib.cc/nx/0100751017FC8000/screen/3",
+    "http://api.nlib.cc/nx/0100751017FC8000/screen/4",
+    "http://api.nlib.cc/nx/0100751017FC8000/screen/5",
+    "http://api.nlib.cc/nx/0100751017FC8000/screen/6"
+  ]
+}

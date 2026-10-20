@@ -1,0 +1,13 @@
+{
+  "name": "Just Dance® 2018 Demo",
+  "publisher": "Ubisoft",
+  "releaseDate": "20171003",
+  "description": "Try Just Dance 2018 for free now! Turn up the volume and dance your heart out now on \"24K Magic\" by Bruno Mars.\n\nJust Dance 2018 is coming back this fall on October 24, 2017 with over 40 tracks at launch, and more than 300 songs available with Just Dance Unlimited and the 3-month trial included!",
+  "bannerUrl": "http://api.nlib.cc/nx/010043D004CF6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010043D004CF6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010043D004CF6000/screen/1",
+    "http://api.nlib.cc/nx/010043D004CF6000/screen/2",
+    "http://api.nlib.cc/nx/010043D004CF6000/screen/3"
+  ]
+}

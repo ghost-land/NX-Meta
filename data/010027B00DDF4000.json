@@ -1,0 +1,16 @@
+{
+  "name": "Sudoku Relax",
+  "publisher": "G-MODE",
+  "releaseDate": "20190418",
+  "description": "The familiar \"Sudoku\" has become a healing game.\n\nA total of 300 questions on EASY, NORMAL and HARD difficulty have been recorded.\nYou will be healed with game effects and background music while you're undressing.\n\nThe background effect and BGM will unlock as you clear the problem.\nThere are 3 background effects and 3 tracks of BGM.\n\nIt is possible to interrupt even time-consuming problems,\nYou can play continuously anytime and anywhere.\n\nIt supports touch operation.\nLike a smartphone app, you can play casually with touch operation.",
+  "bannerUrl": "http://api.nlib.cc/nx/010027B00DDF4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010027B00DDF4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010027B00DDF4000/screen/1",
+    "http://api.nlib.cc/nx/010027B00DDF4000/screen/2",
+    "http://api.nlib.cc/nx/010027B00DDF4000/screen/3",
+    "http://api.nlib.cc/nx/010027B00DDF4000/screen/4",
+    "http://api.nlib.cc/nx/010027B00DDF4000/screen/5",
+    "http://api.nlib.cc/nx/010027B00DDF4000/screen/6"
+  ]
+}

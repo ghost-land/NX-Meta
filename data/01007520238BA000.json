@@ -1,0 +1,16 @@
+{
+  "name": "Adrenaline Rampage",
+  "publisher": "Games Harbor",
+  "releaseDate": "20251018",
+  "description": "Choose characters and skills to rush through the space city, kill ugly BOSSes, and survive.\n\nKey Features:\n- Combination of survivor and platformer genres\n- Procedural level generation\n- Unbridled progression in core gameplay\n- Each character has a unique set of weapons and skills\n- Weapons can usually be upgraded to a super-powerful evolution\n- A hub with functionality that needs to be opened for energy. You get energy for killing techno-zombies.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01007520238BA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007520238BA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007520238BA000/screen/1",
+    "http://api.nlib.cc/nx/01007520238BA000/screen/2",
+    "http://api.nlib.cc/nx/01007520238BA000/screen/3",
+    "http://api.nlib.cc/nx/01007520238BA000/screen/4",
+    "http://api.nlib.cc/nx/01007520238BA000/screen/5",
+    "http://api.nlib.cc/nx/01007520238BA000/screen/6"
+  ]
+}

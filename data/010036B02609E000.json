@@ -1,0 +1,18 @@
+{
+  "name": "Pit Panic",
+  "publisher": "Flying Rat Studio",
+  "releaseDate": "20260721",
+  "description": "Pit Panic is a challenging rogue-like 2D platformer with fast pace, unique gameplay and environmental puzzles.\n\nTake on the role of a curious archeologist and race through handcrafted levels, take down ancient bosses and jump up like your pants are on fire.\n\nGET HOOKED!\nWield the mysterious hook – a powerful omnitool – that digs through blocks, swings you around and unlocks hidden treasures. Master physics-driven movement to avoid deadly traps and blast through interactive blocks. Turn sand into glass, jelly into fire and bridges into weapons, if necessary.\n\nTHINK FAST, RUN FASTER\nYou will have to dig deep to return to the surface. There are many ways to die, but only one way to survive: up. Get in the flow, make split-second decisions and even sacrifice your health for power-ups to escape the crumbling Aztec temple.\n\nEVERY RUN IS DIFFERENT\nDiscover four distinct biomes, each with unique puzzles, enemies and art styles. Over 1,000 unique handcrafted levels mix things up every time you play. Or build your own levels to put fellow adventurers to the ultimate test.\n\nCHALLENGE OTHER PLAYERS\nThe real fun starts after you climb out of the pit. Compare your skills with other players, beat their best times and complete unique daily challenges to receive precious rewards.",
+  "bannerUrl": "http://api.nlib.cc/nx/010036B02609E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010036B02609E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010036B02609E000/screen/1",
+    "http://api.nlib.cc/nx/010036B02609E000/screen/2",
+    "http://api.nlib.cc/nx/010036B02609E000/screen/3",
+    "http://api.nlib.cc/nx/010036B02609E000/screen/4",
+    "http://api.nlib.cc/nx/010036B02609E000/screen/5",
+    "http://api.nlib.cc/nx/010036B02609E000/screen/6"
+  ],
+  "version": 0,
+  "size": 1320942856
+}

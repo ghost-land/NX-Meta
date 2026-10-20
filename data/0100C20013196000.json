@@ -1,0 +1,16 @@
+{
+  "name": "OctaFight",
+  "publisher": "Pixel Almost Perfect",
+  "releaseDate": "20201210",
+  "description": "OctaFight is an explosive combat game. A tribute to good old couch multiplayer titles, offering intense and devastating versus matches.\n\nCreate your own fighting rules, from fairly competitive to deliciously chaotic, compose with various bomb types, crazy game modes and momentous arenas.\n\nWith his amazing overpixelated Art, OctaFight declare his love to minimalism and refined design, and explore the promises of the ultra-low definition!\n\nFeatures :\n- Simple controls and deep gameplay\n- From 2 to 8 players in a same couch\n- Create your own fighting rules\n- Overpixelated Art",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C20013196000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C20013196000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C20013196000/screen/1",
+    "http://api.nlib.cc/nx/0100C20013196000/screen/2",
+    "http://api.nlib.cc/nx/0100C20013196000/screen/3",
+    "http://api.nlib.cc/nx/0100C20013196000/screen/4",
+    "http://api.nlib.cc/nx/0100C20013196000/screen/5",
+    "http://api.nlib.cc/nx/0100C20013196000/screen/6"
+  ]
+}

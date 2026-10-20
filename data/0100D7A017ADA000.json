@@ -1,0 +1,15 @@
+{
+  "name": "ABC Match with Me",
+  "publisher": "Prison Games",
+  "releaseDate": "20220304",
+  "description": "A great introduction to puzzle games for your child that develops logical thinking, problem solving and many other skills from early childhood! Smart interface designed in a child-friendly style will allow your child to enjoy the game as soon as they start it!\n\nFeatures:\n★ Learn the alphabet by matching letter shapes from A to Z!\n★ Discover interesting facts about the animal world.\n★ Nearly 100 levels divided into three difficulties.\n★ Develop fine motor skills by dragging objects.\n★ Listen and repeat to improve pronunciation.\n★ Take your first steps in learning languages.\n★ Fun animations to keep kids interested.\n★ Connect the shapes with colorful crayons.\n★ Enjoy a smart interface designed for children.\n★ Interactive graphics and sounds to make playing fun.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D7A017ADA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D7A017ADA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D7A017ADA000/screen/1",
+    "http://api.nlib.cc/nx/0100D7A017ADA000/screen/2",
+    "http://api.nlib.cc/nx/0100D7A017ADA000/screen/3",
+    "http://api.nlib.cc/nx/0100D7A017ADA000/screen/4",
+    "http://api.nlib.cc/nx/0100D7A017ADA000/screen/5"
+  ]
+}

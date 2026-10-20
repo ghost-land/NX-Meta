@@ -1,0 +1,16 @@
+{
+  "name": "Official Spacefarer Card Game",
+  "publisher": "SPACEFARER GAMES",
+  "releaseDate": "20231201",
+  "description": "Introducing the Official Spacefarer Card Game!\nFeaturing decks from Spacefarer games, including The Dawning Clocks of Time, amazin' George, Jacob's Quest, SHIMAZU and amazin' Mage, battle against AI with a traditional elemental based team.\n-Score points in two rounds to beat your opponent. Each card is worth different points!\n-Keep on dealing cards from your hand in a fast battle of wits!\n-Featuring wonderful animations and smooth transitions of play, just like a real card game.\n-Fair and balanced play between playing different decks.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F4301D6B8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F4301D6B8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F4301D6B8000/screen/1",
+    "http://api.nlib.cc/nx/0100F4301D6B8000/screen/2",
+    "http://api.nlib.cc/nx/0100F4301D6B8000/screen/3",
+    "http://api.nlib.cc/nx/0100F4301D6B8000/screen/4",
+    "http://api.nlib.cc/nx/0100F4301D6B8000/screen/5",
+    "http://api.nlib.cc/nx/0100F4301D6B8000/screen/6"
+  ]
+}

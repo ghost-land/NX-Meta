@@ -1,0 +1,16 @@
+{
+  "name": "Hextreme Void",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20260121",
+  "description": "Are you ready for a brick breaker with a twist? In Hextreme Void, you can’t lose! Instead of lives or game overs, the challenge comes from progression and optimization in order to complete all levels within a certain time limit. Each playthrough takes you through one of five distinct Voids, with 50 levels per Void. Stages are presented in high-def 2D style with hexagonal bricks arranged in increasingly complex patterns. Your ball moves automatically, but it’s up to you to decide how released powerups are used.\n\nAs you advance, you’ll earn experience and choose between various buffs that can enhance ball stats, increase your time limit, multiply coin output and more! Every run feels unique thanks to random upgrade paths and temporary powerups that appear. During runs, collect coins to unlock permanent upgrades, letting you grow stronger and tackle harder Voids with new strategies the more you play!\n\n• Battle across the Void by optimizing the movement of your automated ball!\n• Choose from a huge variety of upgrades during gameplay to clear the field faster.\n• Master 250 stages across 5 uniquely themed worlds!\n• Collect coins to spend on permanent upgrades.\n• Enjoy colorful HD presentation and practically limitless replay value!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E6702616E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E6702616E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E6702616E000/screen/1",
+    "http://api.nlib.cc/nx/0100E6702616E000/screen/2",
+    "http://api.nlib.cc/nx/0100E6702616E000/screen/3",
+    "http://api.nlib.cc/nx/0100E6702616E000/screen/4",
+    "http://api.nlib.cc/nx/0100E6702616E000/screen/5",
+    "http://api.nlib.cc/nx/0100E6702616E000/screen/6"
+  ]
+}

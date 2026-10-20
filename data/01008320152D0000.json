@@ -1,0 +1,16 @@
+{
+  "name": "Alveole",
+  "publisher": "Sometimes You",
+  "releaseDate": "20210901",
+  "description": "Alveole is a short experimental project that explores the possibilities of the player in a restricted environment, where there is only one game mechanic, elevated to the absolute.",
+  "bannerUrl": "http://api.nlib.cc/nx/01008320152D0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008320152D0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008320152D0000/screen/1",
+    "http://api.nlib.cc/nx/01008320152D0000/screen/2",
+    "http://api.nlib.cc/nx/01008320152D0000/screen/3",
+    "http://api.nlib.cc/nx/01008320152D0000/screen/4",
+    "http://api.nlib.cc/nx/01008320152D0000/screen/5",
+    "http://api.nlib.cc/nx/01008320152D0000/screen/6"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Isle of Reveries",
+  "publisher": "Electric Airship",
+  "releaseDate": "20260904",
+  "description": "Take control of an owl named Lief as they make a pilgrimage skybound to the forsaken Isle of Reveries, where it's said that any wish can be granted. Players will fight through six mysterious dungeons, each with their own unique themes and puzzles, and meet charming anthropomorphic characters along the way in this retro-inspired adventure.\n\nUse your fairy companion's magic to duplicate and spawn a variety of objects in the world, and discover how they interact with your robust set of items to solve head-scratching puzzles.\n\n* EXPLORE A VAST OVERWORLD & CONQUER DUNGEONS\nEight different biomes in the overworld. Six different dungeons, each with their own unique theme, mechanics, and key item. \n\n* COPY & SPAWN OBJECTS\nUse Lief's fairy companion to copy and spawn a myriad of objects, using them to fight puzzles and fight terrifying enemies.\n\n* FORGE A COMMUNITY\nConstruct various buildings and forge a township. Characters that Lief saves throughout the game will move to the township, offering new quests and stories.",
+  "bannerUrl": "http://api.nlib.cc/nx/010034B029D48000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010034B029D48000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010034B029D48000/screen/1",
+    "http://api.nlib.cc/nx/010034B029D48000/screen/2",
+    "http://api.nlib.cc/nx/010034B029D48000/screen/3",
+    "http://api.nlib.cc/nx/010034B029D48000/screen/4",
+    "http://api.nlib.cc/nx/010034B029D48000/screen/5",
+    "http://api.nlib.cc/nx/010034B029D48000/screen/6"
+  ],
+  "version": 0,
+  "size": 333455584
+}

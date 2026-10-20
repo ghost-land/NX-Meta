@@ -1,0 +1,16 @@
+{
+  "name": "NetherWorld",
+  "publisher": "Selecta Play",
+  "releaseDate": "20250912",
+  "description": "NetherWorld is a 2D pixel art action-adventure narrative experience about a jinxed jellyfish handling marriage crisis with alcohol, drugs, sex and blows.\n\nIn short, an irreverent adventure in a decadent world with high doses of absurd and black humour.\n\nSTORY: Hobnob with addicted magicians, enterprising prostitutes, mobsters, sociopathic children, old perverts and more to dig yourself out of the emotional hole you're in. Or at least try it.\n\nMINI-GAMES: Get money and items by participating in drink competitions, sexual encounters, shooting things or even controlling a tick named Joe through nasty underground rogue-like dungeons.\n\nFINAL BOSSES: Face (or rather survive) grotesque bosses using whatever you have at hand, be it weapons, stage elements or just NOTHING. The jinx influences these circumstances.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B9901F1F2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B9901F1F2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B9901F1F2000/screen/1",
+    "http://api.nlib.cc/nx/0100B9901F1F2000/screen/2",
+    "http://api.nlib.cc/nx/0100B9901F1F2000/screen/3",
+    "http://api.nlib.cc/nx/0100B9901F1F2000/screen/4",
+    "http://api.nlib.cc/nx/0100B9901F1F2000/screen/5",
+    "http://api.nlib.cc/nx/0100B9901F1F2000/screen/6"
+  ]
+}

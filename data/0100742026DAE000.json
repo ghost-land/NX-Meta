@@ -1,0 +1,16 @@
+{
+  "name": "1 CatLine",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20260311",
+  "description": "Welcome to 1 CatLine, a brainteasing precision platformer where you must guide a daring and adventurous heroine through single-screen challenges, with 50 unique levels spanning a variety of colorful pixel art biomes.\n\nRun and leap through increasingly complex stages, freezing time and shifting perspectives to maneuver your cat friend around the environment to push crates, activate switches or create improvised platforms using its long furry body! Are you clever enough to clear all the challenges?\n\n• Traverse increasingly complex platforming stages.\n• Use your feline companion to form improvised platforms and push objects.\n• Freeze time mid-air and maneuver your cat buddy to avoid pitfalls.\n• Activate switches in the correct order to toggle barriers.\n• Enjoy 50 levels of brainteasing retro goodness.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100742026DAE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100742026DAE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100742026DAE000/screen/1",
+    "http://api.nlib.cc/nx/0100742026DAE000/screen/2",
+    "http://api.nlib.cc/nx/0100742026DAE000/screen/3",
+    "http://api.nlib.cc/nx/0100742026DAE000/screen/4",
+    "http://api.nlib.cc/nx/0100742026DAE000/screen/5",
+    "http://api.nlib.cc/nx/0100742026DAE000/screen/6"
+  ]
+}

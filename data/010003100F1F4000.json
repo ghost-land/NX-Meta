@@ -1,0 +1,15 @@
+{
+  "name": "CrunchTime",
+  "publisher": "Navila Software Japan",
+  "releaseDate": "20191010",
+  "description": "Knowing that the condition for getting off work is to find 4 bugs in the code world, the adventure begins...\n\nClassic platformer style.\nThe world of ASCII, full of old-school flavor.\nWell-designed levels and boss battles.\nCollect emails from your boss and experience the mood of crunch time programmers.",
+  "bannerUrl": "http://api.nlib.cc/nx/010003100F1F4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010003100F1F4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010003100F1F4000/screen/1",
+    "http://api.nlib.cc/nx/010003100F1F4000/screen/2",
+    "http://api.nlib.cc/nx/010003100F1F4000/screen/3",
+    "http://api.nlib.cc/nx/010003100F1F4000/screen/4",
+    "http://api.nlib.cc/nx/010003100F1F4000/screen/5"
+  ]
+}

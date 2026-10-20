@@ -1,0 +1,16 @@
+{
+  "name": "Crumble",
+  "publisher": "Brute Force",
+  "releaseDate": "20220103",
+  "description": "Crumble is a physics platformer with a grappling tongue mechanic.\nJoin the chaos of unstable platforms and unexpected destructions with this cute blue ball.\nTry to progress in exciting levels falling around you.\nMove like a Slime, jump like a Ball and swing with your tongue!\nFeatures:\n-A campaign mode with an increasingly crumbling world\n-A multiplayer Party Mode to play with a friend\n-Unlock new skins\n-Online leader boards\n-High dynamic and interactive physics",
+  "bannerUrl": "http://api.nlib.cc/nx/010011001458E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010011001458E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010011001458E000/screen/1",
+    "http://api.nlib.cc/nx/010011001458E000/screen/2",
+    "http://api.nlib.cc/nx/010011001458E000/screen/3",
+    "http://api.nlib.cc/nx/010011001458E000/screen/4",
+    "http://api.nlib.cc/nx/010011001458E000/screen/5",
+    "http://api.nlib.cc/nx/010011001458E000/screen/6"
+  ]
+}

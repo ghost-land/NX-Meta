@@ -1,0 +1,16 @@
+{
+  "name": "Metroid Prime™ 4: Beyond",
+  "publisher": "Nintendo",
+  "releaseDate": "20251204",
+  "description": "Deadly sharpshooter Sylux has finally caught up with renowned bounty hunter Samus Aran! After an unexpected accident in the wake of their clash, Samus finds herself transported to Viewros—a mysterious planet once inhabited by an ancient race. Now she must explore this planet, all while battling the strange creatures that inhabit it, to find her way home.\n \nScan your surroundings for clues, make the most of your equipment and weapons, and use Samus’s newfound psychic abilities—and her technologically advanced bike, the Vi-O-La—to traverse and explore the environment. Operate mechanisms, control your charge beam, and more—you’ll need every tool at your disposal to survive and escape Viewros!",
+  "bannerUrl": "http://api.nlib.cc/nx/010019A01E2F2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010019A01E2F2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010019A01E2F2000/screen/1",
+    "http://api.nlib.cc/nx/010019A01E2F2000/screen/2",
+    "http://api.nlib.cc/nx/010019A01E2F2000/screen/3",
+    "http://api.nlib.cc/nx/010019A01E2F2000/screen/4",
+    "http://api.nlib.cc/nx/010019A01E2F2000/screen/5",
+    "http://api.nlib.cc/nx/010019A01E2F2000/screen/6"
+  ]
+}

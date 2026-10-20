@@ -1,0 +1,16 @@
+{
+  "name": "Mortal Kombat 11",
+  "publisher": "WB Games",
+  "releaseDate": "20190423",
+  "description": "Mortal Kombat 11 is the latest installment in the critically acclaimed franchise, providing a deeper and more personalized experience than ever before. The all new Custom Character Variations give you unprecedented control of your fighters to make them your own. Featuring a roster of new and returning Klassic Fighters, Mortal Kombat's best-in-class cinematic story mode continues the epic saga over 25 years in the making. Players take on the role of a variety of past and present characters in a time-bending new narrative that pits Raiden against Kronika, the Keeper of Time. Packed to the brim with multiple modes, including the Towers of Time, allowing players to test their skills through various challenges, providing more ways than ever to continue the Mortal Kombat 11 experience.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F2200C984000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F2200C984000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F2200C984000/screen/1",
+    "http://api.nlib.cc/nx/0100F2200C984000/screen/2",
+    "http://api.nlib.cc/nx/0100F2200C984000/screen/3",
+    "http://api.nlib.cc/nx/0100F2200C984000/screen/4",
+    "http://api.nlib.cc/nx/0100F2200C984000/screen/5",
+    "http://api.nlib.cc/nx/0100F2200C984000/screen/6"
+  ]
+}

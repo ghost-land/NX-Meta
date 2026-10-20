@@ -1,0 +1,16 @@
+{
+  "name": "MythForce",
+  "publisher": "Beamdog",
+  "releaseDate": "20230912",
+  "description": "Inspired by beloved Saturday morning cartoons, MythForce unites swords & sorcery with gripping 1st-person combat in a new roguelite adventure.\nBrave the dungeon alone or join forces with friends to take on an ever-changing Castle of Evil!\n\nSaturday Morning Cartoons Are Back\n\nStep into a cartoon fantasy world where you bring your chosen hero to life. Scratch that nostalgic itch with wholesome fun that's easy to pick up and play (but tough to master).\nBecome the star of a Saturday morning cartoon episode. Pick your class and tailor your skill tree to match your ideal playstyle—whether you prefer brute force, finesse, or arcane mastery.\nLevel up as you explore the dungeon, uncovering magical artifacts and upgrades to make you say “I HAVE THE POWER!”\n\nGripping First-person Swords & Sorcery\n\nEngage in intense first-person combat, making every swing, spell, and strike feel epic.\n\nExplore An Ever-Changing Castle Of Evil\n\nFresh adventures await with each new attempt to storm the keep! Explore a replayable dungeon with treasure, traps, and terrors lurking around every corner. Destroy the Crystals, Slot the Medallion, Discharge the Relic, and other unique encounter objectives shake up the experience, keeping you on your toes. Combine elemental status effects to shape your battle strategy and transform the way you play Solo and Multiplayer.\n\nTeam Up To Fight Evil\n\nBrave the dungeon alone or join forces in co-op mode for up to 4 players\n\nMeet the Heroes of MythForce: Victoria the valiant Knight joins forces with Rico the charming Rogue, Maggie the wise Mage, and Hawkins the deadly Hunter. Together, they form the legendary team known as… MythForce!\n\nThese courageous champions are all that stand between Eldryth and the tyranny of the vampire lord, Deadalus. Will our heroes prevail against the many malevolent minions, tricks, and traps in his ever-changing dungeon?",
+  "bannerUrl": "http://api.nlib.cc/nx/010006B018F48000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010006B018F48000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010006B018F48000/screen/1",
+    "http://api.nlib.cc/nx/010006B018F48000/screen/2",
+    "http://api.nlib.cc/nx/010006B018F48000/screen/3",
+    "http://api.nlib.cc/nx/010006B018F48000/screen/4",
+    "http://api.nlib.cc/nx/010006B018F48000/screen/5",
+    "http://api.nlib.cc/nx/010006B018F48000/screen/6"
+  ]
+}

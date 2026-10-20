@@ -1,0 +1,16 @@
+{
+  "name": "Bounty Battle",
+  "publisher": "Silver Lining",
+  "releaseDate": "20200910",
+  "description": "Bounty Battle is the ultimate indie fighting game: a new 2D fighter, where you can pit your favourite Indie heroes against one another! Indie heroes from games like Guacamelee! Dead Cells, Darkest Dungeon Owlboy & more battle it out in this fighter frenzy. Bounty Battle features over 25 fighters from over 20 different Indie games! Each fighter comes with their own Minion companion and unique abilities. Battle across levels inspired from the fighters’ native game worlds with up to 3 other players.\n•\tA host of game modes including a Tournament mode, Local-Multiplayer, Tutorial and Training Room to master your character\n•\tOver 20 Fighters from your favorite Indie games! Each with their own move set and special attacks\n•\tEach Fighter has their very own minion to summon and join the fight\n•\tOver 15 different arenas to battle on – some inspired by the worlds of their fighters\n•\tMultiple color and pallet swap options to fight in style!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E1200DC1A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E1200DC1A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E1200DC1A000/screen/1",
+    "http://api.nlib.cc/nx/0100E1200DC1A000/screen/2",
+    "http://api.nlib.cc/nx/0100E1200DC1A000/screen/3",
+    "http://api.nlib.cc/nx/0100E1200DC1A000/screen/4",
+    "http://api.nlib.cc/nx/0100E1200DC1A000/screen/5",
+    "http://api.nlib.cc/nx/0100E1200DC1A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Golem Lights",
+  "publisher": "Afil Games",
+  "releaseDate": "20260604",
+  "description": "Get ready for a radiant journey in Golem Lights, an engaging puzzle where every beam of light can change everything. Take control of the Mage Golem and use its energy to illuminate the path, awaken other golems, and create luminous connections until you reach the mysterious Crystal Portal.\n\nWith 60 levels spread across three enchanting biomes, from the cave’s edge to the crystal core, each challenge invites you to experiment, adjust, and discover new solutions. With no time limits, the experience is relaxed yet strategic, perfect for players who enjoy thinking calmly and testing different possibilities.\n\nWatch as light gradually reveals the environment, activate golems with unique abilities, and manipulate the surroundings to expand your illumination. Each stage is a small puzzle of logic and creativity, where planning and curiosity go hand in hand.\n\nExplore, experiment, and let your light guide the way to victory.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003E6027C98000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003E6027C98000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003E6027C98000/screen/1",
+    "http://api.nlib.cc/nx/01003E6027C98000/screen/2",
+    "http://api.nlib.cc/nx/01003E6027C98000/screen/3",
+    "http://api.nlib.cc/nx/01003E6027C98000/screen/4"
+  ],
+  "version": 0,
+  "size": 123774687
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Biomechanical Toy (QUByte Classics)",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20260716",
+  "description": "Take control of the tough hero Inguz and get ready to run, jump, and shoot your way through a kingdom of crazy and hostile toys. With vibrant and detailed pixel art, you’ll face off against the army of the villain Scrubby using upgradeable weapons and devastating bombs.\n\nHighlights:\nPortable Action: Perfect for quick matches or intense marathons.\nPrecision Mechanics: Jump between platforms, dodge traps, and use the environment to your advantage.\nSupport Tools: Use Rewind to go back in time after a mistake and Save State to never lose your progress.\nExtra Content: Explore the gallery of original artwork and listen to the classic soundtrack on the Jukebox.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006DC0278FE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006DC0278FE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006DC0278FE000/screen/1",
+    "http://api.nlib.cc/nx/01006DC0278FE000/screen/2",
+    "http://api.nlib.cc/nx/01006DC0278FE000/screen/3",
+    "http://api.nlib.cc/nx/01006DC0278FE000/screen/4",
+    "http://api.nlib.cc/nx/01006DC0278FE000/screen/5",
+    "http://api.nlib.cc/nx/01006DC0278FE000/screen/6"
+  ],
+  "version": 0,
+  "size": 191766455
+}

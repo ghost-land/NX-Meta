@@ -1,0 +1,15 @@
+{
+  "name": "Minecraft Legends",
+  "publisher": "Mojang",
+  "releaseDate": "20230418",
+  "description": "Raise your banner high and inspire your allies! Call on familiar mobs and new friends to defeat the ravenous piglins and save the Overworld from their destructive greed.\n\nThe piglins’ Nether corruption is spreading across the Overworld, scorching everything it touches. Are you the hero who will protect this gentle land? Plan your strategy and face the piglins in epic battles – but be warned: they always fight back. Take on piglin bases by day and defend your allies after dusk. Explore lush biomes filled with treasures and perils, meet new friends, and reunite with familiar mobs. With the allays by your side, all that’s left to do is save the world.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007C6012CC8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007C6012CC8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007C6012CC8000/screen/1",
+    "http://api.nlib.cc/nx/01007C6012CC8000/screen/2",
+    "http://api.nlib.cc/nx/01007C6012CC8000/screen/3",
+    "http://api.nlib.cc/nx/01007C6012CC8000/screen/4",
+    "http://api.nlib.cc/nx/01007C6012CC8000/screen/5"
+  ]
+}

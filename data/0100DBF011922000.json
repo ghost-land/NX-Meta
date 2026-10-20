@@ -1,0 +1,15 @@
+{
+  "name": "FLATLAND Vol.1",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20200430",
+  "description": "FLATLAND - Vol. 1 is a fast-paced hardcore platformer featuring hand-crafted levels and Lightning-fast respawns. Help Square survive his journey to the depths of Flatland, a minimalist neon-style 2D world.\n\nKey features:\n\n- Controls are simple and accessible but with several layers of depth to master\n- Ramping up in difficulty from not-so-easy to soul crushing, FLATLAND - Vol 1 features hand-crafted levels with increasing challenges and secrets to uncover.\n- Lightning-fast respawns keep you in the flow even in more difficult levels\n- Challenging, fast and fun gameplay.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DBF011922000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DBF011922000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DBF011922000/screen/1",
+    "http://api.nlib.cc/nx/0100DBF011922000/screen/2",
+    "http://api.nlib.cc/nx/0100DBF011922000/screen/3",
+    "http://api.nlib.cc/nx/0100DBF011922000/screen/4",
+    "http://api.nlib.cc/nx/0100DBF011922000/screen/5"
+  ]
+}

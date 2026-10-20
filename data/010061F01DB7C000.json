@@ -1,0 +1,16 @@
+{
+  "name": "World of Goo 2",
+  "publisher": "2D Boy",
+  "releaseDate": "20240802",
+  "description": "Use living liquid creatures to build bridges, grow towers, terraform terrain, and fuel flying machines. The world is beautiful, dangerous, and evolving.\n\nEvery level is a realistic physics and fluid simulation. Build, splash, explode, destroy, fly, and roll your way through your own unique solutions to each level.\n\nLocal co-operative play exclusively on Nintendo Switch™. Build together!\n\nExplore a new story spanning hundreds of thousands of years and watch the world change.",
+  "bannerUrl": "http://api.nlib.cc/nx/010061F01DB7C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010061F01DB7C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010061F01DB7C000/screen/1",
+    "http://api.nlib.cc/nx/010061F01DB7C000/screen/2",
+    "http://api.nlib.cc/nx/010061F01DB7C000/screen/3",
+    "http://api.nlib.cc/nx/010061F01DB7C000/screen/4",
+    "http://api.nlib.cc/nx/010061F01DB7C000/screen/5",
+    "http://api.nlib.cc/nx/010061F01DB7C000/screen/6"
+  ]
+}

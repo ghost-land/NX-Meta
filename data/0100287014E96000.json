@@ -1,0 +1,16 @@
+{
+  "name": "Puzzle & Chess",
+  "publisher": "Isaias Game Dev",
+  "releaseDate": "20210909",
+  "description": "Puzzle & Chess is a relaxing game where even if you don't know anything about chess you can play it without any problem. Come enjoy these relaxing puzzles",
+  "bannerUrl": "http://api.nlib.cc/nx/0100287014E96000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100287014E96000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100287014E96000/screen/1",
+    "http://api.nlib.cc/nx/0100287014E96000/screen/2",
+    "http://api.nlib.cc/nx/0100287014E96000/screen/3",
+    "http://api.nlib.cc/nx/0100287014E96000/screen/4",
+    "http://api.nlib.cc/nx/0100287014E96000/screen/5",
+    "http://api.nlib.cc/nx/0100287014E96000/screen/6"
+  ]
+}

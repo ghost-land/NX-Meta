@@ -1,0 +1,16 @@
+{
+  "name": "Curious Cases",
+  "publisher": "OnSkull Development",
+  "releaseDate": "20200114",
+  "description": "3 Chapters\nThe game consists of 3 chapters, each chapter unlocks at the end of the previous one. Once a chapter is unlocked, players can jump to it, to continue where they left off.\nStory\nA scientist has gone missing, after claiming they made a groundbreaking discovery! Vanished from a locked office with only one exit this extraordinary case immediately grabs Detective Moore’s attention. A modern day legend, Detective Thomas Moore has solved more cases than one can count, where others hit dead-ends, he gets to work. Some cases are more difficult than others, but he always comes through, but this time is different... Something seems off about this case, it is almost as if greater forces are in play...",
+  "bannerUrl": "http://api.nlib.cc/nx/010054501075C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010054501075C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010054501075C000/screen/1",
+    "http://api.nlib.cc/nx/010054501075C000/screen/2",
+    "http://api.nlib.cc/nx/010054501075C000/screen/3",
+    "http://api.nlib.cc/nx/010054501075C000/screen/4",
+    "http://api.nlib.cc/nx/010054501075C000/screen/5",
+    "http://api.nlib.cc/nx/010054501075C000/screen/6"
+  ]
+}

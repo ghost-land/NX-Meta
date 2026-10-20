@@ -1,0 +1,15 @@
+{
+  "name": "Golf: Hole in Two",
+  "publisher": "Sleepy Grove Games",
+  "releaseDate": "20231024",
+  "description": "In Golf: Hole in Two you can play a round of golf anytime with no worries; just sit back, play, and relax!\n\nYour goal is to find the perfect angle and power for every stroke, to be able to get a hole in two strokes on every course. \n\n* 70 levels designed to challenge you\n* A large diversity of different obstacles to overcome\n* 7 different diverse environments for you to experience\n* Minimalistic vibes\n* Calming soundtrack to make your golfing journey more complete\n\nWill you be able to find the right strength and angle for each of the 70 levels?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DC801CD88000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DC801CD88000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DC801CD88000/screen/1",
+    "http://api.nlib.cc/nx/0100DC801CD88000/screen/2",
+    "http://api.nlib.cc/nx/0100DC801CD88000/screen/3",
+    "http://api.nlib.cc/nx/0100DC801CD88000/screen/4",
+    "http://api.nlib.cc/nx/0100DC801CD88000/screen/5"
+  ]
+}

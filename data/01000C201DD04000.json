@@ -1,0 +1,16 @@
+{
+  "name": "Unlife",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20240223",
+  "description": "Unlife is a dystopian 2d platformer set in a haunting post-apocalyptic world.\n\nDestroy merciless monsters, salvage weapons and supplies, overcome obstacles, and swim underwater as a necessary means of survival. The genetic material of the killed creatures can help cure the hero of the disease, which will affect the end of the game.\n\nThe main character of the game is the last survivor from his floating platform, and he must navigate a submarine towards salvation.\n\nCan you find a cure in time to save yourself?\n\n\nFeatures\n* 2d platforming gameplay\n* Battle dangerous monsters\n* Control a submarine\n* Dark, haunting atmosphere\n* Two different endings",
+  "bannerUrl": "http://api.nlib.cc/nx/01000C201DD04000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000C201DD04000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000C201DD04000/screen/1",
+    "http://api.nlib.cc/nx/01000C201DD04000/screen/2",
+    "http://api.nlib.cc/nx/01000C201DD04000/screen/3",
+    "http://api.nlib.cc/nx/01000C201DD04000/screen/4",
+    "http://api.nlib.cc/nx/01000C201DD04000/screen/5",
+    "http://api.nlib.cc/nx/01000C201DD04000/screen/6"
+  ]
+}

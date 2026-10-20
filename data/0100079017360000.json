@@ -1,0 +1,16 @@
+{
+  "name": "Monster Rescue",
+  "publisher": "Kistler Studios",
+  "releaseDate": "20220120",
+  "description": "Rescue cute little monsters by showing your archery skills and free them by shooting the rope attached to them but dont hit monsters!\n\nFeatures :\n- 35 different levels\n- Skill based puzzle game\n- Funny cartoon style",
+  "bannerUrl": "http://api.nlib.cc/nx/0100079017360000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100079017360000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100079017360000/screen/1",
+    "http://api.nlib.cc/nx/0100079017360000/screen/2",
+    "http://api.nlib.cc/nx/0100079017360000/screen/3",
+    "http://api.nlib.cc/nx/0100079017360000/screen/4",
+    "http://api.nlib.cc/nx/0100079017360000/screen/5",
+    "http://api.nlib.cc/nx/0100079017360000/screen/6"
+  ]
+}

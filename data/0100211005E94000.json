@@ -1,0 +1,15 @@
+{
+  "name": "Mulaka",
+  "publisher": "Lienzo",
+  "releaseDate": "20180301",
+  "description": "Dive into northern Mexico's breathtaking landscapes with Mulaka, a 3D action-adventure game based on the rich indigenous culture of the Tarahumara. Renowned for their impressive running abilities, embark on the journey of a Sukurúame - a Tarahumara shaman - as you fight back the foulness corrupting the land, while drawing upon the powers of demigods. From solving puzzles in environments inspired by real Sierra Tarahumara locations, to heated hand-to-hand combat with creatures pulled from the region’s mythology, find out why the Tarahumara have earned a reputation for being superhumans.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100211005E94000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100211005E94000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100211005E94000/screen/1",
+    "http://api.nlib.cc/nx/0100211005E94000/screen/2",
+    "http://api.nlib.cc/nx/0100211005E94000/screen/3",
+    "http://api.nlib.cc/nx/0100211005E94000/screen/4",
+    "http://api.nlib.cc/nx/0100211005E94000/screen/5"
+  ]
+}

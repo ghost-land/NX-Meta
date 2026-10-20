@@ -1,0 +1,16 @@
+{
+  "name": "GUNGUNGUN",
+  "publisher": "Top Hat Studios",
+  "releaseDate": "20220201",
+  "description": "GUNGUNGUN is a frantic and fast-paced 2D arena shooter with an eye for details. Earn a high score and increase the bounty on your head while fighting on a runaway train crawling with enemies. \n\nFeatures:\n- Co-op Mode: Play alone or with a friend\n- 8 Unique guns that mimic their real life counter-parts\n- 4 Unique enemies and 2 variants\n- Dynamic gun & physics mechanics\n- Meticulously designed gun sounds\n- Nine arena layouts\n- Time of day background changes\n- Detailed lifetime stat tracking\n- Lifetime highest scores tracking\n- Unlockable cosmetic customization options\n- Bonus Arcade-Style Unlockables",
+  "bannerUrl": "http://api.nlib.cc/nx/010008A0149F4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010008A0149F4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010008A0149F4000/screen/1",
+    "http://api.nlib.cc/nx/010008A0149F4000/screen/2",
+    "http://api.nlib.cc/nx/010008A0149F4000/screen/3",
+    "http://api.nlib.cc/nx/010008A0149F4000/screen/4",
+    "http://api.nlib.cc/nx/010008A0149F4000/screen/5",
+    "http://api.nlib.cc/nx/010008A0149F4000/screen/6"
+  ]
+}

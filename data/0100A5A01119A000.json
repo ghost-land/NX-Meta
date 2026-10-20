@@ -1,0 +1,13 @@
+{
+  "name": "MADORIS R",
+  "publisher": "Caerux",
+  "releaseDate": "20200227",
+  "description": "\"Madori\" means house layout in Japanese.\nThis is simple puzzle game and It has no time limit.\n\n-Rule-\nWhen you align the \"Madori\" blocks vertically or horizontally, those blocks change their own color. \nIf you dye a whole of a block, the block is disappeared and you can get the point.\nLet's get a high score!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A5A01119A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A5A01119A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A5A01119A000/screen/1",
+    "http://api.nlib.cc/nx/0100A5A01119A000/screen/2",
+    "http://api.nlib.cc/nx/0100A5A01119A000/screen/3"
+  ]
+}

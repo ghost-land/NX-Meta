@@ -1,0 +1,16 @@
+{
+  "name": "Oddworld: Stranger's Wrath",
+  "publisher": "Oddworld Inhabitants",
+  "releaseDate": "20200123",
+  "description": "Along comes Stranger, a tall, dark and enigmatic bounty hunter with a mission to capture troublemakers and scoundrels and return them to civilized townships for incarceration.\n\nBut Stranger is keeping a secret and needs expensive surgery to survive. In his quest to earn enough Moolah, Stranger reluctantly accepts the ultimate bounty from the owner of the Mongo River and suddenly his adventure takes a very different turn.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002EA00ABBA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002EA00ABBA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002EA00ABBA000/screen/1",
+    "http://api.nlib.cc/nx/01002EA00ABBA000/screen/2",
+    "http://api.nlib.cc/nx/01002EA00ABBA000/screen/3",
+    "http://api.nlib.cc/nx/01002EA00ABBA000/screen/4",
+    "http://api.nlib.cc/nx/01002EA00ABBA000/screen/5",
+    "http://api.nlib.cc/nx/01002EA00ABBA000/screen/6"
+  ]
+}

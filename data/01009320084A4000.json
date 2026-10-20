@@ -1,0 +1,16 @@
+{
+  "name": "SteamWorld Dig",
+  "publisher": "Thunderful",
+  "releaseDate": "20180201",
+  "description": "SteamWorld Dig is a platform mining adventure with strong Metroidvanian influences. Take the role of Rusty, a lone mining steambot, as he arrives at an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below...\n\nKey Features\n• A rich world of steam-driven robots, inspired by Steampunk and Western themes.\n \n• Explore an underground world full of secrets, treasure and terrors. \n\n• Uncover the remnants of human civilization, a degenerate race of dynamite-wielding troglodytes. \n\n• Randomized worlds with emergent gameplay.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009320084A4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009320084A4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009320084A4000/screen/1",
+    "http://api.nlib.cc/nx/01009320084A4000/screen/2",
+    "http://api.nlib.cc/nx/01009320084A4000/screen/3",
+    "http://api.nlib.cc/nx/01009320084A4000/screen/4",
+    "http://api.nlib.cc/nx/01009320084A4000/screen/5",
+    "http://api.nlib.cc/nx/01009320084A4000/screen/6"
+  ]
+}

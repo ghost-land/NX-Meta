@@ -1,0 +1,15 @@
+{
+  "name": "Sniper Elite 4",
+  "publisher": "RebellionInteract",
+  "releaseDate": "20201117",
+  "description": "Experience tactical third-person combat, gameplay choice and epic sharpshooting across gigantic levels as you liberate World War 2 Italy from the grip of fascism.\n \nUnrivalled sniping freedom. Complete the campaign your way\n \nEpic longshots with bone-crushing X-ray kill cam \n \nTeam-up or go head-to-head with local & online multiplayer\n \nFeel every shot with HD rumble & pan the battlefield with gyroscopic controls",
+  "bannerUrl": "http://api.nlib.cc/nx/010007B010FCC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010007B010FCC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010007B010FCC000/screen/1",
+    "http://api.nlib.cc/nx/010007B010FCC000/screen/2",
+    "http://api.nlib.cc/nx/010007B010FCC000/screen/3",
+    "http://api.nlib.cc/nx/010007B010FCC000/screen/4",
+    "http://api.nlib.cc/nx/010007B010FCC000/screen/5"
+  ]
+}

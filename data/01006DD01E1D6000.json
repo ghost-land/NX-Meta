@@ -1,0 +1,16 @@
+{
+  "name": "Escape Game The Abandoned Hospital",
+  "publisher": "Regista",
+  "releaseDate": "20240314",
+  "description": "■GAME SYSTEM\nThis game is an escape-the-room game (mystery-adventure game).\n*Point the screen with a cursor to solve riddles, and story goes on.\n\n■STORY\nAn unexpected car crash brought me, \nwho was only half conscious, to a hospital\n\nOn regaining my consciousness,\nI woke up to find something is off\n\nThe inside of the hospital looks so dilapidated \nthat some part collapsed and dusty\n\nThat is giving me a bad feeling…\nI must need to get out of this place now…",
+  "bannerUrl": "http://api.nlib.cc/nx/01006DD01E1D6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006DD01E1D6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006DD01E1D6000/screen/1",
+    "http://api.nlib.cc/nx/01006DD01E1D6000/screen/2",
+    "http://api.nlib.cc/nx/01006DD01E1D6000/screen/3",
+    "http://api.nlib.cc/nx/01006DD01E1D6000/screen/4",
+    "http://api.nlib.cc/nx/01006DD01E1D6000/screen/5",
+    "http://api.nlib.cc/nx/01006DD01E1D6000/screen/6"
+  ]
+}

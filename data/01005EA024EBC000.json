@@ -1,0 +1,16 @@
+{
+  "name": "Poker Night at the Inventory",
+  "publisher": "Skunkape Games",
+  "releaseDate": "20260305",
+  "description": "Recently reopened following a seismic retrofit, the Inventory is once again the hottest gathering place for video game characters to unwind after a long day on the job. Drop in to play No Limit Texas Hold’em with four familiar faces: Max, Strong Bad, Tycho, and The Heavy.\n\nPOKER WITH PERSONALITY: Poker Night combines the strategy of Texas Hold’em with the punchy banter of four famous characters from the Sam & Max, Homestar Runner, Penny Arcade, and Team Fortress franchises.\n\nRETURN OF A CULT CLASSIC: Released in 2010 and removed from sale nine years later, Poker Night was an experimental casual game from the studio renowned for episodic series like Sam & Max and The Walking Dead. This new version has been lovingly remastered by Skunkape Games, a small team of former Telltale employees who worked on the original.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005EA024EBC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005EA024EBC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005EA024EBC000/screen/1",
+    "http://api.nlib.cc/nx/01005EA024EBC000/screen/2",
+    "http://api.nlib.cc/nx/01005EA024EBC000/screen/3",
+    "http://api.nlib.cc/nx/01005EA024EBC000/screen/4",
+    "http://api.nlib.cc/nx/01005EA024EBC000/screen/5",
+    "http://api.nlib.cc/nx/01005EA024EBC000/screen/6"
+  ]
+}

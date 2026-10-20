@@ -1,0 +1,16 @@
+{
+  "name": "Metal Unit",
+  "publisher": "NEOWIZ",
+  "releaseDate": "20210617",
+  "description": "Metal Unit is a sprawling side-scrolling platformer with roguelite features. Play as Joanna, a soldier on a mission to capture her treasonous sister. Wear the M-Unit 11 suit and battle against monsters and aliens while uncovering the truth about humanity.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F25014BD6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F25014BD6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F25014BD6000/screen/1",
+    "http://api.nlib.cc/nx/0100F25014BD6000/screen/2",
+    "http://api.nlib.cc/nx/0100F25014BD6000/screen/3",
+    "http://api.nlib.cc/nx/0100F25014BD6000/screen/4",
+    "http://api.nlib.cc/nx/0100F25014BD6000/screen/5",
+    "http://api.nlib.cc/nx/0100F25014BD6000/screen/6"
+  ]
+}

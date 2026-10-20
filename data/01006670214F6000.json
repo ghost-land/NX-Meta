@@ -1,0 +1,16 @@
+{
+  "name": "Sky Aces: WWII Air Combat",
+  "publisher": "MagicProStudio",
+  "releaseDate": "20241205",
+  "description": "Soar into history with Sky Aces: WWII Air Combat, a pulse-pounding World War II flight simulator that puts you in the cockpit of legendary warplanes. Choose from over 50 meticulously detailed aircraft and engage in intense dogfights, strategic bombing runs, and daring naval missions across iconic theaters of war. From intercepting enemy bombers to defending key ground targets, every mission will test your skill, strategy, and nerve.\n\nLead your own squadron of elite pilots, customize and upgrade your aircraft, and experience breathtaking 3D environments inspired by Europe, North Africa, and the Pacific. With realistic weather effects, day-night cycles, and immersive flight mechanics, every battle feels alive.\n\nWill you rise through the ranks to become the ultimate WWII ace and change the tide of war? The skies are yours to conquer!",
+  "bannerUrl": "http://api.nlib.cc/nx/01006670214F6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006670214F6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006670214F6000/screen/1",
+    "http://api.nlib.cc/nx/01006670214F6000/screen/2",
+    "http://api.nlib.cc/nx/01006670214F6000/screen/3",
+    "http://api.nlib.cc/nx/01006670214F6000/screen/4",
+    "http://api.nlib.cc/nx/01006670214F6000/screen/5",
+    "http://api.nlib.cc/nx/01006670214F6000/screen/6"
+  ]
+}

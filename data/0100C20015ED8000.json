@@ -1,0 +1,16 @@
+{
+  "name": "Enchanted Path",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20210906",
+  "description": "Atmospheric isometric puzzler. Collect green crystals to open the portal that brings you to the next level. Find the right path and don’t fall into the abyss.\n\nThe game has 30 levels. Later levels will be more challenging and more different tiles will be introduced. The player moves on a grid of tiles. Some of these tiles will be disappearing when you are stepping off it and others will teleport you to another place. One tile acts as a cage with another that will free you from entrapment. There is even a tile that creates more tiles! ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C20015ED8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C20015ED8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C20015ED8000/screen/1",
+    "http://api.nlib.cc/nx/0100C20015ED8000/screen/2",
+    "http://api.nlib.cc/nx/0100C20015ED8000/screen/3",
+    "http://api.nlib.cc/nx/0100C20015ED8000/screen/4",
+    "http://api.nlib.cc/nx/0100C20015ED8000/screen/5",
+    "http://api.nlib.cc/nx/0100C20015ED8000/screen/6"
+  ]
+}

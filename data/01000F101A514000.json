@@ -1,0 +1,14 @@
+{
+  "name": "Arcade Tycoon",
+  "publisher": "VincentCorporation",
+  "releaseDate": "20240125",
+  "description": "Build stunning Arcade centres, purchase a range of arcade machines and manage troublesome staff in this colourful and humorous simulation management game. \n12 level campaign.\nSandbox mode with full lockable mode and customisation.\nOver 400 different Arcade Machines, VR, Hockey Tables, Modern Machines, Consoles, Rides, Objects, Decorations to place and more!\nIn-depth Staff Upgrades!\nGift shop and guest facilities.\nThemed Areas Wild West, Future Zone, Pirates and Spocky Halloween decorations.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01000F101A514000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000F101A514000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000F101A514000/screen/1",
+    "http://api.nlib.cc/nx/01000F101A514000/screen/2",
+    "http://api.nlib.cc/nx/01000F101A514000/screen/3",
+    "http://api.nlib.cc/nx/01000F101A514000/screen/4"
+  ]
+}

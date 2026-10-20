@@ -1,0 +1,18 @@
+{
+  "name": "Mori Carta",
+  "publisher": "Secret Item Games",
+  "releaseDate": "20260611",
+  "description": "Mori Carta is a handless deckbuilding roguelike. Choose left or right on every card to adventure through stories. Simple decisions lead to rich and rewarding gameplay. Four dramatically different characters with their own unique card sets, more than 1000 playable cards, over 185 unique enemies.\n\nFeatures:\nDeceptively simple controls: Almost every interaction in the game is handled by moving left or right.\n\nEngaging story: Adventure with a colorful cast of characters that accompany you on your adventures.\n\nRich depth of builds and combos: Choosing cards to add to your deck will be critical in surviving your adventures. With over 1000 cards, the combinations are endless.\n\n4 dramatically different characters with their own unique card sets.\n1000+ playable cards.\n185 unique enemies.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000B5025C24000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000B5025C24000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000B5025C24000/screen/1",
+    "http://api.nlib.cc/nx/01000B5025C24000/screen/2",
+    "http://api.nlib.cc/nx/01000B5025C24000/screen/3",
+    "http://api.nlib.cc/nx/01000B5025C24000/screen/4",
+    "http://api.nlib.cc/nx/01000B5025C24000/screen/5",
+    "http://api.nlib.cc/nx/01000B5025C24000/screen/6"
+  ],
+  "version": 0,
+  "size": 510860648
+}

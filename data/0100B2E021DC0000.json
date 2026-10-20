@@ -1,0 +1,16 @@
+{
+  "name": "GIGASWORD",
+  "publisher": "Akupara Games",
+  "releaseDate": "20251113",
+  "description": "Balance the weight of the GIGASWORD, battling between brain and brawn in this action-puzzle metroidvania where the might of the sword will determine all. As tensions rise in Thoenhart, a city plagued by famine and disease, the humans within set their hopes on a final solution: invade the ancient tower Nestrium, slay the Nocturne, and take the God Crystal, Gnosis, for themselves. Said to grant prosperity to those who wield it, Gnosis has been long sought after by humanity for generations. However, upon raiding its resting place, the disturbance of this ancient power awakens an evil capable of destroying the very fabric of reality. Can Ezra reach the top of the Nestrium in time to stop this cataclysm, or will humanity’s ignorance lead the world to its doom?  ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B2E021DC0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B2E021DC0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B2E021DC0000/screen/1",
+    "http://api.nlib.cc/nx/0100B2E021DC0000/screen/2",
+    "http://api.nlib.cc/nx/0100B2E021DC0000/screen/3",
+    "http://api.nlib.cc/nx/0100B2E021DC0000/screen/4",
+    "http://api.nlib.cc/nx/0100B2E021DC0000/screen/5",
+    "http://api.nlib.cc/nx/0100B2E021DC0000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "STURMWIND EX",
+  "publisher": "b-alive",
+  "releaseDate": "20191108",
+  "description": "STURMWIND EX is a shoot-em up  in the tradition of old arcade games. If it moves - shoot it!\nYou can play missionmode with all 16 levels with saving your progress with every finished level or arcademode with 6 levels and no continues. \n\n• 2 different game modes: missionmode and arcademode\n• 16 Levels \n• 3 difficulty levels \n• different weapons selectable \n• Upgradeable weapons, drones and different weapon-/drone-formations\n• Additional superweapons like superbeam and smartbombs\n• more than 20 large boss-enemies \n• hundreds of different enemies \n• Achievements, Highscore and Levelstatistics \n• Customizable User Interface",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C5500E7AE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C5500E7AE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C5500E7AE000/screen/1",
+    "http://api.nlib.cc/nx/0100C5500E7AE000/screen/2",
+    "http://api.nlib.cc/nx/0100C5500E7AE000/screen/3",
+    "http://api.nlib.cc/nx/0100C5500E7AE000/screen/4",
+    "http://api.nlib.cc/nx/0100C5500E7AE000/screen/5",
+    "http://api.nlib.cc/nx/0100C5500E7AE000/screen/6"
+  ]
+}

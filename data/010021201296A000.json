@@ -1,0 +1,16 @@
+{
+  "name": "Escape First 2",
+  "publisher": "OnSkull Development",
+  "releaseDate": "20210211",
+  "description": "The Rooms\n\nPsycho Circus Cont.\nYou managed to escape the clown’s quarters, but you are not free yet. Did you think it would be this easy to escape? The show must go on and you are the exhibit! Think and act fast in order to escape the circus, we all know that clowns don’t like other people touching their stuff! \n\nThe Torture Chamber\nA medieval dungeon, filled with torture devices, prison cages and not many prisoners left. Hearing screams from the room next door, you know you don’t have much time left until the guards come for you. The doors are locked, is there another way out?\n\nBehind the Scenes\nWhile visiting an Escape Room Factory, you black out and wake up in the bathroom. However, there is one thing about this room that does not seem right, it has no doors or windows! How did you get here and more importantly, how will you ever get out?",
+  "bannerUrl": "http://api.nlib.cc/nx/010021201296A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010021201296A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010021201296A000/screen/1",
+    "http://api.nlib.cc/nx/010021201296A000/screen/2",
+    "http://api.nlib.cc/nx/010021201296A000/screen/3",
+    "http://api.nlib.cc/nx/010021201296A000/screen/4",
+    "http://api.nlib.cc/nx/010021201296A000/screen/5",
+    "http://api.nlib.cc/nx/010021201296A000/screen/6"
+  ]
+}

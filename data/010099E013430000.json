@@ -1,0 +1,16 @@
+{
+  "name": "Void Source",
+  "publisher": "TERNOX",
+  "releaseDate": "20201228",
+  "description": "Features:\n- Levels full of non-stop action, including highly hazardous environments: Underwater, Volcano, Space, Dark Cave, Railroad\n- Huge bosses that pack a punch. Boss rush extra mode.\n- Optional scanline screen FX, as seen in trailer.\n25 weapons (two same weapons stack up to higher power).\n- Dozens of new weapons, developed via technology tree between the levels.",
+  "bannerUrl": "http://api.nlib.cc/nx/010099E013430000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010099E013430000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010099E013430000/screen/1",
+    "http://api.nlib.cc/nx/010099E013430000/screen/2",
+    "http://api.nlib.cc/nx/010099E013430000/screen/3",
+    "http://api.nlib.cc/nx/010099E013430000/screen/4",
+    "http://api.nlib.cc/nx/010099E013430000/screen/5",
+    "http://api.nlib.cc/nx/010099E013430000/screen/6"
+  ]
+}

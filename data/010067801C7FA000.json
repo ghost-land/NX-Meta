@@ -1,0 +1,16 @@
+{
+  "name": "Tenement",
+  "publisher": "Tynepunk",
+  "releaseDate": "20240211",
+  "description": "Play across 8 levels, collect airdrops and feasts to earn special abilities. Go on ridiculous killing sprees to demolish the enemy and enhance your killstreak rewards. Free-For-All allows you to configure your own matches, Mission Mode allows you to complete 200 preconfigured matches and even design your own. Tenement is a fast paced, addictive game with lots to find. Watch out for strange characters like the Medusa, Sausage, Worm and the vile overlord in his bone cavern: Needle-Drunk.",
+  "bannerUrl": "http://api.nlib.cc/nx/010067801C7FA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010067801C7FA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010067801C7FA000/screen/1",
+    "http://api.nlib.cc/nx/010067801C7FA000/screen/2",
+    "http://api.nlib.cc/nx/010067801C7FA000/screen/3",
+    "http://api.nlib.cc/nx/010067801C7FA000/screen/4",
+    "http://api.nlib.cc/nx/010067801C7FA000/screen/5",
+    "http://api.nlib.cc/nx/010067801C7FA000/screen/6"
+  ]
+}

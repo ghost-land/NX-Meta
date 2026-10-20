@@ -1,0 +1,16 @@
+{
+  "name": "Ichima-san",
+  "publisher": "Waku Waku Games",
+  "releaseDate": "20241121",
+  "description": "You, the player, have somehow lost your human body and been turned into an ‘Ichimatsu doll’. In this action-adventure game, you must explore a traditional Japanese house to find a way to turn back to normal.\n\nThe general course of action is using hints to hunt down various items that will enhance your abilities.\nYou mustn’t allow yourself to be spotted by humans. If you feel you’re about to be seen, you can play dead like an inanimate doll.\n\nShould you be spotted, run away as fast as you can. If you get caught, it's game over.\nWhile you can’t fight against humans directly, some of the items you collect can be used to create poltergeist phenomena that can stun or distract them.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EA502083A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EA502083A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EA502083A000/screen/1",
+    "http://api.nlib.cc/nx/0100EA502083A000/screen/2",
+    "http://api.nlib.cc/nx/0100EA502083A000/screen/3",
+    "http://api.nlib.cc/nx/0100EA502083A000/screen/4",
+    "http://api.nlib.cc/nx/0100EA502083A000/screen/5",
+    "http://api.nlib.cc/nx/0100EA502083A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "TRON: Catalyst",
+  "publisher": "Good Shepherd",
+  "releaseDate": "20250617",
+  "description": "TRON: Catalyst pulls you back into the world of Disney’s TRON with an original new story. Explore stunning and diverse environments across the Arq Grid as you discover the rich backstory of this crumbling society. Interact with flawed, yet fascinating characters, face off against rival factions, ride Light Cycles, and keep one step ahead of the ruthless ‘peacekeepers’ as you unlock the mysteries of this Grid and learn what kind of hero it needs you to become. Try to survive as you’re relentlessly pursued by Conn, a malevolent program with an agenda of his own, and learn the truth about the glitches that threaten the stability of this world.\n\nFeatures\n\nIMMERSIVE NEW STORY\nLose yourself in an original TRON storyline. Meet the programs of the Arq Grid, uncover their secrets, and fight to survive in a chase across the city and outlands. Playing as Exo, a courier working in this Grid’s capital city, your life is turned upside down when a mysterious package explodes, granting you powers beyond any program’s normal function.\n\nAUTHENTIC TRON SETTING\nWalk the neon-lit streets of the Arq Grid, or travel by Light Cycle, and discover a diverse Grid filled with intriguing stories revolving around a budding revolution. Enjoy an atmospheric electronic soundtrack by composer Dan Le Sac, returning from TRON: Identity, as you explore this unique Grid to recruit powerful allies, forge meaningful alliances and prepare to face the coming storm!\n\nEXPLOIT THE GLITCH\nThe Arq Grid is losing stability and chaos is gripping the server. Glitches roll back the clock, catching the world in a series of system-level time loops that only you can see. Use Exo’s unique ability to restart a loop with retained knowledge, unlock time-saving shortcuts, and influence the factions jostling for control over the Grid.\n\nDYNAMIC COMBAT SYSTEM\nFight for the Grid! Battle a legion of fearsome enemy programs in melee and ranged combat, both on-foot and while riding Light Cycles. Master advanced techniques like parrying and Disc kicks to gain the upper hand, while exploring the Arq Grid and collecting Data Shards to upgrade your code base and grow stronger.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002B102116A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002B102116A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002B102116A000/screen/1",
+    "http://api.nlib.cc/nx/01002B102116A000/screen/2",
+    "http://api.nlib.cc/nx/01002B102116A000/screen/3",
+    "http://api.nlib.cc/nx/01002B102116A000/screen/4",
+    "http://api.nlib.cc/nx/01002B102116A000/screen/5",
+    "http://api.nlib.cc/nx/01002B102116A000/screen/6"
+  ]
+}

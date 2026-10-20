@@ -1,0 +1,16 @@
+{
+  "name": "Kattish",
+  "publisher": "Weakfish Studio",
+  "releaseDate": "20221002",
+  "description": "Kattish is 2D Puzzle-Platformer Game,\n\nOur main character is a very sweet cat,\nBut she has to pass these levels quickly.\n\nAre you ready to pass the challenging levels with plain graphics?\nIt's not as easy as it looks. Each section has different mechanics from each other.\nYou need to understand these mechanics and pass the level.\nYou need to analyze the levels well.",
+  "bannerUrl": "http://api.nlib.cc/nx/010066B019768000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010066B019768000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010066B019768000/screen/1",
+    "http://api.nlib.cc/nx/010066B019768000/screen/2",
+    "http://api.nlib.cc/nx/010066B019768000/screen/3",
+    "http://api.nlib.cc/nx/010066B019768000/screen/4",
+    "http://api.nlib.cc/nx/010066B019768000/screen/5",
+    "http://api.nlib.cc/nx/010066B019768000/screen/6"
+  ]
+}

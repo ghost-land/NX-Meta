@@ -1,0 +1,16 @@
+{
+  "name": "Lapis x Labyrinth",
+  "publisher": "NIS America",
+  "releaseDate": "20190528",
+  "description": "Help a struggling town recover from bankruptcy in an age of dwindling adventuring. Plunge into the mysterious Labyrinth while collecting more loot than you can ever imagine.",
+  "bannerUrl": "http://api.nlib.cc/nx/010059500D070000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010059500D070000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010059500D070000/screen/1",
+    "http://api.nlib.cc/nx/010059500D070000/screen/2",
+    "http://api.nlib.cc/nx/010059500D070000/screen/3",
+    "http://api.nlib.cc/nx/010059500D070000/screen/4",
+    "http://api.nlib.cc/nx/010059500D070000/screen/5",
+    "http://api.nlib.cc/nx/010059500D070000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Peachy Boy",
+  "publisher": "Weakfish Studio",
+  "releaseDate": "20230120",
+  "description": "Peachy Boy,\n\nThis cute looking puzzle game is as hard as it looks cute.\nCan you beat the challenging 30 levels?\nEach level is specially designed.\nYou have to collect the key and pass the level, but be careful!\nStones and thorns are not very safe.\nBut don't be afraid of algae. you can hold on to them",
+  "bannerUrl": "http://api.nlib.cc/nx/01003E301A322000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003E301A322000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003E301A322000/screen/1",
+    "http://api.nlib.cc/nx/01003E301A322000/screen/2",
+    "http://api.nlib.cc/nx/01003E301A322000/screen/3",
+    "http://api.nlib.cc/nx/01003E301A322000/screen/4",
+    "http://api.nlib.cc/nx/01003E301A322000/screen/5",
+    "http://api.nlib.cc/nx/01003E301A322000/screen/6"
+  ]
+}

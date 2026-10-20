@@ -1,0 +1,16 @@
+{
+  "name": "BOKURA",
+  "publisher": "KODANSHA",
+  "releaseDate": "20230810",
+  "description": "BOKURA is a two-player puzzle adventure game. Play as two boys who ran away from their homes and work together to take yourselves somewhere far, far away. Relive the friendship of your childhood through the journey of two boys.",
+  "bannerUrl": "http://api.nlib.cc/nx/010001F01BAB4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010001F01BAB4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010001F01BAB4000/screen/1",
+    "http://api.nlib.cc/nx/010001F01BAB4000/screen/2",
+    "http://api.nlib.cc/nx/010001F01BAB4000/screen/3",
+    "http://api.nlib.cc/nx/010001F01BAB4000/screen/4",
+    "http://api.nlib.cc/nx/010001F01BAB4000/screen/5",
+    "http://api.nlib.cc/nx/010001F01BAB4000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "CastleStorm",
+  "publisher": "Zen Studios",
+  "releaseDate": "20180816",
+  "description": "Enjoy a unique take on medieval warfare in Zen Studios’ light-hearted action-strategy game – enhanced with new features designed specifically for Nintendo Switch™! As rival fortresses attack your own, you’ll use a ballista to fling an assortment of weapons at enemy towers and spear approaching enemies, while sending your own troops and unleashing powerful spells. Battling opposing units up-close as an individual hero nicely balances the ranged combat, and CastleStorm’s goofy characters and richly detailed graphics keep it an enchanting experience throughout.\n\nCastleStorm on Nintendo Switch includes the original campaign and two additional expansions: “From Outcast to Savior” and “The Warrior Queen”.\n\nNintendo Switch features include:\n\n- Touch-screen controls\n- Motion-controlled camera movement\n- Support for two Joy-Con™ controllers in splitscreen mode\n- HD Rumble\n- Pro Controller support\n- 60 frames per second at 1080p resolution while docked\n- 60 frames per second at 720p resolution in handheld mode",
+  "bannerUrl": "http://api.nlib.cc/nx/010097C00AB66000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010097C00AB66000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010097C00AB66000/screen/1",
+    "http://api.nlib.cc/nx/010097C00AB66000/screen/2",
+    "http://api.nlib.cc/nx/010097C00AB66000/screen/3",
+    "http://api.nlib.cc/nx/010097C00AB66000/screen/4",
+    "http://api.nlib.cc/nx/010097C00AB66000/screen/5",
+    "http://api.nlib.cc/nx/010097C00AB66000/screen/6"
+  ]
+}

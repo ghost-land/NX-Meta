@@ -1,0 +1,14 @@
+{
+  "name": "Yum Yum Line",
+  "publisher": "Mindscape",
+  "releaseDate": "20201217",
+  "description": "Fantastic fun for all ages. Match up the same colors to clear lines and make sure that you don’t get stuck. With infinite replayability and the local battle mode, Yum Yum Line gives you the chance to play by yourself or challenge a friend on the same screen.\n\nFeatures:\n• Classic Line gameplay\n• Infinite replayability\n• Split-screen multiplayer mode for a 1-vs-1 challenge\n• Local leaderboard",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A2F012DF0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A2F012DF0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A2F012DF0000/screen/1",
+    "http://api.nlib.cc/nx/0100A2F012DF0000/screen/2",
+    "http://api.nlib.cc/nx/0100A2F012DF0000/screen/3",
+    "http://api.nlib.cc/nx/0100A2F012DF0000/screen/4"
+  ]
+}

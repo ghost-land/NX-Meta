@@ -1,0 +1,15 @@
+{
+  "name": "Paint Rings",
+  "publisher": "ASI GAMES TECHNOLOGIES",
+  "releaseDate": "20240309",
+  "description": "Paint Rings is an addictive endless one-touch game where you tap the screen to shoot a ball. Try to avoid the coloured parts and paint all the rings to complete the level before the time runs out.",
+  "bannerUrl": "http://api.nlib.cc/nx/010013201E724000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010013201E724000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010013201E724000/screen/1",
+    "http://api.nlib.cc/nx/010013201E724000/screen/2",
+    "http://api.nlib.cc/nx/010013201E724000/screen/3",
+    "http://api.nlib.cc/nx/010013201E724000/screen/4",
+    "http://api.nlib.cc/nx/010013201E724000/screen/5"
+  ]
+}

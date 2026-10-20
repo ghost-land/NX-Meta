@@ -1,0 +1,15 @@
+{
+  "name": "Five Nights at Freddy's: Sister Location",
+  "publisher": "Clickteam",
+  "releaseDate": "20200618",
+  "description": "Welcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang!\n\nNow hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment.\n\nDon't hold it against us.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003B200E440000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003B200E440000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003B200E440000/screen/1",
+    "http://api.nlib.cc/nx/01003B200E440000/screen/2",
+    "http://api.nlib.cc/nx/01003B200E440000/screen/3",
+    "http://api.nlib.cc/nx/01003B200E440000/screen/4",
+    "http://api.nlib.cc/nx/01003B200E440000/screen/5"
+  ]
+}

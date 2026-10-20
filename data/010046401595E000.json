@@ -1,0 +1,13 @@
+{
+  "name": "Egg Up",
+  "publisher": "Pix Arts",
+  "releaseDate": "20210710",
+  "description": "You need to get the egg to the top.\n\nTo get your egg to the top, jump from platform to platform. Some platforms have red bounce pads allowing the egg to jump much higher. Some platforms contain diamonds that the player can collect while bouncing to the top of the level.\n\nSimple in concept yet very addictive, this game will ask for your best skills to succeed!\n\nGet it up!",
+  "bannerUrl": "http://api.nlib.cc/nx/010046401595E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010046401595E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010046401595E000/screen/1",
+    "http://api.nlib.cc/nx/010046401595E000/screen/2",
+    "http://api.nlib.cc/nx/010046401595E000/screen/3"
+  ]
+}

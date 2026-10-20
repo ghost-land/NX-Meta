@@ -1,0 +1,18 @@
+{
+  "name": "드래곤 퀘스트 VII Reimagined",
+  "publisher": "Square Enix",
+  "releaseDate": "20260205",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/0100505021440000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100505021440000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100505021440000/screen/1",
+    "http://api.nlib.cc/nx/0100505021440000/screen/2",
+    "http://api.nlib.cc/nx/0100505021440000/screen/3",
+    "http://api.nlib.cc/nx/0100505021440000/screen/4",
+    "http://api.nlib.cc/nx/0100505021440000/screen/5",
+    "http://api.nlib.cc/nx/0100505021440000/screen/6"
+  ],
+  "version": 0,
+  "size": 4368490919
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Firefighting Rescue Simulator",
+  "publisher": "MORAHAN Studio Games",
+  "releaseDate": "20251227",
+  "description": "Firefighting Rescue Simulator puts you in the heart of real emergency action. As a heroic firefighter, your mission is to respond fast, rescue civilians, and battle intense fires across a city on the brink. Every call is a new test of courage, skill, and speed.\n\nChoose from six unique characters, each ready to take on danger. Complete missions to unlock powerful fire trucks and gain access to three expanding cities, each with its own challenges. The more missions you pass, the more your firefighting arsenal grows.\n\nDrive through urban streets with precision, rescue victims and hand them off to paramedics, and use advanced tools to extinguish raging fires. Be warned—night missions are harder, and every second counts.\n\nKey Features:\n• Realistic fire truck driving in detailed city environments\n• Use multiple tools to fight fires and control danger\n• Choose from 6 playable firefighter characters\n• 3 cities to unlock through mission progress\n• Dynamic rescue scenarios with mission-based structure\n• Time-based gameplay—act fast, save lives\n• Day/night cycle that affects mission difficulty\n• Rescue and evacuate people to paramedics on scene\n\nGear up, race the clock, and become the hero your city needs. Are you ready to face the flames?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F8F02557E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F8F02557E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F8F02557E000/screen/1",
+    "http://api.nlib.cc/nx/0100F8F02557E000/screen/2",
+    "http://api.nlib.cc/nx/0100F8F02557E000/screen/3",
+    "http://api.nlib.cc/nx/0100F8F02557E000/screen/4",
+    "http://api.nlib.cc/nx/0100F8F02557E000/screen/5",
+    "http://api.nlib.cc/nx/0100F8F02557E000/screen/6"
+  ]
+}

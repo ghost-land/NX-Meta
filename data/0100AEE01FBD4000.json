@@ -1,0 +1,16 @@
+{
+  "name": "Astral Flux",
+  "publisher": "Mindscape",
+  "releaseDate": "20241031",
+  "description": "Astral Flux is an action-platformer with roguelite elements. Join two scrappers who are lost in space and find themselves caught up in an intergalactic mystery. Traverse hostile alien planets, discover dark secrets, and face powerful foes in combat. Death is inevitable, but it’s only the beginning. Carve a new path forward using the knowledge from your previous attempts. You’ll need to sharpen your skills to unravel this mystery.\n\nKey Features\n* Terrifying Beauty - Travel to distant dimensions and explore ancient alien ruins. The galaxy holds many secrets for you to discover.\n* Randomized Levels – Death changes the world around you and no two runs are the same. To survive you must upgrade your skills and abilities on the way.\n* Otherworldly Creatures – Fight or evade dangerous enemies across different planets.\n* Challenge Rooms - Procedurally generated combat challenges reward you with powerful upgrades.\n* Free Updates – The world of Astral Flux has been expanded with free updates like Submerged, Balance of Power and Artifact Hunter.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AEE01FBD4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AEE01FBD4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AEE01FBD4000/screen/1",
+    "http://api.nlib.cc/nx/0100AEE01FBD4000/screen/2",
+    "http://api.nlib.cc/nx/0100AEE01FBD4000/screen/3",
+    "http://api.nlib.cc/nx/0100AEE01FBD4000/screen/4",
+    "http://api.nlib.cc/nx/0100AEE01FBD4000/screen/5",
+    "http://api.nlib.cc/nx/0100AEE01FBD4000/screen/6"
+  ]
+}

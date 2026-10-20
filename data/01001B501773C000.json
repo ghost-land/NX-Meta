@@ -1,0 +1,13 @@
+{
+  "name": "Magic Pen Color Book",
+  "publisher": "Pix Arts",
+  "releaseDate": "20220129",
+  "description": "This coloring book game will let your kid(s) draw by finger touch anything from their imagination or color, decorate the ready to use templates included, in order to create their own unique paintings.\n\nMany painting tools are available to help them, including pencils, markers, color bucket, stickers, magic pen, color spray, patterns, with undo/redo capabilities.\n\nOnce kids are done with their creations, those are automatically saved into device memory with the possibility to be later erased to start over and over... ",
+  "bannerUrl": "http://api.nlib.cc/nx/01001B501773C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001B501773C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001B501773C000/screen/1",
+    "http://api.nlib.cc/nx/01001B501773C000/screen/2",
+    "http://api.nlib.cc/nx/01001B501773C000/screen/3"
+  ]
+}

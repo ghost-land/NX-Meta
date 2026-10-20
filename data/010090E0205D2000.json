@@ -1,0 +1,16 @@
+{
+  "name": "Wizardry: The Five Ordeals",
+  "publisher": "Game*Spark Publishing",
+  "releaseDate": "20250130",
+  "description": "Classic hardcore gameplay. Experience a deep dungeon crawling RPG. This game was created by the main staff that worked on the popular RPG series back in 2006. In this game, players can experience many different dungeon crawler RPGs using the same base system. Available with enhancements to the UI and much more. Official scenarios seen for the first time each with dozens of hours of gameplay.\n\nGameplay that is easy to get into. Players will create their own character - much like a traditional tabletop RPG - and venture into a grid based dungeon with a party of up to 6 members. The turn based combat mixes the simplicity of JRPGs with the difficulty of tabletop RPGs. (Our internal dice is not rigged!) Your character can be lost forever and saves will be overwritten. Get ready for a classic hardcore adventure.",
+  "bannerUrl": "http://api.nlib.cc/nx/010090E0205D2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010090E0205D2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010090E0205D2000/screen/1",
+    "http://api.nlib.cc/nx/010090E0205D2000/screen/2",
+    "http://api.nlib.cc/nx/010090E0205D2000/screen/3",
+    "http://api.nlib.cc/nx/010090E0205D2000/screen/4",
+    "http://api.nlib.cc/nx/010090E0205D2000/screen/5",
+    "http://api.nlib.cc/nx/010090E0205D2000/screen/6"
+  ]
+}

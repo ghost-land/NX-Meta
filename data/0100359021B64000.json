@@ -1,0 +1,16 @@
+{
+  "name": "The Operator",
+  "publisher": "Bureau 81",
+  "releaseDate": "20250522",
+  "description": "Welcome to the FDI. As our newest Operator, your role is to use your detective skills to assist our field agents and investigate mysterious crimes. Use cutting-edge FDI software to dig for clues, solve puzzles, and uncover the truth.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100359021B64000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100359021B64000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100359021B64000/screen/1",
+    "http://api.nlib.cc/nx/0100359021B64000/screen/2",
+    "http://api.nlib.cc/nx/0100359021B64000/screen/3",
+    "http://api.nlib.cc/nx/0100359021B64000/screen/4",
+    "http://api.nlib.cc/nx/0100359021B64000/screen/5",
+    "http://api.nlib.cc/nx/0100359021B64000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Octocopter: Double or Squids",
+  "publisher": "TACS Games",
+  "releaseDate": "20180405",
+  "description": "Oh no! Part way through their epic battle the Octopus and Submarine have lost their way and sunk to the bottom of the ocean. Can you help them to work together to escape these deadly depths? To complete each level you must navigate the maze without crashing. You won't stop spinning so timing is everything! \n\nBrave the depths alone or race together in up to 4 player split screen action. Can you beat your friends and collect all the squid medals?",
+  "bannerUrl": "http://api.nlib.cc/nx/010096B00A08E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010096B00A08E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010096B00A08E000/screen/1",
+    "http://api.nlib.cc/nx/010096B00A08E000/screen/2",
+    "http://api.nlib.cc/nx/010096B00A08E000/screen/3",
+    "http://api.nlib.cc/nx/010096B00A08E000/screen/4",
+    "http://api.nlib.cc/nx/010096B00A08E000/screen/5",
+    "http://api.nlib.cc/nx/010096B00A08E000/screen/6"
+  ]
+}

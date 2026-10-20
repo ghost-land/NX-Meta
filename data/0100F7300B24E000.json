@@ -1,0 +1,16 @@
+{
+  "name": "SEGA® Mega Drive Classics™",
+  "publisher": "SEGA",
+  "releaseDate": "20181206",
+  "description": "SEGA’s collection of Mega Drive & Genesis classics comes to a new generation! \n \nIncluding over 50 titles across all genres, from all-time classics like Sonic and Streets of Rage 2 to deep RPGs like the Phantasy Star series; arcade action, shooters, beat’m ups, puzzlers, old favourites and hidden gems. There is a classic title for every player to enjoy! \n\nNew features also bring modern convenience to the classics. Save your game at any time, rewind those slip-ups, or customise your controls. \n \nThe largest collection of retro classics on console in one great package!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F7300B24E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F7300B24E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F7300B24E000/screen/1",
+    "http://api.nlib.cc/nx/0100F7300B24E000/screen/2",
+    "http://api.nlib.cc/nx/0100F7300B24E000/screen/3",
+    "http://api.nlib.cc/nx/0100F7300B24E000/screen/4",
+    "http://api.nlib.cc/nx/0100F7300B24E000/screen/5",
+    "http://api.nlib.cc/nx/0100F7300B24E000/screen/6"
+  ]
+}

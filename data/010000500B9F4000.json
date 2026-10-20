@@ -1,0 +1,16 @@
+{
+  "name": "Minesweeper Genius",
+  "publisher": "Blowfish Studios",
+  "releaseDate": "20190212",
+  "description": "Inspired by the classic computer game from our childhood - as well as sudoku and picross - Minesweeper Genius is a brain teaser that will challenge your mind and logical thinking.\n\nHelp Aristotle – the genius with a broom – sweep the minefield to regain his memory and escape from the aliens' scientific experiments, discovering where all the bombs are hidden.\n\nHOW TO PLAY:\n\n• Read the numbers to calculate how many mines there are in each column and each line\n• Flag the tiles which contain a mine\n• Then move the minesweeper genius to the portal!\n\nFEATURES:\n\n• Our procedural generator can create an unlimited number of random levels\n• Mixes the mechanics of sudoku, nonogram (picross) and minesweeper\n• Absolutely no guessing or luck involved",
+  "bannerUrl": "http://api.nlib.cc/nx/010000500B9F4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010000500B9F4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010000500B9F4000/screen/1",
+    "http://api.nlib.cc/nx/010000500B9F4000/screen/2",
+    "http://api.nlib.cc/nx/010000500B9F4000/screen/3",
+    "http://api.nlib.cc/nx/010000500B9F4000/screen/4",
+    "http://api.nlib.cc/nx/010000500B9F4000/screen/5",
+    "http://api.nlib.cc/nx/010000500B9F4000/screen/6"
+  ]
+}

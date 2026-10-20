@@ -1,0 +1,15 @@
+{
+  "name": "Bullet Time",
+  "publisher": "Entity3",
+  "releaseDate": "20240810",
+  "description": "Take control of a super sized bullet as it power across the water!\n\nDodge the obstacles and hit the rings for a perfect score\n\nEnter frenzy mode and smash your way through walls and towering structures\n\nEnjoy some bullet time!",
+  "bannerUrl": "http://api.nlib.cc/nx/010022201F722000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010022201F722000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010022201F722000/screen/1",
+    "http://api.nlib.cc/nx/010022201F722000/screen/2",
+    "http://api.nlib.cc/nx/010022201F722000/screen/3",
+    "http://api.nlib.cc/nx/010022201F722000/screen/4",
+    "http://api.nlib.cc/nx/010022201F722000/screen/5"
+  ]
+}

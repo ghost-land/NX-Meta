@@ -1,0 +1,15 @@
+{
+  "name": "Basketball",
+  "publisher": "Sabec",
+  "releaseDate": "20181206",
+  "description": "Basketball is a fast-paced game that  dose not need fancy basketball shoes to play - but that doesn’t mean you don’t need skill! It takes practice to win. \n\nShow off your best moves on the court - block shots, steal the ball and even make a slam dunk! Have you got what it takes to win the Urban Basketball championship?",
+  "bannerUrl": "http://api.nlib.cc/nx/01008F600CA1A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008F600CA1A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008F600CA1A000/screen/1",
+    "http://api.nlib.cc/nx/01008F600CA1A000/screen/2",
+    "http://api.nlib.cc/nx/01008F600CA1A000/screen/3",
+    "http://api.nlib.cc/nx/01008F600CA1A000/screen/4",
+    "http://api.nlib.cc/nx/01008F600CA1A000/screen/5"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Mahjong Adventure",
+  "publisher": "Fantastico Studio",
+  "releaseDate": "20210112",
+  "description": "Mahjong Adventure is a mahjong game based on a classic Chinese game.\nGreat fit for players who love games like brain puzzles, crossword, chess, mahjong, word search, solitaire, match-3 and other smart games and puzzle brain games. Develop your mind and patience and strategy skills.\n\nHow to play\nMatch pairs of identical tiles to remove them from the board until it's entirely cleared or until you find all special tiles. You can only match tiles which are free on at least one side.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007C6013A3A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007C6013A3A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007C6013A3A000/screen/1",
+    "http://api.nlib.cc/nx/01007C6013A3A000/screen/2",
+    "http://api.nlib.cc/nx/01007C6013A3A000/screen/3",
+    "http://api.nlib.cc/nx/01007C6013A3A000/screen/4",
+    "http://api.nlib.cc/nx/01007C6013A3A000/screen/5",
+    "http://api.nlib.cc/nx/01007C6013A3A000/screen/6"
+  ]
+}

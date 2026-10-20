@@ -1,0 +1,16 @@
+{
+  "name": "FROGUE",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20240627",
+  "description": "Frogue is a stylish turn-based action platformer with bits of roguelite, bullet hell and time manipulation. Dash through your enemies, freeze time and throw your sword to solve every situation in YOUR way.\n\n- Dash to avoid bullet and kill your enemies!\n- Throw knifes to kill them at a distance.\n- Out of options? No problem, freeze time and make your own solution!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C6001EFDE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C6001EFDE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C6001EFDE000/screen/1",
+    "http://api.nlib.cc/nx/0100C6001EFDE000/screen/2",
+    "http://api.nlib.cc/nx/0100C6001EFDE000/screen/3",
+    "http://api.nlib.cc/nx/0100C6001EFDE000/screen/4",
+    "http://api.nlib.cc/nx/0100C6001EFDE000/screen/5",
+    "http://api.nlib.cc/nx/0100C6001EFDE000/screen/6"
+  ]
+}

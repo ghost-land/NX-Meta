@@ -1,0 +1,16 @@
+{
+  "name": "JankBrain",
+  "publisher": "Equilibrium Systems",
+  "releaseDate": "20220120",
+  "description": "JankBrain is out for world domination! Using his massive intellect, JankBrain wants to control the earth by taking over the world's economy. Inspired by 16 bit run and gun platformers of the 90s, JankBrain must tackle 55 challenging levels including mine cart, rocket pack, and boss battles. Discover secret levels and compete for speedrun medals as you play!\n\nCreamy yet firm 60 fps gameplay\nSecret Exits and Speedrun medals\nChallenging Boss Battles\nCinematics exploring JankBrain's quest to take over the world!",
+  "bannerUrl": "http://api.nlib.cc/nx/01009C7016C94000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009C7016C94000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009C7016C94000/screen/1",
+    "http://api.nlib.cc/nx/01009C7016C94000/screen/2",
+    "http://api.nlib.cc/nx/01009C7016C94000/screen/3",
+    "http://api.nlib.cc/nx/01009C7016C94000/screen/4",
+    "http://api.nlib.cc/nx/01009C7016C94000/screen/5",
+    "http://api.nlib.cc/nx/01009C7016C94000/screen/6"
+  ]
+}

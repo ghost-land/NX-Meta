@@ -1,0 +1,16 @@
+{
+  "name": "Cruis'n Blast",
+  "publisher": "Raw Thrills",
+  "releaseDate": "20210914",
+  "description": "The arcade hit Cruis’n Blast is speeding onto Nintendo Switch™! \nBlast your way through nearly 30 over-the-top tracks. \nGrab the wheel of 23 custom rides from licensed supercars to monster trucks and unicorns!\nUp to four players can race together, so pick your favorite vehicle and hit the road! ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B41013C82000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B41013C82000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B41013C82000/screen/1",
+    "http://api.nlib.cc/nx/0100B41013C82000/screen/2",
+    "http://api.nlib.cc/nx/0100B41013C82000/screen/3",
+    "http://api.nlib.cc/nx/0100B41013C82000/screen/4",
+    "http://api.nlib.cc/nx/0100B41013C82000/screen/5",
+    "http://api.nlib.cc/nx/0100B41013C82000/screen/6"
+  ]
+}

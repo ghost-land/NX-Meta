@@ -1,0 +1,16 @@
+{
+  "name": "Watermelon Blocks",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20220106",
+  "description": "Watermelon Blocks is a puzzle game, with switch blocks, enemies and spikes. The game has 46 levels for you to venture out, its difficulty is gradual, but nothing that you cannot solve and have fun in this watermelon game.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001DD01593A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001DD01593A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001DD01593A000/screen/1",
+    "http://api.nlib.cc/nx/01001DD01593A000/screen/2",
+    "http://api.nlib.cc/nx/01001DD01593A000/screen/3",
+    "http://api.nlib.cc/nx/01001DD01593A000/screen/4",
+    "http://api.nlib.cc/nx/01001DD01593A000/screen/5",
+    "http://api.nlib.cc/nx/01001DD01593A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Underhero",
+  "publisher": "Paper Castle",
+  "releaseDate": "20200227",
+  "description": "Underhero is an RPG-platformer where the chosen hero has failed, and an underling of the evil king reluctantly takes his place as the new hero. Use timing-based combat to defeat enemies as you venture across the land, face off against quirky bosses, and save the Chestnut Kingdom from your own evil boss, Mr Stitches!\n\nKey Features\nA side-scrolling RPG adventure, complete with lush pixel art and cartoony aesthetics\nJump, slash, evade, talk, and bribe your way through a fantasy adventure with a satirical twist\nTurn-based combat… without the turns! Precisely timed actions are your most powerful weapons\nLevel up, solve puzzles, find secrets in a world full of friends, foes, and weird inhabitants\nA wonderful original soundtrack composed by Stijn van Wakeren\nA story full of humor and mysteries awaits!",
+  "bannerUrl": "http://api.nlib.cc/nx/01005CD00F85A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005CD00F85A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005CD00F85A000/screen/1",
+    "http://api.nlib.cc/nx/01005CD00F85A000/screen/2",
+    "http://api.nlib.cc/nx/01005CD00F85A000/screen/3",
+    "http://api.nlib.cc/nx/01005CD00F85A000/screen/4",
+    "http://api.nlib.cc/nx/01005CD00F85A000/screen/5",
+    "http://api.nlib.cc/nx/01005CD00F85A000/screen/6"
+  ]
+}

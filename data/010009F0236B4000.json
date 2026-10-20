@@ -1,0 +1,15 @@
+{
+  "name": "Cloud Roll",
+  "publisher": "Gametry",
+  "releaseDate": "20251010",
+  "description": "Get ready to roll into the skies! Cloud Roll is a fun, fast-paced arcade game where you guide a colorful ball through thrilling tracks high above the clouds.\nDodge tricky obstacles, balance on winding paths, and race toward the finish line while collecting shiny coins along the way. Each level brings new challenges with moving platforms, jump pads, and daring twists that will test your reflexes and precision.\n\nWith its bright visuals, smooth controls, and catchy design, Cloud Roll is easy to pick up but hard to master. Can you reach the finish and claim victory at the Torii gate?\n\nFeatures:\nExciting levels set above the clouds\nSimple yet responsive controls\nChallenging obstacles and physics-based gameplay\nColorful, vibrant 3D graphics\nFun for all ages\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010009F0236B4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010009F0236B4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010009F0236B4000/screen/1",
+    "http://api.nlib.cc/nx/010009F0236B4000/screen/2",
+    "http://api.nlib.cc/nx/010009F0236B4000/screen/3",
+    "http://api.nlib.cc/nx/010009F0236B4000/screen/4",
+    "http://api.nlib.cc/nx/010009F0236B4000/screen/5"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Helix: Descent N Ascent",
+  "publisher": "Badass Mongoose",
+  "releaseDate": "20260723",
+  "description": "Embark on a journey into the forgotten world of Helix: Descent N Ascent.\n\nIn search of the truth\n\nYou awaken in a dull, dark, disembodied world. Though you're usually alone, you soon encounter another being who looks just like you, except he always seems to be at odds with you. Who is this doppelganger? Is he a friend or a foe?\n\nPuzzle out your way\n\nDiscover new powers as you progress through your adventure. Each one of these powers allows you to meaningfully interact with your surroundings and solve the many puzzles awaiting you.\n\nCombine your powers\n\nMaster the unique mix-and-match system that allows you to combine these powers. Play in 25 distinctive ways, jumping between 3 levels of complexity while you explore the barren lands of Helix. \n\nA deep emotional odyssey\n\nBeyond adventure, Helix invites you to reflect on identity, solitude and relationships. It weaves each mystery and reminiscence of a past existence with personal, cultural, and spiritual threads. Uncover overlooked details in a story worth revisiting.\n\nAn artistic journey\n\nExperience a tale not told with words, but through an immersive adventure enriched by stunning 4K black-and-white artwork, living 2D scenery, evocative paintings, and powerful atmospheric music. Drawing inspiration from 1980s black-and-white indie comics, 1990s manga, and 1970s Franco-Belgian comics, the monochrome imagery is symbolic, evoking the dichotomy of light and darkness.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004A101F3F6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004A101F3F6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004A101F3F6000/screen/1",
+    "http://api.nlib.cc/nx/01004A101F3F6000/screen/2",
+    "http://api.nlib.cc/nx/01004A101F3F6000/screen/3",
+    "http://api.nlib.cc/nx/01004A101F3F6000/screen/4",
+    "http://api.nlib.cc/nx/01004A101F3F6000/screen/5",
+    "http://api.nlib.cc/nx/01004A101F3F6000/screen/6"
+  ],
+  "version": 0,
+  "size": 434322282
+}

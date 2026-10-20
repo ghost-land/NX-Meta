@@ -1,0 +1,16 @@
+{
+  "name": "Kentucky Robo Chicken",
+  "publisher": "Solid9",
+  "releaseDate": "20180906",
+  "description": "Help the Robo Chicken get the stolen light bulbs back!\n\nGet to the end of each level in the shortest amount of time possible and try to collect all the Cogs along the way. Beware the hungry Roaches, pesky Flies, shooting cannons and other deadly obstacles. Get the power-ups that let you use your Dash that'll come in handy in tough situations.\n\nFly, run, dash and put your skills to the test!\n\nKey features:\n- 30 levels, each more difficult than the previous one,\n- a few hundred collectibles to get along the way,\n- many enemies to avoid,\n- deadly traps and obstacles that'll test your reflexes,\n- easy-to-pick-up, hard-to-master type of game,\n- suitable to be played in short bursts.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A8200B15C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A8200B15C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A8200B15C000/screen/1",
+    "http://api.nlib.cc/nx/0100A8200B15C000/screen/2",
+    "http://api.nlib.cc/nx/0100A8200B15C000/screen/3",
+    "http://api.nlib.cc/nx/0100A8200B15C000/screen/4",
+    "http://api.nlib.cc/nx/0100A8200B15C000/screen/5",
+    "http://api.nlib.cc/nx/0100A8200B15C000/screen/6"
+  ]
+}

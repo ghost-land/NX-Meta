@@ -1,0 +1,16 @@
+{
+  "name": "Debug Deadline",
+  "publisher": "Waku Waku Games",
+  "releaseDate": "20250807",
+  "description": "This is a first-person horror comedy game set in a Japanese debugging company.\nThe player takes on the role of a part-time worker at a debugging company, tasked with testing a horror game brimming with terrifying elements.\nWhen you encounter suspicious objects or systems that don’t seem to belong in a horror game, report them as bugs immediately!\nYour intuition, powers of observation, and gaming sense will be the keys to uncovering hidden bugs!\n\nThe debugging work with fate on the line begins now!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EBC02328E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EBC02328E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EBC02328E000/screen/1",
+    "http://api.nlib.cc/nx/0100EBC02328E000/screen/2",
+    "http://api.nlib.cc/nx/0100EBC02328E000/screen/3",
+    "http://api.nlib.cc/nx/0100EBC02328E000/screen/4",
+    "http://api.nlib.cc/nx/0100EBC02328E000/screen/5",
+    "http://api.nlib.cc/nx/0100EBC02328E000/screen/6"
+  ]
+}

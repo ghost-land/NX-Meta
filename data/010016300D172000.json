@@ -1,0 +1,16 @@
+{
+  "name": "Avenger Bird",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20190205",
+  "description": "Oh No! Someone has kidnapped your little birds! You must go on an epic adventure to rescue them!\n\nAvenger Bird is a platform side-scroller game with pixel-art graphics, but your hero isn't just a regular hero. You are playing a bird that can flap it's tiny wings to fly and glide for a limited distances. It's a retro inspired 16-bit era game with innovative and challenging fly/glide mechanic.\n\nFeatures:\n- Explore Four Different Worlds\n- Open World Map\n- 32 Unique Levels\n- Hidden Treasure In Every Level\n- Easter Eggs and Unexpected Cameos\n- Epic Boss Fight At the End!\n\n\nAvenger Bird is a tribute to all PC DOS and Amiga shareware games made in the 90'. Featuring pixel-art graphics and music composed on OPL3 FM chipset (the one found on Sound Blaster cards). ",
+  "bannerUrl": "http://api.nlib.cc/nx/010016300D172000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010016300D172000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010016300D172000/screen/1",
+    "http://api.nlib.cc/nx/010016300D172000/screen/2",
+    "http://api.nlib.cc/nx/010016300D172000/screen/3",
+    "http://api.nlib.cc/nx/010016300D172000/screen/4",
+    "http://api.nlib.cc/nx/010016300D172000/screen/5",
+    "http://api.nlib.cc/nx/010016300D172000/screen/6"
+  ]
+}

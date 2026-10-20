@@ -1,0 +1,16 @@
+{
+  "name": "Twist&Bounce",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20200810",
+  "description": "Move the platforms so the ball falls through openings! Score more points by going through multiple openings at once. If you go through three or more, you can land on a textured area platform spot as it will break the platform.\n\nFeatures:\n* Multiple levels\n* Smooth controls\n* Easy game to play but hard to master\n* Adjust difficulty to your playthrough \n* Great music and sound effects.\n* Colorful and pleasing graphics\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E18012A64000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E18012A64000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E18012A64000/screen/1",
+    "http://api.nlib.cc/nx/0100E18012A64000/screen/2",
+    "http://api.nlib.cc/nx/0100E18012A64000/screen/3",
+    "http://api.nlib.cc/nx/0100E18012A64000/screen/4",
+    "http://api.nlib.cc/nx/0100E18012A64000/screen/5",
+    "http://api.nlib.cc/nx/0100E18012A64000/screen/6"
+  ]
+}

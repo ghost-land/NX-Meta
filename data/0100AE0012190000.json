@@ -1,0 +1,16 @@
+{
+  "name": "Retro Classix 4in1 Pack: Sly Spy, Shootout, Wizard Fire & Super Real Darwin",
+  "publisher": "Golem Entertainment",
+  "releaseDate": "20200827",
+  "description": "SLY SPY: It is the year 199X, Secret Agent Sly must protect the U.S. from a nuclear missile attack from the terrorist organization CWD (Council for World Domination). Play an arcade classic! \nSHOOTOUT: Stop the criminal gangsters and save the civilians in this action-packed shooter.  \nWIZARD FIRE: Wizard Fire a is classic multiplayer action RPG for one to two players. Originally released in 1992, and a noted classic arcade title from the 90s. \nSUPER REAL DARWIN: The player takes control of a fighter ship capable of mutating into different shapes. The ship's appearance changes with upgrades as the player obtains weapons.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AE0012190000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AE0012190000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AE0012190000/screen/1",
+    "http://api.nlib.cc/nx/0100AE0012190000/screen/2",
+    "http://api.nlib.cc/nx/0100AE0012190000/screen/3",
+    "http://api.nlib.cc/nx/0100AE0012190000/screen/4",
+    "http://api.nlib.cc/nx/0100AE0012190000/screen/5",
+    "http://api.nlib.cc/nx/0100AE0012190000/screen/6"
+  ]
+}

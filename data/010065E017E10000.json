@@ -1,0 +1,16 @@
+{
+  "name": "Black Wolf",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20220630",
+  "description": "Take the role of the titular Black Wolf as you run, jump, dash and wall slide through side-scrolling stages collecting bones and trying to survive! Arrow signs will guide you and provide hints to navigating the tricky terrain, while red flags serve as checkpoints along the way. If the Black Wolf falls, you’ll instantly be transported to the last flag, giving you a second chance at survival. Overcome single-screen challenges one at a time, then advance to test your platforming skills in the next area.\n\nA tough but rewarding action platforming adventure awaits! Will you answer the call of the wild?\n\nFeatures:\n\n• Run and jump as you navigate single-screen challenges!\n• Survive precision platforming stages with spikes and other hazards.\n• Collect all the bones to advance to new levels!\n• Respawn and retry as many times as it takes.\n• Enjoy retro pixel art presentation and rewarding old-school gameplay!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010065E017E10000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010065E017E10000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010065E017E10000/screen/1",
+    "http://api.nlib.cc/nx/010065E017E10000/screen/2",
+    "http://api.nlib.cc/nx/010065E017E10000/screen/3",
+    "http://api.nlib.cc/nx/010065E017E10000/screen/4",
+    "http://api.nlib.cc/nx/010065E017E10000/screen/5",
+    "http://api.nlib.cc/nx/010065E017E10000/screen/6"
+  ]
+}

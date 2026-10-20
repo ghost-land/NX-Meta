@@ -1,0 +1,16 @@
+{
+  "name": "OVERWHELM",
+  "publisher": "Alliance",
+  "releaseDate": "20190404",
+  "description": "Horror-world Exploration: Explore the oppressive caverns of the hive, guided only by a sparse map. Enemies can appear from anywhere at any time.\n\nBosses Give Enemies Power-Ups: As you defeat each of the five unique bosses, their abilities get distributed to the enemies of the world with escalating difficulty.\n\nTactile, Tense Combat: Combat is crunchy and fast. One hit and you die. Three deaths and the run is over. Defeat bosses in different orders to optimize your playthrough.\n\nIntense Soundtrack & Soundscape: The sparse but powerful soundscape keeps you focused and scared. The soundtrack provides occasional ominous synths to compliment intense boss fights and big moments.\n\nCo-op Mode: For the first time ever, fight with a friend through OVERWHELM. Distract enemies, team-up and revive each other to make it out alive.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01005F000CC18000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005F000CC18000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005F000CC18000/screen/1",
+    "http://api.nlib.cc/nx/01005F000CC18000/screen/2",
+    "http://api.nlib.cc/nx/01005F000CC18000/screen/3",
+    "http://api.nlib.cc/nx/01005F000CC18000/screen/4",
+    "http://api.nlib.cc/nx/01005F000CC18000/screen/5",
+    "http://api.nlib.cc/nx/01005F000CC18000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Toucan Adventure: Rio de Janeiro",
+  "publisher": "Aldora Games",
+  "releaseDate": "20240925",
+  "description": "One day, Tito and his friends embark on an exciting adventure to save their home when an unexpected threat endangers the life of the jungle. Along the journey, Tito discovers new skills and forges stronger bonds with his companions: Lina, a fast and agile squirrel; Rico, a cunning raccoon; and Flora, a butterfly with impressive wings.\n\nWhile facing great challenges, the group must learn to trust their differences, overcome their fears, and work together to protect the jungle. \n\nWith determination, ingenuity, and the power of friendship, Tito and his friends discover that even the biggest differences can become a source of strength.",
+  "bannerUrl": "http://api.nlib.cc/nx/010052B020B8C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010052B020B8C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010052B020B8C000/screen/1",
+    "http://api.nlib.cc/nx/010052B020B8C000/screen/2",
+    "http://api.nlib.cc/nx/010052B020B8C000/screen/3",
+    "http://api.nlib.cc/nx/010052B020B8C000/screen/4",
+    "http://api.nlib.cc/nx/010052B020B8C000/screen/5",
+    "http://api.nlib.cc/nx/010052B020B8C000/screen/6"
+  ]
+}

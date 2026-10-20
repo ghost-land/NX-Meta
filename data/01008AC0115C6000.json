@@ -1,0 +1,15 @@
+{
+  "name": "RMX Real Motocross",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20200410",
+  "description": "Take part in exciting motocross racing - race on different tracks. Upgrade your bike to score higher place. After each race remember to Fix broken parts and upgrade your motorcycle to win! Learn tricks, earn money, and win every championship.",
+  "bannerUrl": "http://api.nlib.cc/nx/01008AC0115C6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008AC0115C6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008AC0115C6000/screen/1",
+    "http://api.nlib.cc/nx/01008AC0115C6000/screen/2",
+    "http://api.nlib.cc/nx/01008AC0115C6000/screen/3",
+    "http://api.nlib.cc/nx/01008AC0115C6000/screen/4",
+    "http://api.nlib.cc/nx/01008AC0115C6000/screen/5"
+  ]
+}

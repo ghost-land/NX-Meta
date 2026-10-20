@@ -1,0 +1,16 @@
+{
+  "name": "C.A.R.L.",
+  "publisher": "Morningstar Game Studio",
+  "releaseDate": "20220929",
+  "description": "Inspired by classic PC games, C.A.R.L. is a retro-style adventure that blends classic platformer action with quirky RPG and story elements for a quest as lively as it is robotic!\n\nHop into the shiny metal shoes of the Computer-Automated Resource Locator, a small yet daring automaton lost within the sprawling Kent Industries facility. Brave each perilous factory floor to fetch Tech Units for your engineer friend on the outside, unlocking new areas and abilities along the way. Befriend defective robots in the D.U.M.P. (Depot of Unusable Machinery and Parts), collect items, and beat fierce foes to bring the facility’s sinister secrets to light! \n\nChock full of off-beat humor and catchy “Electro-Chiptune” musical tracks, C.A.R.L.’s journey makes for a clever and endlessly satisfying retro romp!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A060174B4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A060174B4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A060174B4000/screen/1",
+    "http://api.nlib.cc/nx/0100A060174B4000/screen/2",
+    "http://api.nlib.cc/nx/0100A060174B4000/screen/3",
+    "http://api.nlib.cc/nx/0100A060174B4000/screen/4",
+    "http://api.nlib.cc/nx/0100A060174B4000/screen/5",
+    "http://api.nlib.cc/nx/0100A060174B4000/screen/6"
+  ]
+}

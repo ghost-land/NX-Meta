@@ -1,0 +1,16 @@
+{
+  "name": "Soldam: Drop, Connect, Erase",
+  "publisher": "Dispatch Games",
+  "releaseDate": "20170920",
+  "description": "Dispatch Games brings back the Jaleco arcade classic with, Soldam: Drop, Connect, Erase.\nThe game has been refreshed with updated graphics and gameplay, but retains its arcade charm with its catchy music and unique style that have been fan favorites for many years.\n\nPlayers rotate and drop the Soldam fruits to match colors.\nKeep connecting the same colored Soldam to form an entire row and erase.\nUse flanking methods to change the colors of previously dropped Soldam to your advantage.\nStrategize your next move and maximize that score.\n\nEasy Mode: Beginners should start here. Practice the rules of the game without worrying about time and play at your own pace.\nSoldam Mode: Tackle 200 levels to see what you’ve got. Unlock different Plumi’s and collect them in the Plumidex.\nChallenge Mode: Take on 50 levels of increasingly difficult puzzles.\nThis is not a race against time but a test of your wits.\nShowdown Mode: Challenge your friends in the 2 Player Online VS mode!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A290048B0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A290048B0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A290048B0000/screen/1",
+    "http://api.nlib.cc/nx/0100A290048B0000/screen/2",
+    "http://api.nlib.cc/nx/0100A290048B0000/screen/3",
+    "http://api.nlib.cc/nx/0100A290048B0000/screen/4",
+    "http://api.nlib.cc/nx/0100A290048B0000/screen/5",
+    "http://api.nlib.cc/nx/0100A290048B0000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "OSHIIRO",
+  "publisher": "Regista",
+  "releaseDate": "20230202",
+  "description": "Horror X Virtual Idol\nInvestigate the haunted Chiba Legend Arena!\n\n■Game System\nExorcise the spirit by swinging a glowstick of the same color.\nClear the stage by finding the hidden idol symbol,\nAnd swinging a glowstick of the same color.\n\n■Story\nThe protagonist has been sent to investigate\nA haunted facility, the \"Chiba Legend Arena\".\nWhile investigating, they find a strange glowstick.\nThey use it to exorcise the demonic spirits...\n\n■Additional Content\nThere are a few minigames you can play\nThat appear unrelated to the main story\nAbout a PIEN, Buff Guys, or Sushi.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100071019B8A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100071019B8A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100071019B8A000/screen/1",
+    "http://api.nlib.cc/nx/0100071019B8A000/screen/2",
+    "http://api.nlib.cc/nx/0100071019B8A000/screen/3",
+    "http://api.nlib.cc/nx/0100071019B8A000/screen/4",
+    "http://api.nlib.cc/nx/0100071019B8A000/screen/5",
+    "http://api.nlib.cc/nx/0100071019B8A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "The Original Mobile Games",
+  "publisher": "Second Avenue Learning",
+  "releaseDate": "20190724",
+  "description": "The Original Mobile Games collection puts 149 years of playable game history into the hands of game enthusiasts around the world! The game features playable digital reproductions of historic dexterity games and puzzles, complete with original art, photographs and background information for each game straight from the archives of the Strong National Museum of Play in Rochester, NY.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010085E00C886000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010085E00C886000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010085E00C886000/screen/1",
+    "http://api.nlib.cc/nx/010085E00C886000/screen/2",
+    "http://api.nlib.cc/nx/010085E00C886000/screen/3",
+    "http://api.nlib.cc/nx/010085E00C886000/screen/4",
+    "http://api.nlib.cc/nx/010085E00C886000/screen/5",
+    "http://api.nlib.cc/nx/010085E00C886000/screen/6"
+  ]
+}

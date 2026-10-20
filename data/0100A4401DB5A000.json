@@ -1,0 +1,16 @@
+{
+  "name": "Dreamland Solitaire",
+  "publisher": "ESDigital Games",
+  "releaseDate": "20240212",
+  "description": "Escape to a world of wonder as you enjoy a magical twist on classic Solitaire! Simply play one card up or one card down from the top card on your draw pile to clear cleverly designed puzzle boards. As you remove cards, you'll slowly uncover hand-painted scenes of a gorgeous fantasy realm.\n\nPlay Dreamland Solitaire today to begin the journey of relaxation and fun!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A4401DB5A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A4401DB5A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A4401DB5A000/screen/1",
+    "http://api.nlib.cc/nx/0100A4401DB5A000/screen/2",
+    "http://api.nlib.cc/nx/0100A4401DB5A000/screen/3",
+    "http://api.nlib.cc/nx/0100A4401DB5A000/screen/4",
+    "http://api.nlib.cc/nx/0100A4401DB5A000/screen/5",
+    "http://api.nlib.cc/nx/0100A4401DB5A000/screen/6"
+  ]
+}

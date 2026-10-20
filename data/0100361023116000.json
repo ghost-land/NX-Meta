@@ -1,0 +1,16 @@
+{
+  "name": "Bahamut and the Waqwaq Tree",
+  "publisher": "SOFT SOURCE",
+  "releaseDate": "20250828",
+  "description": "Bahamut and the Waqwaq Tree is a 2D adventure game deeply rooted in Arabian mythology. Dive into Ma'een, a stunning underwater realm. Once a thriving ocean, Ma'een is now corrupted by dark entities.\nExplore the Cosmic Sea :\nFrom vibrant, ecosystems of plants and coral, to decaying ruins of an ancient civilization, explore the vast expanse of the cosmic sea, Ma'een through smooth, seamless swimming. As you delve deeper into the depths of Ma'een, encounter more challenging environments and darker corruption.\nA Light in the Darkness:\nAfter Ma'een is corrupted, it's up to you to harness the power of the light to illuminate the dark ocean. Shield yourself from lurking dangers in the depths, and dispel dark entities to restore the ocean's radiance.\nSolve Ancient Mysteries:\nDecipher ancient relics and inscriptions, solve puzzles rooted in ancient ruins, and uncover the secrets of an old, forgotten kingdom.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100361023116000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100361023116000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100361023116000/screen/1",
+    "http://api.nlib.cc/nx/0100361023116000/screen/2",
+    "http://api.nlib.cc/nx/0100361023116000/screen/3",
+    "http://api.nlib.cc/nx/0100361023116000/screen/4",
+    "http://api.nlib.cc/nx/0100361023116000/screen/5",
+    "http://api.nlib.cc/nx/0100361023116000/screen/6"
+  ]
+}

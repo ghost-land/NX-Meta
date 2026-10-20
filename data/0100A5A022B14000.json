@@ -1,0 +1,16 @@
+{
+  "name": "Fruitbus",
+  "publisher": "Silver Lining",
+  "releaseDate": "20250807",
+  "description": "Fruitbus is a cute culinary adventure, set in an open world where taste is everything. Upgrade your trusty truck and visit a whole world of new destinations together. \n\nDiscover fresh fruits and vegetables on each island of the Gustum archipelago, learn their customs and cook meals that will make someone’s day.\n\nUpgrade Your Fruitbus\nFrom a giant springy banana to racing wings, customize your Fruitbus to reflect your personality. Find new ways to attract customers with music and bright colors.  \n\nForage In The Wilds\nTreat Mother Earth well as you adventure into the wilds and gather ingredients. Find inspiration for your next top-selling dish in ancient glades, secret groves, and forgotten grottos.\n\nRefine Your Recipes\nUpgrade your kitchen to fit your play style. Make fun and original dishes for customers to try or take on the challenge of making the local delicacy.\n\nFood For The Soul\nGrow a following of loyal customers and discover their unique stories by creating dishes that evoke feelings and memories. Use the power of food to help and unlock new possibilities for you and your Fruitbus.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A5A022B14000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A5A022B14000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A5A022B14000/screen/1",
+    "http://api.nlib.cc/nx/0100A5A022B14000/screen/2",
+    "http://api.nlib.cc/nx/0100A5A022B14000/screen/3",
+    "http://api.nlib.cc/nx/0100A5A022B14000/screen/4",
+    "http://api.nlib.cc/nx/0100A5A022B14000/screen/5",
+    "http://api.nlib.cc/nx/0100A5A022B14000/screen/6"
+  ]
+}

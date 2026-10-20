@@ -1,0 +1,16 @@
+{
+  "name": "Paint By Pixel",
+  "publisher": "Ocean Media",
+  "releaseDate": "20240924",
+  "description": "Paint by Pixel is a relaxing puzzle game where you create beautiful works of art one pixel at a time. \nChoose between brush or fill mode, recolor your drawings to personalize them, and use zoom and the magnifying glass to focus on details.\nThe game also includes an autofill feature and hints to make things easier. With 95 levels to choose from, Paint by Pixel is the perfect game to unwind and explore your artistic side.\n\n-Choose from 95 beautiful works of art!\n-Pick and play any level!\n-Customizable colors!\n-Beautiful soundtrack!\n-Zoom and magnify for easy play!",
+  "bannerUrl": "http://api.nlib.cc/nx/01006BF01C980000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006BF01C980000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006BF01C980000/screen/1",
+    "http://api.nlib.cc/nx/01006BF01C980000/screen/2",
+    "http://api.nlib.cc/nx/01006BF01C980000/screen/3",
+    "http://api.nlib.cc/nx/01006BF01C980000/screen/4",
+    "http://api.nlib.cc/nx/01006BF01C980000/screen/5",
+    "http://api.nlib.cc/nx/01006BF01C980000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Barry the Bunny",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20210813",
+  "description": "Barry the Bunny is a challenging 2D platformer about a Bunny who likes carrots and loves building bridges!\n\nExplore lush 2D landscapes, and help Barry walk, jump, collect or throw items to progress through each level. Barry will travel through 4 different worlds, defeating enemies, facing dangerous traps, conquering challenging platforming levels and getting enough wood to build new bridges!\n\nCan Barry repair all the bridges so that the little bunnies can return home?\nHop into platform action fun with Barry the Bunny.\n\n\nFeatures:\n* Classic 2D platformer gameplay\n* Visit 4 different unique areas\n* Colorful 8-bit style graphics\n* Vibrant chiptune music\n* Increasingly challenging levels",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C46015AA0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C46015AA0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C46015AA0000/screen/1",
+    "http://api.nlib.cc/nx/0100C46015AA0000/screen/2",
+    "http://api.nlib.cc/nx/0100C46015AA0000/screen/3",
+    "http://api.nlib.cc/nx/0100C46015AA0000/screen/4",
+    "http://api.nlib.cc/nx/0100C46015AA0000/screen/5",
+    "http://api.nlib.cc/nx/0100C46015AA0000/screen/6"
+  ]
+}

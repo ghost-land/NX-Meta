@@ -1,0 +1,18 @@
+{
+  "name": "Banana Blood",
+  "publisher": "Vidas Games",
+  "releaseDate": "20260716",
+  "description": "Banana Blood is a first person comedy horror game about, well, bananas. You arrive at the banana farm that's surrounded by mystery and death and it's up to you to find out what's going on here. Weird banana creatures are creeping around, the smell of fresh banana bread is filling the air, and you can't help but feel yourself being dragged into this place.\n\nThe game is a mix of comedy and horror: the banana jokes and puns are running wild here and the cartoon-like banana creatures are too nightmarish to be in a kids' show. You get to explore the Banana Farm, the secrets inside, run from the evil creatures, solve puzzles, laugh at the jokes and jump from the scares. We have a wide selection of evil bananas chasing you and giving you nightmares, such as the violent Banana Demon, the dancing Pink Banana, creepy Banana Children, a sinister Banana Mannequin... And they're all trying to summon the Banana God.\n\nThe game also has bus customization. The game isn't about a bus. And it's not even your bus. To be honest, the bus driver is quite angry with you about it. But you can still pick some new paint colors for that bus.\n\nTime to go bananas.",
+  "bannerUrl": "http://api.nlib.cc/nx/010040C028CC8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010040C028CC8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010040C028CC8000/screen/1",
+    "http://api.nlib.cc/nx/010040C028CC8000/screen/2",
+    "http://api.nlib.cc/nx/010040C028CC8000/screen/3",
+    "http://api.nlib.cc/nx/010040C028CC8000/screen/4",
+    "http://api.nlib.cc/nx/010040C028CC8000/screen/5",
+    "http://api.nlib.cc/nx/010040C028CC8000/screen/6"
+  ],
+  "version": 0,
+  "size": 577376188
+}

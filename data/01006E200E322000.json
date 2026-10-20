@@ -1,0 +1,12 @@
+{
+  "name": "Car Trader",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20190512",
+  "description": "In Car Trader you can participate in car auctions. Buy cars in different states, renew them and sell them while earning profit. But be sure to watch out for popularity of the type of vehicle during the auction, because you can overpay.\n\nIn this game you get the opportunity to purchase 100 different cars from 9 different types of vehicles.\n\nThe game includes:\n- 25 different cars\n- 9 different types of cars\n- 5 types of workshops\n- different scales of vehicle damage\n- randomly generated popularity trends for different types of cars\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01006E200E322000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006E200E322000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006E200E322000/screen/1",
+    "http://api.nlib.cc/nx/01006E200E322000/screen/2"
+  ]
+}

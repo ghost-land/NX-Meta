@@ -1,0 +1,16 @@
+{
+  "name": "Magic Rune Stone",
+  "publisher": "BD Games",
+  "releaseDate": "20260205",
+  "description": "Also features a built-in “Survivor Mode”.\n\nIn the world of Magic Rune Stone, battle through challenging rooms. Mix and match unique skills and equipment, select exclusive abilities, and craft a truly custom character. A massive selection of skills, gear, unique Blessings, and Treasures delivers thrilling, high-stakes gameplay.\n\nEach hero has a dedicated Signature Skill Slot, featuring a different ability per character. Each also has a unique upgrade tree for this skill. Use different Blessings to unlock and select from various skill specializations.\n\nEvery character has 4 Universal Skill Slots. Universal Skills are equipped during a run via Skill Stones. Each can be upgraded with Blessings to significantly boost its power; some even gain entirely new mechanics.\n\nA hero can carry up to 9 pieces of Equipment. Gear comes in 4 rarity tiers, with higher rarities granting better stats and sometimes unique effects. Equipment also provides Blessings, allowing for deep build customization.\n\nTreasures are powerful artifacts that boost your damage output or survivability. Experiment by combining their effects with your Equipment and Blessings to discover powerful new builds and playstyles.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100170025ACA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100170025ACA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100170025ACA000/screen/1",
+    "http://api.nlib.cc/nx/0100170025ACA000/screen/2",
+    "http://api.nlib.cc/nx/0100170025ACA000/screen/3",
+    "http://api.nlib.cc/nx/0100170025ACA000/screen/4",
+    "http://api.nlib.cc/nx/0100170025ACA000/screen/5",
+    "http://api.nlib.cc/nx/0100170025ACA000/screen/6"
+  ]
+}

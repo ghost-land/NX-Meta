@@ -1,0 +1,16 @@
+{
+  "name": "Universal Flight Simulator",
+  "publisher": "Pix Arts",
+  "releaseDate": "20220715",
+  "description": "Fasten your seatbelts and be ready for the most realistic and beautiful flight of your life!\n\nUniversal Flight Simulator will let you pilot from old dusters to modern jets and helicopter.\nFree flight or Race the circuits, achieve best times and unlock new missions! \n\n\nMain Features\n* Optimized aerodynamics simulation.\n* Optimized hidrodynamics simulation.\n* Custom wheels and suspension.\n* Physics based engine simulation.\n* Propeller and transmision systems.\n* 2d/3d gauges/panel systems\n* Virtual Cockpit system.\n* Free Flights\n* Race Circuits Flights",
+  "bannerUrl": "http://api.nlib.cc/nx/0100476018838000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100476018838000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100476018838000/screen/1",
+    "http://api.nlib.cc/nx/0100476018838000/screen/2",
+    "http://api.nlib.cc/nx/0100476018838000/screen/3",
+    "http://api.nlib.cc/nx/0100476018838000/screen/4",
+    "http://api.nlib.cc/nx/0100476018838000/screen/5",
+    "http://api.nlib.cc/nx/0100476018838000/screen/6"
+  ]
+}

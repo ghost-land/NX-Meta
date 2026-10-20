@@ -1,0 +1,14 @@
+{
+  "name": "Horoscope Signs: Discover the meaning of your sign",
+  "publisher": "Cooking & Publishing",
+  "releaseDate": "20230601",
+  "description": "Discover everything about the zodiac signs in this interactive guide!\n\nLearn about the characteristics and personalities of each sign, their symbolism and their relationship with Greek mythology. Find out how they are divided into elements and how they relate to each other. Plus, learn about astrology and how it is used to interpret aspects of people's lives.\n\nAll in one comprehensive guide!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CC501B4B6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CC501B4B6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CC501B4B6000/screen/1",
+    "http://api.nlib.cc/nx/0100CC501B4B6000/screen/2",
+    "http://api.nlib.cc/nx/0100CC501B4B6000/screen/3",
+    "http://api.nlib.cc/nx/0100CC501B4B6000/screen/4"
+  ]
+}

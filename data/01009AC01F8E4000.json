@@ -1,0 +1,16 @@
+{
+  "name": "ROBOBEAT",
+  "publisher": "Kwalee",
+  "releaseDate": "20250130",
+  "description": "Beat. The. Bot. \n\nYou're Ace - a famous bounty hunter after your latest target, the eccentric robot-showman Frazzer. To find your way through his twisted techno-playground, you’ll have to master the art of shooting, wall-running, sliding, and bunny hopping, all in sync with the beat! Get ready to dance till you're dead and then suit up for the remix in rogue-like rhythm shooter ROBOBEAT.\n\nMove to the Music\nYou’ll want some slick moves to go with those slick new weapons. Your enemies aren’t going to wait around for you to take a dance break, so you’ve got to keep moving if you want to survive.\n\nWall run, slide, double jump, bunny hop, and grapple hook your way through technicolour levels to give your enemies the runaround. Keep it fluid, keep it funky, and keep it moving.\n\n\nRewind, Remix, Replay\nROBOBEAT is a rogue-like remix.\n\nFast forward through procedurally generated levels, equip an arsenal of finely-tuned weapons, and accompany your arsenal with a symphony of modifications. Your playstyle is on continuous shuffle, so you never know what each new run is going to bring!\n\nWill you have what it takes to break the infinite loop and stop Frazzer in his tracks?",
+  "bannerUrl": "http://api.nlib.cc/nx/01009AC01F8E4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009AC01F8E4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009AC01F8E4000/screen/1",
+    "http://api.nlib.cc/nx/01009AC01F8E4000/screen/2",
+    "http://api.nlib.cc/nx/01009AC01F8E4000/screen/3",
+    "http://api.nlib.cc/nx/01009AC01F8E4000/screen/4",
+    "http://api.nlib.cc/nx/01009AC01F8E4000/screen/5",
+    "http://api.nlib.cc/nx/01009AC01F8E4000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "KORG Gadget for Nintendo Switch",
+  "publisher": "DETUNE",
+  "releaseDate": "20180426",
+  "description": "Award-winning music creation software KORG Gadget is now available for the Nintendo Switch. Plentiful instrumental gadgets combined with a simple and intuitive graphical interface enable speedy music creation. With this new music creation studio, one can create and perform music by actively twisting and turning the Joy-Con™. \n\nThere is also a multi-player mode in which up to four people can collaborate in making music. Connect via an HDMI cable to enjoy playing on the TV in your living room, or use it with a projector for big live performances. Everyone can enjoy this new game-like DAW experience.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EC8004762000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EC8004762000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EC8004762000/screen/1",
+    "http://api.nlib.cc/nx/0100EC8004762000/screen/2",
+    "http://api.nlib.cc/nx/0100EC8004762000/screen/3",
+    "http://api.nlib.cc/nx/0100EC8004762000/screen/4",
+    "http://api.nlib.cc/nx/0100EC8004762000/screen/5",
+    "http://api.nlib.cc/nx/0100EC8004762000/screen/6"
+  ]
+}

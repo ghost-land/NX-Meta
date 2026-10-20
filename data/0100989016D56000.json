@@ -1,0 +1,16 @@
+{
+  "name": "Pure Mini Golf",
+  "publisher": "Gametry",
+  "releaseDate": "20220121",
+  "description": "Enjoy over 50 unique levels, each with its own set of obstacles, twists, and turns. Its simple controls make it a snap to learn from the outset and through its three modes, you’ll soon go from fledgling to master putter.\n\nArcade mode takes you through the game’s levels where you can play at your own pace. Once you’re feeling more confident in your skills, you can take on Challenge mode where failing at any time takes you back to the beginning. And when you’re done playing alone, you can bring in up to three friends for some Local Multiplayer and chill.\n\nThe putting life is a simple one. Bring it into your home with Pure Mini Golf.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100989016D56000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100989016D56000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100989016D56000/screen/1",
+    "http://api.nlib.cc/nx/0100989016D56000/screen/2",
+    "http://api.nlib.cc/nx/0100989016D56000/screen/3",
+    "http://api.nlib.cc/nx/0100989016D56000/screen/4",
+    "http://api.nlib.cc/nx/0100989016D56000/screen/5",
+    "http://api.nlib.cc/nx/0100989016D56000/screen/6"
+  ]
+}

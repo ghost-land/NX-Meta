@@ -1,0 +1,16 @@
+{
+  "name": "SushiParty",
+  "publisher": "AnelaGamesStudio",
+  "releaseDate": "20210128",
+  "description": " A simple but actionable shooter!\n\nIn recent years, \"shrimp\" and \"tuna\" were fighting.\nHowever, tuna adopted all sushi and enjoys the rule of the galaxy.\nThe shrimp will defeat the tuna to save the galaxy!\nSushi will save the galaxy!\n\nA view of the world without rotation and a wasted effect,\nAnd please enjoy it with a cool sound.\nYou can enjoy from beginner to core user in 3 game modes\nThe game balance is finished.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005FC013414000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005FC013414000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005FC013414000/screen/1",
+    "http://api.nlib.cc/nx/01005FC013414000/screen/2",
+    "http://api.nlib.cc/nx/01005FC013414000/screen/3",
+    "http://api.nlib.cc/nx/01005FC013414000/screen/4",
+    "http://api.nlib.cc/nx/01005FC013414000/screen/5",
+    "http://api.nlib.cc/nx/01005FC013414000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Fitness Boxing 3: Your Personal Trainer",
+  "publisher": "Nintendo",
+  "releaseDate": "20241205",
+  "description": "Punch and dodge* to the beat in the latest entry of the Fitness Boxing series! Pair up with your choice of eight fully voiced virtual instructors with customizable outfits and hairstyles (software update required)—and then get your groove on in 30 instrumental songs, some of which are inspired by catchy pop tunes.\n\nJump into a single Quick Workout, or build an exercise routine that fits your life. Additions to the series include Mitt Drills to practice combos with your instructor and Sit Fit Boxing to work up a sweat without leaving your seat. Whether you’re after a serious burn or just a bit of stretching, the intensity of your workout is up to you!",
+  "bannerUrl": "http://api.nlib.cc/nx/010020101F804000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010020101F804000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010020101F804000/screen/1",
+    "http://api.nlib.cc/nx/010020101F804000/screen/2",
+    "http://api.nlib.cc/nx/010020101F804000/screen/3",
+    "http://api.nlib.cc/nx/010020101F804000/screen/4",
+    "http://api.nlib.cc/nx/010020101F804000/screen/5",
+    "http://api.nlib.cc/nx/010020101F804000/screen/6"
+  ]
+}

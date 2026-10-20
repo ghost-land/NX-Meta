@@ -1,0 +1,16 @@
+{
+  "name": "Tennis",
+  "publisher": "D3PUBLISHER",
+  "releaseDate": "20180125",
+  "description": "A tennis game that can be picked up and played by anyone.\nEnjoy the game by yourself, or play against family and friends. \nWith 8 characters and 6 courts available, feel the excitement that tennis brings. \nThe game can be played not only with the Pro Controller, but also by swing the Joy-Con or touch the screen.\n\nRally Challenge:\nTry to get the longest rally possible.\n\nTournament:\nProceed through a tournament, taking on increasingly stronger opponents along the way. \n\nCustom Play:\nPlay with any character and court you like.\n\nQuick Play:\nFor those who want to play straight away.\n\n2 Player Vs:\nPlay split-screen or locally connect through 2 consoles. \n\nAchievements: \nClear 100 achievements to acquire unique special abilities.  ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D7A005DFC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D7A005DFC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D7A005DFC000/screen/1",
+    "http://api.nlib.cc/nx/0100D7A005DFC000/screen/2",
+    "http://api.nlib.cc/nx/0100D7A005DFC000/screen/3",
+    "http://api.nlib.cc/nx/0100D7A005DFC000/screen/4",
+    "http://api.nlib.cc/nx/0100D7A005DFC000/screen/5",
+    "http://api.nlib.cc/nx/0100D7A005DFC000/screen/6"
+  ]
+}

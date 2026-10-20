@@ -1,0 +1,16 @@
+{
+  "name": "A Game About Digging A Hole™",
+  "publisher": "Rokaplay",
+  "releaseDate": "20251121",
+  "description": "Dig deep, sell what you find, update your equiptment to continue your journey further and further. With every spadeful you dig, you get closer to the truth. There's no rush, no rules - just you and the adventure underground.\n\nCosts as much as a coffee, but is fun for longer!",
+  "bannerUrl": "http://api.nlib.cc/nx/01005FC023D76000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005FC023D76000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005FC023D76000/screen/1",
+    "http://api.nlib.cc/nx/01005FC023D76000/screen/2",
+    "http://api.nlib.cc/nx/01005FC023D76000/screen/3",
+    "http://api.nlib.cc/nx/01005FC023D76000/screen/4",
+    "http://api.nlib.cc/nx/01005FC023D76000/screen/5",
+    "http://api.nlib.cc/nx/01005FC023D76000/screen/6"
+  ]
+}

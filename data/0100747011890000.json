@@ -1,0 +1,16 @@
+{
+  "name": "Battle Axe",
+  "publisher": "Numskull Games",
+  "releaseDate": "20210429",
+  "description": "Battle Axe is an arcade top-down hack & slash featuring high-quality visuals created by veteran pixel artist Henk Nieborg, true to form game mechanics, and music from the legendary VGM composer Manami Matsumae – retro gamers rejoice!\nFor as long as you and your people can remember, your homeland of Mercia has been held in the tyrannical grip of “Etheldred”; a despotic sorceress in the distant icy wastelands to the north. \n\nEvery seven years she sends her armies south to handpick inhabitants from each township who will be subjected to a life of slavery, and they are never heard from again. A call is sent out to champions across the land pleading with them to put an end to her rule. \n\nAn elf, a wizard and a marauder answer the call. Join this band of heroes on their quest the vanquish evil from the land once and for all!\n• Pixel art fun – an adventure for pixel art enthusiasts, with gorgeously designed characters and environments to enjoy with every frame\n• Hack n’ slash adventure – familiar yet revitalised, thanks to new gameplay elements, improved controls and pixel perfect animations\n• Enjoy a timeless melody – a superb soundtrack by legendary composer Manami Matsumae\n• Solo or co-op – choose from three highly-detailed heroes to embark with on your quest, playing alone or with a friend in local co-op\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100747011890000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100747011890000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100747011890000/screen/1",
+    "http://api.nlib.cc/nx/0100747011890000/screen/2",
+    "http://api.nlib.cc/nx/0100747011890000/screen/3",
+    "http://api.nlib.cc/nx/0100747011890000/screen/4",
+    "http://api.nlib.cc/nx/0100747011890000/screen/5",
+    "http://api.nlib.cc/nx/0100747011890000/screen/6"
+  ]
+}

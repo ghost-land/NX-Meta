@@ -1,0 +1,16 @@
+{
+  "name": "Gunma's Ambition  -You and me are Gunma-",
+  "publisher": "G-MODE",
+  "releaseDate": "20191226",
+  "description": "Let's change all of Japan to Gunma.\nThe definitive edition of the Gunma simulation game.\nEveryone can play!\n\n・Story mode\nYou become Gunma and collect special products.\nIf you get a special product, you can get G (GUNMA).\n\nNext, select the prefecture you want to change to Gunma.\nThen use G (GUNMA) to draw the gacha.\n\nThe people of the selected prefecture will change to Gunma for the population of the municipalities that came out in Gacha.\nWhen everyone changes to Gunma, the prefecture changes to Gunma.\n\n・Party mode\nIncludes 4 party games based on Gunma and Japan.\nUp to 4 people can play together.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EC20101E4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EC20101E4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EC20101E4000/screen/1",
+    "http://api.nlib.cc/nx/0100EC20101E4000/screen/2",
+    "http://api.nlib.cc/nx/0100EC20101E4000/screen/3",
+    "http://api.nlib.cc/nx/0100EC20101E4000/screen/4",
+    "http://api.nlib.cc/nx/0100EC20101E4000/screen/5",
+    "http://api.nlib.cc/nx/0100EC20101E4000/screen/6"
+  ]
+}

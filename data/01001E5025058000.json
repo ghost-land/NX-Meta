@@ -1,0 +1,16 @@
+{
+  "name": "Bigfoot Hunting",
+  "publisher": "VRCFORGE STUDIOS",
+  "releaseDate": "20251011",
+  "description": "Step into the heart of the untamed wilderness in Bigfoot Hunting, a high-stakes survival experience designed for thrill-seekers. Armed with only your instincts, a trusty weapon, and limited supplies, you’ll face off against one of the greatest legends of the forest—Bigfoot.\n\nTrack, hunt, and survive in a living, breathing ecosystem where every shadow could be your last. The hunt is on… but remember, you’re not the only one watching.\n\nKey Features:\n• First-Person Immersion: Explore and survive the forest in intense first-person perspective.\n• Dynamic Combat: Switch between firearms and melee weapons in real-time.\n• Interactive World: Use flashlights, night vision, open doors, and search cabins.\n• Survival Tools: Heal with medkits, set traps, bait, and motion sensors.\n• Random Events: No two hunts are the same—expect the unexpected.\n• Loot & Upgrade: Scavenge supplies and improve your gear to survive longer.\n\nWill you outwit the beast—or become another forgotten story whispered through the trees? The wild is calling. Bigfoot is near.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001E5025058000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001E5025058000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001E5025058000/screen/1",
+    "http://api.nlib.cc/nx/01001E5025058000/screen/2",
+    "http://api.nlib.cc/nx/01001E5025058000/screen/3",
+    "http://api.nlib.cc/nx/01001E5025058000/screen/4",
+    "http://api.nlib.cc/nx/01001E5025058000/screen/5",
+    "http://api.nlib.cc/nx/01001E5025058000/screen/6"
+  ]
+}

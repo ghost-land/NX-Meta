@@ -1,0 +1,16 @@
+{
+  "name": "Escape First",
+  "publisher": "OnSkull Development",
+  "releaseDate": "20200220",
+  "description": "The Rooms\n\nPsycho Circus\nAfter attending a spectacular performance at the circus \"De la Luna\", you find yourself trapped inside the clown's quarters. In a few minutes his show will end. Will you be able to find his spare key and escape before he returns? Everyone knows that clowns don't like other people touching their stuff!\n\nThe Red Button\nOne room, one door, one bloodied knife. What's going on? What happened last night? You need to know. Are you sure you want to know? You need to leave. Be careful though! No matter what happens, do NOT press the red button!\n\nLost In Time\nYou have agreed to take part in an experiment relating to space time. One mistake has left you trapped in chaos. Past, present and future have merged! Time is your worst enemy! Will you be able to beat it and return to your reality before it is lost forever?\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01000E8010A98000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000E8010A98000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000E8010A98000/screen/1",
+    "http://api.nlib.cc/nx/01000E8010A98000/screen/2",
+    "http://api.nlib.cc/nx/01000E8010A98000/screen/3",
+    "http://api.nlib.cc/nx/01000E8010A98000/screen/4",
+    "http://api.nlib.cc/nx/01000E8010A98000/screen/5",
+    "http://api.nlib.cc/nx/01000E8010A98000/screen/6"
+  ]
+}

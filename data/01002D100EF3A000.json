@@ -1,0 +1,16 @@
+{
+  "name": "Vigil: The Longest Night",
+  "publisher": "Glass Heart Games",
+  "releaseDate": "20201014",
+  "description": "\"Vigil: The Longest Night\" is a side-scrolling action game. Take on the role of Vigilant Leila as she embarks on her trial—defending the town, exploring the world, battling sinister creatures, and uncovering the secrets of Shimmer’s Faith and its hidden schemes.\n\nMaster a Variety of Weapons\nFind and wield different weapons with unique combat style. Upgrade your equipment through enchantments and forging to strengthen your abilities.\n\nExplore a World Full of Secrets\nVenture through diverse environments and dungeons, uncovering hidden paths, rare items, and forgotten lore.\n\nChallenge the Night’s Terrors\nFace over a hundred unique enemies and nearly 20 powerful bosses, testing your skill and determination in intense battles.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002D100EF3A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002D100EF3A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002D100EF3A000/screen/1",
+    "http://api.nlib.cc/nx/01002D100EF3A000/screen/2",
+    "http://api.nlib.cc/nx/01002D100EF3A000/screen/3",
+    "http://api.nlib.cc/nx/01002D100EF3A000/screen/4",
+    "http://api.nlib.cc/nx/01002D100EF3A000/screen/5",
+    "http://api.nlib.cc/nx/01002D100EF3A000/screen/6"
+  ]
+}

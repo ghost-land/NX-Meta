@@ -1,0 +1,15 @@
+{
+  "name": "3D Air Hockey",
+  "publisher": "Pix Arts",
+  "releaseDate": "20210714",
+  "description": "Enjoy fast-paced action in this very close to reality Air Hockey Game. Easy to play, tough to master.\n\nmain features:\n\n- Vey Accurate Controls, easy to pick up\n- 3D and 2D Views\n- Top Full 3D Graphics\n- Real Physic Engine\n- 3 AI Levels\n- 6 Tables, 4 Mallets",
+  "bannerUrl": "http://api.nlib.cc/nx/01000220158C4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000220158C4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000220158C4000/screen/1",
+    "http://api.nlib.cc/nx/01000220158C4000/screen/2",
+    "http://api.nlib.cc/nx/01000220158C4000/screen/3",
+    "http://api.nlib.cc/nx/01000220158C4000/screen/4",
+    "http://api.nlib.cc/nx/01000220158C4000/screen/5"
+  ]
+}

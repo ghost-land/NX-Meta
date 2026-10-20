@@ -1,0 +1,15 @@
+{
+  "name": "Otokomizu",
+  "publisher": "BIG BOYS STUDIO",
+  "releaseDate": "20191031",
+  "description": "Hovering in the sky over Edo City with a loincloth!\nThis jet pack firefighting 3D action game has the most mysterious operation feeling ever!",
+  "bannerUrl": "http://api.nlib.cc/nx/01006AA00EE44000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006AA00EE44000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006AA00EE44000/screen/1",
+    "http://api.nlib.cc/nx/01006AA00EE44000/screen/2",
+    "http://api.nlib.cc/nx/01006AA00EE44000/screen/3",
+    "http://api.nlib.cc/nx/01006AA00EE44000/screen/4",
+    "http://api.nlib.cc/nx/01006AA00EE44000/screen/5"
+  ]
+}

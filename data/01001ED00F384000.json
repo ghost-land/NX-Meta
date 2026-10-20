@@ -1,0 +1,14 @@
+{
+  "name": "Tic-Tac-Letters by POWGI",
+  "publisher": "Lightwood Games",
+  "releaseDate": "20191003",
+  "description": "Tic-Tac-Letters is a single player logic puzzle based on tic-tac-toe.\n\nBegin by placing letters so that there are no more than two Xs or Os consecutive in a row or column. Then continue with new letters and larger and more challenging puzzles.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01001ED00F384000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001ED00F384000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001ED00F384000/screen/1",
+    "http://api.nlib.cc/nx/01001ED00F384000/screen/2",
+    "http://api.nlib.cc/nx/01001ED00F384000/screen/3",
+    "http://api.nlib.cc/nx/01001ED00F384000/screen/4"
+  ]
+}

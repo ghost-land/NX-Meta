@@ -1,0 +1,16 @@
+{
+  "name": "Super Snake Block",
+  "publisher": "Isaias Game Dev",
+  "releaseDate": "20220801",
+  "description": "• Simple and addictive gameplay\n• Increase the snake's size by collecting body parts along the way\n• Use the snake's body to destroy boxes and score as many points as you can.\n• Worlds: Forest, Desert, Graveyard and Snow\n• Collect coins and use them to unlock new levels and snake skins\n• Power of invincibility: but be careful with scenery objects\n• Grab the Imam and attract nearby coins to you.\n• 18 snake skins to unlock\n• Play with Mr Maker Level Editor\n• Easy Achievements",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D54018F66000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D54018F66000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D54018F66000/screen/1",
+    "http://api.nlib.cc/nx/0100D54018F66000/screen/2",
+    "http://api.nlib.cc/nx/0100D54018F66000/screen/3",
+    "http://api.nlib.cc/nx/0100D54018F66000/screen/4",
+    "http://api.nlib.cc/nx/0100D54018F66000/screen/5",
+    "http://api.nlib.cc/nx/0100D54018F66000/screen/6"
+  ]
+}

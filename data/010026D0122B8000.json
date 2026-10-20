@@ -1,0 +1,13 @@
+{
+  "name": "Retro Game Pack",
+  "publisher": "Run-Down Games",
+  "releaseDate": "20200709",
+  "description": "This bundle contains a collection of our favorite retro games. Games that we grew up playing or wanting to play as a child.\n\nAll games contain a challenging CPU and local two-player modes. Travel back in time into the middle of a retro room, when we spent hours playing these games.\n\nPlay on the go, on the TV, or with others locally.",
+  "bannerUrl": "http://api.nlib.cc/nx/010026D0122B8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010026D0122B8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010026D0122B8000/screen/1",
+    "http://api.nlib.cc/nx/010026D0122B8000/screen/2",
+    "http://api.nlib.cc/nx/010026D0122B8000/screen/3"
+  ]
+}

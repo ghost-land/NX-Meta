@@ -1,0 +1,15 @@
+{
+  "name": "Mage & Monsters",
+  "publisher": "Malvzach Games",
+  "releaseDate": "20230713",
+  "description": "Create an army and use spells while it fights for you. Mage & Monsters is an active auto battler, where you must choose wisely between upgrading the might of your army, or increasing the power of your spells.\n\nFeatures\n- 8 mages each with a special bonus and starting spell. And Gus.\n- 25 distinct units you can recruit, and 35 different monsters to defeat.\n- 11 unique spells you can use in battle to help your army.\n- Earn Blood Shards by playing that can be spent on Power Ups before starting a new game.\n- An arena and a forest map, each with 30 normal levels followed by 5 levels of endgame.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002A001B13E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002A001B13E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002A001B13E000/screen/1",
+    "http://api.nlib.cc/nx/01002A001B13E000/screen/2",
+    "http://api.nlib.cc/nx/01002A001B13E000/screen/3",
+    "http://api.nlib.cc/nx/01002A001B13E000/screen/4",
+    "http://api.nlib.cc/nx/01002A001B13E000/screen/5"
+  ]
+}

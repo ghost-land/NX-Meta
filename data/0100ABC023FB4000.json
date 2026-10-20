@@ -1,0 +1,16 @@
+{
+  "name": "Zumba - Dragon's Marble Trial",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20251218",
+  "description": "Zumba – The Dragon’s Marble Trial invites you into an enchanting world where a charming dragon wields colorful marbles in mouth and tail! Pick a stage, aim your dragon-launched marbles at winding paths, and match three or more identical colors to trigger explosive combos before they invade your lair. Rack up high scores and up to three stars per level by clearing waves quickly and precisely.\nBetween stages, spend your hoard of coins to unlock mythical upgrades: Flame Blast scorches entire clusters, Time Warp slows advancing marbles, Repaint transmutes your next marble to any hue you need, Meteor Shower rains down a barrage of matches, Destruction Shot targets a single stubborn marble, and Time Revert undoes your last shot for a second chance.\nJourney through four fantastical realms—Emerald Forest Glades, Crystal Mountain Pass, Twilight Sky Islands, and the Obsidian Dragon’s Keep—each unveiled every ten levels with unique paths, new marble colors, moving obstacles, and escalating speeds.\nAddictive and easy to pick up yet challenging to master, Zumba – The Dragon’s Marble Trial delivers fiery arcade fun for players of all ages.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ABC023FB4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ABC023FB4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ABC023FB4000/screen/1",
+    "http://api.nlib.cc/nx/0100ABC023FB4000/screen/2",
+    "http://api.nlib.cc/nx/0100ABC023FB4000/screen/3",
+    "http://api.nlib.cc/nx/0100ABC023FB4000/screen/4",
+    "http://api.nlib.cc/nx/0100ABC023FB4000/screen/5",
+    "http://api.nlib.cc/nx/0100ABC023FB4000/screen/6"
+  ]
+}

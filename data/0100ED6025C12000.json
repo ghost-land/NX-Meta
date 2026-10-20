@@ -1,0 +1,15 @@
+{
+  "name": "Drifties",
+  "publisher": "Entity3",
+  "releaseDate": "20251101",
+  "description": "Get ready for racing that’s all speed, style, and chaos. This is arcade action at its most colorful, where every corner is made for drifting and every bump can send a rival flying.\n\nRace through 40 wild stages spread across four vibrant worlds, from sun-soaked city streets to snowy mountain passes and foggy night tracks. Each race is three laps of pure mayhem, with two rivals on your tail and only your drifting skills to keep you ahead.\n\nThe controls are simple, the drifting is smooth, and the action never slows down. Knock rivals off the track, master the curves, and collect coins to unlock flashy new cars, wheels, and driver outfits.\n\nIt’s fast, it’s cartoony, and it never takes itself too seriously—just the way arcade racing should be.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ED6025C12000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ED6025C12000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ED6025C12000/screen/1",
+    "http://api.nlib.cc/nx/0100ED6025C12000/screen/2",
+    "http://api.nlib.cc/nx/0100ED6025C12000/screen/3",
+    "http://api.nlib.cc/nx/0100ED6025C12000/screen/4",
+    "http://api.nlib.cc/nx/0100ED6025C12000/screen/5"
+  ]
+}

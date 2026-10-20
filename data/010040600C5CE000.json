@@ -1,0 +1,16 @@
+{
+  "name": "Tetris® 99",
+  "publisher": "Nintendo",
+  "releaseDate": "20190213",
+  "description": "The Tetris® 99 digital game includes an online mode that is a special offer for Nintendo Switch Online members*. In large-scale, 99-player battles, it’ll take speed, skill, and strategy to knock out the competition and become the last player standing. You can target opponents by sending them Garbage Blocks, but be careful… Your rivals can target you back! Defeat opponents to acquire K.O. Badges that may give you the advantage on future attacks. Nintendo Switch Online members can also look forward to upcoming online events*!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010040600C5CE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010040600C5CE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010040600C5CE000/screen/1",
+    "http://api.nlib.cc/nx/010040600C5CE000/screen/2",
+    "http://api.nlib.cc/nx/010040600C5CE000/screen/3",
+    "http://api.nlib.cc/nx/010040600C5CE000/screen/4",
+    "http://api.nlib.cc/nx/010040600C5CE000/screen/5",
+    "http://api.nlib.cc/nx/010040600C5CE000/screen/6"
+  ]
+}

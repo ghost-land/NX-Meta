@@ -1,0 +1,18 @@
+{
+  "name": "Octo's Balloon Challenge",
+  "publisher": "MUTAN",
+  "releaseDate": "20260426",
+  "description": "One day, for reasons unknown, Souls begin raining down from the sky…!?\nTo uncover the mystery, Octo and Goonyan took off to the skies... using balloons!\n\nThis spin-off mini-game from Goonya Monster stars the series’ main character, Octo.\nCatch the falling Souls and keep them from spilling by using balloons to control the tilt of your container—then soar as high as you can!\n\n◇ Simple controls!\nMove left and right while launching balloons to stay afloat.\nIt’s easy to pick up, but your sense of balance will be put to the test!\nFun and accessible for players of all ages.\n\n◆ Master the art of balloon control!\nChoose the size and placement of your balloons to keep your container balanced.\nFocus too much on one side, and it will tilt—sending your Souls tumbling down!\n\n◆ Souls stack in sets of 10!\nCollect 10 Souls to bundle them into a compact box.\nThen, combine three boxes to clear them and earn a score bonus!\n\n◆ Gotta collect them all!\nMiss 7 Souls, or fall more than 500 meters, and it’s game over.\nWith cheers from Goonyan, keep climbing higher and gather as many Souls as you can!\n\n◇ Co-op mode (Offline 2-player mode)\nIn 2-player mode, Orca joins the adventure from Goonya Monster!\nWith the container now constantly shifting left and right, you’ll need to work together to keep it balanced and climb higher…\n…nicely, of course.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100391021FB6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100391021FB6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100391021FB6000/screen/1",
+    "http://api.nlib.cc/nx/0100391021FB6000/screen/2",
+    "http://api.nlib.cc/nx/0100391021FB6000/screen/3",
+    "http://api.nlib.cc/nx/0100391021FB6000/screen/4",
+    "http://api.nlib.cc/nx/0100391021FB6000/screen/5",
+    "http://api.nlib.cc/nx/0100391021FB6000/screen/6"
+  ],
+  "version": 0,
+  "size": 86674589
+}

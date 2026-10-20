@@ -1,0 +1,16 @@
+{
+  "name": "HITMAN 3 - Cloud Version",
+  "publisher": "IO Interactive",
+  "releaseDate": "20210120",
+  "description": "Death Awaits. Agent 47 returns in HITMAN 3, the dramatic conclusion to the World of Assassination trilogy.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004990132AC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004990132AC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004990132AC000/screen/1",
+    "http://api.nlib.cc/nx/01004990132AC000/screen/2",
+    "http://api.nlib.cc/nx/01004990132AC000/screen/3",
+    "http://api.nlib.cc/nx/01004990132AC000/screen/4",
+    "http://api.nlib.cc/nx/01004990132AC000/screen/5",
+    "http://api.nlib.cc/nx/01004990132AC000/screen/6"
+  ]
+}

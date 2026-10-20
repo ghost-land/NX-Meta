@@ -1,0 +1,16 @@
+{
+  "name": "My Universe - My Baby",
+  "publisher": "Microids",
+  "releaseDate": "20200818",
+  "description": "Discover a new generation of baby simulation: feed them, bath them, change their diapers, play together… like in real life!\n\nYour baby needs you!\nEvery action contributes to your baby’s happiness and love for you. Use all items at your disposal (toys, plushies…) to motivate them to carry out new actions (standing, crawling, walking...) and unlock more activities.\n\nAll grown-up!\nPlay with your newborn baby, witness their first steps and their evolution through dozens of minigames. Watch your child grow up in size and personality along the way!\n\nParenting like a boss!\nYour efforts are rewarded: the more skills your baby learns, the more items and outfits you earn to personalise your experience.\n\nFEATURES\n- Complete customisation: create your dream baby, pick up their perfect outfit and customise their room as you like!\n- Full immersion: interact with your baby as if you were in the room \n- More than 30 activities to discover and master;\n- Don't stand still! Explore the house and play everywhere: in the bedroom, kitchen, bathroom, living room…\n- Photo mode: take the best pictures of your baby to get coins and exclusive items.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E20011A06000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E20011A06000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E20011A06000/screen/1",
+    "http://api.nlib.cc/nx/0100E20011A06000/screen/2",
+    "http://api.nlib.cc/nx/0100E20011A06000/screen/3",
+    "http://api.nlib.cc/nx/0100E20011A06000/screen/4",
+    "http://api.nlib.cc/nx/0100E20011A06000/screen/5",
+    "http://api.nlib.cc/nx/0100E20011A06000/screen/6"
+  ]
+}

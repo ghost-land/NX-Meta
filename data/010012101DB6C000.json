@@ -1,0 +1,15 @@
+{
+  "name": "SNQZ",
+  "publisher": "Kistler Studios",
+  "releaseDate": "20231211",
+  "description": "Meander your way through dozens of snakes and avoid your opponnents by any means and let them crash into your tail. Eat the orbs of your crushed opponents and be the biggest ! \n\nSNQZ is a casual top down singleplayer arcade game where you control your snake like animal and eat orbs to get bigger and try to be the biggest snake like animal in the game. To get even bigger you can try to let other computer controlled snake like animals crash into your body and eat their orbs.\nEarn coins and buy new skins for your snake like animal.\n\nEnjoy a casual game in a short break or just for in between.",
+  "bannerUrl": "http://api.nlib.cc/nx/010012101DB6C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010012101DB6C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010012101DB6C000/screen/1",
+    "http://api.nlib.cc/nx/010012101DB6C000/screen/2",
+    "http://api.nlib.cc/nx/010012101DB6C000/screen/3",
+    "http://api.nlib.cc/nx/010012101DB6C000/screen/4",
+    "http://api.nlib.cc/nx/010012101DB6C000/screen/5"
+  ]
+}

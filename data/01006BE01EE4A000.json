@@ -1,0 +1,16 @@
+{
+  "name": "Tank vs Tank",
+  "publisher": "Baltoro Minis",
+  "releaseDate": "20241129",
+  "description": "Enter the battlefield in \"Tank vs. Tank\", an explosive clash of steel titans. \n\nThis isn't just a game; it's war. Life and death hang in the balance, demanding your full attention. Every decision, from the drive to the deadly aim, could mean the difference between victory and defeat. Outwit, outshout, and outlast your opponents to ensure it's them, not you, who bite the dust.\n\nYour choices are crucial - every move, every shot counts towards victory or defeat.\n\nEnhance your tank with cutting-edge upgrades and face off against cunning opponents.\n\nUse the vast arsenal at your disposal, make each shot your path to glory.\n\nReady your cannon, refine your tactics, and enter the battle. \n\nVictory awaits the bold – are you prepared to claim it?",
+  "bannerUrl": "http://api.nlib.cc/nx/01006BE01EE4A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006BE01EE4A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006BE01EE4A000/screen/1",
+    "http://api.nlib.cc/nx/01006BE01EE4A000/screen/2",
+    "http://api.nlib.cc/nx/01006BE01EE4A000/screen/3",
+    "http://api.nlib.cc/nx/01006BE01EE4A000/screen/4",
+    "http://api.nlib.cc/nx/01006BE01EE4A000/screen/5",
+    "http://api.nlib.cc/nx/01006BE01EE4A000/screen/6"
+  ]
+}

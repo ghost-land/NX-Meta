@@ -1,0 +1,18 @@
+{
+  "name": "SHIKA-Q",
+  "publisher": "AGNI-FLARE",
+  "releaseDate": "20260409",
+  "description": "“SHIKA-Q” is an ultra-fast competitive puzzle game where players connect “Links” on a 10×10 board, and victory or defeat is decided in an instant.\n\nThe board evolves in real time as attacks, interference, recovery, and special moves unfold simultaneously. With barely a moment to think, players must constantly decide their next move, creating intense tension and speed.\n\nUnlike traditional falling-block puzzle games, blocks do not drop from above. The board begins reacting the moment you place a piece. Because it is a real-time competitive system, players must not only connect Links but also read their opponent’s intentions—creating mind games similar to those found in fighting games.\n\nEvery decision directly impacts the outcome. Both strategic thinking and reflexes are essential. Momentum shifts rapidly, and the game state is visually clear, making it exciting not only to play but also to watch—an ideal fit for esports.\n\nThe game’s defining feature is its Music.\n\nVocal tracks and high-energy songs amplify the intensity of battle. Rather than serving as simple background music, the vocal tracks integrate with gameplay flow, directly enhancing tension and momentum. Music, play, and emotion synchronize to create an unprecedented level of immersion.\n\nGame Features\n■ Strategy ×Super Speed × Competitive Play (1–2 Players)\n\nConnect Links on a 10×10 board as offense and defense unfold in real time. Instant decisions determine victory.\n\nCustom settings allow players to adjust the balance between speed and strategy—from slower, thought-focused matches to ultra-high-speed battles.\n\nIn addition to Offline Versus, the game also supports Online Battles and Ranked Matches, where split-second judgment determines the winner against players worldwide.\n\n■ Challenge Mode (Single-Player)\n\nA world-ranking-supported solo mode fully synchronized with music.\n\nAs stages progress, both the music and gameplay evolve. Manage your health, balance offense and defense, clear all 99 stages, and aim for a high score.\n\nUnlike Versus Mode, this mode emphasizes discovering the optimal solution for each situation.\n\n■ Characters, Worldbuilding & Customization\n\nA diverse cast of characters enhances the competitive experience through unique themes and presentation.\n\nCustomize UI design, music, emotes, loading screens, wallpapers, icons, and more to personalize your matches.\n\nEach theme includes dedicated character songs, deepening both musical and narrative immersion.\n\nTailor the atmosphere to your playstyle and express yourself through battle presentation.\n\n■ DLC Battle Pass – Expanding the Online Experience\n\nThe DLC Battle Pass unlocks rewards progressively through mission completion.\n\nIt includes premium customization content such as UI designs, music, emotes, loading screens, wallpapers, and icons—enhancing the competitive experience.\n\nThe more you play, the more your presentation evolves. Your progress remains visible, supporting a long-term online experience built on growth and achievement.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000CF01E752000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000CF01E752000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000CF01E752000/screen/1",
+    "http://api.nlib.cc/nx/01000CF01E752000/screen/2",
+    "http://api.nlib.cc/nx/01000CF01E752000/screen/3",
+    "http://api.nlib.cc/nx/01000CF01E752000/screen/4",
+    "http://api.nlib.cc/nx/01000CF01E752000/screen/5",
+    "http://api.nlib.cc/nx/01000CF01E752000/screen/6"
+  ],
+  "version": 0,
+  "size": 1113808205
+}

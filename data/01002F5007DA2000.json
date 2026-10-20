@@ -1,0 +1,14 @@
+{
+  "name": "金沢将棋 ～レベル300～",
+  "publisher": "アンバランス",
+  "releaseDate": "20180426",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/01002F5007DA2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002F5007DA2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002F5007DA2000/screen/1",
+    "http://api.nlib.cc/nx/01002F5007DA2000/screen/2",
+    "http://api.nlib.cc/nx/01002F5007DA2000/screen/3",
+    "http://api.nlib.cc/nx/01002F5007DA2000/screen/4"
+  ]
+}

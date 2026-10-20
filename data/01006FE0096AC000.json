@@ -1,0 +1,16 @@
+{
+  "name": "The Jackbox Party Pack 5",
+  "publisher": "Jackbox Games",
+  "releaseDate": "20181017",
+  "description": "It’s the biggest Party Pack yet with five party-saving new games!\n\n1)      The pop-culture trivia mash-up YOU DON’T KNOW JACK: Full Stream (1-8 players). The classic returns, full of wild new surprises.\n \n2)      The what-if game Split the Room (3-8 Players). Create strange and divisive hypothetical situations.\n \n3)      The lyric-writing game Mad Verse City (3-8 players). Channel your inner MC as a rap battling robot.\n \n4)      The competitive drawing game Patently Stupid (3-8 players). Create odd inventions to solve bizarre problems.\n\n5)      The deadliest game show in the Crab Nebula, Zeeple Dome (1-6 players)! Fling yourself at bloodthirsty aliens to win millions of Zubabucks!\n \nPlay using your phones, tablets or computers. No extra controllers needed!\n \nNOTE: The Jackbox Party Pack 5 is in English only.\n \nNOTE: The game is local multiplayer.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006FE0096AC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006FE0096AC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006FE0096AC000/screen/1",
+    "http://api.nlib.cc/nx/01006FE0096AC000/screen/2",
+    "http://api.nlib.cc/nx/01006FE0096AC000/screen/3",
+    "http://api.nlib.cc/nx/01006FE0096AC000/screen/4",
+    "http://api.nlib.cc/nx/01006FE0096AC000/screen/5",
+    "http://api.nlib.cc/nx/01006FE0096AC000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Zodiacats",
+  "publisher": "Silesia Games",
+  "releaseDate": "20230126",
+  "description": "Follow the cat Catherine on her journey for the lost astrology papyri and learn more about her job as a witch's assistant who brings good vibes to this earth!\n\nLet Catherine guide you through the zodiac wheel, showing you the features of each solar sign. You can also learn about your cat's sign!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100410019716000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100410019716000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100410019716000/screen/1",
+    "http://api.nlib.cc/nx/0100410019716000/screen/2",
+    "http://api.nlib.cc/nx/0100410019716000/screen/3",
+    "http://api.nlib.cc/nx/0100410019716000/screen/4",
+    "http://api.nlib.cc/nx/0100410019716000/screen/5",
+    "http://api.nlib.cc/nx/0100410019716000/screen/6"
+  ]
+}

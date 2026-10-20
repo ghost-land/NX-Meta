@@ -1,0 +1,16 @@
+{
+  "name": "Bandit Buster: Western",
+  "publisher": "Eclipse Interactive",
+  "releaseDate": "20241010",
+  "description": "Bandit Buster: Western is a fun and action-packed game where you play as the sheriff in a lively low-poly western town. Your mission? Take down the bandits terrorizing the city! But beware—some bandits hide behind civilians, and explosive barrels are scattered throughout the map. Use your wits and quick reflexes to keep the town safe while avoiding accidental damage. Perfect for kids, this fast-paced adventure will keep you on your toes as you blast your way through waves of outlaws and restore peace to the Wild West!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010083A0209DA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010083A0209DA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010083A0209DA000/screen/1",
+    "http://api.nlib.cc/nx/010083A0209DA000/screen/2",
+    "http://api.nlib.cc/nx/010083A0209DA000/screen/3",
+    "http://api.nlib.cc/nx/010083A0209DA000/screen/4",
+    "http://api.nlib.cc/nx/010083A0209DA000/screen/5",
+    "http://api.nlib.cc/nx/010083A0209DA000/screen/6"
+  ]
+}

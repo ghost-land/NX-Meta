@@ -1,0 +1,14 @@
+{
+  "name": "GyroBlade",
+  "publisher": "Tendokore",
+  "releaseDate": "20221219",
+  "description": "An arcade-style pixel art 2D vertical scrolling shooter. As retro as it gets. Shoot straight, collect points, power up your weapons, and destroy oncoming enemies and bosses. Choose your difficulty level and make your way through eight challenging stages.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006980199DA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006980199DA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006980199DA000/screen/1",
+    "http://api.nlib.cc/nx/01006980199DA000/screen/2",
+    "http://api.nlib.cc/nx/01006980199DA000/screen/3",
+    "http://api.nlib.cc/nx/01006980199DA000/screen/4"
+  ]
+}

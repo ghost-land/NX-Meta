@@ -1,0 +1,15 @@
+{
+  "name": "Invisible, Inc. Nintendo Switch Edition",
+  "publisher": "Klei Entertainment",
+  "releaseDate": "20200615",
+  "description": "Tactical Espionage. Take control of Invisible's agents in the field and infiltrate the world's most dangerous corporations. Stealth, precision, and teamwork are essential in high-stakes, high-profit missions, where every move may cost an agent their life.\n\nKey Features:\n-Character selection: Start with any of the 10 unlockable agents in the game, plus 8 agent variants, and 10 starting programs to crack corporate security. \n-Deep customization of builds: each play through is different as you create your own strategy using agents, items, augments and programs, and adapt to your surroundings. \n-Randomly generated world: locations, threats, and loot are randomly generated so each playthrough is vastly different and you’ll never get complacent. \n-Choose your own game mode: with 5 different game modes and extensive custom generation options, each player can play the way they prefer. \n-Includes the Contingency Plan DLC, which is an expansion that extends the campaign time and adds new rewards, agents, programs and danger to the base game of Invisible Inc.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010031B00C48C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010031B00C48C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010031B00C48C000/screen/1",
+    "http://api.nlib.cc/nx/010031B00C48C000/screen/2",
+    "http://api.nlib.cc/nx/010031B00C48C000/screen/3",
+    "http://api.nlib.cc/nx/010031B00C48C000/screen/4",
+    "http://api.nlib.cc/nx/010031B00C48C000/screen/5"
+  ]
+}

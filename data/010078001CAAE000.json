@@ -1,0 +1,16 @@
+{
+  "name": "Colored Effects",
+  "publisher": "Flynns Arcade",
+  "releaseDate": "20231123",
+  "description": "Colored Effects is a puzzle platformer game with unique handcrafted levels and a simple design. Play in this peaceful environment, solve puzzles and collect the gems to complete each level.\n- Colors and Effects\nEffects are the abilities you use in the game, each effect is unique and distinguishable by its own color. Switching Colors at the right moment is the key to progress.\n- Unique Bosses\nEncounter bosses in between levels, each boss has unique attacks and requires a different way to defeat it.\n- Restart and try again\nYou may die or get trapped in this game, nothing prevents you from restarting at any moment and getting back in an instant.",
+  "bannerUrl": "http://api.nlib.cc/nx/010078001CAAE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010078001CAAE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010078001CAAE000/screen/1",
+    "http://api.nlib.cc/nx/010078001CAAE000/screen/2",
+    "http://api.nlib.cc/nx/010078001CAAE000/screen/3",
+    "http://api.nlib.cc/nx/010078001CAAE000/screen/4",
+    "http://api.nlib.cc/nx/010078001CAAE000/screen/5",
+    "http://api.nlib.cc/nx/010078001CAAE000/screen/6"
+  ]
+}

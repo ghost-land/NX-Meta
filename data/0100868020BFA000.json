@@ -1,0 +1,16 @@
+{
+  "name": "Animal Kung Fu",
+  "publisher": "Aldora Games",
+  "releaseDate": "20240927",
+  "description": "In a peaceful valley surrounded by majestic mountains, the Golden Flame has been the source of protection and balance for generations. This mystical flame is guarded by the Valley Guardians, warriors who have dedicated themselves to preserving peace and harmony.\n\nHowever, when a cunning and evil villain steals the Golden Flame, the entire valley is plunged into chaos and danger.\n\nCan Lin and her friends recover the Golden Flame and save their home?\n\nFind out in Animal Kung Fu!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100868020BFA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100868020BFA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100868020BFA000/screen/1",
+    "http://api.nlib.cc/nx/0100868020BFA000/screen/2",
+    "http://api.nlib.cc/nx/0100868020BFA000/screen/3",
+    "http://api.nlib.cc/nx/0100868020BFA000/screen/4",
+    "http://api.nlib.cc/nx/0100868020BFA000/screen/5",
+    "http://api.nlib.cc/nx/0100868020BFA000/screen/6"
+  ]
+}

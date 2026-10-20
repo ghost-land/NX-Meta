@@ -1,0 +1,12 @@
+{
+  "name": "Twitch",
+  "publisher": "Twitch Interactive",
+  "releaseDate": "20211111",
+  "description": "Watch livestream gaming videos, Esports and any IRL broadcast on your Nintendo Switch device!\n\nSports are here. Tune into your favorites: basketball, baseball, soccer, football, swimming, wrestling, hockey, pool, and much more through talk shows, league channels, Fantasy, and ESports.\n\n------\n\nFor feedback and assistance, please visit our Support Center: https://help.twitch.tv\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01008D101524E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008D101524E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008D101524E000/screen/1",
+    "http://api.nlib.cc/nx/01008D101524E000/screen/2"
+  ]
+}

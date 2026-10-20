@@ -1,0 +1,16 @@
+{
+  "name": "ONINAKI",
+  "publisher": "SQUARE ENIX",
+  "releaseDate": "20190822",
+  "description": "The new Action-RPG, ONINAKI tells the story of one Watcher on a journey to protect Life, after Death. ONINAKI features exciting hack and slash style battles, with deep customization of your daemons and weapons. Experience unique action gameplay combined with a deep and satisfying story.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001AF00CE54000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001AF00CE54000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001AF00CE54000/screen/1",
+    "http://api.nlib.cc/nx/01001AF00CE54000/screen/2",
+    "http://api.nlib.cc/nx/01001AF00CE54000/screen/3",
+    "http://api.nlib.cc/nx/01001AF00CE54000/screen/4",
+    "http://api.nlib.cc/nx/01001AF00CE54000/screen/5",
+    "http://api.nlib.cc/nx/01001AF00CE54000/screen/6"
+  ]
+}

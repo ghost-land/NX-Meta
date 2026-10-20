@@ -1,0 +1,16 @@
+{
+  "name": "Blandville",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20220222",
+  "description": "It once was a place of your childhood happiness. None of that exists anymore. The question remains - why? What happened here? Where did all that beauty go, and what has taken it away?\n\nInteract with the environment - drag, drop, throw items around. \nCollect as much loot as possible. Explore the forest and the remains of once inhabited buildings.\nKeep your heat up - it's freezing out there. Stay inside, or sit by the campfire to avoid hypothermia.\nCryptids - they roam the forest for the lookout of any survivors. Be careful out there.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100878017882000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100878017882000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100878017882000/screen/1",
+    "http://api.nlib.cc/nx/0100878017882000/screen/2",
+    "http://api.nlib.cc/nx/0100878017882000/screen/3",
+    "http://api.nlib.cc/nx/0100878017882000/screen/4",
+    "http://api.nlib.cc/nx/0100878017882000/screen/5",
+    "http://api.nlib.cc/nx/0100878017882000/screen/6"
+  ]
+}

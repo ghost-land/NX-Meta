@@ -1,0 +1,16 @@
+{
+  "name": "Chopper Strike",
+  "publisher": "Entity3",
+  "releaseDate": "20240615",
+  "description": "Hover above the enemies and take aim from your chopper\n\nFire rockets and take them all out\n\nWatch buildings destroy and things explode as you hunt down the enemy",
+  "bannerUrl": "http://api.nlib.cc/nx/01003FA01F1EA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003FA01F1EA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003FA01F1EA000/screen/1",
+    "http://api.nlib.cc/nx/01003FA01F1EA000/screen/2",
+    "http://api.nlib.cc/nx/01003FA01F1EA000/screen/3",
+    "http://api.nlib.cc/nx/01003FA01F1EA000/screen/4",
+    "http://api.nlib.cc/nx/01003FA01F1EA000/screen/5",
+    "http://api.nlib.cc/nx/01003FA01F1EA000/screen/6"
+  ]
+}

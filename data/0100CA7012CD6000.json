@@ -1,0 +1,16 @@
+{
+  "name": "Hide & Dance!",
+  "publisher": "hap Inc.",
+  "releaseDate": "20201001",
+  "description": "Press the buttons to the rhythm of the music!\n\nDance and make combos!\n\nBe careful not to be spotted by your mom entering the room!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CA7012CD6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CA7012CD6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CA7012CD6000/screen/1",
+    "http://api.nlib.cc/nx/0100CA7012CD6000/screen/2",
+    "http://api.nlib.cc/nx/0100CA7012CD6000/screen/3",
+    "http://api.nlib.cc/nx/0100CA7012CD6000/screen/4",
+    "http://api.nlib.cc/nx/0100CA7012CD6000/screen/5",
+    "http://api.nlib.cc/nx/0100CA7012CD6000/screen/6"
+  ]
+}

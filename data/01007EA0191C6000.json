@@ -1,0 +1,16 @@
+{
+  "name": "Yakiniku Simulator",
+  "publisher": "Flyhigh Works",
+  "releaseDate": "20230831",
+  "description": "Are you hungry? Do you want some yakiniku?\nLet's play this game! Simple and easy!\nSimulate to eating a yakiniku with no more calories!!!\nJust chill out and simulate eating yakiniku!\n\nHOW TO PLAY\n\n1. keep raw meat on the stove.\n2. Flip meat when you think it's OK.\n3. Beware it's OVERCOOK!\n4. Throw away burned meat.\n5. Keep perfect meat to sauce and eat it!\n\nEnjoy your meal!!!!!!! ",
+  "bannerUrl": "http://api.nlib.cc/nx/01007EA0191C6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007EA0191C6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007EA0191C6000/screen/1",
+    "http://api.nlib.cc/nx/01007EA0191C6000/screen/2",
+    "http://api.nlib.cc/nx/01007EA0191C6000/screen/3",
+    "http://api.nlib.cc/nx/01007EA0191C6000/screen/4",
+    "http://api.nlib.cc/nx/01007EA0191C6000/screen/5",
+    "http://api.nlib.cc/nx/01007EA0191C6000/screen/6"
+  ]
+}

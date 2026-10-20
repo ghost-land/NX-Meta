@@ -1,0 +1,16 @@
+{
+  "name": "The Hollow Lighthouse",
+  "publisher": "Fun Games Studio",
+  "releaseDate": "20251112",
+  "description": "The Hollow Lighthouse is a story-driven survival horror game that drops you on a remote, forgotten island off the Romanian coast. You’re an electrician sent to fix the lighthouse—but soon realize the light is the only thing keeping you safe. \n\nWander through thick pine forests, climb eerie cliffs, and explore abandoned buildings scattered across the island. Strange figures lurk in the woods. An unsettling old keeper watches from the shadows. And something else... something not quite human... is following you. \n\nThe further you go, the darker it gets. \nFix the light… before it’s too late.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100437025962000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100437025962000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100437025962000/screen/1",
+    "http://api.nlib.cc/nx/0100437025962000/screen/2",
+    "http://api.nlib.cc/nx/0100437025962000/screen/3",
+    "http://api.nlib.cc/nx/0100437025962000/screen/4",
+    "http://api.nlib.cc/nx/0100437025962000/screen/5",
+    "http://api.nlib.cc/nx/0100437025962000/screen/6"
+  ]
+}

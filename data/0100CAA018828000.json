@@ -1,0 +1,16 @@
+{
+  "name": "Temp Zero",
+  "publisher": "Alexandre Kadri",
+  "releaseDate": "20221013",
+  "description": "Pick your weapon, your spell, your music, and you are ready to go.\nFight enemies which attack to the beat, choose perks, defeat the final boss, unlock new weapons, spells & soundtracks!\n\nFEATURES\n- Game feel tuned with care.\n- A catchy original soundtrack by the composer of Neon Beats.\n- Many weapons and spells with unique mechanics.\n- Challenges to increase the difficulty.\n- More than 64 trophies to unlock.\n- A leaderboard which resets every day.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CAA018828000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CAA018828000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CAA018828000/screen/1",
+    "http://api.nlib.cc/nx/0100CAA018828000/screen/2",
+    "http://api.nlib.cc/nx/0100CAA018828000/screen/3",
+    "http://api.nlib.cc/nx/0100CAA018828000/screen/4",
+    "http://api.nlib.cc/nx/0100CAA018828000/screen/5",
+    "http://api.nlib.cc/nx/0100CAA018828000/screen/6"
+  ]
+}

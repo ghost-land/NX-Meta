@@ -1,0 +1,16 @@
+{
+  "name": "Alice in Wonderland - A jigsaw puzzle tale",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20230209",
+  "description": "A new jigsaw puzzle game to remember a beloved classic story. With 12 beautiful illustrations created by Katia Numakura, with inspiration from “Alice in Wonderland” by Lewis Carroll. \n\n- Complete the jigsaw puzzle scenes at five different levels of difficulty - from 60 to 735 pieces.\n- Relax with a comforting and exclusive soundtrack .\n- Features include zooming the scene, highlighting border pieces, highlighting pieces from a specific quadrant, shuffling the remaining pieces, previewing the scene, dragging the board;",
+  "bannerUrl": "http://api.nlib.cc/nx/01005CA019668000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005CA019668000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005CA019668000/screen/1",
+    "http://api.nlib.cc/nx/01005CA019668000/screen/2",
+    "http://api.nlib.cc/nx/01005CA019668000/screen/3",
+    "http://api.nlib.cc/nx/01005CA019668000/screen/4",
+    "http://api.nlib.cc/nx/01005CA019668000/screen/5",
+    "http://api.nlib.cc/nx/01005CA019668000/screen/6"
+  ]
+}

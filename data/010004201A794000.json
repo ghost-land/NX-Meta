@@ -1,0 +1,16 @@
+{
+  "name": "The Murder Hotel",
+  "publisher": "Wegenbartho",
+  "releaseDate": "20260115",
+  "description": "The Murder Hotel is an interactive Murder Mystery Adventure with a huge twist: A scissors wielding demon is the murderer and you have to blame one of the human guests, forging a plausible theory how they could have done it. \n\nA demon may be the perpetrator but you can only explain each murder by human methods. Are you up to the challenge?\n\nFind out why the murders are happening and how to put an end to them.\n\nFeaturing 14 human guests and a handful of demons, all with their own backstories and dark secrets.\n\nFind clues in the form of paper words and form your own sentences to interrogate suspects\n\nThere's multiple ways and theories to win a trial. Can you find them all?",
+  "bannerUrl": "http://api.nlib.cc/nx/010004201A794000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010004201A794000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010004201A794000/screen/1",
+    "http://api.nlib.cc/nx/010004201A794000/screen/2",
+    "http://api.nlib.cc/nx/010004201A794000/screen/3",
+    "http://api.nlib.cc/nx/010004201A794000/screen/4",
+    "http://api.nlib.cc/nx/010004201A794000/screen/5",
+    "http://api.nlib.cc/nx/010004201A794000/screen/6"
+  ]
+}

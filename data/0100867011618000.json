@@ -1,0 +1,16 @@
+{
+  "name": "Home: Postmortem Edition",
+  "publisher": "Benjamin Rivers",
+  "releaseDate": "20201008",
+  "description": "Play the complete indie horror classic, now with a brand-new Postmortem Mode — a guided tour by the developer that brings you behind the scenes as you play the game!\n\nAwakened by an oncoming storm, you open your eyes to discover yourself in a strange, dark room — tucked away in a house that’s not yours. Find your way back home — but be careful, because each choice you make can change your story in ways you might not expect.\n\nFEATURES:\n- The complete, original indie horror classic, rebuilt for Nintendo Switch™\n- Multiple endings and story variations, depending on your choices and actions\n- Innovative new Postmortem Mode provides a guided tour of how the game was made, as you play it — straight from the developer\n- New behind-the-scenes Gallery complete with design documents, process images and other creepy, real-world artifacts\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100867011618000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100867011618000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100867011618000/screen/1",
+    "http://api.nlib.cc/nx/0100867011618000/screen/2",
+    "http://api.nlib.cc/nx/0100867011618000/screen/3",
+    "http://api.nlib.cc/nx/0100867011618000/screen/4",
+    "http://api.nlib.cc/nx/0100867011618000/screen/5",
+    "http://api.nlib.cc/nx/0100867011618000/screen/6"
+  ]
+}

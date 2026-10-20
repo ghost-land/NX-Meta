@@ -1,0 +1,13 @@
+{
+  "name": "Tiki Brawl",
+  "publisher": "RAWRLAB Games",
+  "releaseDate": "20201008",
+  "description": "Grab your friends and throw'em to the sacrifice pit before they throw you!\n\nTiki Brawl is a fast-paced local multiplayer game (up to 8 players!) game where players must grab their opponents and throw them into a sacrifice pit to survive and win.\n\nFeatures:\n- Local multiplayer, up to 8 players.\n- Add bots to your matches to make it more challenging!\n- Just one level, but includes lots of randomness with its items: power-ups, weapons, punishments, etc... Try them all!\n- 8-bit sound FX and a catchy Tiki tribal song. (♫ Feed your god, your god is hungry ♫)\n- Highly recommended for parties, with friends, pizza and snacks!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AEC012F16000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AEC012F16000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AEC012F16000/screen/1",
+    "http://api.nlib.cc/nx/0100AEC012F16000/screen/2",
+    "http://api.nlib.cc/nx/0100AEC012F16000/screen/3"
+  ]
+}

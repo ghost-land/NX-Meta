@@ -1,0 +1,16 @@
+{
+  "name": "Devil Jam",
+  "publisher": "Rogueside",
+  "releaseDate": "20260326",
+  "description": "Get ready to mosh in Devil Jam, a survivor-like roguelite in the fiery depths of Hell. After signing a cursed contract with the Devil, you're dragged to the underworld and forced to perform the gig of your afterlife. Armed with possessed instruments and a soul full of riffs, fight off endless waves of deranged fans, vicious mobs, and hellish rivals. Every run is a new jam session, with numerous challenges and a unique 12-slot inventory system offering near-infinite build variety. Master the combat, harness the power of metal, and rise to claim your place as the greatest metal icon, by defeating Death himself.\n\nKey Features:\n- Deep Inventory Strategy: A unique 12-slot gear system where positioning matters and synergies reign.\n- Hand-Drawn Hellscapes: Stylish, animated characters and effects bring the underworld to life.\n- Face the Iconic: Take on powerful bosses, including the ultimate metal singer: Death.\n- Fast-Paced Runs: Immerse yourself in rapid, intense underworld battles. Test your skills and survival instincts in action-packed showdowns, ensuring you're always on the edge of your seat.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C6A0235D4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C6A0235D4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C6A0235D4000/screen/1",
+    "http://api.nlib.cc/nx/0100C6A0235D4000/screen/2",
+    "http://api.nlib.cc/nx/0100C6A0235D4000/screen/3",
+    "http://api.nlib.cc/nx/0100C6A0235D4000/screen/4",
+    "http://api.nlib.cc/nx/0100C6A0235D4000/screen/5",
+    "http://api.nlib.cc/nx/0100C6A0235D4000/screen/6"
+  ]
+}

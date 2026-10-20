@@ -1,0 +1,16 @@
+{
+  "name": "Demon Hunter: Ascendance",
+  "publisher": "Artifex Mundi",
+  "releaseDate": "20220120",
+  "description": "You are Hector Cole, member of a long-forgotten order and a freelance Demon Hunter. As a specialist in paranormal investigations, your skills are highly sought-after by those with problems of an otherworldly nature. One such a person is Edmund Strange, the owner and curator of The Museum of Mysticism and Monstrosity. Not long ago, a visitor to the museum vanished under mysterious circumstances. Now that all rational methods of finding him have been exhausted, you are the curator’s last hope before word of this disaster reaches the media. It falls upon you to solve this mystery and banish any horrors, ghosts or monsters that plague that place. You have bested evil before, yet as you arrive at the scene you feel a tingling sensation of being watched by someone... or something.",
+  "bannerUrl": "http://api.nlib.cc/nx/010043E016F92000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010043E016F92000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010043E016F92000/screen/1",
+    "http://api.nlib.cc/nx/010043E016F92000/screen/2",
+    "http://api.nlib.cc/nx/010043E016F92000/screen/3",
+    "http://api.nlib.cc/nx/010043E016F92000/screen/4",
+    "http://api.nlib.cc/nx/010043E016F92000/screen/5",
+    "http://api.nlib.cc/nx/010043E016F92000/screen/6"
+  ]
+}

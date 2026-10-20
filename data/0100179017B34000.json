@@ -1,0 +1,16 @@
+{
+  "name": "Finding Heidi",
+  "publisher": "Red Meat Games",
+  "releaseDate": "20230622",
+  "description": "Finding Heidi is a cute, wholesome endless runner side-scroller that uses reverse platformer mechanics to help little Nico the dinosaur find their missing companion Heidi.\n\nInteract with moving platforms to ensure Nico's continuous journey, earn points from collectible food, enjoy the beautiful changing landscapes of the Jurassic era and engage in a heartwarming story of finding a lost friend.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100179017B34000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100179017B34000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100179017B34000/screen/1",
+    "http://api.nlib.cc/nx/0100179017B34000/screen/2",
+    "http://api.nlib.cc/nx/0100179017B34000/screen/3",
+    "http://api.nlib.cc/nx/0100179017B34000/screen/4",
+    "http://api.nlib.cc/nx/0100179017B34000/screen/5",
+    "http://api.nlib.cc/nx/0100179017B34000/screen/6"
+  ]
+}

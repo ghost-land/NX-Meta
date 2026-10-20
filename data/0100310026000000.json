@@ -1,0 +1,18 @@
+{
+  "name": "Judero",
+  "publisher": "NAISU",
+  "releaseDate": "20260528",
+  "description": "Judero is an action/ adventure game inspired by the rich folk history of the Scottish Borders. You play as Judero, a Celt who can establish a rapport with the nature around him. Travel with Judero through a handcrafted landscape as he discovers there is an evil at work manipulating the unguarded.\n\nStrike and dodge your way through a myriad of foes culminating in exciting and unique boss challenges.\n\nTake on the form of lesser creatures to greatly expand your abilities. Use these enchanted minions in combat and to solve puzzles.\n\nDiscover the world of Judero through branching dialogues and pithy, aphoristic NPCs.\n\nThrough your adventures you will encounter a number of diverse Mini Games with differing mechanics and visual styles. Mini games also vary the pace of the game and allow us to explore other narrative tangents.\n\nThere are many secrets and discoveries to find as you roam through the world of Judero. From collectables and pick-ups to whole optional story-lines and more.\n\nJudero is made from handcrafted objects and bespoke figurines, animated in the stop-motion tradition. For us, this art style invokes something nostalgic; in part comical but perhaps a little bit creepy too. These real life elements are then rendered into a 3D world to evoke a unique visual style. Using this style we can bring in digital techniques like real-time lighting, shaders and post-processing effects. Cutscenes will be made using traditional stop-motion animation techniques with greater fidelity to give a more cinematic quality.\n\nThe music in Judero is an homage to traditional British folk music such as those documented by Francis James Child. Many of these songs are hundreds of years old and it has been an honour researching and learning them. We are keeping instrumentation acoustic and mostly authentic to the originals (mostly) but with contemporary arrangements and harmonies.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100310026000000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100310026000000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100310026000000/screen/1",
+    "http://api.nlib.cc/nx/0100310026000000/screen/2",
+    "http://api.nlib.cc/nx/0100310026000000/screen/3",
+    "http://api.nlib.cc/nx/0100310026000000/screen/4",
+    "http://api.nlib.cc/nx/0100310026000000/screen/5",
+    "http://api.nlib.cc/nx/0100310026000000/screen/6"
+  ],
+  "version": 0,
+  "size": 2158753780
+}

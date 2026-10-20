@@ -1,0 +1,14 @@
+{
+  "name": "Knight Quest: Goblins Raid",
+  "publisher": "Afil Games",
+  "releaseDate": "20250827",
+  "description": "Put on your armor, grab your sword, and get ready to face what no sane knight would dare: noisy goblins, deadly traps, and platforms that seem to have a mind of their own. In Knight Quest, you are the hero the kingdom definitely needs – even if no one warned you how complicated this mission would be.\n\nExplore dense forests, dark caves, and desperate situations, all in beautiful 2D settings full of action and danger. Jump, roll, fight, and scream internally as you try to survive sharp spikes, falling rocks, and goblins that look like they do crossfit.\n\nCollect coins\nDefeat goblins\nFall into traps (or not, if you're skilled)\n\nEach level brings new challenges and nervous laughter. Ready to face it? Only the fastest, bravest, and most stubborn will be able to restore peace and return home as true heroes – or at least with all limbs intact.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E9D023FBE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E9D023FBE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E9D023FBE000/screen/1",
+    "http://api.nlib.cc/nx/0100E9D023FBE000/screen/2",
+    "http://api.nlib.cc/nx/0100E9D023FBE000/screen/3",
+    "http://api.nlib.cc/nx/0100E9D023FBE000/screen/4"
+  ]
+}

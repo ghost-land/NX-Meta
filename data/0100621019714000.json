@@ -1,0 +1,16 @@
+{
+  "name": "A Building Full of Cats",
+  "publisher": "Silesia Games",
+  "releaseDate": "20221124",
+  "description": "A Building Full of Cats is a hidden object game where you need to pet all the cats in the building.\n\nDon't leave any cats behind!\n\nFeatures:\n- 300+ cats\n- 5+ Floors\n- 50+ hidden cats\n- Secret cats? Who knows... \n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100621019714000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100621019714000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100621019714000/screen/1",
+    "http://api.nlib.cc/nx/0100621019714000/screen/2",
+    "http://api.nlib.cc/nx/0100621019714000/screen/3",
+    "http://api.nlib.cc/nx/0100621019714000/screen/4",
+    "http://api.nlib.cc/nx/0100621019714000/screen/5",
+    "http://api.nlib.cc/nx/0100621019714000/screen/6"
+  ]
+}

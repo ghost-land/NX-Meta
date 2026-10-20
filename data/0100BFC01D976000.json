@@ -1,0 +1,15 @@
+{
+  "name": "Virtual Boy™ – Nintendo Classics",
+  "publisher": "Nintendo",
+  "releaseDate": "20260217",
+  "description": "With a Nintendo Switch Online + Expansion Pack membership*, Nintendo Switch™ 2 and Nintendo Switch™ players can now access a collection of Virtual Boy™ games to play anytime, anywhere! Create suspend points in each game to save your progress, rewind to fix your mistakes, and adjust the controls to suit your preferences as you bash robots in Teleroboxer™, jump between background and foreground in Virtual Boy™ Wario Land™, and more.\n\nThe Virtual Boy for Nintendo Switch 2/Nintendo Switch accessory* or the Virtual Boy (Cardboard Model) for Nintendo Switch 2/Nintendo Switch accessory is required to play Virtual Boy – Nintendo Classics. \n\nHere’s the full list of what’s currently available at launch.\nTeleroboxer™\nGalactic Pinball™\nRED ALARM\nGOLF\nVirtual Boy™ Wario Land™\n3-D TETRIS®\nThe Mansion of Innsmouth\n\nMore games will be released in the future!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BFC01D976000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BFC01D976000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BFC01D976000/screen/1",
+    "http://api.nlib.cc/nx/0100BFC01D976000/screen/2",
+    "http://api.nlib.cc/nx/0100BFC01D976000/screen/3",
+    "http://api.nlib.cc/nx/0100BFC01D976000/screen/4",
+    "http://api.nlib.cc/nx/0100BFC01D976000/screen/5"
+  ]
+}

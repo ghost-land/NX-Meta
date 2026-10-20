@@ -1,0 +1,16 @@
+{
+  "name": "Adventures of Pip",
+  "publisher": "TicToc Games",
+  "releaseDate": "20200910",
+  "description": "Welcome to the next evolution of the classic side-scrolling action platform game! Journey with Pip as he sets out to save Princess Adeline from the evil Queen DeRezzia. Pip’s quest begins when he learns he can absorb the Bitstream from his fallen foes to evolve and devolve between three different forms - single pixel, 8-bit, and 16-bit! Each transformation provides different powers that Pip can use to solve environmental puzzles and blast through enemies. Pip’s tale leads players through five different stylized worlds with up to 10 hours of epic adventuring gameplay.\n\nInspired by classic platformers, Adventures of Pip basks in a world where players can defeat a huge 32-bit boss as an 8-bit character or even as a single-pixel. Pip’s foes have weaknesses and strengths — pinpoint these, swap to the right form and take them out! Can you help our unlikely fearless hero save his 32-bit world from the clutches of Queen DeRezzia?\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01002B5012004000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002B5012004000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002B5012004000/screen/1",
+    "http://api.nlib.cc/nx/01002B5012004000/screen/2",
+    "http://api.nlib.cc/nx/01002B5012004000/screen/3",
+    "http://api.nlib.cc/nx/01002B5012004000/screen/4",
+    "http://api.nlib.cc/nx/01002B5012004000/screen/5",
+    "http://api.nlib.cc/nx/01002B5012004000/screen/6"
+  ]
+}

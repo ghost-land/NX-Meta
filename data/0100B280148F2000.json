@@ -1,0 +1,13 @@
+{
+  "name": "Sweets Swap",
+  "publisher": "Kistler Studios",
+  "releaseDate": "20210507",
+  "description": "Sweets Swap is a classic three match game where you need to match three of the same kind to advance to the next level. Simple enough and flavoured with sweet variations to keep you on your toes! \n\nFeatures :\n- Simple three match game\n- Many variations and different objectives to reach\n- Colorful and sweet art style\n- 99 Levels to complete",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B280148F2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B280148F2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B280148F2000/screen/1",
+    "http://api.nlib.cc/nx/0100B280148F2000/screen/2",
+    "http://api.nlib.cc/nx/0100B280148F2000/screen/3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DroneRidge",
+  "publisher": "Riddlersoft Games",
+  "releaseDate": "20210929",
+  "description": "Welcome to DroneRidge, the ultimate skill game!\nNavigate your drone through 20 atmospheric levels, featuring cool retro graphics and a truly unique urban soundscape. Skilfully avoid obstacles to reach the landing zone... if you can!\nLevels range from easy to very hard, and can be played, or re-played in any order... so you can keep improving your skills and scores!",
+  "bannerUrl": "http://api.nlib.cc/nx/010009201121C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010009201121C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010009201121C000/screen/1",
+    "http://api.nlib.cc/nx/010009201121C000/screen/2",
+    "http://api.nlib.cc/nx/010009201121C000/screen/3",
+    "http://api.nlib.cc/nx/010009201121C000/screen/4",
+    "http://api.nlib.cc/nx/010009201121C000/screen/5",
+    "http://api.nlib.cc/nx/010009201121C000/screen/6"
+  ]
+}

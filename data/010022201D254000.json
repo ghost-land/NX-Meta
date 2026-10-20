@@ -1,0 +1,16 @@
+{
+  "name": "Flooded",
+  "publisher": "Forever Entertainment",
+  "releaseDate": "20231109",
+  "description": "Survive the Flood\n\nThe waters have risen to an alarming level, leaving merely a handful of places habitable. As a leader of a small group of survivors, you are tasked to extract resources in order to construct an ark and move to a safer location. But beware, as time passes, the waters are getting higher, reducing the available land at your disposal.\n\nFeatures:\n- Reversed city-builder with rogue-lite elements and procedurally generated islands.\n- Story, Quickplay, and Endless game modes.\n- Continuously shrinking land due to rising water levels.\n- Resource gathering, building upgrades, and developing new technologies.\n- A variety of defensive structures to fend off hostile neighbors and pirates.\n- Exploration of nearby islands with diverse biomes.",
+  "bannerUrl": "http://api.nlib.cc/nx/010022201D254000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010022201D254000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010022201D254000/screen/1",
+    "http://api.nlib.cc/nx/010022201D254000/screen/2",
+    "http://api.nlib.cc/nx/010022201D254000/screen/3",
+    "http://api.nlib.cc/nx/010022201D254000/screen/4",
+    "http://api.nlib.cc/nx/010022201D254000/screen/5",
+    "http://api.nlib.cc/nx/010022201D254000/screen/6"
+  ]
+}

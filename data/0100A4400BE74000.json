@@ -1,0 +1,16 @@
+{
+  "name": "The LEGO Movie 2 Videogame",
+  "publisher": "WB Games",
+  "releaseDate": "20190226",
+  "description": "The alien monster invaders have left Bricksburg in ruins and taken Emmet's friends! It is now up to Emmet and a host of heroic characters to go beyond their world and save their friends from the strange inhabitants of the Systar System. Journey into outer space, discover new worlds, and test your Master Building skills.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A4400BE74000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A4400BE74000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A4400BE74000/screen/1",
+    "http://api.nlib.cc/nx/0100A4400BE74000/screen/2",
+    "http://api.nlib.cc/nx/0100A4400BE74000/screen/3",
+    "http://api.nlib.cc/nx/0100A4400BE74000/screen/4",
+    "http://api.nlib.cc/nx/0100A4400BE74000/screen/5",
+    "http://api.nlib.cc/nx/0100A4400BE74000/screen/6"
+  ]
+}

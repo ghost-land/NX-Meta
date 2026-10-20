@@ -1,0 +1,18 @@
+{
+  "name": "Screaming Halls: Horror",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20261002",
+  "description": "You wake up in a dark hallway with no memory of how you got there. The exit is locked by an ancient curse, and the only way to break it is to find every cursed voodoo doll hidden throughout the endless corridors.\n\nBut something else roams the halls.\n\nFeatures\n>Explore eerie, cursed hallways.\n>Collect voodoo dolls to lift the curse.\n>Experience tense first-person horror.\n>Survive a terrifying presence stalking the halls.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006C9029880000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006C9029880000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006C9029880000/screen/1",
+    "http://api.nlib.cc/nx/01006C9029880000/screen/2",
+    "http://api.nlib.cc/nx/01006C9029880000/screen/3",
+    "http://api.nlib.cc/nx/01006C9029880000/screen/4",
+    "http://api.nlib.cc/nx/01006C9029880000/screen/5",
+    "http://api.nlib.cc/nx/01006C9029880000/screen/6"
+  ],
+  "version": 0,
+  "size": 890337518
+}

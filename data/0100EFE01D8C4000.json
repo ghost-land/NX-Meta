@@ -1,0 +1,16 @@
+{
+  "name": "Starship Showdown: Galactic Grand Prix",
+  "publisher": "Aldora Games",
+  "releaseDate": "20231226",
+  "description": "Get ready for the ultimate space challenge in \"Starship Showdown: Galactic Grand Prix\"! Compete in exciting turn-based ship races with up to 5 players in local mode. Choose your favorite driver and immerse yourself in a stellar tournament or venture into free mode, where the only rival is yourself. Whether alone or with friends and family, it's time to accelerate to the speed of light and achieve victory!\n\n·Tournament Mode: Compete with up to 5 players in local mode.\n\n·Free Mode: Challenge your own times and skills alone.\n\n·Character Selection: Choose from a variety of unique drivers before launching into the race.\n\n·Family Game: Perfect for family gatherings or challenges between friends.\n\n·Galactic Circuits: Navigate spectacular space and terrestrial tracks full of challenges and surprises.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EFE01D8C4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EFE01D8C4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EFE01D8C4000/screen/1",
+    "http://api.nlib.cc/nx/0100EFE01D8C4000/screen/2",
+    "http://api.nlib.cc/nx/0100EFE01D8C4000/screen/3",
+    "http://api.nlib.cc/nx/0100EFE01D8C4000/screen/4",
+    "http://api.nlib.cc/nx/0100EFE01D8C4000/screen/5",
+    "http://api.nlib.cc/nx/0100EFE01D8C4000/screen/6"
+  ]
+}

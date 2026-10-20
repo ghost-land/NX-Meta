@@ -1,0 +1,13 @@
+{
+  "name": "Jumping Helix Ball",
+  "publisher": "Pix Arts",
+  "releaseDate": "20220205",
+  "description": "Play this exciting game with the ball bouncing through the maze of the helix tower.\n\nJumping Helix Ball is an easy to learn touch screen game with rich visual effects and addictive gameplay mechanics.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001C001789E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001C001789E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001C001789E000/screen/1",
+    "http://api.nlib.cc/nx/01001C001789E000/screen/2",
+    "http://api.nlib.cc/nx/01001C001789E000/screen/3"
+  ]
+}

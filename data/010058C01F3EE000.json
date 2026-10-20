@@ -1,0 +1,16 @@
+{
+  "name": "Upin & Ipin Universe",
+  "publisher": "Streamline Media Group",
+  "releaseDate": "20250717",
+  "description": "Upin & Ipin Universe is a vibrant open-world adventure that brings the charm of tropical Southeast Asian village life to players worldwide. \n\nInspired by the beloved Upin & Ipin animated series, it invites players to explore the lively Kampung Durian Runtuh — a living, breathing world filled with authentic sights, sounds, and traditions, crafted by Malaysians for the world.\n\nFrom bustling markets to quiet rice fields, it captures the essence of kampung (village) life—fireflies at dusk, swaying coconut palms, and the aroma of home-cooked meals. Play as Upin and Ipin on a heartfelt journey, uncovering local legends, helping their community, and immersing themselves in Malaysia’s rich culture, rooted in the heart of Southeast Asia.",
+  "bannerUrl": "http://api.nlib.cc/nx/010058C01F3EE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010058C01F3EE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010058C01F3EE000/screen/1",
+    "http://api.nlib.cc/nx/010058C01F3EE000/screen/2",
+    "http://api.nlib.cc/nx/010058C01F3EE000/screen/3",
+    "http://api.nlib.cc/nx/010058C01F3EE000/screen/4",
+    "http://api.nlib.cc/nx/010058C01F3EE000/screen/5",
+    "http://api.nlib.cc/nx/010058C01F3EE000/screen/6"
+  ]
+}

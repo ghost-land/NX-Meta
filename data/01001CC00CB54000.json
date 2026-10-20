@@ -1,0 +1,16 @@
+{
+  "name": "Fat City",
+  "publisher": "Heavy Iron Studios",
+  "releaseDate": "20190606",
+  "description": "In this action-puzzler with 60 targets spread throughout the five boroughs of New York City, players will use their cunning and brain power to plan raids and execute getaways to pull in the big bucks in the city that never sleeps.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001CC00CB54000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001CC00CB54000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001CC00CB54000/screen/1",
+    "http://api.nlib.cc/nx/01001CC00CB54000/screen/2",
+    "http://api.nlib.cc/nx/01001CC00CB54000/screen/3",
+    "http://api.nlib.cc/nx/01001CC00CB54000/screen/4",
+    "http://api.nlib.cc/nx/01001CC00CB54000/screen/5",
+    "http://api.nlib.cc/nx/01001CC00CB54000/screen/6"
+  ]
+}

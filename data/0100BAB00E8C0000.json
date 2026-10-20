@@ -1,0 +1,16 @@
+{
+  "name": "Langrisser I & II",
+  "publisher": "NIS America",
+  "releaseDate": "20200310",
+  "description": "You are the arbiter of fate in a world ravaged by wars through generations of heroes who battle for peace, order, or chaos.\n\nCommand Ledin, Elwin, and their companions in their quest to obtain the Sacred Sword Langrisser and restore peace to a war-stricken land. Decide who your allegiance lies with in Langrisser I & II, remastered for modern consoles.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BAB00E8C0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BAB00E8C0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BAB00E8C0000/screen/1",
+    "http://api.nlib.cc/nx/0100BAB00E8C0000/screen/2",
+    "http://api.nlib.cc/nx/0100BAB00E8C0000/screen/3",
+    "http://api.nlib.cc/nx/0100BAB00E8C0000/screen/4",
+    "http://api.nlib.cc/nx/0100BAB00E8C0000/screen/5",
+    "http://api.nlib.cc/nx/0100BAB00E8C0000/screen/6"
+  ]
+}

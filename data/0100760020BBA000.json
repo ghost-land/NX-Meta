@@ -1,0 +1,16 @@
+{
+  "name": "みんなのGOLF WORLD",
+  "publisher": "バンダイナムコエンターテインメント",
+  "releaseDate": "20250904",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/0100760020BBA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100760020BBA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100760020BBA000/screen/1",
+    "http://api.nlib.cc/nx/0100760020BBA000/screen/2",
+    "http://api.nlib.cc/nx/0100760020BBA000/screen/3",
+    "http://api.nlib.cc/nx/0100760020BBA000/screen/4",
+    "http://api.nlib.cc/nx/0100760020BBA000/screen/5",
+    "http://api.nlib.cc/nx/0100760020BBA000/screen/6"
+  ]
+}

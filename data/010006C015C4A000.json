@@ -1,0 +1,16 @@
+{
+  "name": "X-Force Genesis",
+  "publisher": "Cube Games",
+  "releaseDate": "20211112",
+  "description": "A game that is a love letter to fans of shmups from the 80s/90s. X-Force Genesis is a space shooter created from amazing graphics and insane boss battles. Join this epic adventure and don't let the enemies take over the Genesis planet",
+  "bannerUrl": "http://api.nlib.cc/nx/010006C015C4A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010006C015C4A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010006C015C4A000/screen/1",
+    "http://api.nlib.cc/nx/010006C015C4A000/screen/2",
+    "http://api.nlib.cc/nx/010006C015C4A000/screen/3",
+    "http://api.nlib.cc/nx/010006C015C4A000/screen/4",
+    "http://api.nlib.cc/nx/010006C015C4A000/screen/5",
+    "http://api.nlib.cc/nx/010006C015C4A000/screen/6"
+  ]
+}

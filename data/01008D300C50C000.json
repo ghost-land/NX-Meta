@@ -1,0 +1,16 @@
+{
+  "name": "Super Nintendo Entertainment System™ – Nintendo Classics",
+  "publisher": "Nintendo",
+  "releaseDate": "20190905",
+  "description": "With a Nintendo Switch Online membership, gain access to a large collection of Super NES™ games that are great to play anytime, anywhere! You can play these classic games online and use voice chat via the Nintendo Switch App*. Compete or cooperate online with friends, share your screen, or virtually pass the controller, depending on the game. While playing on the Nintendo Switch™ 2 system, try out GameChat** for additional features such as sharing your screen in real time! \n\nConquer classics such as Super Mario World™, Super Metroid™, The Legend of Zelda™: A Link to the Past™, and EarthBound™. Depending on the game, you can engage in online competitive or co-op multiplayer, or take turns controlling the action. Need back up? Then team up in cooperative games like Donkey Kong Country™ and Joe & Mac 2: Lost in the Tropics. You can also compete against a friend in Super Mario Kart™, Kirby’s Dream Course™, and even Stunt Race FX™ —available for the first time since its original 1994 release! Friends can even watch each other play single-player games online, and virtually “pass the controller” at any time. Every classic Super NES game included in this collection will support voice chat via the Nintendo Switch App*. ",
+  "bannerUrl": "http://api.nlib.cc/nx/01008D300C50C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008D300C50C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008D300C50C000/screen/1",
+    "http://api.nlib.cc/nx/01008D300C50C000/screen/2",
+    "http://api.nlib.cc/nx/01008D300C50C000/screen/3",
+    "http://api.nlib.cc/nx/01008D300C50C000/screen/4",
+    "http://api.nlib.cc/nx/01008D300C50C000/screen/5",
+    "http://api.nlib.cc/nx/01008D300C50C000/screen/6"
+  ]
+}

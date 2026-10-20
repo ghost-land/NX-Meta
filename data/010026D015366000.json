@@ -1,0 +1,13 @@
+{
+  "name": "Bubble Bunny",
+  "publisher": "Kistler Studios",
+  "releaseDate": "20240329",
+  "description": "Bubble bunny is a puzzle three match game where you shoot bubbles and match three of the same kind or more to pop them und solve the puzzle. Different level goals and over 99 levels makes the game diverse and interesting to play.\n\nFeatures:\n- Three match shooting puzzles\n- Different level objectives\n- Over 99 Levels\n- Different mini games like ground holes and beetles",
+  "bannerUrl": "http://api.nlib.cc/nx/010026D015366000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010026D015366000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010026D015366000/screen/1",
+    "http://api.nlib.cc/nx/010026D015366000/screen/2",
+    "http://api.nlib.cc/nx/010026D015366000/screen/3"
+  ]
+}

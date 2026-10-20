@@ -1,0 +1,16 @@
+{
+  "name": "Nitro Karts Racing",
+  "publisher": "Pix Arts",
+  "releaseDate": "20251108",
+  "description": "Hit the track in Nitro Karts Racer, a fast-paced arcade karting adventure where every race fuels your next big win. Earn virtual currency from your victories, and use it to buy brand-new karts—each designed for speed, control, and personality.\n\nRace through a lineup of dynamic tracks, from winding forest runs to seaside descents and rugged canyon drops. Every course features thrilling downhill slopes that test your timing, boost control, and racing instincts.\n\nFeatures\n\nBuy and race: Earn virtual currency by competing and purchase new karts to expand your collection.\n\nUnlock levels: Win races to open new tracks and challenges.\n\nGravity-fueled racing: Experience downhill tracks where precision and momentum decide the winner.\n\nVaried environments: Forest trails, mountain canyons, and coastal circuits, each with unique layouts and hazards.\n\nArcade-perfect controls: Smooth drifting, tight handling, and perfectly tuned speed bursts for every racer.\n\nMaster every slope, claim every trophy, and become the ultimate Nitro Karts Racer!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100886025F4C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100886025F4C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100886025F4C000/screen/1",
+    "http://api.nlib.cc/nx/0100886025F4C000/screen/2",
+    "http://api.nlib.cc/nx/0100886025F4C000/screen/3",
+    "http://api.nlib.cc/nx/0100886025F4C000/screen/4",
+    "http://api.nlib.cc/nx/0100886025F4C000/screen/5",
+    "http://api.nlib.cc/nx/0100886025F4C000/screen/6"
+  ]
+}

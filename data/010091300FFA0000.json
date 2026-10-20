@@ -1,0 +1,16 @@
+{
+  "name": "Grizzland",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20200228",
+  "description": "Welcome to the Grizzled Planet, a seamless open world platformer presented in retro style and filled with old-school challenges. Explore without pointers to uncover secret areas. Equip yourself with unique items and skills, even the ability to shrink and enlarge or explode and recombine. Only through self-discovery will you overcome enemy Dinos in epic combat and find the truth of Grizzland.\n\nFeatures:\n\n• Explore a true open-world setting.\n• Take on old-school quests with no pointers.\n• Discover secret areas.\n• Equip yourself with various skills, items and abilities.\n• Challenge unique opponents in epic battles.",
+  "bannerUrl": "http://api.nlib.cc/nx/010091300FFA0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010091300FFA0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010091300FFA0000/screen/1",
+    "http://api.nlib.cc/nx/010091300FFA0000/screen/2",
+    "http://api.nlib.cc/nx/010091300FFA0000/screen/3",
+    "http://api.nlib.cc/nx/010091300FFA0000/screen/4",
+    "http://api.nlib.cc/nx/010091300FFA0000/screen/5",
+    "http://api.nlib.cc/nx/010091300FFA0000/screen/6"
+  ]
+}

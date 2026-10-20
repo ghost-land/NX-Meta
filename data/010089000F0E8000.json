@@ -1,0 +1,16 @@
+{
+  "name": "Kine",
+  "publisher": "Chump Squad",
+  "releaseDate": "20191017",
+  "description": "Kine is a 3D narrative puzzle game about three daring machines that aspire to be musicians. Embark across a theatrical dreamscape by solving a wide variety of increasingly difficult 3D puzzles. Guide Euler, Quat, and Roo as they struggle to form a band and find their big break!",
+  "bannerUrl": "http://api.nlib.cc/nx/010089000F0E8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010089000F0E8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010089000F0E8000/screen/1",
+    "http://api.nlib.cc/nx/010089000F0E8000/screen/2",
+    "http://api.nlib.cc/nx/010089000F0E8000/screen/3",
+    "http://api.nlib.cc/nx/010089000F0E8000/screen/4",
+    "http://api.nlib.cc/nx/010089000F0E8000/screen/5",
+    "http://api.nlib.cc/nx/010089000F0E8000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Borderlands: Game of the Year Edition",
+  "publisher": "2K",
+  "releaseDate": "20200529",
+  "description": "Discover the co-op shooter-looter that started it all, crammed with content and enhancements! Equip bazillions of guns as one of 4 trigger-happy mercenaries, each with unique RPG skills. Take on the lawless desolate planet Pandora in pursuit of powerful alien technology: The Vault. With new weapons, visual upgrades, all 4 add-on packs and more!\n\n• Bazillions of Guns: Rocket-launching shotguns, enemy-torching revolvers, SMGs that fire lightning rounds, and tons more.\n\n• Radical Art Style: Traditional rendering combined with hand-drawn textures give Borderlands its iconic style.\n\n• Intense Vehicular Combat: Behind the wheel, engage in frenetic vehicle-to-vehicle combat.\n\n• Co-op Frenzy: Online or together on the couch.",
+  "bannerUrl": "http://api.nlib.cc/nx/010064800F66A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010064800F66A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010064800F66A000/screen/1",
+    "http://api.nlib.cc/nx/010064800F66A000/screen/2",
+    "http://api.nlib.cc/nx/010064800F66A000/screen/3",
+    "http://api.nlib.cc/nx/010064800F66A000/screen/4",
+    "http://api.nlib.cc/nx/010064800F66A000/screen/5",
+    "http://api.nlib.cc/nx/010064800F66A000/screen/6"
+  ]
+}

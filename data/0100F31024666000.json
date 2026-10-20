@@ -1,0 +1,16 @@
+{
+  "name": "Knightica",
+  "publisher": "Entalto Publishing",
+  "releaseDate": "20250821",
+  "description": "Knightica is a turn-based roguelike auto-battler where you lead an army of powerful units to free the Kingdoms. Recruit warriors, position them wisely, and discover powerful synergies to overcome waves of monsters and bosses. Your choices—from commanders and units to shops and encounters—shape every run. Upgrade your troops, experiment with demonic souls, and uncover game-breaking enchants. Will you master your army and bring peace back to the realm?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F31024666000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F31024666000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F31024666000/screen/1",
+    "http://api.nlib.cc/nx/0100F31024666000/screen/2",
+    "http://api.nlib.cc/nx/0100F31024666000/screen/3",
+    "http://api.nlib.cc/nx/0100F31024666000/screen/4",
+    "http://api.nlib.cc/nx/0100F31024666000/screen/5",
+    "http://api.nlib.cc/nx/0100F31024666000/screen/6"
+  ]
+}

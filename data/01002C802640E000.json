@@ -1,0 +1,18 @@
+{
+  "name": "Dark Quest: Remastered",
+  "publisher": "Brain Seal Entertainment",
+  "releaseDate": "20260206",
+  "description": "Dark Quest: Remastered is a turn-based fantasy dungeon crawler inspired by classic board games and tabletop adventures.\n\nA dark sorcerer has built a dungeon beneath the village of Darkwood, unleashing his minions upon the land. Lead a party of heroes into dangerous dungeons, plan your moves carefully on a grid-based battlefield, and defeat the forces of evil threatening the realm.\n\nPerfect for short or long play sessions, Dark Quest: Remastered delivers strategic combat, charming fantasy style, and timeless gameplay—now fully remastered for modern consoles.\n\nFeatures:\n- Turn-based, grid-based combat\n- Party-based dungeon exploration\n- Classic fantasy adventure\n- Remastered visuals and improvements\n- Optimized for handheld and docked play",
+  "bannerUrl": "http://api.nlib.cc/nx/01002C802640E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002C802640E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002C802640E000/screen/1",
+    "http://api.nlib.cc/nx/01002C802640E000/screen/2",
+    "http://api.nlib.cc/nx/01002C802640E000/screen/3",
+    "http://api.nlib.cc/nx/01002C802640E000/screen/4",
+    "http://api.nlib.cc/nx/01002C802640E000/screen/5",
+    "http://api.nlib.cc/nx/01002C802640E000/screen/6"
+  ],
+  "version": 0,
+  "size": 223105741
+}

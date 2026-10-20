@@ -1,0 +1,15 @@
+{
+  "name": "StarCrossed",
+  "publisher": "Whitethorn Games",
+  "releaseDate": "20200429",
+  "description": "StarCrossed is an action arcade game with a magical girl aesthetic and a cooperative twist! Join our cast of 5 space-faring heroes as they travel across the stars, working together to strengthen their bond and defeat a looming evil that threatens the Nova galaxy! It’s time to team up, get sparkly, and take out the bad guys!",
+  "bannerUrl": "http://api.nlib.cc/nx/010022500C964000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010022500C964000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010022500C964000/screen/1",
+    "http://api.nlib.cc/nx/010022500C964000/screen/2",
+    "http://api.nlib.cc/nx/010022500C964000/screen/3",
+    "http://api.nlib.cc/nx/010022500C964000/screen/4",
+    "http://api.nlib.cc/nx/010022500C964000/screen/5"
+  ]
+}

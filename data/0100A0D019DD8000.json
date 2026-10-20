@@ -1,0 +1,16 @@
+{
+  "name": "Dr Smart Space Adventure",
+  "publisher": "REDDEER.GAMES",
+  "releaseDate": "20230217",
+  "description": "A SPACE ADVENTURE!\n\nLearn about stars, moons and planets. Visit all the major planets or some less known locations such as the egg shaped dwarf planet Haumea.\n\nBECOME A SPLENDID ASTRONOMER! \n\nEnjoy rediscovering famous constellations, huge gas giants, our very own star or our home planet. Your story begins now!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A0D019DD8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A0D019DD8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A0D019DD8000/screen/1",
+    "http://api.nlib.cc/nx/0100A0D019DD8000/screen/2",
+    "http://api.nlib.cc/nx/0100A0D019DD8000/screen/3",
+    "http://api.nlib.cc/nx/0100A0D019DD8000/screen/4",
+    "http://api.nlib.cc/nx/0100A0D019DD8000/screen/5",
+    "http://api.nlib.cc/nx/0100A0D019DD8000/screen/6"
+  ]
+}

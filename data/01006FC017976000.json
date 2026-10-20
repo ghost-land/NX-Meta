@@ -1,0 +1,16 @@
+{
+  "name": "Will Die Alone",
+  "publisher": "Fantastico Studio",
+  "releaseDate": "20220520",
+  "description": "Congratulations! You just got hired by Dewitt Corp. for their memory program, your job starts tomorrow.\nOur customers come to us to solve their current problems. Your task is to dig into their past and find the right memories to erase to change their present and future.\nFor each customer, you will receive a series of personal information on your PC that you can analyze. Choose carefully, every memory removed can have enormous effects on the present and future of the customer.\nYou will be sent to an isolated place to be able to work with peace of mind, we will keep in touch via email.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006FC017976000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006FC017976000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006FC017976000/screen/1",
+    "http://api.nlib.cc/nx/01006FC017976000/screen/2",
+    "http://api.nlib.cc/nx/01006FC017976000/screen/3",
+    "http://api.nlib.cc/nx/01006FC017976000/screen/4",
+    "http://api.nlib.cc/nx/01006FC017976000/screen/5",
+    "http://api.nlib.cc/nx/01006FC017976000/screen/6"
+  ]
+}

@@ -7,11 +7,16 @@ interface NlibResponse {
   description?: string;
   banner?: string;
   icon?: string;
-  screens?: {
-    count?: number;
-    screenshots?: string[];
-  } | string[];
+  screens?: { count?: number; screenshots?: string[] } | string[];
 }
+
+interface OwnedEntry {
+  "Game Name": string;
+  Version: string;
+  Size: number;
+}
+
+type OwnedCatalog = Record<string, OwnedEntry>;
 
 interface GameMetadata {
   name: string;
@@ -21,122 +26,165 @@ interface GameMetadata {
   bannerUrl: string;
   iconUrl: string;
   screenshots: string[];
+  version: number;
+  size: number;
 }
 
-// Format date from "2025-07-11" to "20250711"
-function formatDate(date: string | undefined): string {
-  if (!date) return "";
-  return date.replace(/-/g, "");
-}
+const OWNED_URL = "https://data.ghostland.at/nx/owned.json";
+const NLIB_FIELDS =
+  "name,publisher,releaseDate,description,banner,icon,screens";
+const TID_PATTERN = /^[0-9A-Fa-f]{16}$/;
 
-// Validate TID format
 function isValidTid(tid: string): boolean {
-  // TID should be 16 hex characters, starting with 01 and ending with 000
-  return /^01[0-9A-F]{11}000$/i.test(tid);
+  return TID_PATTERN.test(tid);
 }
 
-// Fetch metadata for a TID
-async function fetchMetadata(tid: string): Promise<GameMetadata | null> {
-  const url = `https://api.nlib.cc/nx/${tid}?fields=name,publisher,releaseDate,description,banner,icon,screens`;
-  
+function supportsNlib(tid: string): boolean {
+  return tid.toUpperCase().startsWith("01");
+}
+
+function formatDate(date: string | undefined): string {
+  return date ? date.replace(/-/g, "") : "";
+}
+
+function parseVersion(version: string | undefined): number {
+  if (!version) return 0;
+  const parsed = Number.parseInt(version, 10);
+  return Number.isFinite(parsed) ? parsed : 0;
+}
+
+function extractScreenshots(screens: NlibResponse["screens"]): string[] {
+  if (!screens) return [];
+  if (Array.isArray(screens)) return screens;
+  return screens.screenshots ?? [];
+}
+
+async function loadOwnedEntry(tid: string): Promise<OwnedEntry | null> {
   try {
-    const response = await fetch(url);
-    
-    if (!response.ok) {
-      console.error(`❌ Erreur pour ${tid}: ${response.status}`);
-      return null;
-    }
-    
-    const data: NlibResponse = await response.json();
-    
-    // Use custom icon URL with /200 size when icon is available
-    const iconUrl = data.icon ? `https://api.nlib.cc/nx/${tid}/icon/200` : "";
-    
-    // Extract screenshots array from the API response
-    let screenshots: string[] = [];
-    if (data.screens) {
-      if (Array.isArray(data.screens)) {
-        screenshots = data.screens;
-      } else if (data.screens.screenshots) {
-        screenshots = data.screens.screenshots;
-      }
-    }
-    
-    return {
-      name: data.name || "",
-      publisher: data.publisher || "",
-      releaseDate: formatDate(data.releaseDate),
-      description: data.description || "",
-      bannerUrl: data.banner || "",
-      iconUrl: iconUrl,
-      screenshots: screenshots
-    };
-  } catch (error) {
-    console.error(`❌ Erreur lors de la récupération de ${tid}:`, error);
+    const response = await fetch(OWNED_URL);
+    if (!response.ok) return null;
+    const catalog = (await response.json()) as OwnedCatalog;
+    return catalog[tid] ?? catalog[tid.toUpperCase()] ?? null;
+  } catch {
     return null;
   }
 }
 
-// Main function
+async function fetchNlib(tid: string): Promise<NlibResponse | null> {
+  const url = `https://api.nlib.cc/nx/${tid}?fields=${NLIB_FIELDS}`;
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      if (response.status !== 404) {
+        console.error(`nlib error ${tid}: HTTP ${response.status}`);
+      }
+      return null;
+    }
+    return (await response.json()) as NlibResponse;
+  } catch (error) {
+    console.error(`nlib error ${tid}:`, error);
+    return null;
+  }
+}
+
+async function buildMetadata(
+  tid: string,
+  owned: OwnedEntry | null
+): Promise<GameMetadata | null> {
+  const ownedName = owned?.["Game Name"]?.trim() || "";
+  const version = parseVersion(owned?.Version);
+  const size = typeof owned?.Size === "number" ? owned.Size : 0;
+
+  const base: GameMetadata = {
+    name: ownedName,
+    publisher: "",
+    releaseDate: "",
+    description: "",
+    bannerUrl: "",
+    iconUrl: "",
+    screenshots: [],
+    version,
+    size,
+  };
+
+  if (!supportsNlib(tid)) {
+    return base.name ? base : null;
+  }
+
+  const nlib = await fetchNlib(tid);
+  const name = nlib?.name?.trim() || ownedName;
+  if (!name) {
+    return null;
+  }
+
+  return {
+    name,
+    publisher: nlib?.publisher || "",
+    releaseDate: formatDate(nlib?.releaseDate),
+    description: nlib?.description || "",
+    bannerUrl: nlib?.banner || "",
+    iconUrl: nlib?.icon ? `https://api.nlib.cc/nx/${tid}/icon/200` : "",
+    screenshots: extractScreenshots(nlib?.screens),
+    version,
+    size,
+  };
+}
+
 async function main() {
-  console.log("🎮 Récupération de métadonnées pour un TID spécifique\n");
-  
-  // Get TID from command line arguments
   const args = process.argv.slice(2);
   let tid: string;
-  
+
   if (args.length > 0) {
     tid = args[0].toUpperCase().trim();
   } else {
-    // Prompt for TID if not provided
-    console.log("Entrez le TID (ex: 0100152014DFA000):");
     const input = prompt("TID:");
     if (!input) {
-      console.error("❌ Aucun TID fourni.");
+      console.error("No TID provided.");
       process.exit(1);
     }
     tid = input.toUpperCase().trim();
   }
-  
-  // Validate TID format
+
   if (!isValidTid(tid)) {
-    console.error(`❌ Format de TID invalide: ${tid}`);
-    console.error("   Le TID doit être 16 caractères hexadécimaux, commençant par 01 et se terminant par 000.");
-    console.error("   Exemple: 0100152014DFA000");
+    console.error(`Invalid TID: ${tid}`);
+    console.error("Expected 16 hexadecimal characters.");
     process.exit(1);
   }
-  
-  console.log(`\n🔍 Recherche des métadonnées pour: ${tid}`);
-  
-  // Fetch metadata
-  const metadata = await fetchMetadata(tid);
-  
+
+  console.log(`TID: ${tid}`);
+  if (!supportsNlib(tid)) {
+    console.log("Non-01 TID: owned.json only (nlib skipped)");
+  }
+
+  const owned = await loadOwnedEntry(tid);
+  if (owned) {
+    console.log(
+      `owned: "${owned["Game Name"]}" v${owned.Version} size=${owned.Size}`
+    );
+  } else {
+    console.log("owned: not found");
+  }
+
+  const metadata = await buildMetadata(tid, owned);
   if (!metadata) {
-    console.error(`\n❌ Impossible de récupérer les métadonnées pour ${tid}`);
+    console.error(`Unable to build metadata for ${tid}`);
     process.exit(1);
   }
-  
-  // Create data/ directory if it doesn't exist
+
   await Bun.write("data/.gitkeep", "");
-  
-  // Save to file
   const filePath = `data/${tid}.json`;
   await Bun.write(filePath, JSON.stringify(metadata, null, 2));
-  
-  console.log(`\n✅ Métadonnées récupérées avec succès!`);
-  console.log(`\n📋 Informations:`);
-  console.log(`   - Nom: ${metadata.name}`);
-  console.log(`   - Éditeur: ${metadata.publisher}`);
-  console.log(`   - Date de sortie: ${metadata.releaseDate}`);
-  console.log(`   - Fichier: ${filePath}`);
-  
-  if (metadata.screenshots.length > 0) {
-    console.log(`   - Captures d'écran: ${metadata.screenshots.length}`);
-  }
-  
-  console.log("\n🎉 Terminé!");
+
+  console.log(`Wrote ${filePath}`);
+  console.log(`  name:      ${metadata.name}`);
+  console.log(`  publisher: ${metadata.publisher}`);
+  console.log(`  release:   ${metadata.releaseDate}`);
+  console.log(`  version:   ${metadata.version}`);
+  console.log(`  size:      ${metadata.size}`);
+  console.log(`  screens:   ${metadata.screenshots.length}`);
 }
 
-// Run the script
-main().catch(console.error);
-
+main().catch((error) => {
+  console.error(error);
+  process.exit(1);
+});

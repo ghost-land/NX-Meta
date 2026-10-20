@@ -1,0 +1,16 @@
+{
+  "name": "Fall Guys",
+  "publisher": "Epic Games",
+  "releaseDate": "20220621",
+  "description": "Fall Guys is a free, cross-platform massively multiplayer party royale game. Clumsily compete in absurd obstacle courses with friends or build your very own chaotic course to share with the community.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C3C015738000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C3C015738000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C3C015738000/screen/1",
+    "http://api.nlib.cc/nx/0100C3C015738000/screen/2",
+    "http://api.nlib.cc/nx/0100C3C015738000/screen/3",
+    "http://api.nlib.cc/nx/0100C3C015738000/screen/4",
+    "http://api.nlib.cc/nx/0100C3C015738000/screen/5",
+    "http://api.nlib.cc/nx/0100C3C015738000/screen/6"
+  ]
+}

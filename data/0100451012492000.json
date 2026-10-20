@@ -1,0 +1,16 @@
+{
+  "name": "Animals for Toddlers",
+  "publisher": "winterworks",
+  "releaseDate": "20200924",
+  "description": "Tap the different animals to interact with them and hear their common sounds or other funny noises. Some animals and little surprises are hidden within the game. Can you find all secrets?\n\nThe game features SIX different locations:\n* Farm\n* Antarctica\n* Desert\n* Jungle\n* Ocean\n* Australia",
+  "bannerUrl": "http://api.nlib.cc/nx/0100451012492000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100451012492000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100451012492000/screen/1",
+    "http://api.nlib.cc/nx/0100451012492000/screen/2",
+    "http://api.nlib.cc/nx/0100451012492000/screen/3",
+    "http://api.nlib.cc/nx/0100451012492000/screen/4",
+    "http://api.nlib.cc/nx/0100451012492000/screen/5",
+    "http://api.nlib.cc/nx/0100451012492000/screen/6"
+  ]
+}

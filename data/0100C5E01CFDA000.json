@@ -1,0 +1,15 @@
+{
+  "name": "Playroom Racer",
+  "publisher": "IntuitiveComputers",
+  "releaseDate": "20230922",
+  "description": "FEATURES\n- 5 beautiful scenes to explore\n- 8 different vehicles\n- Singleplayer mode against AI opponents\n- 2 player split-screen game mode\n- Stunning 3D graphics\n- Realistic physics simulation\n- Easy to learn controls",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C5E01CFDA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C5E01CFDA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C5E01CFDA000/screen/1",
+    "http://api.nlib.cc/nx/0100C5E01CFDA000/screen/2",
+    "http://api.nlib.cc/nx/0100C5E01CFDA000/screen/3",
+    "http://api.nlib.cc/nx/0100C5E01CFDA000/screen/4",
+    "http://api.nlib.cc/nx/0100C5E01CFDA000/screen/5"
+  ]
+}

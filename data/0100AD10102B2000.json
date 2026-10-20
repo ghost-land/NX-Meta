@@ -1,0 +1,16 @@
+{
+  "name": "BioShock Remastered",
+  "publisher": "2K",
+  "releaseDate": "20200529",
+  "description": "Explore the undersea city of Rapture, a haven for society's greatest minds that has devolved into a dystopian nightmare wrought by one man's hubris. Amidst the waterlogged ruins, a new ecosystem has emerged, where deranged Splicers hunt down the Little Sisters who would be helpless without their hulking Big Daddy guardians. Your only hopes for survival are quick thinking, reclaimed weaponry, and superhuman powers granted by DNA-altering Plasmids. To defeat Rapture's mutated monsters, you must become one.\n\nAlso includes:\n\n• Museum of Orphaned Concepts - Take a tour through BioShock's beginnings across multiple exhibits in this virtual museum, from early concept art to full in-game models. \n\n• Challenge Rooms - Test your combat skills and puzzle-solving prowess with this noncanonical series of trials.\n\n• Director's Commentary: Imagining BioShock - Discover new collectibles to unlock episodic videos featuring insights from Creative Director Ken Levine and Lead Animator Shawn Robertson.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AD10102B2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AD10102B2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AD10102B2000/screen/1",
+    "http://api.nlib.cc/nx/0100AD10102B2000/screen/2",
+    "http://api.nlib.cc/nx/0100AD10102B2000/screen/3",
+    "http://api.nlib.cc/nx/0100AD10102B2000/screen/4",
+    "http://api.nlib.cc/nx/0100AD10102B2000/screen/5",
+    "http://api.nlib.cc/nx/0100AD10102B2000/screen/6"
+  ]
+}

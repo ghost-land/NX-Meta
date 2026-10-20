@@ -1,0 +1,16 @@
+{
+  "name": "Super Bomberman R",
+  "publisher": "KONAMI",
+  "releaseDate": "20170303",
+  "description": "Bomberman is back as Super Bomberman R! Place bombs and collect power-ups to blast your way through classic ‘Battle’ or ‘Story’ mode. \n\nPlay ‘Battle’ mode where up to eight players are dropped within a maze until the ‘last man standing’ is declared the winner. \n\nVenture through ‘Story’ mode where one to two players work cooperatively to clear a series of 50 stages in order to save the galaxy. \n\nKey features in Super Bomberman R include:\n3D stages with dynamic environments \nBomberman siblings and well-known enemies are back with rich personality\nBattle mode for up to 8 players via local connection and online gameplay\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01007AD00013E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007AD00013E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007AD00013E000/screen/1",
+    "http://api.nlib.cc/nx/01007AD00013E000/screen/2",
+    "http://api.nlib.cc/nx/01007AD00013E000/screen/3",
+    "http://api.nlib.cc/nx/01007AD00013E000/screen/4",
+    "http://api.nlib.cc/nx/01007AD00013E000/screen/5",
+    "http://api.nlib.cc/nx/01007AD00013E000/screen/6"
+  ]
+}

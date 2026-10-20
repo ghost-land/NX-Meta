@@ -1,0 +1,15 @@
+{
+  "name": "Galaxy Mania",
+  "publisher": "RuWaMo Games",
+  "releaseDate": "20240802",
+  "description": "Galaxy Mania! This captivating puzzle game combines the excitement of merging celestial bodies with the challenge of action puzzle gameplay. As you navigate through the cosmos, your goal is to merge matching planets, stars, and asteroids to create even more magnificent celestial formations.\n\nTest your skills and see how far you can go in this addictive space odyssey!",
+  "bannerUrl": "http://api.nlib.cc/nx/01002EE01EF1C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002EE01EF1C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002EE01EF1C000/screen/1",
+    "http://api.nlib.cc/nx/01002EE01EF1C000/screen/2",
+    "http://api.nlib.cc/nx/01002EE01EF1C000/screen/3",
+    "http://api.nlib.cc/nx/01002EE01EF1C000/screen/4",
+    "http://api.nlib.cc/nx/01002EE01EF1C000/screen/5"
+  ]
+}

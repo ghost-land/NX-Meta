@@ -1,0 +1,16 @@
+{
+  "name": "Unichrome: A 1-Bit Unicorn Adventure",
+  "publisher": "TERNOX",
+  "releaseDate": "20220916",
+  "description": "Relive the glory of the retro console era in the spirit of the classic Atari while experiencing heart-pounding platforming and shoot 'em up action. Prepare for an arcade delight with tight controls, refreshing game mechanics, cracking retro art and an addictive soundtrack.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E19018C0E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E19018C0E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E19018C0E000/screen/1",
+    "http://api.nlib.cc/nx/0100E19018C0E000/screen/2",
+    "http://api.nlib.cc/nx/0100E19018C0E000/screen/3",
+    "http://api.nlib.cc/nx/0100E19018C0E000/screen/4",
+    "http://api.nlib.cc/nx/0100E19018C0E000/screen/5",
+    "http://api.nlib.cc/nx/0100E19018C0E000/screen/6"
+  ]
+}

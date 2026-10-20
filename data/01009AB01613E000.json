@@ -1,0 +1,16 @@
+{
+  "name": "Duo Zombies",
+  "publisher": "Refold",
+  "releaseDate": "20211019",
+  "description": "Duo Zombies is a cooperative game where you help two zombie friends escape an evil facility through obstacle filled levels.\n\nUse your BRAAIIIIINS and logic to solve all the puzzles, avoid getting caught and most importantly, never leave your friend behind.\n\nSome friendships last a lifetime, but some last longer.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009AB01613E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009AB01613E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009AB01613E000/screen/1",
+    "http://api.nlib.cc/nx/01009AB01613E000/screen/2",
+    "http://api.nlib.cc/nx/01009AB01613E000/screen/3",
+    "http://api.nlib.cc/nx/01009AB01613E000/screen/4",
+    "http://api.nlib.cc/nx/01009AB01613E000/screen/5",
+    "http://api.nlib.cc/nx/01009AB01613E000/screen/6"
+  ]
+}

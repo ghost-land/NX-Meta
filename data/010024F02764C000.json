@@ -1,0 +1,18 @@
+{
+  "name": "Poopy Time",
+  "publisher": "NOSTRA GAMES",
+  "releaseDate": "20260423",
+  "description": "Gather and eat as much food as you can until you can't stand it anymore. Find a secluded corner and show everyone what you've got. Just don't get caught by the guards! ",
+  "bannerUrl": "http://api.nlib.cc/nx/010024F02764C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010024F02764C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010024F02764C000/screen/1",
+    "http://api.nlib.cc/nx/010024F02764C000/screen/2",
+    "http://api.nlib.cc/nx/010024F02764C000/screen/3",
+    "http://api.nlib.cc/nx/010024F02764C000/screen/4",
+    "http://api.nlib.cc/nx/010024F02764C000/screen/5",
+    "http://api.nlib.cc/nx/010024F02764C000/screen/6"
+  ],
+  "version": 0,
+  "size": 86716547
+}

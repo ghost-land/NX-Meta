@@ -1,0 +1,15 @@
+{
+  "name": "Escape from Mirrorland\n～The Adventures of Nyanzou&Kumakichi: Escape Game Series～",
+  "publisher": "AlignmentSharp",
+  "releaseDate": "20211216",
+  "description": "Nyanzou always makes a mess of things. Today, he’s up to something in front of the mirror.\nWhen Kumakichi asks him what he’s doing, he says he’s facing two mirrors in front of one another.\nIt’s not midnight but noon right now, but will it still work? \nAs usual, Nyanzou messes up and gets trapped in Mirrorland.\nHelp him escape.\n\nIt's your standard escape game, on the easy side, and highly recommended for beginners. It comes with autosave, hints, and memo functions.",
+  "bannerUrl": "http://api.nlib.cc/nx/010049F016CA0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010049F016CA0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010049F016CA0000/screen/1",
+    "http://api.nlib.cc/nx/010049F016CA0000/screen/2",
+    "http://api.nlib.cc/nx/010049F016CA0000/screen/3",
+    "http://api.nlib.cc/nx/010049F016CA0000/screen/4",
+    "http://api.nlib.cc/nx/010049F016CA0000/screen/5"
+  ]
+}

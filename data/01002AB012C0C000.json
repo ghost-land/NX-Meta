@@ -1,0 +1,16 @@
+{
+  "name": "Project Winter",
+  "publisher": "Other Ocean",
+  "releaseDate": "20210916",
+  "description": "The ultimate test of trust and betrayal: do your friends have your back or will they leave you bleeding in the snow? Project Winter is an 8-person multiplayer game of survival and social deception, where cooperation is essential, but betrayal is inevitable. \n\nStranded in the frozen wilderness, survivors must gather resources, repair objectives, and fight the elements to escape. But hidden among them are traitors working together to sabotage, mislead, and eliminate their so-called allies. \n\nProject Winter 2.0: Cabin Fever introduces a faster, more streamlined experience that keeps the paranoia and chaos alive while making it easier than ever for new players to jump in. For seasoned players, the punishing Classic mode remains - demanding coordination, grit, and sharp instincts to survive. \n\nNo two matches are ever the same. Whether you’re chopping firewood with allies, whispering over secret radios as a traitor, or panicking when a sudden blizzard forces everyone together, the tension builds with every decision. \n\nFEATURES \nTeamwork & Survival \nSurvivors can’t make it alone. Work together to endure the cold, complete objectives, and fend off wildlife. \n\nBetrayal & Deception \nTraitors blend in, gain trust, and then strike when the moment is right. Anyone could be the enemy! \n\nCommunication \nProximity voice, radio channels, text chat, and emotes keep every interaction charged with suspicion. \n\nMultiple Modes \nChoose between streamlined Cabin Fever, unforgiving Classic, or customize your own rules for the perfect dose of paranoia. \n\nCosmetics & Progression \nUnlock stylish looks and personalize your character with cosmetics available in our in-game store, progression trees, or in-game drops. \n\nCan you trust your friends long enough to survive? Or will you be the reason no one makes it out alive? ",
+  "bannerUrl": "http://api.nlib.cc/nx/01002AB012C0C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002AB012C0C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002AB012C0C000/screen/1",
+    "http://api.nlib.cc/nx/01002AB012C0C000/screen/2",
+    "http://api.nlib.cc/nx/01002AB012C0C000/screen/3",
+    "http://api.nlib.cc/nx/01002AB012C0C000/screen/4",
+    "http://api.nlib.cc/nx/01002AB012C0C000/screen/5",
+    "http://api.nlib.cc/nx/01002AB012C0C000/screen/6"
+  ]
+}

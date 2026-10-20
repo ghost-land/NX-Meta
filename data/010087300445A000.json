@@ -1,0 +1,16 @@
+{
+  "name": "Bombslinger",
+  "publisher": "Plug In Digital",
+  "releaseDate": "20180411",
+  "description": "Wear the poncho of the Bombslinger, a ruthless bandit turned peaceful rancher on a quest to avenge the murder of his missus and destruction of his ranch at the hands of his former posse.\n\nBomb your way through hordes of enemies and master the classic bomb-slinging gameplay in a solo adventure with procedurally generated levels, character progression with skill upgrades, and a variety of offensive and defensive items.\n\nAnd when you want a break from the solo adventure, take the fight to your friends in hectic 4-player deathmatch battles!",
+  "bannerUrl": "http://api.nlib.cc/nx/010087300445A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010087300445A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010087300445A000/screen/1",
+    "http://api.nlib.cc/nx/010087300445A000/screen/2",
+    "http://api.nlib.cc/nx/010087300445A000/screen/3",
+    "http://api.nlib.cc/nx/010087300445A000/screen/4",
+    "http://api.nlib.cc/nx/010087300445A000/screen/5",
+    "http://api.nlib.cc/nx/010087300445A000/screen/6"
+  ]
+}

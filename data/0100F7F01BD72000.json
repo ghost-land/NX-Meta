@@ -1,0 +1,16 @@
+{
+  "name": "On Rusty Trails",
+  "publisher": "Black Pants Studio",
+  "releaseDate": "20231116",
+  "description": "You, a robot named Elvis, are living in a world that’s ever suspicious of appearances - just like its hostile inhabitants.\nEquipped with your Shifty Suit, you’re able to change your looks in seconds and take advantage of the environment’s reaction. If you don’t adapt, platforms refuse to work, save points don’t save, and jump pads become deadly traps.\n\nDiscover rusty suburbs, perishing cities, massive factories and mysterious machines. Experience the escalating conflict between two peoples, while running up walls, jumping across chasms and flying through streams of lava. Expect to be dazzled by an ever-changing environment with fresh mechanics.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F7F01BD72000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F7F01BD72000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F7F01BD72000/screen/1",
+    "http://api.nlib.cc/nx/0100F7F01BD72000/screen/2",
+    "http://api.nlib.cc/nx/0100F7F01BD72000/screen/3",
+    "http://api.nlib.cc/nx/0100F7F01BD72000/screen/4",
+    "http://api.nlib.cc/nx/0100F7F01BD72000/screen/5",
+    "http://api.nlib.cc/nx/0100F7F01BD72000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Arcade Archives SENKYU",
+  "publisher": "HAMSTER",
+  "releaseDate": "20250321",
+  "description": "\"SENKYU\" is a puzzle game released by SEIBU KAIHATSU in 1995.\nThe game is played by connecting four or more balls of the same color and erasing them to create a chain of four or more balls of the same color, aiming for a high score.\nIn addition to the SKILL TESTER MODE where you can judge your own skill, you can also participate in the SENKYU tournament and aim for the victory in the NORMAL MODE, as well as engage in 2-player versus battles.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A3E02142E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A3E02142E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A3E02142E000/screen/1",
+    "http://api.nlib.cc/nx/0100A3E02142E000/screen/2",
+    "http://api.nlib.cc/nx/0100A3E02142E000/screen/3",
+    "http://api.nlib.cc/nx/0100A3E02142E000/screen/4",
+    "http://api.nlib.cc/nx/0100A3E02142E000/screen/5",
+    "http://api.nlib.cc/nx/0100A3E02142E000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "To Bee Jazz",
+  "publisher": "Afil Games",
+  "releaseDate": "20260618",
+  "description": "Get ready for an explosion of jazz, cuteness, and organized chaos in To Bee Jazz, an irresistibly addictive puzzle where every drop can create the next big star of the band. Merge tiny musician bees, discover new evolutions, and transform a crowded stage into a spectacular show full of rhythm and personality.\n\nInspired by the most satisfying merge puzzles, the game blends light physics, strategic planning, and the perfect feeling of watching chain reactions unfold. Every bee bounces, slides, and finds its place while you try to stop the stage from becoming completely overcrowded.\n\nCombine two identical bees to create increasingly sophisticated musicians and build a complete jazz band filled with instruments, style, and charm. But be careful: the more the board grows, the smarter your decisions need to be.\n\nIn Campaign Mode, missions and challenges test your creativity as you work to create specific bees for increasingly elaborate performances. In Endless Mode, the experience becomes even more strategic with special Power-Ups capable of shaking the stage, removing pieces, and reorganizing the chaos to keep the music alive for much longer.\n\nWith cozy visuals, a relaxing atmosphere, and a soundtrack full of personality, To Bee Jazz delivers the perfect combination of calm and strategy that makes you think “just one more run.”\n\nWatch the stage, plan every drop, and let the jazz take over the hive.",
+  "bannerUrl": "http://api.nlib.cc/nx/010031F0284AC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010031F0284AC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010031F0284AC000/screen/1",
+    "http://api.nlib.cc/nx/010031F0284AC000/screen/2",
+    "http://api.nlib.cc/nx/010031F0284AC000/screen/3",
+    "http://api.nlib.cc/nx/010031F0284AC000/screen/4"
+  ],
+  "version": 0,
+  "size": 67414135
+}

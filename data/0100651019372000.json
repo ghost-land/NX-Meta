@@ -1,0 +1,16 @@
+{
+  "name": "Mechapunk",
+  "publisher": "Weakfish Studio",
+  "releaseDate": "20220902",
+  "description": "Mechapunk is 2D Action Adventure Platformer Game,\n\nOur main character embarks on an adventure,\nbut what room! Robots have taken over the world!\nEmbark on a grand adventure in this mechanized world!\nBut fear not, our character is a professional at this!\n\n\nFeatures;\nChallenging level design, seriously hard.\nCool parkour dynamics,\nSoft and Fast fighting system,\nA Fast and Polished game.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100651019372000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100651019372000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100651019372000/screen/1",
+    "http://api.nlib.cc/nx/0100651019372000/screen/2",
+    "http://api.nlib.cc/nx/0100651019372000/screen/3",
+    "http://api.nlib.cc/nx/0100651019372000/screen/4",
+    "http://api.nlib.cc/nx/0100651019372000/screen/5",
+    "http://api.nlib.cc/nx/0100651019372000/screen/6"
+  ]
+}

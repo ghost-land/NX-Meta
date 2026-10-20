@@ -1,0 +1,16 @@
+{
+  "name": "Boomerang King",
+  "publisher": "Entity3",
+  "releaseDate": "20220211",
+  "description": "Sling your boomerang and smash the fruits!\n\nAvoid Bombs and Hungry plants\n\nFun, fast and addictive, put your skills to the test!",
+  "bannerUrl": "http://api.nlib.cc/nx/01000AB017880000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000AB017880000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000AB017880000/screen/1",
+    "http://api.nlib.cc/nx/01000AB017880000/screen/2",
+    "http://api.nlib.cc/nx/01000AB017880000/screen/3",
+    "http://api.nlib.cc/nx/01000AB017880000/screen/4",
+    "http://api.nlib.cc/nx/01000AB017880000/screen/5",
+    "http://api.nlib.cc/nx/01000AB017880000/screen/6"
+  ]
+}

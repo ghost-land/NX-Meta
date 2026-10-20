@@ -1,0 +1,16 @@
+{
+  "name": "DC Universe™ Online",
+  "publisher": "Daybreak Game Company",
+  "releaseDate": "20190806",
+  "description": "DC Universe™ Online is now on Nintendo Switch™! Join thousands of other players in this free-to-play, massively multiplayer online action game set in the popular DC universe. \n•\tChannel your inner hero or villain by creating a unique, customizable character with a variety of superpowers \n•\tExperience thrilling, fast-paced battles alongside and against DC characters including Batman, Wonder Woman, Superman, The Joker, and more\n•\tExplore immersive, story-driven adventures in Gotham City, Metropolis, Titans Island, Themyscira, Atlantis and many other famous DC locations",
+  "bannerUrl": "http://api.nlib.cc/nx/01005B000D786000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005B000D786000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005B000D786000/screen/1",
+    "http://api.nlib.cc/nx/01005B000D786000/screen/2",
+    "http://api.nlib.cc/nx/01005B000D786000/screen/3",
+    "http://api.nlib.cc/nx/01005B000D786000/screen/4",
+    "http://api.nlib.cc/nx/01005B000D786000/screen/5",
+    "http://api.nlib.cc/nx/01005B000D786000/screen/6"
+  ]
+}

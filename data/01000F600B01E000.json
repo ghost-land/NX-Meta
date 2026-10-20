@@ -1,0 +1,15 @@
+{
+  "name": "ATV Drift & Tricks",
+  "publisher": "Microids",
+  "releaseDate": "20181122",
+  "description": "Tired of 2-wheeled vehicles? ATV Drift & Tricks is the ATV game for you! A quads-only racing game:\n\nDo a series of races in game modes with extraordinary challenges on varied tracks you can do over and over again: \nDeserts, Forests, Mountains, Lakes, Rivers, Oases … Settings that that will fill your eyes! No doubt, you'll really see it all!\n\nCrazy stunts & drifts to the max: \nJump high into the air each time you do a stunt that will drive your opponents crazy! Come back down to the ground and rack up the drifts. Your tires will pay the price, and so will your opponents!",
+  "bannerUrl": "http://api.nlib.cc/nx/01000F600B01E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000F600B01E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000F600B01E000/screen/1",
+    "http://api.nlib.cc/nx/01000F600B01E000/screen/2",
+    "http://api.nlib.cc/nx/01000F600B01E000/screen/3",
+    "http://api.nlib.cc/nx/01000F600B01E000/screen/4",
+    "http://api.nlib.cc/nx/01000F600B01E000/screen/5"
+  ]
+}

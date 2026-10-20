@@ -1,0 +1,16 @@
+{
+  "name": "The Binding of Isaac: Afterbirth+",
+  "publisher": "Nicalis",
+  "releaseDate": "20170907",
+  "description": "Isaac has discovered a labyrinth beneath his own house, filled with monsters, power-ups and unimaginable treasure. Can he survive the physical challenges and psychological trials of a world he never made?\n\nThe Binding of Isaac: Afterbirth+ is a dungeon-crawling shoot-'em-up that’s literally a different game each and every time you play it! The randomly generated maps are built with over 11,000 unique room configurations, each populated with a nearly endless variety of enemies, items, challenges and secrets!\n\nThe Binding of Isaac: Afterbirth+ includes:\n\n-Over 600 different items to collect\n-13 unique playable characters\n-More than 180 individual enemy types\n-90+ terrifying, deadly bosses\n-Multiple difficulty settings and game modes\n-Bestiary to record enemy encounters\n-20 professionally animated cartoon endings\n-AND MANY MORE SECRETS!",
+  "bannerUrl": "http://api.nlib.cc/nx/01005B9002312000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005B9002312000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005B9002312000/screen/1",
+    "http://api.nlib.cc/nx/01005B9002312000/screen/2",
+    "http://api.nlib.cc/nx/01005B9002312000/screen/3",
+    "http://api.nlib.cc/nx/01005B9002312000/screen/4",
+    "http://api.nlib.cc/nx/01005B9002312000/screen/5",
+    "http://api.nlib.cc/nx/01005B9002312000/screen/6"
+  ]
+}

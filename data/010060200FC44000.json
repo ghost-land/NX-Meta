@@ -1,0 +1,15 @@
+{
+  "name": "Family Feud®",
+  "publisher": "Ubisoft",
+  "releaseDate": "20201112",
+  "description": "Experience the exciting classic gameplay of one of America’s hottest gameshows at home now!\n\nCustomize your character, then challenge your friends, family, and even other players online for a chance to bring the big prize home.\n\nFeaturing four exciting game modes: \n\n- Classic mode features the authentic Family Feud® experience. Choose a difficulty and take on an AI team just as determined as you are!\n- Party Battle lets you get into teams with your family and friends as you battle each other in local multiplayer. \n- Couch vs. Couch brings the experience online! Play against others across the world. \n- The Live Show feature allows you to broadcast your game and play with your viewers!",
+  "bannerUrl": "http://api.nlib.cc/nx/010060200FC44000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010060200FC44000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010060200FC44000/screen/1",
+    "http://api.nlib.cc/nx/010060200FC44000/screen/2",
+    "http://api.nlib.cc/nx/010060200FC44000/screen/3",
+    "http://api.nlib.cc/nx/010060200FC44000/screen/4",
+    "http://api.nlib.cc/nx/010060200FC44000/screen/5"
+  ]
+}

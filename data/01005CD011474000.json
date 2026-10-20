@@ -1,0 +1,16 @@
+{
+  "name": "Bug Academy",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20200323",
+  "description": "The Bug Academy consists of a series of lessons in which we overcome challenges based on logic and the physics system.They have to face various tasks - including delivering parcels, repairing damaged installations, building bridges, extinguishing fires, as well as playing musical instruments, painting, dancing, and even flying into space; all within the bounds of a physics system which, of course, leads to many funny situations. ",
+  "bannerUrl": "http://api.nlib.cc/nx/01005CD011474000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005CD011474000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005CD011474000/screen/1",
+    "http://api.nlib.cc/nx/01005CD011474000/screen/2",
+    "http://api.nlib.cc/nx/01005CD011474000/screen/3",
+    "http://api.nlib.cc/nx/01005CD011474000/screen/4",
+    "http://api.nlib.cc/nx/01005CD011474000/screen/5",
+    "http://api.nlib.cc/nx/01005CD011474000/screen/6"
+  ]
+}

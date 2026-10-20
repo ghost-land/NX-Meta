@@ -1,0 +1,16 @@
+{
+  "name": "STEAMBOAT RESCUE",
+  "publisher": "MBA INTERNATIONAL",
+  "releaseDate": "20241124",
+  "description": "“Steamboat Rescue” is an action game where players take on the role of a steamboat captain, rescuing drowning animals while competing for high scores.\nYou can control the steamboat by turning the Joy-Con™ like a steering wheel, or by rotating the stick—choose the control method that suits you best.\nHitting floating logs or rocks in the river counts as a mistake.\n\nYou can choose from three difficulty levels:\n\n\t•\tEASY: You can make up to 5 mistakes. Steering is easier.\n\t•\tNORMAL: You can make up to 3 mistakes. Steering is a bit harder.\n\t•\tHARD: Game over after 1 mistake. Steering is very difficult, requiring lots of turns.\n\nAim for a high score on each difficulty level!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B7601FBCA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B7601FBCA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B7601FBCA000/screen/1",
+    "http://api.nlib.cc/nx/0100B7601FBCA000/screen/2",
+    "http://api.nlib.cc/nx/0100B7601FBCA000/screen/3",
+    "http://api.nlib.cc/nx/0100B7601FBCA000/screen/4",
+    "http://api.nlib.cc/nx/0100B7601FBCA000/screen/5",
+    "http://api.nlib.cc/nx/0100B7601FBCA000/screen/6"
+  ]
+}

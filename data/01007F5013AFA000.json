@@ -1,0 +1,16 @@
+{
+  "name": "TRIOS - lofi beats / numbers to chill to",
+  "publisher": "Samurai Punk",
+  "releaseDate": "20210930",
+  "description": "TRIOS is a game about numbers and the fun you can have with them. Deceptively simple, surprisingly challenging.\n\nSelect two numbers and one operator, then watch them combine to create a new number. Use all your numbers to reach the target.\n\nFeatures:\n- Journey mode: A series of puzzles with escalating difficulty\n- Infinite mode: Randomly generated puzzles that adapt difficulty to your pace\n- A selection of chill tunes and beautiful backgrounds to guide you into flow",
+  "bannerUrl": "http://api.nlib.cc/nx/01007F5013AFA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007F5013AFA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007F5013AFA000/screen/1",
+    "http://api.nlib.cc/nx/01007F5013AFA000/screen/2",
+    "http://api.nlib.cc/nx/01007F5013AFA000/screen/3",
+    "http://api.nlib.cc/nx/01007F5013AFA000/screen/4",
+    "http://api.nlib.cc/nx/01007F5013AFA000/screen/5",
+    "http://api.nlib.cc/nx/01007F5013AFA000/screen/6"
+  ]
+}

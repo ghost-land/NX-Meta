@@ -1,0 +1,16 @@
+{
+  "name": "Disco Cannon Airlines",
+  "publisher": "RandomSpin Games",
+  "releaseDate": "20220324",
+  "description": "- Shoot a character from cannon in the sky.\n- Move a player and hit items to earn point and boost player higher in the sky.\n- Get the points from kicking airplanes, cows, and trampolines.\nTry to reach as much points as possible.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D40017E92000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D40017E92000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D40017E92000/screen/1",
+    "http://api.nlib.cc/nx/0100D40017E92000/screen/2",
+    "http://api.nlib.cc/nx/0100D40017E92000/screen/3",
+    "http://api.nlib.cc/nx/0100D40017E92000/screen/4",
+    "http://api.nlib.cc/nx/0100D40017E92000/screen/5",
+    "http://api.nlib.cc/nx/0100D40017E92000/screen/6"
+  ]
+}

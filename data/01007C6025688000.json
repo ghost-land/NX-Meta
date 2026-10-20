@@ -1,0 +1,16 @@
+{
+  "name": "Rayman: 30th Anniversary Edition",
+  "publisher": "Ubisoft",
+  "releaseDate": "20260213",
+  "description": "THE ADVENTURE THAT STARTED IT ALL\nPerform Rayman’s signature punch and helicopter hair glide through colorful worlds, from the Dream Forest and its unforgettable mosquito ride to Band Land’s musical chaos. Rescue the Electoons and save the world from Mr. Dark in a classic platforming adventure with a unique art style that remains as magical today as it was in the '90s.\n\nTHE DEFINITIVE  EDITION\nPlay the classic adventure across 5 versions (MS-DOS, PlayStation®, Atari Jaguar, Game Boy™ Color, and Game Boy™ Advance) now enhanced with an immersive, reimagined soundtrack, plus more than 120 additional levels from Rayman’s New Levels, Rayman 60 Levels, and Rayman By His Fans. And for the first time ever, experience the long-lost SNES prototype, offering a rare glimpse into how Rayman’s innovative gameplay first took shape.\n\nEXCLUSIVE DOCUMENTARY\nUncover the untold story behind Rayman’s creation in an interactive documentary featuring over 50 minutes of brand-new interviews with the original developers. Dive into rare concept art, early sketches, and design documents that offer exclusive insights into the making of the limbless hero.\n\nA CLASSIC FOR EVERYONE\nRediscover the cult-classic gameplay or take on the challenge with new features designed to keep you in the action, including a rewind, multiple save slots, and accessibility options like infinite lives and instant level unlocks.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007C6025688000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007C6025688000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007C6025688000/screen/1",
+    "http://api.nlib.cc/nx/01007C6025688000/screen/2",
+    "http://api.nlib.cc/nx/01007C6025688000/screen/3",
+    "http://api.nlib.cc/nx/01007C6025688000/screen/4",
+    "http://api.nlib.cc/nx/01007C6025688000/screen/5",
+    "http://api.nlib.cc/nx/01007C6025688000/screen/6"
+  ]
+}

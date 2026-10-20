@@ -1,0 +1,15 @@
+{
+  "name": "Airport Link: Connect Near Me",
+  "publisher": "Red Fables",
+  "releaseDate": "20240307",
+  "description": "Airport Link: Connect Near Me is a game in which you will manage the airlines of a territory. Draw different routes between airports and put all planes in flight, but be careful! All passengers have to reach their destination.\n\nMake your routes efficient and modify them as new airports appear randomly.\n\nDecide how to use your limited resources: How long can you keep the system running at full capacity? \n\nChallenge yourself every day by improving your skills as a flight controller!",
+  "bannerUrl": "http://api.nlib.cc/nx/010028C01E602000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010028C01E602000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010028C01E602000/screen/1",
+    "http://api.nlib.cc/nx/010028C01E602000/screen/2",
+    "http://api.nlib.cc/nx/010028C01E602000/screen/3",
+    "http://api.nlib.cc/nx/010028C01E602000/screen/4",
+    "http://api.nlib.cc/nx/010028C01E602000/screen/5"
+  ]
+}

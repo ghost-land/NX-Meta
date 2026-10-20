@@ -1,0 +1,16 @@
+{
+  "name": "Gun Skaters",
+  "publisher": "RAMI BUKHARI",
+  "releaseDate": "20210318",
+  "description": "Featuring easy controls and addictive skating mechanic, this game is designed to be enjoyed by 1-4 player(s) online or locally. You can play versus each other, work together to kill zombies, or even play a football game.\n\nGameplay modes come in three different flavors:\n- Last Man Skating: Players battle versus each other. The player who survives 3 rounds first wins\n- Football (2 players Vs 2 players): Players are divided into two teams and the team that scores 5 goals first wins\n- Zombie Attack (CO-OP): Players work together to beat waves of zombies\n\nFeatures:\n- Addictive and fun skating mechanic!\n- Play offline with up to 4 players or play online with your friends\n- Rounds are short and quick to complete. Play the game anytime\n- Replay value: level up and unlock new characters\n- Amazing 16-bit retro nostalgic music that will be stuck in you head for hours\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010055601349E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010055601349E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010055601349E000/screen/1",
+    "http://api.nlib.cc/nx/010055601349E000/screen/2",
+    "http://api.nlib.cc/nx/010055601349E000/screen/3",
+    "http://api.nlib.cc/nx/010055601349E000/screen/4",
+    "http://api.nlib.cc/nx/010055601349E000/screen/5",
+    "http://api.nlib.cc/nx/010055601349E000/screen/6"
+  ]
+}

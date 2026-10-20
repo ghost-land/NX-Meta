@@ -1,0 +1,16 @@
+{
+  "name": "Farm for your Life",
+  "publisher": "Secret Item Games",
+  "releaseDate": "20210624",
+  "description": "Your community was taken down by a heavy storm which caused an apocalypse and unleashed the living dead. Together with the other survivors, it is your task to rebuild and to allow that sustainable life can still be assured. Cultivate your farm and manage your restaurant to provide food and deal with all the zombies.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B87013EBE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B87013EBE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B87013EBE000/screen/1",
+    "http://api.nlib.cc/nx/0100B87013EBE000/screen/2",
+    "http://api.nlib.cc/nx/0100B87013EBE000/screen/3",
+    "http://api.nlib.cc/nx/0100B87013EBE000/screen/4",
+    "http://api.nlib.cc/nx/0100B87013EBE000/screen/5",
+    "http://api.nlib.cc/nx/0100B87013EBE000/screen/6"
+  ]
+}

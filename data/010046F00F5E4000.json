@@ -1,0 +1,16 @@
+{
+  "name": "WinKings",
+  "publisher": "Lemondo Games",
+  "releaseDate": "20200618",
+  "description": "WinKings is a 1-4 player 2D platformer game which throws you in fantasy Vikings era. Different and unique worlds, characters, enemies and weapons makes gameplay even engaging.\n\n• 4 Epic Viking character\n\n• Up to 10 different weapons\nPistols, Rifle, Shotgun, Machine gun, Rocket launcher, Grenade, Flamethrower, Axe, Katana, Longsword, Sword\n\n• 6 different worlds with 120+ co-op and versus levels\n\n• Campaign mode\nSingle player\n1-4 co-op multiplayer\nEasy, Normal, Hard and Viking game difficulties\nEpic boss fights\n\n• Versus mode\n2-4 versus multiplayer\nDeath match, Headhunter and Flag Capture game modes\nCustomizable games speed and weapon modes",
+  "bannerUrl": "http://api.nlib.cc/nx/010046F00F5E4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010046F00F5E4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010046F00F5E4000/screen/1",
+    "http://api.nlib.cc/nx/010046F00F5E4000/screen/2",
+    "http://api.nlib.cc/nx/010046F00F5E4000/screen/3",
+    "http://api.nlib.cc/nx/010046F00F5E4000/screen/4",
+    "http://api.nlib.cc/nx/010046F00F5E4000/screen/5",
+    "http://api.nlib.cc/nx/010046F00F5E4000/screen/6"
+  ]
+}

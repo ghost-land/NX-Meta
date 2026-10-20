@@ -1,0 +1,16 @@
+{
+  "name": "Dogfight",
+  "publisher": "Sabec",
+  "releaseDate": "20210114",
+  "description": "Take to the skies in a F18 - F22 - F35 fighter jets completing missions, dodging flak  and engaging in deadly dogfights with enemy pilots. Battle enemy fighters in mid-air dogfights using a machine gun or two different types of missiles. \n\nEquipped for machine-gun and two type of missiles winning won't come easy!\n\nDogfight is an easy to play yet realistic airplane fight simulator where the goal is to destroy the enemies in a limited time. \n\nDogfight above stunning realistic desert or mountain enviroments in three different levels of play, (easy, medium or hard). ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E80013BB0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E80013BB0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E80013BB0000/screen/1",
+    "http://api.nlib.cc/nx/0100E80013BB0000/screen/2",
+    "http://api.nlib.cc/nx/0100E80013BB0000/screen/3",
+    "http://api.nlib.cc/nx/0100E80013BB0000/screen/4",
+    "http://api.nlib.cc/nx/0100E80013BB0000/screen/5",
+    "http://api.nlib.cc/nx/0100E80013BB0000/screen/6"
+  ]
+}

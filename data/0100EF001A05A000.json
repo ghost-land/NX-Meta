@@ -1,0 +1,16 @@
+{
+  "name": "Boxer",
+  "publisher": "Sabec",
+  "releaseDate": "20221226",
+  "description": "Boxer is an easy to play arcade, pick up and play first person, fast action boxing game.\n\nFight three hard-hitting rounds against one of the seven (Ai) artificial intelligent rival boxers without getting knocked out.\n\nImprove your boxing skills in the training gym equipped with a dummy and a punch bag.\n\nBeat the the rival boxers and become the ultimate Boxing legend!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EF001A05A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EF001A05A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EF001A05A000/screen/1",
+    "http://api.nlib.cc/nx/0100EF001A05A000/screen/2",
+    "http://api.nlib.cc/nx/0100EF001A05A000/screen/3",
+    "http://api.nlib.cc/nx/0100EF001A05A000/screen/4",
+    "http://api.nlib.cc/nx/0100EF001A05A000/screen/5",
+    "http://api.nlib.cc/nx/0100EF001A05A000/screen/6"
+  ]
+}

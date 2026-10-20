@@ -1,0 +1,16 @@
+{
+  "name": "Fantasy Sword",
+  "publisher": "HUNTERS",
+  "releaseDate": "20241128",
+  "description": "Fantasy Sword is a 2D action RPG.\nDefeat monsters, raise your level and strengthen your status.\nIn dungeons with various gimmicks, you can obtain new techniques and magic.\nVisit various towns, defeat monsters, and restore peace to the world.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B5F01FEAC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B5F01FEAC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B5F01FEAC000/screen/1",
+    "http://api.nlib.cc/nx/0100B5F01FEAC000/screen/2",
+    "http://api.nlib.cc/nx/0100B5F01FEAC000/screen/3",
+    "http://api.nlib.cc/nx/0100B5F01FEAC000/screen/4",
+    "http://api.nlib.cc/nx/0100B5F01FEAC000/screen/5",
+    "http://api.nlib.cc/nx/0100B5F01FEAC000/screen/6"
+  ]
+}

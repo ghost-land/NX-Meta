@@ -1,0 +1,16 @@
+{
+  "name": "Farm Builder",
+  "publisher": "LAN - GAMES EOOD",
+  "releaseDate": "20201001",
+  "description": "Farm Builder is strategy puzzle board game in which you have to construct farms, roads and surround windmills and water-towers in order to score points. \nThe game is online multiplayer and in each room can play between 2 and 5 people together.\nThe winner is the player who manages to score the most points.\n\nTo make points you have to own a completed farm, road, windmill or water tower. \nThis is done by placing farmers and tractors (pieces) which indicate that you own the property. \n\nThe game has three different game play types:\n1) Online multiplayer - you play versus real people from all around the world.\n2) Play VS Robots - you can play versus computer robots offline.\n3) Pass the device mode - you can play versus friends on the same device without having need of internet\n\n\nGood luck!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BC50122B6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BC50122B6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BC50122B6000/screen/1",
+    "http://api.nlib.cc/nx/0100BC50122B6000/screen/2",
+    "http://api.nlib.cc/nx/0100BC50122B6000/screen/3",
+    "http://api.nlib.cc/nx/0100BC50122B6000/screen/4",
+    "http://api.nlib.cc/nx/0100BC50122B6000/screen/5",
+    "http://api.nlib.cc/nx/0100BC50122B6000/screen/6"
+  ]
+}

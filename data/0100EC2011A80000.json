@@ -1,0 +1,16 @@
+{
+  "name": "Luxar",
+  "publisher": "KOALABS",
+  "releaseDate": "20200521",
+  "description": "In LUXAR, you control an alien luminescent organic entity that has just been born and must pass its first survival trials to show its adult peers that it deserves to grow among them. It will have to cross 16 dark and hostile sectors with labyrinth-shaped alien architectures populated by toxic substances, obstacles, patrol drones and mechanisms of all kinds.\n\nYou are its only chance to make it happen...",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EC2011A80000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EC2011A80000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EC2011A80000/screen/1",
+    "http://api.nlib.cc/nx/0100EC2011A80000/screen/2",
+    "http://api.nlib.cc/nx/0100EC2011A80000/screen/3",
+    "http://api.nlib.cc/nx/0100EC2011A80000/screen/4",
+    "http://api.nlib.cc/nx/0100EC2011A80000/screen/5",
+    "http://api.nlib.cc/nx/0100EC2011A80000/screen/6"
+  ]
+}

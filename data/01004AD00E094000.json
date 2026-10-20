@@ -1,0 +1,15 @@
+{
+  "name": "The House of Da Vinci",
+  "publisher": "Blue Brain Games",
+  "releaseDate": "20190726",
+  "description": "Enter The House of Da Vinci, a new must-try 3D puzzle adventure game. Solve mechanical puzzles, discover hidden objects, escape from rooms and dive into the authentic atmosphere of the Renaissance. Use all your wits to find out what's behind your master's disappearance.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004AD00E094000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004AD00E094000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004AD00E094000/screen/1",
+    "http://api.nlib.cc/nx/01004AD00E094000/screen/2",
+    "http://api.nlib.cc/nx/01004AD00E094000/screen/3",
+    "http://api.nlib.cc/nx/01004AD00E094000/screen/4",
+    "http://api.nlib.cc/nx/01004AD00E094000/screen/5"
+  ]
+}

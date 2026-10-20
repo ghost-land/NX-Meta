@@ -1,0 +1,16 @@
+{
+  "name": "99Seconds",
+  "publisher": "SuperPowerUpGames",
+  "releaseDate": "20190104",
+  "description": "99Seconds, a fun, retro-style video game, where you can modify time to avoid all kinds of dangers.\n\nAfter finishing off Black Eye, V-99 entered a mysterious zone called Bit 8, without knowing why V-99 could modify time!. But everything became complicated with the appearance of the BLACK VECTORS: mysterious beings that aim to destroy any intruder who reaches Bit 8.\n\n- Online Ranking!\n- Control V-99, dodging, using SLOW DOWN to slow !\n- Arcade mobility like in the classic arcade games!\n- 60 Images per second in 1080p!\n- 4 Players in Arcade and Survival mode!\n- Retro-style levels!\n- Incredible enemy patterns!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BA800CA6A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BA800CA6A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BA800CA6A000/screen/1",
+    "http://api.nlib.cc/nx/0100BA800CA6A000/screen/2",
+    "http://api.nlib.cc/nx/0100BA800CA6A000/screen/3",
+    "http://api.nlib.cc/nx/0100BA800CA6A000/screen/4",
+    "http://api.nlib.cc/nx/0100BA800CA6A000/screen/5",
+    "http://api.nlib.cc/nx/0100BA800CA6A000/screen/6"
+  ]
+}

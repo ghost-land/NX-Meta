@@ -1,0 +1,16 @@
+{
+  "name": "Climbros",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20200529",
+  "description": "Climbros is an arcade game with an amazing gameplay. You can explore beautiful and diverse worlds by yourself or together in co-op mode. Climb, discover, cooperate and have fun. Test your skills in various conditions. Snowy rocks, enormous trees or drifting asteroids are just few of many challanges waiting for you. On your way you’ll find tons of unique locations and characters.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003FF011856000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003FF011856000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003FF011856000/screen/1",
+    "http://api.nlib.cc/nx/01003FF011856000/screen/2",
+    "http://api.nlib.cc/nx/01003FF011856000/screen/3",
+    "http://api.nlib.cc/nx/01003FF011856000/screen/4",
+    "http://api.nlib.cc/nx/01003FF011856000/screen/5",
+    "http://api.nlib.cc/nx/01003FF011856000/screen/6"
+  ]
+}

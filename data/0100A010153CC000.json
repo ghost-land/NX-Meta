@@ -1,0 +1,14 @@
+{
+  "name": "Puzzle Pipes",
+  "publisher": "Digital Game Group",
+  "releaseDate": "20210618",
+  "description": "Help Plumber Gina fixing leaks by matching the pipe ends to form a water line to the valves. \n\nWait too long and you will flood the house! Different themes to choose from with 3 sets of difficulty.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A010153CC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A010153CC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A010153CC000/screen/1",
+    "http://api.nlib.cc/nx/0100A010153CC000/screen/2",
+    "http://api.nlib.cc/nx/0100A010153CC000/screen/3",
+    "http://api.nlib.cc/nx/0100A010153CC000/screen/4"
+  ]
+}

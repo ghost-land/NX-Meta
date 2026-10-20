@@ -1,0 +1,16 @@
+{
+  "name": "Silent Paws",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20230703",
+  "description": "Play as a fox exploring a mystical world filled with wonder and magic. Step into the shoes of a curious fox and journey through enchanted forests, hidden caves, and ancient ruins to uncover the secrets of this magical land.\nAs you explore the world of Silent Paws, you'll encounter a variety of obstacles. You must navigate through the lush environment, using your cunning and agility to progress, you'll uncover the rich history and lore of the world, revealing the story of the world.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CA401BEA2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CA401BEA2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CA401BEA2000/screen/1",
+    "http://api.nlib.cc/nx/0100CA401BEA2000/screen/2",
+    "http://api.nlib.cc/nx/0100CA401BEA2000/screen/3",
+    "http://api.nlib.cc/nx/0100CA401BEA2000/screen/4",
+    "http://api.nlib.cc/nx/0100CA401BEA2000/screen/5",
+    "http://api.nlib.cc/nx/0100CA401BEA2000/screen/6"
+  ]
+}

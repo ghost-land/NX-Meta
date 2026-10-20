@@ -1,0 +1,17 @@
+{
+  "name": "Dunkadillo",
+  "publisher": "Thomas K Young",
+  "releaseDate": "20250909",
+  "description": "You are Dill the armadillo, and your best friend Pickle has just been kidnapped by a mysterious tentacle! Transform into a basketball to bounce off walls, floors, and ceilings as you rush to the rescue. Double jump over exploding bees, oblivious porcupines, and overly friendly frogs. Snag rare trading cards to unlock funky characters as you traverse 50 awesome stages. Do you have what it takes to save your best buddy... and maybe shoot a few hoops along the way?\n\n• A new platforming adventure from the creator of Dadish and Be Brave, Barb\n• 50 awesome stages\n• 10 characters to unlock\n• Lots of cool trading cards to find\n• Five big bad boys to battle\n• Controller support\n• A huge rabbit\n• A soundtrack that slaps\n• The graphics are rad\n• So much bouncing\n• I think you are special",
+  "bannerUrl": "http://api.nlib.cc/nx/010020F025048000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010020F025048000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010020F025048000/screen/1",
+    "http://api.nlib.cc/nx/010020F025048000/screen/2",
+    "http://api.nlib.cc/nx/010020F025048000/screen/3",
+    "http://api.nlib.cc/nx/010020F025048000/screen/4",
+    "http://api.nlib.cc/nx/010020F025048000/screen/5"
+  ],
+  "version": 0,
+  "size": 121105100
+}

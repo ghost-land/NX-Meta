@@ -1,0 +1,14 @@
+{
+  "name": "Bounce House",
+  "publisher": "Entity3",
+  "releaseDate": "20230826",
+  "description": "Bounce your way to victory on some giant inflatables.\nCompete to knock off the others by slaming down.\nScore the most points to win.\nOnly the top three progress to the next stage.\nCan you be the best at bouncing",
+  "bannerUrl": "http://api.nlib.cc/nx/010066601C8D8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010066601C8D8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010066601C8D8000/screen/1",
+    "http://api.nlib.cc/nx/010066601C8D8000/screen/2",
+    "http://api.nlib.cc/nx/010066601C8D8000/screen/3",
+    "http://api.nlib.cc/nx/010066601C8D8000/screen/4"
+  ]
+}

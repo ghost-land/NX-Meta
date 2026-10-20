@@ -1,0 +1,13 @@
+{
+  "name": "Space Wars",
+  "publisher": "Pix Arts",
+  "releaseDate": "20210825",
+  "description": "Space Wars is an exciting endless level-base game in which you control spaceship through multiples levels, trying to shoot down the enemies and avoiding their attacks.\n\nThe goal is shoot down all the enemies in each level, collect coins to unlock new spaceships, upgrade spaceships for better power and collect power ups disseminated around maps.",
+  "bannerUrl": "http://api.nlib.cc/nx/010014F015DF2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010014F015DF2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010014F015DF2000/screen/1",
+    "http://api.nlib.cc/nx/010014F015DF2000/screen/2",
+    "http://api.nlib.cc/nx/010014F015DF2000/screen/3"
+  ]
+}

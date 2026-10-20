@@ -1,0 +1,16 @@
+{
+  "name": "Village Climb Obby",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20251113",
+  "description": "Get ready for a thrilling parkour adventure! In Village Climb Obby, the once-peaceful village is now completely flooded — and it’s up to you to climb, jump, and race your way through tricky obstacles to escape!\n\nFlooded village challenge – Navigate rooftops, floating debris, and all sorts of platforms.\nFun & fast-paced parkour – Test your skills with jumps, climbs, and daring moves.\nReach the top – Can you conquer the course and make it safely to the end?\n\nOnly the best climbers will reach the finish!",
+  "bannerUrl": "http://api.nlib.cc/nx/010015B025D50000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010015B025D50000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010015B025D50000/screen/1",
+    "http://api.nlib.cc/nx/010015B025D50000/screen/2",
+    "http://api.nlib.cc/nx/010015B025D50000/screen/3",
+    "http://api.nlib.cc/nx/010015B025D50000/screen/4",
+    "http://api.nlib.cc/nx/010015B025D50000/screen/5",
+    "http://api.nlib.cc/nx/010015B025D50000/screen/6"
+  ]
+}

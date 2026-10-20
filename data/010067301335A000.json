@@ -1,0 +1,16 @@
+{
+  "name": "GigaBash",
+  "publisher": "Passion Republic Games",
+  "releaseDate": "20230803",
+  "description": "GigaBash combines the chaos and creativity of arena brawlers with the jaw-dropping scale of classic kaiju movies and games. Play as either a rampaging Titan or a Titan-hunting mecha; summon lightning from the heavens, use a radio tower as a baton, or roll a whole district (and your enemies) into a single massive snowball. Wreak enough havoc and you'll evolve into your final form, the terrifyingly titanic S-Class.",
+  "bannerUrl": "http://api.nlib.cc/nx/010067301335A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010067301335A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010067301335A000/screen/1",
+    "http://api.nlib.cc/nx/010067301335A000/screen/2",
+    "http://api.nlib.cc/nx/010067301335A000/screen/3",
+    "http://api.nlib.cc/nx/010067301335A000/screen/4",
+    "http://api.nlib.cc/nx/010067301335A000/screen/5",
+    "http://api.nlib.cc/nx/010067301335A000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Leap Year",
+  "publisher": "Daniel Linssen",
+  "releaseDate": "20260205",
+  "description": "Explore a compact, hand drawn world filled with hidden paths. Understand the game’s secrets to reach new areas and collect all the pages of your calendar. \n\n • About 2 hours of playtime\n • 40+ rooms\n • 6 audio tracks\n • Dancing friends",
+  "bannerUrl": "http://api.nlib.cc/nx/01005DE024C34000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005DE024C34000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005DE024C34000/screen/1",
+    "http://api.nlib.cc/nx/01005DE024C34000/screen/2",
+    "http://api.nlib.cc/nx/01005DE024C34000/screen/3",
+    "http://api.nlib.cc/nx/01005DE024C34000/screen/4",
+    "http://api.nlib.cc/nx/01005DE024C34000/screen/5"
+  ]
+}

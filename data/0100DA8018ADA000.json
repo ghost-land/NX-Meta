@@ -1,0 +1,15 @@
+{
+  "name": "Zumba Blitz",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20220908",
+  "description": "Get better at marble shooting and try to complete all the levels with three stars in each level. This marble game is easy to play and addicting at the same time.\n\nTap to shoot. Match 3 or more same-coloured marbles to eliminate them. Destroy all marbles in the chain before it hits the end. Tap the frog to swap between the current and next marble. Use power-ups to clear the board faster.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DA8018ADA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DA8018ADA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DA8018ADA000/screen/1",
+    "http://api.nlib.cc/nx/0100DA8018ADA000/screen/2",
+    "http://api.nlib.cc/nx/0100DA8018ADA000/screen/3",
+    "http://api.nlib.cc/nx/0100DA8018ADA000/screen/4",
+    "http://api.nlib.cc/nx/0100DA8018ADA000/screen/5"
+  ]
+}

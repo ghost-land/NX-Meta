@@ -1,0 +1,16 @@
+{
+  "name": "Nicole",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20200731",
+  "description": "Nicole is a dating simulator that revolves around your day-to-day life as a college student.\nClasses, homework and mysterious abductions!\n\nYou can take up part-time jobs to earn money, explore various locations, do recreational and extra-curricular activities, and meet intriguing characters like Darren, Kurt, Jeff and Ted.\n\nYou might even get to date the culprit! \n\nFeatures:\n* Four different boys to date, with 10 different endings \n* Discover the true identity of the culprit. Careful, you could be dating him! \n* Classic dating simulator and life simulation gameplay\n* Visual novel mode with reading-only option",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A95012668000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A95012668000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A95012668000/screen/1",
+    "http://api.nlib.cc/nx/0100A95012668000/screen/2",
+    "http://api.nlib.cc/nx/0100A95012668000/screen/3",
+    "http://api.nlib.cc/nx/0100A95012668000/screen/4",
+    "http://api.nlib.cc/nx/0100A95012668000/screen/5",
+    "http://api.nlib.cc/nx/0100A95012668000/screen/6"
+  ]
+}

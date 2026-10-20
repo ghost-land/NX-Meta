@@ -1,0 +1,15 @@
+{
+  "name": "My Downtown",
+  "publisher": "Green Sauce Games",
+  "releaseDate": "20221124",
+  "description": "Play over 100 levels, collect coins, manage the city and build from houses to skyscraper to craft a beautiful and breathing city!\n\nFeatures:\n* More than 100 challenging Match-3 levels\n* Modular cells for full city customization.\n* Several categories of buildings to choose from.\n* Power ups!. \n* See your own city come alive!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100426018CD4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100426018CD4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100426018CD4000/screen/1",
+    "http://api.nlib.cc/nx/0100426018CD4000/screen/2",
+    "http://api.nlib.cc/nx/0100426018CD4000/screen/3",
+    "http://api.nlib.cc/nx/0100426018CD4000/screen/4",
+    "http://api.nlib.cc/nx/0100426018CD4000/screen/5"
+  ]
+}

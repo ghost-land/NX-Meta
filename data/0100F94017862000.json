@@ -1,0 +1,13 @@
+{
+  "name": "Wordbreaker by POWGI",
+  "publisher": "Lightwood Games",
+  "releaseDate": "20220317",
+  "description": "Wordbreaker is a code-breaking game using letters. Each word’ll tell you which letters are used, and which are in the correct place.\n\nYour reward for solving each puzzle is a terrible joke!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F94017862000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F94017862000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F94017862000/screen/1",
+    "http://api.nlib.cc/nx/0100F94017862000/screen/2",
+    "http://api.nlib.cc/nx/0100F94017862000/screen/3"
+  ]
+}

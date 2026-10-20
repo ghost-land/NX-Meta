@@ -1,0 +1,16 @@
+{
+  "name": "Instant Sports",
+  "publisher": "Plug In Digital",
+  "releaseDate": "20190816",
+  "description": "- 6 sports : tennis, goal keeper, bowling, baseball, rafting and hurdle race.\n- 20 characters to customise (name, outfit, accessories, hair…)\n- Varied game modes, single player or multiplayer with up to 8 players.\n- 18 playable environments and tons of items to unlock!",
+  "bannerUrl": "http://api.nlib.cc/nx/010099700D750000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010099700D750000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010099700D750000/screen/1",
+    "http://api.nlib.cc/nx/010099700D750000/screen/2",
+    "http://api.nlib.cc/nx/010099700D750000/screen/3",
+    "http://api.nlib.cc/nx/010099700D750000/screen/4",
+    "http://api.nlib.cc/nx/010099700D750000/screen/5",
+    "http://api.nlib.cc/nx/010099700D750000/screen/6"
+  ]
+}

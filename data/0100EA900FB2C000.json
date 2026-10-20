@@ -1,0 +1,16 @@
+{
+  "name": "Hayfever",
+  "publisher": "Silver Lining",
+  "releaseDate": "20200225",
+  "description": "Help Thomas the Allergic Mailman gather all his lost letters in this challenging and unique 2D platformer! In Hayfever, the player takes control of Thomas – a young postman with a strong work ethic. There is just one tiny little issue… Thomas suffers from terrible (and we mean TERRIBLE) allergies.\n\nIt is up to the player to use Thomas’s allergies to help him traverse a dangerous world, turning his weaknesses into strengths! Different allergens have different effects on Thomas – radically changing how he interacts with the world. Regular pollen allows him to build up a big sneeze to propel himself through the air. Smog, on the other hand, makes him swell up like a balloon. Peanuts… Well, peanuts are a WHOLE other story.\n\nFeatures:\n•  Quirky retro-inspired graphics\n•  Demanding, sneeze-driven mechanics\n•  Four worlds, spanning all four seasons\n•   140 levels, with 240 letters to collect (legend has it that collecting enough letters unlocks extra, extremely challenging levels…)\n•  Allergy-fueled gameplay ranging from pollen and smog to nuts!\n•  An A.M.A.Z.I.N.G soundtrack\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EA900FB2C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EA900FB2C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EA900FB2C000/screen/1",
+    "http://api.nlib.cc/nx/0100EA900FB2C000/screen/2",
+    "http://api.nlib.cc/nx/0100EA900FB2C000/screen/3",
+    "http://api.nlib.cc/nx/0100EA900FB2C000/screen/4",
+    "http://api.nlib.cc/nx/0100EA900FB2C000/screen/5",
+    "http://api.nlib.cc/nx/0100EA900FB2C000/screen/6"
+  ]
+}

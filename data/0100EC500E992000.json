@@ -1,0 +1,16 @@
+{
+  "name": "Puzzle by Nikoli S Yajilin",
+  "publisher": "HAMSTER",
+  "releaseDate": "20230601",
+  "description": "Draw lines through the centers of cells to make a loop, and paint cells black in this original Nikoli puzzle. It's immensely satisfying to see how the lines and black cells all come together to form a solution, and figuring out how to draw the loop isn't as easy as it might seem.\n\nThe options menu, manual, and other text are available in Japanese, English, French, German, Italian, and Spanish.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EC500E992000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EC500E992000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EC500E992000/screen/1",
+    "http://api.nlib.cc/nx/0100EC500E992000/screen/2",
+    "http://api.nlib.cc/nx/0100EC500E992000/screen/3",
+    "http://api.nlib.cc/nx/0100EC500E992000/screen/4",
+    "http://api.nlib.cc/nx/0100EC500E992000/screen/5",
+    "http://api.nlib.cc/nx/0100EC500E992000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Touhou Genso Wanderer Reloaded",
+  "publisher": "NIS America",
+  "releaseDate": "20180717",
+  "description": "Set out on an all-new adventure with Reimu, Marisa, Sanae, and more of your favorite Touhou characters! The land of Gensokyo once again plunges into darkness as a new mystery unfolds. What mysteries await in the Tower of Desire?",
+  "bannerUrl": "http://api.nlib.cc/nx/01004E900B082000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004E900B082000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004E900B082000/screen/1",
+    "http://api.nlib.cc/nx/01004E900B082000/screen/2",
+    "http://api.nlib.cc/nx/01004E900B082000/screen/3",
+    "http://api.nlib.cc/nx/01004E900B082000/screen/4",
+    "http://api.nlib.cc/nx/01004E900B082000/screen/5",
+    "http://api.nlib.cc/nx/01004E900B082000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Let it roll slide puzzle",
+  "publisher": "Kistler Studios",
+  "releaseDate": "20210520",
+  "description": "Let it roll has a simple goal. Arrange the puzzles pieces by sliding them into the correct position to let the ball roll into the goal. Two game modes are included, the star mode where you need to collect all stars and the classic mode where you only need to reach the goal. Both of the game modes have 240 levels ready to be solved.\nLet the ball roll now !\n\nGame:\n- Two game modes : Classic and Star.\n- 240 levels for each mode",
+  "bannerUrl": "http://api.nlib.cc/nx/0100421014FBE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100421014FBE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100421014FBE000/screen/1",
+    "http://api.nlib.cc/nx/0100421014FBE000/screen/2",
+    "http://api.nlib.cc/nx/0100421014FBE000/screen/3",
+    "http://api.nlib.cc/nx/0100421014FBE000/screen/4",
+    "http://api.nlib.cc/nx/0100421014FBE000/screen/5"
+  ]
+}

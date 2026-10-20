@@ -1,0 +1,16 @@
+{
+  "name": "SEGA AGES Virtua Racing",
+  "publisher": "SEGA",
+  "releaseDate": "20190627",
+  "description": "Experience the herald of modern racing games, Virtua Racing! It's a race against time, but be careful, running into opponents and obstacles will slow you down. Can you beat the clock? \n\nNow featuring rankings and replays, online 2-player races, offline multiplayer races (up to 8-players at once on a single Switch), the crash-disabling helper mode, and motion controls.",
+  "bannerUrl": "http://api.nlib.cc/nx/010054400D2E6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010054400D2E6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010054400D2E6000/screen/1",
+    "http://api.nlib.cc/nx/010054400D2E6000/screen/2",
+    "http://api.nlib.cc/nx/010054400D2E6000/screen/3",
+    "http://api.nlib.cc/nx/010054400D2E6000/screen/4",
+    "http://api.nlib.cc/nx/010054400D2E6000/screen/5",
+    "http://api.nlib.cc/nx/010054400D2E6000/screen/6"
+  ]
+}

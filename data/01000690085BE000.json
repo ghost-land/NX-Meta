@@ -1,0 +1,16 @@
+{
+  "name": "Little Triangle",
+  "publisher": "CottonGame",
+  "releaseDate": "20180301",
+  "description": "Little Triangle is a side-scrolling action game. \nButton operations are simply walking and jumping. \nComplete the stages by defeating the unique enemy characters and bosses!\n\nStory Mode (1 player)\nPacked with a variety of over 30 stages\nEach stage contains hidden areas and caught citizens \nDiscover them all to complete the stages\n\nMultiPlayer Mode (2-4 players)\nContains \"Combat\" and \"Cooperation\"\nPlay the Combat mode to enjoy the different stages with friends!\nCooperation mode will be played by a single player but with the help to complete the story mode\nSingle player mode will contain distinctive bits created specially for this mode\n\nChallenge (1 player)\nChallenge the boss stages with a time score\nYou can receive new rules and skins once completed\n\nSupported Language\nIt also corresponds to Polish.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000690085BE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000690085BE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000690085BE000/screen/1",
+    "http://api.nlib.cc/nx/01000690085BE000/screen/2",
+    "http://api.nlib.cc/nx/01000690085BE000/screen/3",
+    "http://api.nlib.cc/nx/01000690085BE000/screen/4",
+    "http://api.nlib.cc/nx/01000690085BE000/screen/5",
+    "http://api.nlib.cc/nx/01000690085BE000/screen/6"
+  ]
+}

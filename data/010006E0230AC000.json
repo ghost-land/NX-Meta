@@ -1,0 +1,18 @@
+{
+  "name": "Tales of Eternia Remastered",
+  "publisher": "Bandai Namco Entertainment",
+  "releaseDate": "20261016",
+  "description": "Experience Tales of Eternia, remastered for the first time ever.\n\n• An Epic Journey with Two Worlds at Stake\nJourney to Eternia, a world split into two isolated realms, Inferia and Celestia.\nIn the remote Inferian village of Rasheans, Reid Hershel and his childhood friend Farah Oersted meet a mysterious girl named Meredy. During their journey to discover Meredy's origins, the group discovers that a collision called the \"Great Fall\" threatens both Inferia and Celesita.\nHarnessing the power of elemental spirits known as the Greater Craymels, Reid and his companions embark on an epic journey to save the two realms from catastrophe.\n\n• Exhilarating Battle Action with Speed and Freedom\nFeaturing the Aggressive Linear Motion Battle System (A-LMBS), which enables diverse Arte usage, continued combos, and coordination with each unique party member.\nExperience thrilling combat as you outmaneuver enemies and defeat them one after another with fast-paced, dynamic 2D battle action.\n\n• The Same Moving Experience, Now Easier to Play\nGameplay is better than ever with the quality-of-life features that have been added, including destination markers, the ability to disable enemy encounters, and high-speed mode during auto-battle.\nAdditionally, graphics and SFX can be toggled between modes, allowing you to experience the nostalgic atmosphere of the original game.",
+  "bannerUrl": "http://api.nlib.cc/nx/010006E0230AC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010006E0230AC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010006E0230AC000/screen/1",
+    "http://api.nlib.cc/nx/010006E0230AC000/screen/2",
+    "http://api.nlib.cc/nx/010006E0230AC000/screen/3",
+    "http://api.nlib.cc/nx/010006E0230AC000/screen/4",
+    "http://api.nlib.cc/nx/010006E0230AC000/screen/5",
+    "http://api.nlib.cc/nx/010006E0230AC000/screen/6"
+  ],
+  "version": 0,
+  "size": 4337137433
+}

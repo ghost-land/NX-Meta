@@ -1,0 +1,16 @@
+{
+  "name": "Ampersat",
+  "publisher": "CheckMate Publishing",
+  "releaseDate": "20220610",
+  "description": "Ampersat is a shooty, slashy, RPG-y game mixing old-school/retro and modern sensibilities. This is a handcrafted adventure with much appeal to fans of Roguelites. A labor of love from a solo developer, Ampersat distills some favorite childhood gaming experiences into a fresh, fun hybrid that sees you killing a lot of monsters, finding a lot of loot, freeing captured letters (um, what?) and growing from a world-weary warrior mage into a powerful smashing/blasting machine!\n\nMain Features: \n- More than 50 handcrafted levels, many with exploration and light puzzles\n- Optional endless procedural area\n- Original gameplay elements based around freeing and capturing letters\n- Flexible character progression with extensive skill tree\n- Hundreds of unique pieces of loot find, buy, sell and augment\n- Upgradeable town hub\n- Tackle stages in the order you choose\n- 50 unique creature types with individual AI, 10 fiendish bosses",
+  "bannerUrl": "http://api.nlib.cc/nx/01008D5013C9E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008D5013C9E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008D5013C9E000/screen/1",
+    "http://api.nlib.cc/nx/01008D5013C9E000/screen/2",
+    "http://api.nlib.cc/nx/01008D5013C9E000/screen/3",
+    "http://api.nlib.cc/nx/01008D5013C9E000/screen/4",
+    "http://api.nlib.cc/nx/01008D5013C9E000/screen/5",
+    "http://api.nlib.cc/nx/01008D5013C9E000/screen/6"
+  ]
+}

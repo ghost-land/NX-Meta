@@ -1,0 +1,18 @@
+{
+  "name": "Constance",
+  "publisher": "btf",
+  "releaseDate": "20260501",
+  "description": "Become Paint\nUtilize paint-based mechanics to experience a constant state of flow—dive into the ground and walls, slice through the air and enemies!\n\nWield Your Brush\nBecome stronger by unlocking new techniques with your brush that aid you in defeating threatening foes, overcoming platform challenges, solving complex puzzles, and advancing your progress.\n\nDiscover Yourself\nExplore Constance's non-linear interconnected world and discover countless secrets, abilities, upgrades, characters, side quests, and inspiring moments. \n\nStrive for Balance\nUsing your brush techniques will corrupt your Paint. If you become fully corrupted, negative effects await you, so be wary!\n\nGet Inspired\nUse inspirations that you find on your travels to sketch in your journal. Your sketches enhance and customize Constance's capabilities. By gathering materials, you can upgrade your sketches into even stronger artworks.\n\nChoice in Death\nUpon death, choose how to continue your journey. Do you want to persevere through the challenge, at a price? Or do you return to a safe point and explore other unbeaten paths?\n\nRich Imagined World\nThe inner world is strongly connected to Constance's mental health journey, with each colorful biome and its unique set of enemies and characters representing different aspects of her psyche and personal history. \n\nInteractive Backstory\nExperience playable flashbacks about personal struggle, creativity, work-life-balance, and inner purpose. Step into Constance's socks to uncover her past!",
+  "bannerUrl": "http://api.nlib.cc/nx/010030B01DC52000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010030B01DC52000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010030B01DC52000/screen/1",
+    "http://api.nlib.cc/nx/010030B01DC52000/screen/2",
+    "http://api.nlib.cc/nx/010030B01DC52000/screen/3",
+    "http://api.nlib.cc/nx/010030B01DC52000/screen/4",
+    "http://api.nlib.cc/nx/010030B01DC52000/screen/5",
+    "http://api.nlib.cc/nx/010030B01DC52000/screen/6"
+  ],
+  "version": 0,
+  "size": 1085393874
+}

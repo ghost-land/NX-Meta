@@ -1,0 +1,16 @@
+{
+  "name": "Mage Battle Arena",
+  "publisher": "RoVi Ninen",
+  "releaseDate": "20260127",
+  "description": "Step into a world where raw magic shapes destiny. You begin as a novice mage, armed with only the most basic spells. With every battle, every conquered foe, and every new land explored, your power grows. Unlock unique abilities, master devastating spells, and carve your path toward the ultimate goal—claiming the throne as the greatest sorcerer of all time.\n\nThe realm is torn apart by ancient wars between rival schools of magic. Ambition drives every mage to prove their supremacy, while mystical beasts guard forgotten secrets. To rise above them all, you must challenge enemy sorcerers, defeat legendary monsters, and claim artifacts of untold power.\n\nKey Features:\n• Dynamic Combat – Face diverse enemies with distinct fighting styles, from close-range brawlers to ranged spellcasters.\n• Evolving Magic System – Unlock and upgrade spells like teleportation, health regeneration, protective shields, freezing blasts, and homing attacks.\n• Skill Trees – Shape your own playstyle by investing in offensive or defensive abilities, mixing active and passive powers.\n• Exploration & Treasure – Hunt for hidden chests across mystical maps, each guarded by enemies ready to test your strength.\n• Consumables & Enhancements – Purchase spell-infused potions for temporary boosts in health, damage, and more.\n• Epic Boss Battles – Defeat mighty foes to earn legendary artifacts and unlock new levels of difficulty.\n\nForge your legacy, outcast the competition, and ascend as the unrivaled master of the Mage Battle Arena!",
+  "bannerUrl": "http://api.nlib.cc/nx/010038702668E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010038702668E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010038702668E000/screen/1",
+    "http://api.nlib.cc/nx/010038702668E000/screen/2",
+    "http://api.nlib.cc/nx/010038702668E000/screen/3",
+    "http://api.nlib.cc/nx/010038702668E000/screen/4",
+    "http://api.nlib.cc/nx/010038702668E000/screen/5",
+    "http://api.nlib.cc/nx/010038702668E000/screen/6"
+  ]
+}

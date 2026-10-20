@@ -1,0 +1,16 @@
+{
+  "name": "Pixel Game Maker Series Biggerman.io",
+  "publisher": "Gotcha Gotcha Games",
+  "releaseDate": "20211216",
+  "description": "Get the Small Ones to grow bigger. That is what it means to be THE Biggerman!\nGet big and defeat all your enemies!\nDestroy objects to find the Small Ones in hiding!\nEngage your wit to defeat challenging boss fights and clear time attack stages!\nSupports up to 4 players local PVP if you have multiple Joy-Con™ controllers!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AD9016C6C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AD9016C6C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AD9016C6C000/screen/1",
+    "http://api.nlib.cc/nx/0100AD9016C6C000/screen/2",
+    "http://api.nlib.cc/nx/0100AD9016C6C000/screen/3",
+    "http://api.nlib.cc/nx/0100AD9016C6C000/screen/4",
+    "http://api.nlib.cc/nx/0100AD9016C6C000/screen/5",
+    "http://api.nlib.cc/nx/0100AD9016C6C000/screen/6"
+  ]
+}

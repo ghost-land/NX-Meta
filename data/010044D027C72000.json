@@ -1,0 +1,18 @@
+{
+  "name": "OBAKEIDORO 2: Chase & Seek",
+  "publisher": "FREE STYLE",
+  "releaseDate": "20260806",
+  "description": "A chase battle between Monsters and Humans! Round 2!\nThe new setting is Japan?!\n\nYou only have 3 minutes!\nRun and hide. If even one person escapes, the Humans win!\nIf everyone is caught, the Monsters win!\nMake use of the Monsters' special abilities to catch the Humans.\nUp to 8 players can play together in Local or Online play.\n\nObakeidoro 2 is an asymmetrical multiplayer action game where players are split into Humans and Monsters to play chase and seek.\nAside from running and hiding, Humans can use their secret weapon, \"Activate Lantern,\" to stun Monsters.\nIf used skillfully, you may be able to turn a crisis into an opportunity.\nThe key to winning for Monsters is through their powerful skills. Utilize unique Monster abilities, such as moving through walls or detecting footprints, to catch Humans.\n\n◆ Work together with your friends using the new Human action, \"Call\"!\nThis newly added action enables you to call out to nearby allies.\nWhen your allies respond, you can use cooperative actions such as \"Solo Throw,\" \"Two Person Jump,\" or \"Bond Forger\"!\n\n◆ Round up everyone at once with the new Monster action, \"Super Catch\"!\nUse this new action with improved range and visuals to capture the Humans!",
+  "bannerUrl": "http://api.nlib.cc/nx/010044D027C72000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010044D027C72000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010044D027C72000/screen/1",
+    "http://api.nlib.cc/nx/010044D027C72000/screen/2",
+    "http://api.nlib.cc/nx/010044D027C72000/screen/3",
+    "http://api.nlib.cc/nx/010044D027C72000/screen/4",
+    "http://api.nlib.cc/nx/010044D027C72000/screen/5",
+    "http://api.nlib.cc/nx/010044D027C72000/screen/6"
+  ],
+  "version": 0,
+  "size": 1153392638
+}

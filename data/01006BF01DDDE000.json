@@ -1,0 +1,16 @@
+{
+  "name": "Super XYX",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20241023",
+  "description": "Super XYX is a vertical scrolling shoot’em up presented in eye-scorchingly fluid pixel art animation. Choose from 6 unique pilots and their signature ships, each with unique shots and bombs, and blast off to face The Black Serpent’s forces head-on! Master 6 stages with screen-filling bosses, customize the experience with various difficulty settings and unlock alternate game modes as you progress!\n\nFeatures:\n\n• Master 6 vertical scrolling stages of bullet hell action!\n• Choose from multiple pilots with unique spacecraft and weaponry.\n• Blast through enemy swarms and screen-filling bosses!\n• Unlock new playable characters and game modes.\n• Collect medals for huge score bonuses.\n• Achieve combos by destroying targets in quick succession!",
+  "bannerUrl": "http://api.nlib.cc/nx/01006BF01DDDE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006BF01DDDE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006BF01DDDE000/screen/1",
+    "http://api.nlib.cc/nx/01006BF01DDDE000/screen/2",
+    "http://api.nlib.cc/nx/01006BF01DDDE000/screen/3",
+    "http://api.nlib.cc/nx/01006BF01DDDE000/screen/4",
+    "http://api.nlib.cc/nx/01006BF01DDDE000/screen/5",
+    "http://api.nlib.cc/nx/01006BF01DDDE000/screen/6"
+  ]
+}

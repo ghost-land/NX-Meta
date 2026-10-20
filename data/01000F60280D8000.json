@@ -1,0 +1,17 @@
+{
+  "name": "Sapphire Tempest",
+  "publisher": "Redtower Games",
+  "releaseDate": "20260521",
+  "description": "Dive into a fast-paced top-down action game where every second is a fight for survival. Hordes of unholy creatures close in from all sides, and only your magic can hold back the onslaught. Gather crystals, level up rapidly in the middle of battle, and combine and empower devastating spells to create a unique build that matches your playstyle. Fight against dozens of enemy types, survive encounters with powerful bosses, and transform from a vulnerable apprentice into the embodiment of arcane power. The longer you survive, the more insane the battle becomes. How long can you last?",
+  "bannerUrl": "http://api.nlib.cc/nx/01000F60280D8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000F60280D8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000F60280D8000/screen/1",
+    "http://api.nlib.cc/nx/01000F60280D8000/screen/2",
+    "http://api.nlib.cc/nx/01000F60280D8000/screen/3",
+    "http://api.nlib.cc/nx/01000F60280D8000/screen/4",
+    "http://api.nlib.cc/nx/01000F60280D8000/screen/5"
+  ],
+  "version": 0,
+  "size": 363447884
+}

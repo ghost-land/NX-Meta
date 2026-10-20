@@ -1,0 +1,16 @@
+{
+  "name": "Kiosk",
+  "publisher": "Feardemic",
+  "releaseDate": "20251120",
+  "description": "Run the cozy, rain-soaked kiosk and serve the meals to some very “interesting” customers. \nKeep the orders coming, soak in the eerie atmosphere and try not to think too hard about what happened to the last guy who worked here (He's... gone. Let's leave it at that).\n\nThe job seems simple - flip some patties, pour some drinks, don't ask too many questions. \n\nBut the longer the night goes on, the more you notice - something isn’t right.\n\nWith each shift, you're getting closer to the truth. \nCan you uncover the secrets without losing your mind or overcooking the meat?\n\nFEATURES:\n▪ Three game modes - Story, Endless and Relax: experience the game at your own pace,\n▪ MEAT your clients - a cast of late-night regulars will keep you entertained throughout the night,\n▪ Ready, set, cook! - chop veggies, grill meat, serve drinks and keep your customers happy,\n▪ Now serving in 15 languages - choose yours so you can scream in your native tongue.\n\nAdditional languages:\n- Arabic (AR),\n- Polish (PL/POLSKI),\n- Serbian (SR/СРПСКИ),\n- Turkish (TUR/TÜRKÇE),\n- Ukrainian (UA/УКРАЇНСЬКА).",
+  "bannerUrl": "http://api.nlib.cc/nx/010017D0256DC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010017D0256DC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010017D0256DC000/screen/1",
+    "http://api.nlib.cc/nx/010017D0256DC000/screen/2",
+    "http://api.nlib.cc/nx/010017D0256DC000/screen/3",
+    "http://api.nlib.cc/nx/010017D0256DC000/screen/4",
+    "http://api.nlib.cc/nx/010017D0256DC000/screen/5",
+    "http://api.nlib.cc/nx/010017D0256DC000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Aircraft Legends: Flight Academy Simulator",
+  "publisher": "Play Lab",
+  "releaseDate": "20250410",
+  "description": "Aircraft Legends: Flight Academy Simulator offers you an immersive, realistic flying experience like never before. Step into the cockpit and take control of a wide range of aircraft, from classic propellers to modern jets. Whether you’re a seasoned pilot or a complete beginner, this simulator provides a comprehensive training ground to perfect your flying skills.\n\nMaster every aspect of aviation, from takeoff to landing, navigating through weather conditions, and exploring diverse landscapes around the world. With its detailed aircraft models, stunning graphics, and accurate flight physics, Aircraft Legends delivers the ultimate flight experience.\n\nBecome the pilot you've always dreamed of, build your skills, and rise through the ranks at your own pace. The sky’s the limit—how high will you go?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C54022CC6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C54022CC6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C54022CC6000/screen/1",
+    "http://api.nlib.cc/nx/0100C54022CC6000/screen/2",
+    "http://api.nlib.cc/nx/0100C54022CC6000/screen/3",
+    "http://api.nlib.cc/nx/0100C54022CC6000/screen/4",
+    "http://api.nlib.cc/nx/0100C54022CC6000/screen/5",
+    "http://api.nlib.cc/nx/0100C54022CC6000/screen/6"
+  ]
+}

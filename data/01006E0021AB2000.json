@@ -1,0 +1,16 @@
+{
+  "name": "Pixel House",
+  "publisher": "Upscale Studio",
+  "releaseDate": "20241219",
+  "description": "In a quiet corner of your imagination, there’s a house waiting just for you. Not just any house,  but your house. The kind with sunlit windows, a crooked chimney, or maybe a door painted the exact shade of blue you’ve always loved.\n\nIt’s a slow, peaceful escape where every stroke tells a story. Mix colors like a lazy afternoon, experiment with patterns like you’re whispering secrets to the walls, and lose yourself in the quiet joy of creation.\n\nAnd when the real world feels too loud? Put on the in-game soundtrack—soft piano, rain tapping against the roof, or whatever helps you breathe a little deeper.\n\nMain features:\n• Paint houses and their elements from scratch.\n• Relax with music right in the game.\n• Use your imagination to create your own style.\n• Share your paintings with friends.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006E0021AB2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006E0021AB2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006E0021AB2000/screen/1",
+    "http://api.nlib.cc/nx/01006E0021AB2000/screen/2",
+    "http://api.nlib.cc/nx/01006E0021AB2000/screen/3",
+    "http://api.nlib.cc/nx/01006E0021AB2000/screen/4",
+    "http://api.nlib.cc/nx/01006E0021AB2000/screen/5",
+    "http://api.nlib.cc/nx/01006E0021AB2000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Farmyard Survivors",
+  "publisher": "Viron Games",
+  "releaseDate": "20250505",
+  "description": "Survive hordes of cute (but evil) animals attacking your farm in this fast-paced, lane-based roguelite. Recruit adorable heroes and unlock powerful support animals to protect your farm from relentless attackers!",
+  "bannerUrl": "http://api.nlib.cc/nx/01006120218F4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006120218F4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006120218F4000/screen/1",
+    "http://api.nlib.cc/nx/01006120218F4000/screen/2",
+    "http://api.nlib.cc/nx/01006120218F4000/screen/3",
+    "http://api.nlib.cc/nx/01006120218F4000/screen/4",
+    "http://api.nlib.cc/nx/01006120218F4000/screen/5"
+  ]
+}

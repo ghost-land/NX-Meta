@@ -1,0 +1,15 @@
+{
+  "name": "Spooky Ghosts Dot Com",
+  "publisher": "Lone Wolf Technology",
+  "releaseDate": "20191002",
+  "description": "\"Spooky Ghosts Dot Com is a small metroidvania about a ghost hunter named Ruby. One Halloween night a ghost hunting job comes in, but it turns out to not be a regular gig! Explore the haunted mansion, take down some ghosts, battle spooky bosses, and rescue the lost cats! \n\nFeatures:\n\n-5 different interconnected spooky areas to fight through.\n-50+ rooms to explore!\n-6 spooky bosses to defeat.\n-Find and pet all 8 lost cats!\n-Items to boost Rubys power and gain new abilities!\n-Ghost buddies, cats, shopkeepers, and others to meet within the mansion.\"",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C6100D75E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C6100D75E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C6100D75E000/screen/1",
+    "http://api.nlib.cc/nx/0100C6100D75E000/screen/2",
+    "http://api.nlib.cc/nx/0100C6100D75E000/screen/3",
+    "http://api.nlib.cc/nx/0100C6100D75E000/screen/4",
+    "http://api.nlib.cc/nx/0100C6100D75E000/screen/5"
+  ]
+}

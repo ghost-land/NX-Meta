@@ -1,0 +1,16 @@
+{
+  "name": "PICROSS S GENESIS & Master System edition",
+  "publisher": "JUPITER",
+  "releaseDate": "20210805",
+  "description": "A character editor has been added to the Nintendo Switch™ version of Picross S!\nSelect characters have been chosen to debut as Picross puzzles from Sega's classic consoles, the Master System and Sega Genesis!\nEnjoy drawing nostalgic pixel art characters while solving Picross puzzles!\n\nIn addition to the Picross S Series, you can play four other popular Picross modes: Picross, Mega Picross, Color Picross, and Clip Picross!\n\nIncludes 300 puzzles for Picross and Mega Picross, 150 puzzles for Clip Picross, and 30 puzzles for Color Picross, for a total of 480 puzzles!\n\nPicross is a picture crossword puzzle game where you follow hint number to complete a picture.\nWith simple, easy-to-follow rules, it's a game anyone can play!",
+  "bannerUrl": "http://api.nlib.cc/nx/010089701567A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010089701567A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010089701567A000/screen/1",
+    "http://api.nlib.cc/nx/010089701567A000/screen/2",
+    "http://api.nlib.cc/nx/010089701567A000/screen/3",
+    "http://api.nlib.cc/nx/010089701567A000/screen/4",
+    "http://api.nlib.cc/nx/010089701567A000/screen/5",
+    "http://api.nlib.cc/nx/010089701567A000/screen/6"
+  ]
+}

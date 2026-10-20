@@ -1,0 +1,16 @@
+{
+  "name": "Manual Samuel",
+  "publisher": "Curve Digital",
+  "releaseDate": "20180816",
+  "description": "Manual Samuel is a classic adventure game with a wild twist. After making a deal with Death, our hero, the spoiled rich-kid Samuel, must survive for 24 hours controlling his entire body manually. From breathing and blinking to driving and working, all these tasks will fall to you. It won’t be easy, with Death himself tagging along for the ride, you might be in some very deep feces!\n\nNow updated to take advantage of the Nintendo Switch™ Joy-Con™ features such as motion sensors and split Joy-Con support for 2 player co-op.\n\nFeatures:\n•\tA hilarious story of love, redemption and death with \nsecrets to uncover along the way.\n•\tUnique, hand-drawn 2D art and animation bring the \nworld of Manual Samuel to life.\n•\tPlay solo or share control of Sam’s body with a friend for local co-op fun.\n•\tMaster the brutal time-attack mode.\n•\tScintillating soundtrack by Sondre Jensen and Ozan \nDrøsdal.\n•\tOver 600 lines of dialogue expertly executed by eloquent voice actors.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100748009A28000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100748009A28000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100748009A28000/screen/1",
+    "http://api.nlib.cc/nx/0100748009A28000/screen/2",
+    "http://api.nlib.cc/nx/0100748009A28000/screen/3",
+    "http://api.nlib.cc/nx/0100748009A28000/screen/4",
+    "http://api.nlib.cc/nx/0100748009A28000/screen/5",
+    "http://api.nlib.cc/nx/0100748009A28000/screen/6"
+  ]
+}

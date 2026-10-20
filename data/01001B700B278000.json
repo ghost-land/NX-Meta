@@ -1,0 +1,16 @@
+{
+  "name": "Bird Game +",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20190503",
+  "description": "In Bird Game, a third person flying adventure by Bryan Tabor, a very special adventure awaits you.\n\nFeaturing a black and white 3D art style, Bird Game has you guide a majestic bird through a detailed world that grows all around you, full of challenging obstacles, hostile enemies, and punishing bosses. \n\nComplete with a serene soundtrack, a difficult yet relaxing adventure awaits all those who wish to be one with nature.\nIn addition to the game’s 3 main levels, there is an endless mode for players who seek to fly as long as they can through a wondrous, illustrated landscape.\n\nFeatures: \n * 3 hand-crafted levels with a challenging boss fight at the end of each one\n * Endless mode\n * Leaderboards for all modes\n * In-game secrets, awaiting discovery\n * In-game challenges",
+  "bannerUrl": "http://api.nlib.cc/nx/01001B700B278000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001B700B278000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001B700B278000/screen/1",
+    "http://api.nlib.cc/nx/01001B700B278000/screen/2",
+    "http://api.nlib.cc/nx/01001B700B278000/screen/3",
+    "http://api.nlib.cc/nx/01001B700B278000/screen/4",
+    "http://api.nlib.cc/nx/01001B700B278000/screen/5",
+    "http://api.nlib.cc/nx/01001B700B278000/screen/6"
+  ]
+}

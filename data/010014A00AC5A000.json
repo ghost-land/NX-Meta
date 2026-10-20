@@ -1,0 +1,16 @@
+{
+  "name": "The Golf",
+  "publisher": "D3PUBLISHER",
+  "releaseDate": "20190214",
+  "description": "A fun and simple golf game anyone can enjoy.\nIncludes golf courses with up to 18 holes.\nWith support for 1-4 players, enjoy at your pace by yourself or have an exciting competition with your friends and family.\nYou can play with either the controller or by swinging the Joy-Con.",
+  "bannerUrl": "http://api.nlib.cc/nx/010014A00AC5A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010014A00AC5A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010014A00AC5A000/screen/1",
+    "http://api.nlib.cc/nx/010014A00AC5A000/screen/2",
+    "http://api.nlib.cc/nx/010014A00AC5A000/screen/3",
+    "http://api.nlib.cc/nx/010014A00AC5A000/screen/4",
+    "http://api.nlib.cc/nx/010014A00AC5A000/screen/5",
+    "http://api.nlib.cc/nx/010014A00AC5A000/screen/6"
+  ]
+}

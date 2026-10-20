@@ -1,0 +1,16 @@
+{
+  "name": "포트 로얄 4 (Port Royale 4)",
+  "publisher": "H2 INTERACTIVE",
+  "releaseDate": "20210528",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/0100783013EC0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100783013EC0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100783013EC0000/screen/1",
+    "http://api.nlib.cc/nx/0100783013EC0000/screen/2",
+    "http://api.nlib.cc/nx/0100783013EC0000/screen/3",
+    "http://api.nlib.cc/nx/0100783013EC0000/screen/4",
+    "http://api.nlib.cc/nx/0100783013EC0000/screen/5",
+    "http://api.nlib.cc/nx/0100783013EC0000/screen/6"
+  ]
+}

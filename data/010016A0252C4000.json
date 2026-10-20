@@ -1,0 +1,18 @@
+{
+  "name": "Night Swarm",
+  "publisher": "NAISU",
+  "releaseDate": "20260528",
+  "description": "Night Swarm is a vampire-themed roguelite RPG bullet hell where you play as a fearsome young vampire lord rising to power. Gather loyal allies, unleash devastating abilities, and fight back against the relentless werewolf hordes that threaten to consume the night.\n\nBUILD YOUR SWARM. TEAR THROUGH THE PACK.\nAncient powers of the dark stand behind you, each offering unique, cursed blessings to aid your ascent.\nUncover why these shadowy forces have chosen to support you, unravel the truth behind the age-old war between vampires and werewolves, and delve into the haunted pasts of your companions as you push deeper into the cursed lands.\nThe night is yours—and you are hungry.\n\nGROW STRONG — AND MAKE OTHERS STRONGER\nLet your legend travel faster than your shadow, becoming a beacon of hope for those still resisting in the dark.\nThey await a new Vampire Lord—a leader worthy of the night. That leader is you.\nRally them to your side. Show them how to fight. And remind the world that the true terror of the night... is you.\n\nYOU HAVE WORK TO DO TONIGHT\nAid friendly creatures, uncover hidden treasures, restore the natural order, and bring balance back to the night.\nSometimes you'll help your allies. Sometimes—even your enemies. Because to truly reclaim the night, it's not enough to defeat your foes; you must also ensure your friends rise with you.\nBy guiding others to victory, you earn their trust—and their aid in your fight against ancient evils. The night is a delicate web of power, and only those who understand its balance can hope to survive it.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010016A0252C4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010016A0252C4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010016A0252C4000/screen/1",
+    "http://api.nlib.cc/nx/010016A0252C4000/screen/2",
+    "http://api.nlib.cc/nx/010016A0252C4000/screen/3",
+    "http://api.nlib.cc/nx/010016A0252C4000/screen/4",
+    "http://api.nlib.cc/nx/010016A0252C4000/screen/5",
+    "http://api.nlib.cc/nx/010016A0252C4000/screen/6"
+  ],
+  "version": 0,
+  "size": 877783732
+}

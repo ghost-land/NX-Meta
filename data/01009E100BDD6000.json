@@ -1,0 +1,16 @@
+{
+  "name": "LASTFIGHT",
+  "publisher": "Joindots",
+  "releaseDate": "20200411",
+  "description": "LASTFIGHT is bringing 2v2 3D fighting back to your living room!\n\nPick up any available object in one of the 8 stages and teach your opponents a lesson!\n\nPlay in local multiplayer mode, for up to 4 players, or one-player story mode, with a cast of 10 characters inspired by the comic book LASTMAN.\n\nLASTFIGHT is the perfect game to play with friends on your couch. Each level has specific bonuses and objects to hurl at your opponent. Will you manage to resist the temptation of the ANITRANS to win?",
+  "bannerUrl": "http://api.nlib.cc/nx/01009E100BDD6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009E100BDD6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009E100BDD6000/screen/1",
+    "http://api.nlib.cc/nx/01009E100BDD6000/screen/2",
+    "http://api.nlib.cc/nx/01009E100BDD6000/screen/3",
+    "http://api.nlib.cc/nx/01009E100BDD6000/screen/4",
+    "http://api.nlib.cc/nx/01009E100BDD6000/screen/5",
+    "http://api.nlib.cc/nx/01009E100BDD6000/screen/6"
+  ]
+}

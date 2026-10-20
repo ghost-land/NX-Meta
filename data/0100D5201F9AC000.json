@@ -1,0 +1,16 @@
+{
+  "name": "Guns And Draguns",
+  "publisher": "Infinite Stairs",
+  "releaseDate": "20241213",
+  "description": "Guns and Draguns is a cooperative top-down shooter game where you eliminate fantasy monsters with guns. To complete the game, you must finish all levels and defeat bosses.\n\nChests scattered in bonus or hidden rooms offer opportunities to enhance your abilities along the way.\n\nSuccess in this quest requires communication and cooperation with other players. You can play with up to 4 players, but you can also conquer the dungeon alone.\n\nAll teammates also compete to rank as the top player. Keys to this personal achievement include dealing damage, collecting coins, and being the ultimate bearer of the crown.\n\nAfter each game, you can use the points earned to purchase new heroes, items, and game difficulties... ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D5201F9AC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D5201F9AC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D5201F9AC000/screen/1",
+    "http://api.nlib.cc/nx/0100D5201F9AC000/screen/2",
+    "http://api.nlib.cc/nx/0100D5201F9AC000/screen/3",
+    "http://api.nlib.cc/nx/0100D5201F9AC000/screen/4",
+    "http://api.nlib.cc/nx/0100D5201F9AC000/screen/5",
+    "http://api.nlib.cc/nx/0100D5201F9AC000/screen/6"
+  ]
+}

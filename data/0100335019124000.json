@@ -1,0 +1,16 @@
+{
+  "name": "Spin Path",
+  "publisher": "Entity3",
+  "releaseDate": "20220819",
+  "description": "Get addicted to this fast paced racing game!\nExcellent graphics and an endless supply of levels will keep you hooked\nGet the frenzy star and smash your way to the goal!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100335019124000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100335019124000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100335019124000/screen/1",
+    "http://api.nlib.cc/nx/0100335019124000/screen/2",
+    "http://api.nlib.cc/nx/0100335019124000/screen/3",
+    "http://api.nlib.cc/nx/0100335019124000/screen/4",
+    "http://api.nlib.cc/nx/0100335019124000/screen/5",
+    "http://api.nlib.cc/nx/0100335019124000/screen/6"
+  ]
+}

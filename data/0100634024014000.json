@@ -1,0 +1,18 @@
+{
+  "name": "Zumba – Treasures of Marble Island",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20260409",
+  "description": "Zumba – Treasures of Marble Island transports you to a lush tiki paradise ruled by an enigmatic masked god. Select a level, aim your marble-shooting staff, and fire to match three or more identical orbs before they snake past the sacred ruins. Trigger spectacular chain reactions, clear waves swiftly, and earn up to three stars per stage by preventing any marble from breaching the ancient thresholds.\nHarness powerful island blessings between levels: Explosive Marbles to obliterate clusters, Time Freeze to halt the rolling tide, Repaint to transform your next marble into any spirit color, Slow Motion to decelerate the onslaught, Destruction Shots to remove lone rogue marbles, and Time Revert to undo your last throw for a second chance.\nJourney through four exotic realms—Sun-Kissed Beaches, Jungle Ruins, Volcanic Lava Fields, and the Hidden Temple Sanctum—each unlocked every ten levels with new marble hues, winding vine paths, moving tribal barriers, and ever-quickening speeds.\nAddictive and vibrant, Zumba – Treasures of Marble Island invites you to master the tiki arts, unleash island magic, and claim legendary treasures from the heart of the marble isles.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100634024014000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100634024014000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100634024014000/screen/1",
+    "http://api.nlib.cc/nx/0100634024014000/screen/2",
+    "http://api.nlib.cc/nx/0100634024014000/screen/3",
+    "http://api.nlib.cc/nx/0100634024014000/screen/4",
+    "http://api.nlib.cc/nx/0100634024014000/screen/5",
+    "http://api.nlib.cc/nx/0100634024014000/screen/6"
+  ],
+  "version": 0,
+  "size": 223924208
+}

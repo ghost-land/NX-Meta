@@ -1,0 +1,16 @@
+{
+  "name": "Lotus Bloom",
+  "publisher": "Silesia Games",
+  "releaseDate": "20211007",
+  "description": "Lotus Bloom is a relaxing minimalist puzzle game.\nConnect orbs, generate energy and make flowers bloom.\n\nFeatures:\n- Brain-teasing gameplay mechanics, keeping each new challenge fresh.\n- 48 hand-crafted puzzles.\n- Beautiful, minimalist and zen aesthetic.\n- A relaxing and original soundtrack.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A55015B98000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A55015B98000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A55015B98000/screen/1",
+    "http://api.nlib.cc/nx/0100A55015B98000/screen/2",
+    "http://api.nlib.cc/nx/0100A55015B98000/screen/3",
+    "http://api.nlib.cc/nx/0100A55015B98000/screen/4",
+    "http://api.nlib.cc/nx/0100A55015B98000/screen/5",
+    "http://api.nlib.cc/nx/0100A55015B98000/screen/6"
+  ]
+}

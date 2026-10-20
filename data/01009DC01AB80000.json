@@ -1,0 +1,16 @@
+{
+  "name": "Astro Flame: Starfighter",
+  "publisher": "Sometimes You",
+  "releaseDate": "20230815",
+  "description": "Upgrade the systems of your spaceship, upgrade your weapons and sweep away hordes of enemies on your way.\n\nFeatures:\n- Stunning visual effects\n- Upgrade spaceship and weapons between missions\n- Epic battles with formidable bosses\n- 15 levels",
+  "bannerUrl": "http://api.nlib.cc/nx/01009DC01AB80000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009DC01AB80000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009DC01AB80000/screen/1",
+    "http://api.nlib.cc/nx/01009DC01AB80000/screen/2",
+    "http://api.nlib.cc/nx/01009DC01AB80000/screen/3",
+    "http://api.nlib.cc/nx/01009DC01AB80000/screen/4",
+    "http://api.nlib.cc/nx/01009DC01AB80000/screen/5",
+    "http://api.nlib.cc/nx/01009DC01AB80000/screen/6"
+  ]
+}

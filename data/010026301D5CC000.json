@@ -1,0 +1,16 @@
+{
+  "name": "Western Frontier",
+  "publisher": "HUNTERS",
+  "releaseDate": "20240321",
+  "description": "Western Frontier is a 2D action shooting game.\nDefeat rogues, earn bounties, and restore peace to the town.\nAt the tavern, you can strengthen your weapons and buy new ones.\nUse a wide variety of weapons and instant evasion to take down all the wanted criminals.",
+  "bannerUrl": "http://api.nlib.cc/nx/010026301D5CC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010026301D5CC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010026301D5CC000/screen/1",
+    "http://api.nlib.cc/nx/010026301D5CC000/screen/2",
+    "http://api.nlib.cc/nx/010026301D5CC000/screen/3",
+    "http://api.nlib.cc/nx/010026301D5CC000/screen/4",
+    "http://api.nlib.cc/nx/010026301D5CC000/screen/5",
+    "http://api.nlib.cc/nx/010026301D5CC000/screen/6"
+  ]
+}

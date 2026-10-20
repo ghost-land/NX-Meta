@@ -1,0 +1,14 @@
+{
+  "name": "PiyoRide!",
+  "publisher": "Inbility",
+  "releaseDate": "20260305",
+  "description": "In this game, you ride the Momonga Robo and soar through the skies in a side-scrolling 2D action adventure.\n\n[Game Mode]\n\nStages are generated randomly one after another.\nChallenge yourself to see how long you can keep flying and aim for a high score.\n\nEach stage features unique gimmicks.\nTouching enemies or obstacles such as rocks and trees will cause damage or slow you down.\n\nOn the screen, you’ll see:\n•An Energy Gauge required for flight\n•An HP stock that decreases when you take damage\n•A Dodge Gauge that is consumed when you dodge\n\nCollect snacks that appear during stages to restore your Energy Gauge.\n\nThe game ends if your HP reaches 0 or if the Momonga Robo falls off the bottom of the screen.\n\n[How to Play]\n•Press the A Button to ascend. Release it to descend.\n•When the Dodge Gauge is full, press L / R / ZL / ZR Buttons to dodge.\n•After dodging, you must wait for a short cooldown before dodging again.\n•Performing a Perfect Dodge does not consume the Dodge Gauge.\n\nAn endless action game with simple controls!\nEven if you fail, you can jump right back in and try again!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100144026546000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100144026546000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100144026546000/screen/1",
+    "http://api.nlib.cc/nx/0100144026546000/screen/2",
+    "http://api.nlib.cc/nx/0100144026546000/screen/3",
+    "http://api.nlib.cc/nx/0100144026546000/screen/4"
+  ]
+}

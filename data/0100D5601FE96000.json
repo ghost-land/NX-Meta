@@ -1,0 +1,16 @@
+{
+  "name": "Car Turning Simulator",
+  "publisher": "Blacksmith DoubleCircle",
+  "releaseDate": "20240926",
+  "description": "I developed this game with the hope of reducing accidents that occur while making turns. It’s a game where you can practice making turns at intersections while driving a car.\n\nYou clear the level by safely making a turn at the intersection and passing through the gate. Be careful not to hit other cars or people. The scale of the cars, buildings, people, and roads is close to real life, allowing for realistic turn practice.\n\nThere are two modes available: Driving Test Mode and Simulator Mode. In Driving Test Mode, you can practice making turns at various difficulty levels. In Simulator Mode, you can customize the speed and traffic density of cars and pedestrians to practice turns.\n\nWho should buy this?\n- People who want to practice turning in a correct way.\n- Those who want to experience the \"I might die\" feeling during a traffic accident.\n- Anyone curious about what it feels like to face oncoming traffic at 60 mph or 125 mph.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D5601FE96000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D5601FE96000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D5601FE96000/screen/1",
+    "http://api.nlib.cc/nx/0100D5601FE96000/screen/2",
+    "http://api.nlib.cc/nx/0100D5601FE96000/screen/3",
+    "http://api.nlib.cc/nx/0100D5601FE96000/screen/4",
+    "http://api.nlib.cc/nx/0100D5601FE96000/screen/5",
+    "http://api.nlib.cc/nx/0100D5601FE96000/screen/6"
+  ]
+}

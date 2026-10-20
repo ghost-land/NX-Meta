@@ -1,0 +1,15 @@
+{
+  "name": "Marble Flow",
+  "publisher": "Entity3",
+  "releaseDate": "20241005",
+  "description": "A fun simple puzzle game for all ages.\nRotate the track sections to create a path.\nRelease the marbles and watch them flow.\nEnjoy stylish graphics in this relaxing puzzler.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C2902032A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C2902032A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C2902032A000/screen/1",
+    "http://api.nlib.cc/nx/0100C2902032A000/screen/2",
+    "http://api.nlib.cc/nx/0100C2902032A000/screen/3",
+    "http://api.nlib.cc/nx/0100C2902032A000/screen/4",
+    "http://api.nlib.cc/nx/0100C2902032A000/screen/5"
+  ]
+}

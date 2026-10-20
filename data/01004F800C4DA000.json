@@ -1,0 +1,16 @@
+{
+  "name": "Croc's World",
+  "publisher": "Sprakelsoft",
+  "releaseDate": "20181109",
+  "description": "Croc´s World is a really nice jump'n'run with 60 incredible levels and many challenging enemies!\n\nIt features:\n\n+ 60 incredible levels \n+ Nice graphics\n+ 4 different themes\n+ many challenging enemies\n\nInstructions:\n\nJump and run through the levels and dodge all enemies.\nCollect a helmet to crush stoneblocks.\nCollect the stonebag to throw stones.\nIf you collect 100 diamonds you´ll get an extra life!",
+  "bannerUrl": "http://api.nlib.cc/nx/01004F800C4DA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004F800C4DA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004F800C4DA000/screen/1",
+    "http://api.nlib.cc/nx/01004F800C4DA000/screen/2",
+    "http://api.nlib.cc/nx/01004F800C4DA000/screen/3",
+    "http://api.nlib.cc/nx/01004F800C4DA000/screen/4",
+    "http://api.nlib.cc/nx/01004F800C4DA000/screen/5",
+    "http://api.nlib.cc/nx/01004F800C4DA000/screen/6"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AVENGER",
+  "publisher": "Edia",
+  "releaseDate": "20231207",
+  "description": "The player pilots Avenger, the latest helicopter equipped with a main weapon, sub weapon, and special weapon.\nA fun and satisfyingly difficult strategic shooter game featuring a helicopter with directional attacks, selectable missions, and a diverging storyline.\n\nSOUND AND VISUAL MODES INCLUDED\nExperience the iconic cutscenes and music that are synonymous with Telenet titles, whenever you want! This collection includes convenient features like save/load anywhere, rewind, and other quality of life upgrades.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003B101A986000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003B101A986000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003B101A986000/screen/1",
+    "http://api.nlib.cc/nx/01003B101A986000/screen/2",
+    "http://api.nlib.cc/nx/01003B101A986000/screen/3"
+  ]
+}

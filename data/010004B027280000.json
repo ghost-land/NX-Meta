@@ -1,0 +1,16 @@
+{
+  "name": "Mr. Stackman",
+  "publisher": "Soroka Games",
+  "releaseDate": "20260314",
+  "description": "Mr. Stackman is a simple arcade survival game where blocks keep falling from above.\n\nMove your character, stack the blocks, and try not to get crushed. Build your way up, stay in safe spots, and survive as long as you can while the game gets faster and harder.\n\nEasy to understand and quick to play, Mr. Stackman is perfect for short sessions and high-score challenges.\n\nFeatures:\n • Simple and easy controls\n • Endless falling blocks\n • Survival gameplay — last as long as you can\n • Increasing difficulty\n • Great for quick play anytime\n\nHow long can you survive?\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010004B027280000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010004B027280000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010004B027280000/screen/1",
+    "http://api.nlib.cc/nx/010004B027280000/screen/2",
+    "http://api.nlib.cc/nx/010004B027280000/screen/3",
+    "http://api.nlib.cc/nx/010004B027280000/screen/4"
+  ],
+  "version": 0,
+  "size": 57311890
+}

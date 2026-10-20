@@ -1,0 +1,18 @@
+{
+  "name": "Hades Uprising",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20260521",
+  "description": "Hades Uprising is a third-person platformer built around momentum, precision, and mythological transformation.\nOne day, Hades decides to defy his own domain. Determined to rescue the lost souls trapped in hell, he begins an ascent through the nine circles—each represented as a surreal, abstract platforming world shaped by suffering, memory, and punishment.\nEach circle is divided into five handcrafted areas, forming distinct platforming tracks with unique mechanics, themes, and challenges. Players must master Hades’ movement abilities—double jumps, forward and upward dashes, and momentum-based traversal—to survive trap-filled environments and shifting terrain.\nThere are no enemies to fight. Hell itself is the challenge.\nAs you move through each circle, lost souls speak to Hades, offering insight into the world, its suffering, and his own role within it. Crystals gathered at the end of each area unlock the path forward, allowing Hades to continue his rebellion against the underworld.\nWith increasing difficulty, evolving mechanics, and constantly changing environments, Hades Uprising is a journey of skill, motion, and ascension—through hell, and beyond it.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003F502728E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003F502728E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003F502728E000/screen/1",
+    "http://api.nlib.cc/nx/01003F502728E000/screen/2",
+    "http://api.nlib.cc/nx/01003F502728E000/screen/3",
+    "http://api.nlib.cc/nx/01003F502728E000/screen/4",
+    "http://api.nlib.cc/nx/01003F502728E000/screen/5",
+    "http://api.nlib.cc/nx/01003F502728E000/screen/6"
+  ],
+  "version": 0,
+  "size": 1340618677
+}

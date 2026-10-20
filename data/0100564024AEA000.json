@@ -1,0 +1,16 @@
+{
+  "name": "Wukong Black Legend",
+  "publisher": "GBTUI",
+  "releaseDate": "20251007",
+  "description": "Step into a world full of mysteries, dangers, and challenges — only the brave will make it to the end. This action-adventure game blends intense combat with clever exploration, delivering a captivating experience at every level.\n\nMain Features:\n- Dynamic Combat: Wield your sword for close-range attacks or use your bow for precise long-distance shots; every battle demands strategy and quick reflexes.\n- Projectile Capture: Catch incoming arrows and fireballs from enemies and turn them to your advantage — transform defense into offense.\n- Exploration & Rewards: Discover hidden chests, resources, and vital clues scattered across the maps.\n- Clues & Puzzles: Each level contains subtle hints and smart puzzles; attention to detail is the key to progress.\n\nEvery step brings you closer to the secrets hidden in the shadows. Are you ready to prove your courage, unravel the mysteries, and become a legend? The adventure starts now!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100564024AEA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100564024AEA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100564024AEA000/screen/1",
+    "http://api.nlib.cc/nx/0100564024AEA000/screen/2",
+    "http://api.nlib.cc/nx/0100564024AEA000/screen/3",
+    "http://api.nlib.cc/nx/0100564024AEA000/screen/4",
+    "http://api.nlib.cc/nx/0100564024AEA000/screen/5",
+    "http://api.nlib.cc/nx/0100564024AEA000/screen/6"
+  ]
+}

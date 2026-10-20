@@ -1,0 +1,16 @@
+{
+  "name": "Salt and Sanctuary",
+  "publisher": "Ska Studios",
+  "releaseDate": "20180802",
+  "description": "A doomed sailor is shipwrecked on an uncharted island. In fog-shrouded valleys, shambling figures begin to stir. Beneath crumbling, salt-worn structures, labyrinthine passageways lead to unspeakable evil, long forgotten by man.\n\nSalt and Sanctuary seamlessly combines fast, brutal, and complex 2D combat with richly developed RPG mechanics. Discover, craft, and upgrade over 600 weapons, armor pieces, spells, and items as you explore a cursed realm.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D250083B4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D250083B4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D250083B4000/screen/1",
+    "http://api.nlib.cc/nx/0100D250083B4000/screen/2",
+    "http://api.nlib.cc/nx/0100D250083B4000/screen/3",
+    "http://api.nlib.cc/nx/0100D250083B4000/screen/4",
+    "http://api.nlib.cc/nx/0100D250083B4000/screen/5",
+    "http://api.nlib.cc/nx/0100D250083B4000/screen/6"
+  ]
+}

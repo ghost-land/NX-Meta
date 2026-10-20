@@ -1,0 +1,16 @@
+{
+  "name": "Vektor Wars",
+  "publisher": "Super Icon",
+  "releaseDate": "20190711",
+  "description": "Welcome to an 80’s neon future inspired first-person cyber shooter.\nThe year is 2024 and you are Commander James Moses, a Space Ranger. Your mission: destroy the robot death army, rescue the Robodudes and save the world!\nSelect your weapon and use your skills to face down a tidal wave of rogue robots... in this retro homage to Arcade classics such as Battlezone, Berzerk and Robotron. Frantic gameplay, an array of loud and destructive weaponry - you must cheat death at every turn!\n-Arcade shooter gameplay; where the only things that matter are your game skills and the high-score table!\n- Fast-paced First Person Combat within neon-drenched vector worlds \n- An armory of loud and heavy weapons \n- 9 World Zones to liberate, all with their own unique environments and enemies to annihilate \n- A wonderful original soundtrack \n",
+  "bannerUrl": "http://api.nlib.cc/nx/010098400E39E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010098400E39E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010098400E39E000/screen/1",
+    "http://api.nlib.cc/nx/010098400E39E000/screen/2",
+    "http://api.nlib.cc/nx/010098400E39E000/screen/3",
+    "http://api.nlib.cc/nx/010098400E39E000/screen/4",
+    "http://api.nlib.cc/nx/010098400E39E000/screen/5",
+    "http://api.nlib.cc/nx/010098400E39E000/screen/6"
+  ]
+}

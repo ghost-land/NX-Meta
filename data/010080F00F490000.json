@@ -1,0 +1,16 @@
+{
+  "name": "Mirror",
+  "publisher": "SakuraGame",
+  "releaseDate": "20191219",
+  "description": "This is a game that combines match-3, GALGAME elements and beauties. If you want to learn more about those beauties, you need to best them first. How the story goes is choice-based so your choices will ultimately decide their fate.",
+  "bannerUrl": "http://api.nlib.cc/nx/010080F00F490000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010080F00F490000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010080F00F490000/screen/1",
+    "http://api.nlib.cc/nx/010080F00F490000/screen/2",
+    "http://api.nlib.cc/nx/010080F00F490000/screen/3",
+    "http://api.nlib.cc/nx/010080F00F490000/screen/4",
+    "http://api.nlib.cc/nx/010080F00F490000/screen/5",
+    "http://api.nlib.cc/nx/010080F00F490000/screen/6"
+  ]
+}

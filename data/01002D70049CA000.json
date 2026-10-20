@@ -1,0 +1,15 @@
+{
+  "name": "Machinarium",
+  "publisher": "Amanita Design",
+  "releaseDate": "20181101",
+  "description": "Machinarium is the award-winning independent adventure game developed by the makers of Samorost and Botanicula.\n\nA little robot who’s been thrown out to the scrap yard behind the city must return and confront the Black Cap Brotherhood and save his robot-girl friend.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002D70049CA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002D70049CA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002D70049CA000/screen/1",
+    "http://api.nlib.cc/nx/01002D70049CA000/screen/2",
+    "http://api.nlib.cc/nx/01002D70049CA000/screen/3",
+    "http://api.nlib.cc/nx/01002D70049CA000/screen/4",
+    "http://api.nlib.cc/nx/01002D70049CA000/screen/5"
+  ]
+}

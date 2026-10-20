@@ -1,0 +1,15 @@
+{
+  "name": "Block-a-Pix Deluxe",
+  "publisher": "Lightwood Games",
+  "releaseDate": "20190321",
+  "description": "Reveal the picture by dividing the grid into smaller rectangular blocks to create a colorful mosaic. Each block must contain one clue number, indicating the size and color of the block to be painted.\n\nBlock-a-Pix Deluxe contains 120 puzzles, designed by Conceptis Ltd, They produce cute, detailed pictures which have been carefully hand-crafted and are guaranteed to be uniquely solvable. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D1100D1A8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D1100D1A8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D1100D1A8000/screen/1",
+    "http://api.nlib.cc/nx/0100D1100D1A8000/screen/2",
+    "http://api.nlib.cc/nx/0100D1100D1A8000/screen/3",
+    "http://api.nlib.cc/nx/0100D1100D1A8000/screen/4",
+    "http://api.nlib.cc/nx/0100D1100D1A8000/screen/5"
+  ]
+}

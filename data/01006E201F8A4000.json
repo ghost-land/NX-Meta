@@ -1,0 +1,16 @@
+{
+  "name": "Retro Battle",
+  "publisher": "YSO Corp",
+  "releaseDate": "20240710",
+  "description": "Test your skill on retro games with Retro Battle !\n\nNPC Battles • Defy a variety of NPCs, each with unique abilities and strategies, to unlock new challenges and rewards.\n\nRetro-Themed Mini-Games • Enjoy a diverse selection of mini-games inspired by classic arcade and console hits.\n\nQuick and Fun Gameplay • Perfect for short, engaging play sessions that capture the nostalgic spirit of retro gaming.\n\nWill you be able to win all your duels and become the best Retro Player ? Download now and test your skills !",
+  "bannerUrl": "http://api.nlib.cc/nx/01006E201F8A4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006E201F8A4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006E201F8A4000/screen/1",
+    "http://api.nlib.cc/nx/01006E201F8A4000/screen/2",
+    "http://api.nlib.cc/nx/01006E201F8A4000/screen/3",
+    "http://api.nlib.cc/nx/01006E201F8A4000/screen/4",
+    "http://api.nlib.cc/nx/01006E201F8A4000/screen/5",
+    "http://api.nlib.cc/nx/01006E201F8A4000/screen/6"
+  ]
+}

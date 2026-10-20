@@ -1,0 +1,15 @@
+{
+  "name": "Meow Mission",
+  "publisher": "Digital Touch",
+  "releaseDate": "20250130",
+  "description": "Solve various puzzles in Meow Mission to rescue cats trapped in alien dimensions! The quirky cats you rescue will move to Tomcat House, where they can create memories with Tomcat.\n\n■ Diverse Puzzles\n●\tSolve based puzzles to search for the cats!\n●\tExplore puzzles with familiar mechanics and uniquely modified rules in a multi-dimensional space.\n●\tEach stage brings new challenges to stimulate your problem-solving skills.\n\n■ Housing\n●\tRescued cats live safely in Tomcat House, where they can spend special time with Tomcat.\n●\tPlay with the cats in Tomcat House, but be careful—they might be a bit prickly!\n●\tDecorate Tomcat House with slabs discovered throughout the dimensions and discover the diverse charms of Tomcat.\n\n■ Cat Collection\n●\tCollect cat friends with various personalities!\n●\tSpend time with rescued cats to build affection, unlocking special interactions and events.\n\n■ Stories Beyond Dimensions\n●\tAs you grow closer to the cats, hidden stories are unlocked, allowing you to enjoy the unique stories of each cat through comic strips.\n●\tExperience the charm of diverse stories through bonding with the cats.\n\nShall we go save these adorable cats?\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01000CD020996000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000CD020996000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000CD020996000/screen/1",
+    "http://api.nlib.cc/nx/01000CD020996000/screen/2",
+    "http://api.nlib.cc/nx/01000CD020996000/screen/3",
+    "http://api.nlib.cc/nx/01000CD020996000/screen/4",
+    "http://api.nlib.cc/nx/01000CD020996000/screen/5"
+  ]
+}

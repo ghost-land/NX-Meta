@@ -1,0 +1,14 @@
+{
+  "name": "NINJA REVENGER",
+  "publisher": "pixyda",
+  "releaseDate": "20250605",
+  "description": "Arcade-style top-down 2D action game. Sacrifice energy as you defeat foes and carve your path forward. As you take risks, adrenaline surges, unleashing Berserk. Keep fighting for revenge as the Cyber Ninja.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DB602397C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DB602397C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DB602397C000/screen/1",
+    "http://api.nlib.cc/nx/0100DB602397C000/screen/2",
+    "http://api.nlib.cc/nx/0100DB602397C000/screen/3",
+    "http://api.nlib.cc/nx/0100DB602397C000/screen/4"
+  ]
+}

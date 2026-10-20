@@ -1,0 +1,16 @@
+{
+  "name": "Mortal Kombat: Legacy Kollection",
+  "publisher": "Digital Eclipse",
+  "releaseDate": "20251030",
+  "description": "Experience the legendary origins of the franchise with the iconic arcade classics that started it all—alongside a curated selection of most-loved home versions and rare, fan-favorite releases—a celebration of the franchise’s groundbreaking legacy.\n\nDigital Eclipse's interactive documentary format explores how Mortal Kombat changed the way society perceived video games. By using digitized humans as player sprites in an over-the-top, martial-arts fighter, the game thrilled players, shocked critics, and laid the foundation for a franchise that has thrived for more than 30 years. Hear firsthand from the original dev team of Ed Boon, John Tobias, John Vogel, and Dan Forden, along with other exclusive interviews, rare concept art, vintage marketing materials, and archival video footage. \n\nMortal Kombat: Legacy Kollection also lets players explore Mortal Kombat lore, with a timeline of the original series' storyline and comprehensive character histories that offer stories, secrets, and glimpses behind the scenes at their creation. \n\nFeatures\n\n- Multiple Iconic Editions: Experience the legendary origins of Mortal Kombat with the iconic arcade classics along with well loved home versions and rare, fan-favorite releases.\n\n- Online Play: Engage in online battles enhanced by rollback netcode— engineered to preserve the precision of every attack, even with players across vast distances.\n\n- No More Secrets: At the touch of a button, unlock all secret characters, change game settings, and access the buried developer menus to play the games your way. \n\n- Interactive Documentary: Deep behind-the-scenes content chronicles the history of the franchise, featuring exclusive new interviews with original MK developers Ed Boon, John Tobias, Dan Forden, John Vogel, and dozens more.\n\n- The Full Story: Detailed character histories and timelines trace the epic narrative of Earthrealm, Outworld, and Edenia through the arcade era.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005E902232A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005E902232A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005E902232A000/screen/1",
+    "http://api.nlib.cc/nx/01005E902232A000/screen/2",
+    "http://api.nlib.cc/nx/01005E902232A000/screen/3",
+    "http://api.nlib.cc/nx/01005E902232A000/screen/4",
+    "http://api.nlib.cc/nx/01005E902232A000/screen/5",
+    "http://api.nlib.cc/nx/01005E902232A000/screen/6"
+  ]
+}

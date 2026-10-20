@@ -1,0 +1,16 @@
+{
+  "name": "Life is Strange Remastered",
+  "publisher": "Square Enix Europe LTD",
+  "releaseDate": "20220927",
+  "description": "Experience the BAFTA award-winning story of Life is Strange now beautifully remastered with enhanced visuals and vastly improved animation using mocap technology.\nPlay as Max Caulfield, a photography senior who discovers she can rewind time while saving her best friend Chloe Price from a violent altercation.\nThe pair soon find themselves investigating the mysterious disappearance of fellow student Rachel Amber, uncovering a dark side to life in Arcadia Bay. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DC301186A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DC301186A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DC301186A000/screen/1",
+    "http://api.nlib.cc/nx/0100DC301186A000/screen/2",
+    "http://api.nlib.cc/nx/0100DC301186A000/screen/3",
+    "http://api.nlib.cc/nx/0100DC301186A000/screen/4",
+    "http://api.nlib.cc/nx/0100DC301186A000/screen/5",
+    "http://api.nlib.cc/nx/0100DC301186A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "FANTASIAN Neo Dimension",
+  "publisher": "SQUARE ENIX",
+  "releaseDate": "20241205",
+  "description": "The Father of FINAL FANTASY, Hironobu Sakaguchi, and renowned composer Nobuo Uematsu return to deliver an original RPG story. \n\nMechteria—a deathly mechanical infection that robs humans of their emotions and lives—is slowly engulfing the world.\n\nThe protagonist Leo awakens with only one memory left to him in a strange land abundant with machines   .\n\nThe human world, threatened by mechteria... a machine world, filled with mysteries... and the unseen dimensions that lie beyond both.\n\nUsing the Warp Device that was left behind, Leo must now embark on an interdimensional journey to reclaim his lost memories and save the world from the mechteria infection.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001BB01E8E2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001BB01E8E2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001BB01E8E2000/screen/1",
+    "http://api.nlib.cc/nx/01001BB01E8E2000/screen/2",
+    "http://api.nlib.cc/nx/01001BB01E8E2000/screen/3",
+    "http://api.nlib.cc/nx/01001BB01E8E2000/screen/4",
+    "http://api.nlib.cc/nx/01001BB01E8E2000/screen/5",
+    "http://api.nlib.cc/nx/01001BB01E8E2000/screen/6"
+  ]
+}

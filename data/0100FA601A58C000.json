@@ -1,0 +1,16 @@
+{
+  "name": "Black Skylands",
+  "publisher": "tinyBuild Games",
+  "releaseDate": "20230815",
+  "description": "Black Skylands is the first steampunk experience that combines elements of open world, sandbox, top-down shooter, and adventure games.\n\nYou'll play as Eva, a proud, brave young woman, who wants revenge on the cold-blooded outlaws who destroyed everything she held dear. Become the captain of an airship and explore the world of the skies, gather resources and build powerful weapons, uncover ancient secrets and fight beneath your ship's sails.\n\nHowever, keep in mind that outlaws are not the only threat you'll encounter. In the deepest depths of the dark skies, something far more dangerous lurks…\n• Fight in the skies and on land\n• Improve your ship and equipment\n• Conquer new territory\n• Explore an expansive open world\n• Unravel the secrets of the Swarm",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FA601A58C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FA601A58C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FA601A58C000/screen/1",
+    "http://api.nlib.cc/nx/0100FA601A58C000/screen/2",
+    "http://api.nlib.cc/nx/0100FA601A58C000/screen/3",
+    "http://api.nlib.cc/nx/0100FA601A58C000/screen/4",
+    "http://api.nlib.cc/nx/0100FA601A58C000/screen/5",
+    "http://api.nlib.cc/nx/0100FA601A58C000/screen/6"
+  ]
+}

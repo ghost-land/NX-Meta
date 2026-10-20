@@ -1,0 +1,16 @@
+{
+  "name": "버디 미션 BOND",
+  "publisher": "Nintendo",
+  "releaseDate": "20210820",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/010042F014A00000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010042F014A00000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010042F014A00000/screen/1",
+    "http://api.nlib.cc/nx/010042F014A00000/screen/2",
+    "http://api.nlib.cc/nx/010042F014A00000/screen/3",
+    "http://api.nlib.cc/nx/010042F014A00000/screen/4",
+    "http://api.nlib.cc/nx/010042F014A00000/screen/5",
+    "http://api.nlib.cc/nx/010042F014A00000/screen/6"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Anime Fitness - Summer Sweat",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20260813",
+  "description": "Turn fitness into a fun, motivating, and interactive experience.\n\nChoose your personal trainer, select your level, and begin your custom fitness journey through structured workouts that keep you challenged and inspired. \n\nEach session combines 7 different exercises, performed for 1 minute 30 seconds with short 30-second breaks — repeated twice for a full 28-minute workout plus warm-up. With over 100 exercises, there are endless variations to keep every session fresh. \n\nBuild your personal training schedule across weeks or months, earn rewards for staying consistent, and watch your strength and endurance grow. Each trainer brings unique energy, voice, and encouragement to help you stay motivated. \n\nVibrant visuals, dynamic environments, and pumping music transform every workout into a fitness adventure. Whether you’re just starting out or chasing peak performance. \n\nThis game will help you to stay active, healthy, and motivated long-term. \n",
+  "bannerUrl": "http://api.nlib.cc/nx/01004B70288F8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004B70288F8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004B70288F8000/screen/1",
+    "http://api.nlib.cc/nx/01004B70288F8000/screen/2",
+    "http://api.nlib.cc/nx/01004B70288F8000/screen/3",
+    "http://api.nlib.cc/nx/01004B70288F8000/screen/4",
+    "http://api.nlib.cc/nx/01004B70288F8000/screen/5",
+    "http://api.nlib.cc/nx/01004B70288F8000/screen/6"
+  ],
+  "version": 0,
+  "size": 982270652
+}

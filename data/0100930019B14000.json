@@ -1,0 +1,16 @@
+{
+  "name": "Tempoknight",
+  "publisher": "Weakfish Studio",
+  "releaseDate": "20221112",
+  "description": "Tempoknight is 2D Wave Based Endless Fighting Game,\n\nDesign your character the way you want!\nand join the Battles!\nThe game will accelerate at a fast pace and will become increasingly difficult.\nStrive to beat your previous score!\nDefeat your Enemies on 3 Maps!\nDon't underestimate them, your opponents will get harder and harder.\nYou have to be fast and analyze your enemies well.\nYou might get a blow to the head unexpectedly!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100930019B14000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100930019B14000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100930019B14000/screen/1",
+    "http://api.nlib.cc/nx/0100930019B14000/screen/2",
+    "http://api.nlib.cc/nx/0100930019B14000/screen/3",
+    "http://api.nlib.cc/nx/0100930019B14000/screen/4",
+    "http://api.nlib.cc/nx/0100930019B14000/screen/5",
+    "http://api.nlib.cc/nx/0100930019B14000/screen/6"
+  ]
+}

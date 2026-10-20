@@ -1,0 +1,16 @@
+{
+  "name": "Time Trap: Hidden Objects",
+  "publisher": "Two Cakes Studio",
+  "releaseDate": "20240229",
+  "description": "Time Trap is a hidden object game telling a detective story with distinct realistic visuals, puzzles, and challenges.\n\nOur story begins with John Doe, a journalist who has gone missing. He was investigating a hazardous disaster caused by the “Ring of Time” corporation that transformed the city into an abandoned quarantine zone. After finding proof that the quarantine zone was continuing to expand, John’s editor-in-chief contacted the police claiming that Doe was missing. He feared that John may have gone into the quarantine zone to carry out his own investigation. Now it is your job to follow John’s steps and uncover the secrets of the danger zone.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A0601D60A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A0601D60A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A0601D60A000/screen/1",
+    "http://api.nlib.cc/nx/0100A0601D60A000/screen/2",
+    "http://api.nlib.cc/nx/0100A0601D60A000/screen/3",
+    "http://api.nlib.cc/nx/0100A0601D60A000/screen/4",
+    "http://api.nlib.cc/nx/0100A0601D60A000/screen/5",
+    "http://api.nlib.cc/nx/0100A0601D60A000/screen/6"
+  ]
+}

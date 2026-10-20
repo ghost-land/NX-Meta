@@ -1,0 +1,16 @@
+{
+  "name": "Casino GOLF",
+  "publisher": "KrzysztofPodsada",
+  "releaseDate": "20220603",
+  "description": "Beat 50 levels and feel the adrenaline like in a casino!\nGame RULES:\nPlace a bet and put the ball in the hole.  You can increase the multiplier by playing the \"VaBANQUE\" with all your money. You only have one chance to play the \"VaBANQUE\" in a round, and you can only do so once per round by playing the first ball. Each time you fail to place a ball in the hole, the bet multiplier decreases.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005950186F2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005950186F2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005950186F2000/screen/1",
+    "http://api.nlib.cc/nx/01005950186F2000/screen/2",
+    "http://api.nlib.cc/nx/01005950186F2000/screen/3",
+    "http://api.nlib.cc/nx/01005950186F2000/screen/4",
+    "http://api.nlib.cc/nx/01005950186F2000/screen/5",
+    "http://api.nlib.cc/nx/01005950186F2000/screen/6"
+  ]
+}

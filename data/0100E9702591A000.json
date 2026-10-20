@@ -1,0 +1,16 @@
+{
+  "name": "Word Quest Pirates",
+  "publisher": "Gametry",
+  "releaseDate": "20251016",
+  "description": "Ahoy, word hunter! Set sail on a thrilling puzzle adventure where the seas are filled with hidden words and untold treasures. In Word Quest: Pirates, you’ll solve exciting word searches to unlock treasure chests, outsmart rival pirates, and uncover legendary loot. With each level, the challenge grows as you chart your way across mysterious islands and ancient maps.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E9702591A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E9702591A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E9702591A000/screen/1",
+    "http://api.nlib.cc/nx/0100E9702591A000/screen/2",
+    "http://api.nlib.cc/nx/0100E9702591A000/screen/3",
+    "http://api.nlib.cc/nx/0100E9702591A000/screen/4",
+    "http://api.nlib.cc/nx/0100E9702591A000/screen/5",
+    "http://api.nlib.cc/nx/0100E9702591A000/screen/6"
+  ]
+}

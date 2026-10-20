@@ -1,0 +1,14 @@
+{
+  "name": "Cute Astro",
+  "publisher": "Afil Games",
+  "releaseDate": "20260218",
+  "description": "Cute Astro is a cozy, pixel-art puzzle where you play a rockstar mouse pushing tasty cheese cubes across musical score boards. Each board has score holes that must be filled with cheese to complete the riff and open the way forward. The challenge is all about careful planning, avoiding deadlocks, and pushing in the right order.\nWith 30 handcrafted levels, two themed stages, instant Undo and Restart, and a playful concert atmosphere, it’s perfect for casual players and logic-puzzle fans who enjoy relaxing, brain-teasing challenges.\nAcross 30 levels in two biomes, the crisp Purple Stage and the warm Orange Stage, the player enters a compact grid filled with obstacles, cheese cubes, and score holes. A level ends only when every hole is filled. There is no timer and every action can be reversed through Undo or Restart, keeping the focus on planning, iteration, and discovery.\nMoment-to-moment the loop is simple and satisfying: observe, plan a route, move tile by tile, push cheese into place, adjust with Undo or Restart, fill every hole, and enjoy the musical sting that celebrates your victory.",
+  "bannerUrl": "http://api.nlib.cc/nx/010037D026518000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010037D026518000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010037D026518000/screen/1",
+    "http://api.nlib.cc/nx/010037D026518000/screen/2",
+    "http://api.nlib.cc/nx/010037D026518000/screen/3",
+    "http://api.nlib.cc/nx/010037D026518000/screen/4"
+  ]
+}

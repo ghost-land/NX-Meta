@@ -1,0 +1,16 @@
+{
+  "name": "Funghi Explosion",
+  "publisher": "D3PUBLISHER",
+  "releaseDate": "20181220",
+  "description": "Easy to play alone and fun with a friend, this puzzle game is great for beginner or veteran alike. The rules are simple: gather up three of the same Funghi to make them disappear.\nFunghis will sprout on the log depending on how many blocks you've cleared. When the log is full, the Funghis will be loaded into a box, earning you points.\n\nEasy Mode\nAn easy mode with hints for beginners.\n\nSolo Mode\nA mode where the player solves puzzle after puzzle, aiming for a high score.\n\nCromwell's Detective Lesson Mode\nSolve the detective challenges Cromwell gives you in this mode to improve your Detective IQ.\n\nVersus Mode\nA mode where you can play with your family or friends.\n\nHow to Play\nLearn how to play Funghi Explosion here.\n\nRanking\nThis is where all of the points you gain in-game are recorded.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E7B00BF24000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E7B00BF24000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E7B00BF24000/screen/1",
+    "http://api.nlib.cc/nx/0100E7B00BF24000/screen/2",
+    "http://api.nlib.cc/nx/0100E7B00BF24000/screen/3",
+    "http://api.nlib.cc/nx/0100E7B00BF24000/screen/4",
+    "http://api.nlib.cc/nx/0100E7B00BF24000/screen/5",
+    "http://api.nlib.cc/nx/0100E7B00BF24000/screen/6"
+  ]
+}

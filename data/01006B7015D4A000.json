@@ -1,0 +1,14 @@
+{
+  "name": "Pixel Jumper",
+  "publisher": "Digital Game Group",
+  "releaseDate": "20220128",
+  "description": "Help Idaho Joe explore the caves of Idaho seeking loads of treasures. Watch out for rock monsters. Idaho Joe only has two survival skill. Jump and Jump Higher.  Collect all the coins and become a billionaire explorer!",
+  "bannerUrl": "http://api.nlib.cc/nx/01006B7015D4A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006B7015D4A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006B7015D4A000/screen/1",
+    "http://api.nlib.cc/nx/01006B7015D4A000/screen/2",
+    "http://api.nlib.cc/nx/01006B7015D4A000/screen/3",
+    "http://api.nlib.cc/nx/01006B7015D4A000/screen/4"
+  ]
+}

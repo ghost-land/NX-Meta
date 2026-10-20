@@ -1,0 +1,18 @@
+{
+  "name": "Legacy of Kain: Ascendance",
+  "publisher": "Crystal Dynamics",
+  "releaseDate": "20260331",
+  "description": "Legacy of Kain: Ascendance is a fast, 2D action platformer built around vertical movement, fluid combat, and skill-driven play. \n\nNosgoth’s dark fantasy world is brought to life through animated cut scenes and beautifully crafted pixel art gameplay. Each level filled with environmental challenges and puzzles that flow seamlessly into combat. Fly, fight, and unravel the past in a world of collapsing kingdoms, haunted ruins, and shattered timelines.\n\n2D Action Platformer \nChain melee strikes, evasive dashes, and supernatural attacks in fluid, vicious combat. \n\nMultiple Protagonists \nOverwhelm the battlefield with Kain’s vampiric powers. Play Raziel before his fall as a human Sarafan knight, then take flight for the first time in his vampiric form. The Vampire Elaleth introduces an aggressive playstyle focused on fast relentless offense.\n\nOriginal Score\nAscendance delivers a powerful original score by Celldweller.\n\nReturning Voice Talent\nReunites iconic Legacy of Kain voice actors – Michael Bell, Simon Templeman, Richard Doyle and Anna Gunn.",
+  "bannerUrl": "http://api.nlib.cc/nx/010031D026BD0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010031D026BD0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010031D026BD0000/screen/1",
+    "http://api.nlib.cc/nx/010031D026BD0000/screen/2",
+    "http://api.nlib.cc/nx/010031D026BD0000/screen/3",
+    "http://api.nlib.cc/nx/010031D026BD0000/screen/4",
+    "http://api.nlib.cc/nx/010031D026BD0000/screen/5",
+    "http://api.nlib.cc/nx/010031D026BD0000/screen/6"
+  ],
+  "version": 0,
+  "size": 751654080
+}

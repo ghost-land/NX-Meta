@@ -1,0 +1,16 @@
+{
+  "name": "Super Spy Raccoon",
+  "publisher": "Flynns Arcade",
+  "releaseDate": "20241219",
+  "description": "Super Spy Raccoon is an imagining of a stealth game as an early 80's Arcade Classic! Your mission, if you choose to accept it, is to acquire all classified documents as you venture deeper and deeper into enemy territory. Hide, sneak, climb, and leap your way to victory! YOU MUST NOT BE SEEN! Do you have the skills to top score?\n\nWhat to expect\n\n- 5 single-screen levels that loop until a kill screen!\n- Challenging yet addictive arcade style fun\n- Short wait-times to get right back into the action!\n- Unlockable suit colors to match your sense of style\n- Local and global leaderboards for increased bragging rights!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D71021602000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D71021602000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D71021602000/screen/1",
+    "http://api.nlib.cc/nx/0100D71021602000/screen/2",
+    "http://api.nlib.cc/nx/0100D71021602000/screen/3",
+    "http://api.nlib.cc/nx/0100D71021602000/screen/4",
+    "http://api.nlib.cc/nx/0100D71021602000/screen/5",
+    "http://api.nlib.cc/nx/0100D71021602000/screen/6"
+  ]
+}

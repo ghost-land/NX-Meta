@@ -1,0 +1,16 @@
+{
+  "name": "Nyanzou & Kumakichi Bomb Cave",
+  "publisher": "AlignmentSharp",
+  "releaseDate": "20240328",
+  "description": "Push through the cave where bombs and treasures sleep!\nOn the floor, the number of bombs around you is written.\nUse it as a hint to infer a bomb location and dig it up.\nThere are many treasures in the cave.\nYou can sell the treasures you get and create a nice shop.\nAlso, if you discover the treasure, you will be able to tell you the magic that can be used for search.\nUse magic to explore the cave deeper.",
+  "bannerUrl": "http://api.nlib.cc/nx/010068601DC9A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010068601DC9A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010068601DC9A000/screen/1",
+    "http://api.nlib.cc/nx/010068601DC9A000/screen/2",
+    "http://api.nlib.cc/nx/010068601DC9A000/screen/3",
+    "http://api.nlib.cc/nx/010068601DC9A000/screen/4",
+    "http://api.nlib.cc/nx/010068601DC9A000/screen/5",
+    "http://api.nlib.cc/nx/010068601DC9A000/screen/6"
+  ]
+}

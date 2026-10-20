@@ -1,0 +1,15 @@
+{
+  "name": "Bungee Run",
+  "publisher": "Entity3",
+  "releaseDate": "20240330",
+  "description": "Take on the bungee run!\n\nCollect helpers as you avoid obstacles and try to reach the end of the run!\n\nMiss the helps and feel the force of the bungee pull you back!\n\nCan you beat the run!",
+  "bannerUrl": "http://api.nlib.cc/nx/010049A01E28C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010049A01E28C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010049A01E28C000/screen/1",
+    "http://api.nlib.cc/nx/010049A01E28C000/screen/2",
+    "http://api.nlib.cc/nx/010049A01E28C000/screen/3",
+    "http://api.nlib.cc/nx/010049A01E28C000/screen/4",
+    "http://api.nlib.cc/nx/010049A01E28C000/screen/5"
+  ]
+}

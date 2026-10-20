@@ -1,0 +1,16 @@
+{
+  "name": "Puzzle Collection",
+  "publisher": "Soroka Games",
+  "releaseDate": "20220520",
+  "description": "The game have 3 difficulty levels starting from 15 to 160 puzzle pieces. Game designed for everyone, from the smallest to the older players!\n\n- 40 Cozy Puzzles\n- 3 Types Of Difficulty (15 / 40 / 160 pieces)\n- 3 Categories (Animals, Fairy Tales, Adventures)\n- Touchscreen Support\n- Relaxing Music\n\nLet's start enjoying the amazing puzzle collection!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100247018364000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100247018364000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100247018364000/screen/1",
+    "http://api.nlib.cc/nx/0100247018364000/screen/2",
+    "http://api.nlib.cc/nx/0100247018364000/screen/3",
+    "http://api.nlib.cc/nx/0100247018364000/screen/4",
+    "http://api.nlib.cc/nx/0100247018364000/screen/5",
+    "http://api.nlib.cc/nx/0100247018364000/screen/6"
+  ]
+}

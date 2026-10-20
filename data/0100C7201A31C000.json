@@ -1,0 +1,15 @@
+{
+  "name": "Street Racers",
+  "publisher": "YeTa Games",
+  "releaseDate": "20230207",
+  "description": "Street Racers provide fun and exciting arcade car race game. Inspired from old school arcade racer and provide similar gameplay and visual esthetic.\n\nFeatures:\n24 racing area with 6 different theme\n15+ racing car option\nDynamic HD rumble feedback\nLow-poly style neo-retro esthetic\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C7201A31C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C7201A31C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C7201A31C000/screen/1",
+    "http://api.nlib.cc/nx/0100C7201A31C000/screen/2",
+    "http://api.nlib.cc/nx/0100C7201A31C000/screen/3",
+    "http://api.nlib.cc/nx/0100C7201A31C000/screen/4",
+    "http://api.nlib.cc/nx/0100C7201A31C000/screen/5"
+  ]
+}

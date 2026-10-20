@@ -1,0 +1,16 @@
+{
+  "name": "Color Breakers",
+  "publisher": "deleon",
+  "releaseDate": "20220707",
+  "description": "Co-op Experience!\nEvery level is full of chaos and mystery, so completing those paintings will be harder than it sounds. Players need to coordinate and collaborate to make sure the paintings are completed before the timer runs out.\n\nWill you work together to complete your masterpiece? Or will you get in each other's way and ruin what you've been working so hard to achieve?\n\nVersus Mode!\nCompete against your friends in versus mode both locally and online to prove once and for all who is the best painter of all time.\n\nIncludes:\n- New unique battle stages.\n- Tons of chaos, fun and ruined friendships.\n\nCreative!\nUnleash your creativity and make your own paintings in Creative Mode. Create amazing masterpieces and save them to the Gallery to create your own personal art exhibition.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002FD017DDE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002FD017DDE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002FD017DDE000/screen/1",
+    "http://api.nlib.cc/nx/01002FD017DDE000/screen/2",
+    "http://api.nlib.cc/nx/01002FD017DDE000/screen/3",
+    "http://api.nlib.cc/nx/01002FD017DDE000/screen/4",
+    "http://api.nlib.cc/nx/01002FD017DDE000/screen/5",
+    "http://api.nlib.cc/nx/01002FD017DDE000/screen/6"
+  ]
+}

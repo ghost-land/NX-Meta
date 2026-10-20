@@ -1,0 +1,16 @@
+{
+  "name": "Flying Neko Delivery",
+  "publisher": "Fractal Phase",
+  "releaseDate": "20221020",
+  "description": "Take on the role of Onigiri, a feline witch who lives in a cottage and delivers packages flying on a broomstick. Customize your cottage, explore new worlds, forage plants and fungi, and meet quirky villagers along the way, while enjoying music by Mark Sparling, the composer for A Short Hike.\n\nDeliver packages on a flying broomstick which you can upgrade. Simple and forgiving controls let you enjoy flying without worrying about crashing or combat. Explore diverse worlds and forage wild plants along the way!\n\nReturn to your cottage to cook food, craft upgrades, and unlock new abilities. Express yourself by decorating the cottage with customizable furniture. Shop for new furniture while you're out on deliveries!\n\nDelivering packages to the same villager deepens your relationship with them. Become close friends to unlock rewards and open portals to new worlds!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D2701762E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D2701762E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D2701762E000/screen/1",
+    "http://api.nlib.cc/nx/0100D2701762E000/screen/2",
+    "http://api.nlib.cc/nx/0100D2701762E000/screen/3",
+    "http://api.nlib.cc/nx/0100D2701762E000/screen/4",
+    "http://api.nlib.cc/nx/0100D2701762E000/screen/5",
+    "http://api.nlib.cc/nx/0100D2701762E000/screen/6"
+  ]
+}

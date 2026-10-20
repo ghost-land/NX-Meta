@@ -1,0 +1,16 @@
+{
+  "name": "Baldur's Gate: Dark Alliance",
+  "publisher": "Interplay",
+  "releaseDate": "20210520",
+  "description": "Experience the massively popular world of Baldur's Gate as never before. Baldur's Gate: Dark Alliance thrusts you into an epic Dungeons & Dragons adventure filled with intense action, intricate puzzles and sinister intrigue, where your mastery of cold steel and devastating spells is the only thing between you and ultimate evil.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FD1014726000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FD1014726000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FD1014726000/screen/1",
+    "http://api.nlib.cc/nx/0100FD1014726000/screen/2",
+    "http://api.nlib.cc/nx/0100FD1014726000/screen/3",
+    "http://api.nlib.cc/nx/0100FD1014726000/screen/4",
+    "http://api.nlib.cc/nx/0100FD1014726000/screen/5",
+    "http://api.nlib.cc/nx/0100FD1014726000/screen/6"
+  ]
+}

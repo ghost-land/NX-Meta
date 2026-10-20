@@ -1,0 +1,16 @@
+{
+  "name": "Ninja Smasher!",
+  "publisher": "Flyhigh Works",
+  "releaseDate": "20230427",
+  "description": "In this fresh take on ninja-based action games, use your ninja to battle the monster army!\n\nGet ready for some excitement in your life with this fast-paced action game, filled with the type of exhilarating energy that only ninjas possess!\n\nFrom katanas, to throwing knives, to ninjutsu, you must master your ninja skills in order to save the kidnapped princess!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C0001AA62000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C0001AA62000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C0001AA62000/screen/1",
+    "http://api.nlib.cc/nx/0100C0001AA62000/screen/2",
+    "http://api.nlib.cc/nx/0100C0001AA62000/screen/3",
+    "http://api.nlib.cc/nx/0100C0001AA62000/screen/4",
+    "http://api.nlib.cc/nx/0100C0001AA62000/screen/5",
+    "http://api.nlib.cc/nx/0100C0001AA62000/screen/6"
+  ]
+}

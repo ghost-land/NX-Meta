@@ -1,0 +1,16 @@
+{
+  "name": "Gridz Keeper",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20260107",
+  "description": "In the aftermath of a zombie apocalypse, the world has gone dark. Cities lie silent, their power grids fractured and failing. You are the only remaining repairman that can restore power to the last safe zones of humanity.\n\nGridz Keeper is an action puzzler featuring 50 levels that challenge you to repair all the generators in them to move on. Each generator you repair sparks hope, but the power lines are unstable. Every switch you flip triggers any adjacent ones too, plunging some back into darkness while others flare to life. Master the grid, anticipate the chain reactions and reclaim the light one generator at a time!\n\n• Master 50 stages of brainteasing action!\n• Use your wrench to turn generators on and off!\n• Strategically activate generators to power them all!\n• Overcome gradually increasing complexity and difficulty!\n• Retry stages as many times as it takes!",
+  "bannerUrl": "http://api.nlib.cc/nx/010084F025BDC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010084F025BDC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010084F025BDC000/screen/1",
+    "http://api.nlib.cc/nx/010084F025BDC000/screen/2",
+    "http://api.nlib.cc/nx/010084F025BDC000/screen/3",
+    "http://api.nlib.cc/nx/010084F025BDC000/screen/4",
+    "http://api.nlib.cc/nx/010084F025BDC000/screen/5",
+    "http://api.nlib.cc/nx/010084F025BDC000/screen/6"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Zodiac Tri Peaks Solitaire",
+  "publisher": "Digital Game Group",
+  "releaseDate": "20220127",
+  "description": "Play Tri-Peaks Solitaire with a Zodiac Theme. Win progressive play to unlock new card themes and backgrounds, or play just the classic game to kill time. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D36017552000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D36017552000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D36017552000/screen/1",
+    "http://api.nlib.cc/nx/0100D36017552000/screen/2",
+    "http://api.nlib.cc/nx/0100D36017552000/screen/3"
+  ]
+}

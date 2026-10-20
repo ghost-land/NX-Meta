@@ -1,0 +1,15 @@
+{
+  "name": "Duck, Quack, Shoot!",
+  "publisher": "Excalibur Games",
+  "releaseDate": "20240216",
+  "description": "Duck, Quack, Shoot! Is a fun party game styled like an old-fashioned mechanical carnival shooting gallery. Can you beat the ducks? \n\n•\tSingle and local multiplayer game modes\n•\t4 unique background themes -fairground, casino, farm and outer space\n•\tClassic mechanical shooting gallery \n•\tFun and fast paced with a variety of traditional and special targets! \n",
+  "bannerUrl": "http://api.nlib.cc/nx/010026B01D710000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010026B01D710000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010026B01D710000/screen/1",
+    "http://api.nlib.cc/nx/010026B01D710000/screen/2",
+    "http://api.nlib.cc/nx/010026B01D710000/screen/3",
+    "http://api.nlib.cc/nx/010026B01D710000/screen/4",
+    "http://api.nlib.cc/nx/010026B01D710000/screen/5"
+  ]
+}

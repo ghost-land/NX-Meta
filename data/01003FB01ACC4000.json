@@ -1,0 +1,15 @@
+{
+  "name": "Dude, Where Is My Beer?",
+  "publisher": "Arik Games",
+  "releaseDate": "20230418",
+  "description": "Can you find a normal beer in a world of conspicuously flavoured craft beer, and solve the mystery of the elusive, missing pilsner, using nostalgic interface from the golden age of adventure games? Talk to West Coast IPA and American Black Ale drinking hipsters and solve beer related puzzles at different stages of drunkenness; explore locations like a sports bar, a microbrewery, a dive bar and a rock bar in the city of Oslo, in your quest of finding a pilsner.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003FB01ACC4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003FB01ACC4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003FB01ACC4000/screen/1",
+    "http://api.nlib.cc/nx/01003FB01ACC4000/screen/2",
+    "http://api.nlib.cc/nx/01003FB01ACC4000/screen/3",
+    "http://api.nlib.cc/nx/01003FB01ACC4000/screen/4",
+    "http://api.nlib.cc/nx/01003FB01ACC4000/screen/5"
+  ]
+}

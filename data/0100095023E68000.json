@@ -1,0 +1,16 @@
+{
+  "name": "Wildkeepers Rising",
+  "publisher": "Lioncode Games",
+  "releaseDate": "20251112",
+  "description": "Wildkeepers Rising is a whimsical action-RPG roguelite set in a beautiful hand-drawn world that combines the power curve of bullet heaven games with the compulsive fun of a creature collector.\n\nFEATURES\n* Bullet Heaven: Shred thousands of monsters in bullet heaven runs\n* Creature Collector: Discover, tame, and train magical beasts\n* Runs & Builds: Create team synergies with different Guardians\n* Roguelike Runs: Take runs with different Wildkeepers wielding different weapons\n* Progression: Unlock new Guardians and items and make them stronger between runs\n* RPG Elements: Discover a rich world of fantasy heroes and magical monsters",
+  "bannerUrl": "http://api.nlib.cc/nx/0100095023E68000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100095023E68000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100095023E68000/screen/1",
+    "http://api.nlib.cc/nx/0100095023E68000/screen/2",
+    "http://api.nlib.cc/nx/0100095023E68000/screen/3",
+    "http://api.nlib.cc/nx/0100095023E68000/screen/4",
+    "http://api.nlib.cc/nx/0100095023E68000/screen/5",
+    "http://api.nlib.cc/nx/0100095023E68000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Skydrift Infinity",
+  "publisher": "HandyGames",
+  "releaseDate": "20210729",
+  "description": "\"Skydrift Infinity is an action-packed arcade game focusing on the experience of flying alone, and with others, in a light, quick, fast-paced style. \n\nDuring the various game modes you can partake in deathmatches and armed races as well as other armed competitions, using modern airplanes, which are tuned to the max, with extreme weapons. Your goal is simple: if you can't overtake them, shoot them down!\n\nPlay alone, with your friends or compete against previously unknown online challengers! For relaxation explore the exotic islands, used as the venues of the races and arena modes, where you can break free of the 2 dimensionality, that binds known racing games! Your possibilities are limited only by your own imagination!\"\n\nFeatures:\nSix Power-ups! Capture up to two different powers in your plane’s arsenal, then collect upgrades to increase the strength of those existing powers. \n\nStunning Visuals: Race through scenic venues like the Grand Canyon, Alaskan Terrain and Hawaiian Islands, created with beautiful, vibrant colors.\n\n8-person Multiplayer: Take your friends down online in this fast and furious battle.\n\nSplitscreen mode for local multiplayer with up to 4 players\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DE000BBDA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DE000BBDA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DE000BBDA000/screen/1",
+    "http://api.nlib.cc/nx/0100DE000BBDA000/screen/2",
+    "http://api.nlib.cc/nx/0100DE000BBDA000/screen/3",
+    "http://api.nlib.cc/nx/0100DE000BBDA000/screen/4",
+    "http://api.nlib.cc/nx/0100DE000BBDA000/screen/5",
+    "http://api.nlib.cc/nx/0100DE000BBDA000/screen/6"
+  ]
+}

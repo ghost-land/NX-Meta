@@ -1,0 +1,15 @@
+{
+  "name": "スプラトゥーン2 特別体験版",
+  "publisher": "任天堂",
+  "releaseDate": "20190315",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/01009C900D458000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009C900D458000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009C900D458000/screen/1",
+    "http://api.nlib.cc/nx/01009C900D458000/screen/2",
+    "http://api.nlib.cc/nx/01009C900D458000/screen/3",
+    "http://api.nlib.cc/nx/01009C900D458000/screen/4",
+    "http://api.nlib.cc/nx/01009C900D458000/screen/5"
+  ]
+}

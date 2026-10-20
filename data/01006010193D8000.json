@@ -1,0 +1,16 @@
+{
+  "name": "성탑신기 트리니티 트리거",
+  "publisher": "ARC SYSTEM WORKS",
+  "releaseDate": "20230119",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/01006010193D8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006010193D8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006010193D8000/screen/1",
+    "http://api.nlib.cc/nx/01006010193D8000/screen/2",
+    "http://api.nlib.cc/nx/01006010193D8000/screen/3",
+    "http://api.nlib.cc/nx/01006010193D8000/screen/4",
+    "http://api.nlib.cc/nx/01006010193D8000/screen/5",
+    "http://api.nlib.cc/nx/01006010193D8000/screen/6"
+  ]
+}

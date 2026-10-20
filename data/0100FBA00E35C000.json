@@ -1,0 +1,16 @@
+{
+  "name": "Arcade Archives ROAD FIGHTER",
+  "publisher": "HAMSTER",
+  "releaseDate": "20190725",
+  "description": "\"ROAD FIGHTER\" is a racing game released by KONAMI in 1984.\nControl your monster machine at speeds of up to 400 km/h, avoiding enemy cars and oil spills to finish all 6 stages faster than anyone else.\nIf you start to swerve off-course, countersteer and use your driving techniques to power through it!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FBA00E35C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FBA00E35C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FBA00E35C000/screen/1",
+    "http://api.nlib.cc/nx/0100FBA00E35C000/screen/2",
+    "http://api.nlib.cc/nx/0100FBA00E35C000/screen/3",
+    "http://api.nlib.cc/nx/0100FBA00E35C000/screen/4",
+    "http://api.nlib.cc/nx/0100FBA00E35C000/screen/5",
+    "http://api.nlib.cc/nx/0100FBA00E35C000/screen/6"
+  ]
+}

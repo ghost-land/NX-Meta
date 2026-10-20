@@ -1,0 +1,16 @@
+{
+  "name": "Art of Glide 2",
+  "publisher": "ASTXRIAL Works",
+  "releaseDate": "20240704",
+  "description": "In Art of Glide 2, you'll navigate through an endless desert environment teeming with mystery and wonder. Explore at your own pace as you uncover over 18 hidden landmarks scattered throughout the environment. From ancient ruins to run-down industrial sites, each landmark holds its own secrets waiting to be unveiled – but beware, in this unforgiving landscape, you must avoid contact with any environmental obstacles in your way. \n\nWith intuitive controls and seamless gameplay, Art of Glide 2 offers an exhilarating experience for adventurers of all ages. Explore the breathtaking beauty of the desert as you uncover its hidden treasures, all while avoiding obstacles and mastering the art of flight.",
+  "bannerUrl": "http://api.nlib.cc/nx/010026D01F78E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010026D01F78E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010026D01F78E000/screen/1",
+    "http://api.nlib.cc/nx/010026D01F78E000/screen/2",
+    "http://api.nlib.cc/nx/010026D01F78E000/screen/3",
+    "http://api.nlib.cc/nx/010026D01F78E000/screen/4",
+    "http://api.nlib.cc/nx/010026D01F78E000/screen/5",
+    "http://api.nlib.cc/nx/010026D01F78E000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Disc Room",
+  "publisher": "Devolver Digital",
+  "releaseDate": "20201022",
+  "description": "The year is 2089 and a giant disc has appeared in orbit of Jupiter. Step into the oversized space suit of a brave scientist and explore this sprawling intergalactic slaughterhouse.\n\nAnd remember: what kills you only makes you stronger.\n\nDisc Room is a collaboration between Kitty Calis, Jan Willem Nijman, Terri Vellmann and Doseone.",
+  "bannerUrl": "http://api.nlib.cc/nx/010015B012E0C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010015B012E0C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010015B012E0C000/screen/1",
+    "http://api.nlib.cc/nx/010015B012E0C000/screen/2",
+    "http://api.nlib.cc/nx/010015B012E0C000/screen/3",
+    "http://api.nlib.cc/nx/010015B012E0C000/screen/4",
+    "http://api.nlib.cc/nx/010015B012E0C000/screen/5",
+    "http://api.nlib.cc/nx/010015B012E0C000/screen/6"
+  ]
+}

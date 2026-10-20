@@ -1,0 +1,16 @@
+{
+  "name": "Tough Law",
+  "publisher": "Cledman Games",
+  "releaseDate": "20230921",
+  "description": "A beat ‘em up adventure with paperboard style characters in which you can punch a lot and feel your adrenaline soar with so much action and rock and roll!",
+  "bannerUrl": "http://api.nlib.cc/nx/010035301B64C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010035301B64C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010035301B64C000/screen/1",
+    "http://api.nlib.cc/nx/010035301B64C000/screen/2",
+    "http://api.nlib.cc/nx/010035301B64C000/screen/3",
+    "http://api.nlib.cc/nx/010035301B64C000/screen/4",
+    "http://api.nlib.cc/nx/010035301B64C000/screen/5",
+    "http://api.nlib.cc/nx/010035301B64C000/screen/6"
+  ]
+}

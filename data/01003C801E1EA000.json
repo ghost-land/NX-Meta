@@ -1,0 +1,16 @@
+{
+  "name": "EMPTY SHELL",
+  "publisher": "Hyperstrange",
+  "releaseDate": "20240312",
+  "description": "EMPTY SHELL will throw you in a dark industrial environment, a secret facility on a Japanese island in the middle of nowhere. Each volunteer has signed a contract for a \"recovery operation\" without being privy to too many details. \n\nThey said the facility had been abandoned for decades, but once in place it was immediately apparent that something was wrong.\nDiscover the dark secrets of the facility's years of operation, up until the accident that led to the extreme consequences you are involved in.\n\nEvery time you die, you will control a new volunteer sent to the place. Your starting equipment will be randomized and each level will be generated with a new layout.\n\nDark corridors and cold rooms. Abominable creatures and bloody fights. Puzzles to solve, equipment, logs and documents to recover await you in this roguelite survival horror.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003C801E1EA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003C801E1EA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003C801E1EA000/screen/1",
+    "http://api.nlib.cc/nx/01003C801E1EA000/screen/2",
+    "http://api.nlib.cc/nx/01003C801E1EA000/screen/3",
+    "http://api.nlib.cc/nx/01003C801E1EA000/screen/4",
+    "http://api.nlib.cc/nx/01003C801E1EA000/screen/5",
+    "http://api.nlib.cc/nx/01003C801E1EA000/screen/6"
+  ]
+}

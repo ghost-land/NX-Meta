@@ -1,0 +1,16 @@
+{
+  "name": "LEGO® Jurassic World",
+  "publisher": "WB Games",
+  "releaseDate": "20190917",
+  "description": "Following the epic storylines of Jurassic Park, The Lost World: Jurassic Park, Jurassic Park III, and Jurassic World, LEGO Jurassic World™ allows players to relive and experience all four Jurassic films. Reimagined in LEGO form and now available on the Nintendo Switch™ system, the thrilling adventure allows fans to play through key moments and explore Isla Nublar and Isla Sorna. \nGAME FEATURES:\n• Wreak havoc as LEGO dinosaurs: Choose from 20 dinosaurs, including the friendly Triceratops, deadly Raptor, and even the mighty T. rex.\n• Customize your own dinosaur collection: Collect LEGO amber and experiment with DNA to create completely original dinosaurs.\n• Explore Isla Nublar and Isla Sorna: Put your unique dinosaur creations in to paddocks as you complete Free Play missions.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001C100E772000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001C100E772000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001C100E772000/screen/1",
+    "http://api.nlib.cc/nx/01001C100E772000/screen/2",
+    "http://api.nlib.cc/nx/01001C100E772000/screen/3",
+    "http://api.nlib.cc/nx/01001C100E772000/screen/4",
+    "http://api.nlib.cc/nx/01001C100E772000/screen/5",
+    "http://api.nlib.cc/nx/01001C100E772000/screen/6"
+  ]
+}

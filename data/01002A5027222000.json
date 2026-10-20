@@ -1,0 +1,16 @@
+{
+  "name": "Not Human Nightmare",
+  "publisher": "Game Lab",
+  "releaseDate": "20260402",
+  "description": "Welcome to a horror experience set during a long, lonely night inside an empty office building.\nWhat begins as a normal overtime shift quickly turns unsettling. The building grows quiet and the silence becomes almost unbearable. Something about the place feels wrong — as if the office has changed.\nAs the night continues, reality starts to feel unstable. While moving through the office, the harder it becomes to trust what you see.\nYou came here to finish your work and go home.\nBut now it feels like you might not be the only one left in the building.\nThe office looks the same, yet something here definitely isn’t.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002A5027222000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002A5027222000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002A5027222000/screen/1",
+    "http://api.nlib.cc/nx/01002A5027222000/screen/2",
+    "http://api.nlib.cc/nx/01002A5027222000/screen/3",
+    "http://api.nlib.cc/nx/01002A5027222000/screen/4",
+    "http://api.nlib.cc/nx/01002A5027222000/screen/5",
+    "http://api.nlib.cc/nx/01002A5027222000/screen/6"
+  ]
+}

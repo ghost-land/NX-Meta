@@ -1,0 +1,16 @@
+{
+  "name": "PBA Pro Bowling",
+  "publisher": "FarSight Studios",
+  "releaseDate": "20191022",
+  "description": "PBA Pro Bowling (Released October 2019)\n\nLace up your bowling shoes and experience the most realistic bowling simulation ever created with PBA Pro Bowling! \n\n-Officially licensed PBA product.\n-Real PBA Tour Professionals!  Belmo, Butturff, Tackett, Norm Duke, Walter Ray, and many more.\n-Accurate pro bowling styles featuring motion-captured animations.\n-Expert commentary from Rob Stone and PBA legend Randy Pederson.\n-Extensive career mode with over 100 virtual tournaments.\n-Dozens of venues and environments.\n-Compete against other players in online tournaments.\n-Quickplay and local multi-player modes.\n-Best bowling physics ever in a video game.\n-Authentic PBA Tour oil patterns.\n-Power-up special balls.\n-Over 100 bonus challenges.\n-Brunswick licensed pins and lane equipment.\n-Real licensed bowling balls from many different ball manufacturers.",
+  "bannerUrl": "http://api.nlib.cc/nx/010085700ABC8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010085700ABC8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010085700ABC8000/screen/1",
+    "http://api.nlib.cc/nx/010085700ABC8000/screen/2",
+    "http://api.nlib.cc/nx/010085700ABC8000/screen/3",
+    "http://api.nlib.cc/nx/010085700ABC8000/screen/4",
+    "http://api.nlib.cc/nx/010085700ABC8000/screen/5",
+    "http://api.nlib.cc/nx/010085700ABC8000/screen/6"
+  ]
+}

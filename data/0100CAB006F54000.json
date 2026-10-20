@@ -1,0 +1,16 @@
+{
+  "name": "Octodad: Dadliest Catch",
+  "publisher": "Young Horses",
+  "releaseDate": "20171109",
+  "description": "Octodad is a game about destruction, deception, and fatherhood. The player controls Octodad, a dapper octopus masquerading as a human. Octodad's existence is a struggle, as he must master mundane tasks with his unwieldy tentacles while keeping his cephalopodan nature a secret from his human family.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CAB006F54000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CAB006F54000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CAB006F54000/screen/1",
+    "http://api.nlib.cc/nx/0100CAB006F54000/screen/2",
+    "http://api.nlib.cc/nx/0100CAB006F54000/screen/3",
+    "http://api.nlib.cc/nx/0100CAB006F54000/screen/4",
+    "http://api.nlib.cc/nx/0100CAB006F54000/screen/5",
+    "http://api.nlib.cc/nx/0100CAB006F54000/screen/6"
+  ]
+}

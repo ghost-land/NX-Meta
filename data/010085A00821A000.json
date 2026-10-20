@@ -1,0 +1,16 @@
+{
+  "name": "ClusterPuck 99",
+  "publisher": "Coatsink Software",
+  "releaseDate": "20180329",
+  "description": "Local multiplayer madness! ClusterPuck 99 is an 8 player sports game built for parties, competition and smack talk! Bash your friends to gain control of the puck and then fight your way through to your opponent's goal. Try to score while avoiding spikes and utilizing speed boosts to blast past other players. \n\nCompete in intense local multiplayer matches on 30 maps designed to bring out your competitive spirit! Enjoy Single Player Challenge Mode, Instant Replays, Stat Tracking, Customization and a fully featured Level Editor!",
+  "bannerUrl": "http://api.nlib.cc/nx/010085A00821A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010085A00821A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010085A00821A000/screen/1",
+    "http://api.nlib.cc/nx/010085A00821A000/screen/2",
+    "http://api.nlib.cc/nx/010085A00821A000/screen/3",
+    "http://api.nlib.cc/nx/010085A00821A000/screen/4",
+    "http://api.nlib.cc/nx/010085A00821A000/screen/5",
+    "http://api.nlib.cc/nx/010085A00821A000/screen/6"
+  ]
+}

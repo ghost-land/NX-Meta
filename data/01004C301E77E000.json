@@ -1,0 +1,16 @@
+{
+  "name": "Go Kart Mania",
+  "publisher": "Baltoro Minis",
+  "releaseDate": "20240329",
+  "description": "\"Go Kart Mania\" the ultimate kart racing game brings the thrill ride right to your Nintendo Switch™.\n\nRace through 36 uniquely challenging tracks in iconic locations from Europe, China, and Australia, each offering a distinct racing experience. \n\nCustomize your kart to outsmart competitors. \n\nEngage in heart-pounding competition across the world, or treat yourself to a quick solo race to become a karting legend.\n\n\"Go Kart Mania\" is your ticket to a world of high-speed excitement and adventure. \n\nDon't miss out - start your engines for an unforgettable racing journey!",
+  "bannerUrl": "http://api.nlib.cc/nx/01004C301E77E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004C301E77E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004C301E77E000/screen/1",
+    "http://api.nlib.cc/nx/01004C301E77E000/screen/2",
+    "http://api.nlib.cc/nx/01004C301E77E000/screen/3",
+    "http://api.nlib.cc/nx/01004C301E77E000/screen/4",
+    "http://api.nlib.cc/nx/01004C301E77E000/screen/5",
+    "http://api.nlib.cc/nx/01004C301E77E000/screen/6"
+  ]
+}

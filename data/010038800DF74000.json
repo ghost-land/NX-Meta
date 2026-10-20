@@ -1,0 +1,16 @@
+{
+  "name": "Monkey Business",
+  "publisher": "Sabec",
+  "releaseDate": "20190527",
+  "description": "Monkey business is a fun and exciting platform game that will keep you at the edge of your seat for days to come, with 4 Worlds, 36 levels to complete winning won't come easy.\n\nJump, climb and fight with strange creatures, complete levels and open up new levels and World's. Travel through this  adventure and reach the final level to fight against the Big Boss, we dare you!",
+  "bannerUrl": "http://api.nlib.cc/nx/010038800DF74000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010038800DF74000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010038800DF74000/screen/1",
+    "http://api.nlib.cc/nx/010038800DF74000/screen/2",
+    "http://api.nlib.cc/nx/010038800DF74000/screen/3",
+    "http://api.nlib.cc/nx/010038800DF74000/screen/4",
+    "http://api.nlib.cc/nx/010038800DF74000/screen/5",
+    "http://api.nlib.cc/nx/010038800DF74000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Unlock the cat",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20220113",
+  "description": "Kitty is unable to reach her destination due to some rocks in her path. He could jump over the rocks, but he just doesn't want to do that, as he claims to be very tiring. So it's up to you to carry out the heavy labor for the comfort of this little kitten.\n\nMove the stones intelligently to make way.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100163015CB8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100163015CB8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100163015CB8000/screen/1",
+    "http://api.nlib.cc/nx/0100163015CB8000/screen/2",
+    "http://api.nlib.cc/nx/0100163015CB8000/screen/3",
+    "http://api.nlib.cc/nx/0100163015CB8000/screen/4",
+    "http://api.nlib.cc/nx/0100163015CB8000/screen/5",
+    "http://api.nlib.cc/nx/0100163015CB8000/screen/6"
+  ]
+}

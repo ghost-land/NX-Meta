@@ -1,0 +1,16 @@
+{
+  "name": ".T.E.S.T: Expected Behaviour",
+  "publisher": "ESDigital Games",
+  "releaseDate": "20240209",
+  "description": "You can even control time. But will it help?\nYou became a lab rat in the hands of alien scientists. Will you be able to get out of the space laboratory? Pass dozens of levels with hundreds of puzzles using not only agility and logic, but also a special device that allows you to slow down, speed up and even stop time.\nYour fate depends on the results of this .T.E.S.T.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ADE01CDE0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ADE01CDE0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ADE01CDE0000/screen/1",
+    "http://api.nlib.cc/nx/0100ADE01CDE0000/screen/2",
+    "http://api.nlib.cc/nx/0100ADE01CDE0000/screen/3",
+    "http://api.nlib.cc/nx/0100ADE01CDE0000/screen/4",
+    "http://api.nlib.cc/nx/0100ADE01CDE0000/screen/5",
+    "http://api.nlib.cc/nx/0100ADE01CDE0000/screen/6"
+  ]
+}

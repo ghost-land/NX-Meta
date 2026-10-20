@@ -1,0 +1,18 @@
+{
+  "name": "Pawbay",
+  "publisher": "COMMANDO PANDA",
+  "releaseDate": "20260515",
+  "description": "Slip into the paws of a mischievous little cat and turn a cozy seaside town upside down. In Pawbay, every alley, rooftop, shop, and secret corner is full of playful ways to stir up trouble. Sneak, climb, swipe, and pounce your way through a charming world where curiosity always leads to chaos. \nBetter yet, you can enjoy the full adventure solo or with a friend in local 2-player split-screen co-op. The town may be lovely, but that will not stop you from becoming its most unforgettable little menace.\nWith plenty of freedom to experiment, every prank becomes its own funny story.\n\nFeatures:\n• Play as a nimble, curious cat with a talent for trouble\n• Enjoy the full game solo or in local 2-player split-screen co-op\n• Explore a lively town with streets, rooftops, and interiors, uncovering secret routes and hard-to-reach places. \n• Complete playful objectives through stealing, sabotaging, distracting, and more \n• Stir up hilarious reactions from the people of Pawbay",
+  "bannerUrl": "http://api.nlib.cc/nx/01004E60278F6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004E60278F6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004E60278F6000/screen/1",
+    "http://api.nlib.cc/nx/01004E60278F6000/screen/2",
+    "http://api.nlib.cc/nx/01004E60278F6000/screen/3",
+    "http://api.nlib.cc/nx/01004E60278F6000/screen/4",
+    "http://api.nlib.cc/nx/01004E60278F6000/screen/5",
+    "http://api.nlib.cc/nx/01004E60278F6000/screen/6"
+  ],
+  "version": 0,
+  "size": 433123107
+}

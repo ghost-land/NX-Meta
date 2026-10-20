@@ -1,0 +1,16 @@
+{
+  "name": "Pull The Pin: Ball Physic Puzzle",
+  "publisher": "Megame",
+  "releaseDate": "20240321",
+  "description": "The rules of the game are simple, but the further you go, the more difficult the levels and tasks will be!\n\nEach level contains a set of gray marble balls placed in different places. The goal of each level is to release and color all the gray balls by pulling out the pins in the right order and at the right time. If even one gray ball falls into the glass, it will be a failure!\n\nGAME FEATURES:\n• Excellent training for the mind and logic\n• Many levels of varying difficulty\n• Minimalistic graphics\n• Relaxing soundtrack",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E8E01E4C6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E8E01E4C6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E8E01E4C6000/screen/1",
+    "http://api.nlib.cc/nx/0100E8E01E4C6000/screen/2",
+    "http://api.nlib.cc/nx/0100E8E01E4C6000/screen/3",
+    "http://api.nlib.cc/nx/0100E8E01E4C6000/screen/4",
+    "http://api.nlib.cc/nx/0100E8E01E4C6000/screen/5",
+    "http://api.nlib.cc/nx/0100E8E01E4C6000/screen/6"
+  ]
+}

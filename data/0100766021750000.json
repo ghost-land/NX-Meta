@@ -1,0 +1,16 @@
+{
+  "name": "Santa's Adventure: Christmas Gifts Rush",
+  "publisher": "Game Lab",
+  "releaseDate": "20241226",
+  "description": "Welcome to a festive 3D platformer brimming with thrilling challenges and holiday cheer! \n\nAs Santa’s trusted helper, embark on a quest through snowy landscapes, enchanted forests, and holiday villages to recover lost gifts before time runs out. \nJump across tricky platforms, solve clever puzzles, and overcome magical obstacles to save Christmas. \nEach gift you collect brings joy back to the world — but watch out! Surprises and challenges await at every turn. \n\nAre you ready to brave the holiday rush and ensure every child wakes up to a magical Christmas morning?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100766021750000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100766021750000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100766021750000/screen/1",
+    "http://api.nlib.cc/nx/0100766021750000/screen/2",
+    "http://api.nlib.cc/nx/0100766021750000/screen/3",
+    "http://api.nlib.cc/nx/0100766021750000/screen/4",
+    "http://api.nlib.cc/nx/0100766021750000/screen/5",
+    "http://api.nlib.cc/nx/0100766021750000/screen/6"
+  ]
+}

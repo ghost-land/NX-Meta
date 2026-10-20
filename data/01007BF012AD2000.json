@@ -1,0 +1,14 @@
+{
+  "name": "Hitori Logic",
+  "publisher": "Hook Games",
+  "releaseDate": "20210101",
+  "description": "Hitori Logic is played with a grid of squares or cells, with each cell initially containing a number. The game is played by eliminating squares/numbers and this is done by marking them red. The objective is to transform the grid to a state wherein all three following rules are true:\n1) no row or column can have more than one occurrence of any given number\n2) red cells cannot be adjacent, although they can be diagonal to one another.\n3) the remaining numbered cells must be all connected to each other, horizontally or vertically.\n\n> 90 easy/medium/hard levels, challenge for everyone\n> Beautiful background art\n> Hours of brain-teasing puzzles",
+  "bannerUrl": "http://api.nlib.cc/nx/01007BF012AD2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007BF012AD2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007BF012AD2000/screen/1",
+    "http://api.nlib.cc/nx/01007BF012AD2000/screen/2",
+    "http://api.nlib.cc/nx/01007BF012AD2000/screen/3",
+    "http://api.nlib.cc/nx/01007BF012AD2000/screen/4"
+  ]
+}

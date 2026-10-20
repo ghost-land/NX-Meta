@@ -1,0 +1,14 @@
+{
+  "name": "CatCat",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20241130",
+  "description": "Take on a journey with a brave cat! In each level of this adventure, spikes and traps demand insane precision to be overcome. You only have one chance, so if you fail, start over. Master the timing and prove your skill in this game where only the most persistent reach the end.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B6D02128E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B6D02128E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B6D02128E000/screen/1",
+    "http://api.nlib.cc/nx/0100B6D02128E000/screen/2",
+    "http://api.nlib.cc/nx/0100B6D02128E000/screen/3",
+    "http://api.nlib.cc/nx/0100B6D02128E000/screen/4"
+  ]
+}

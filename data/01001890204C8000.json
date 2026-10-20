@@ -1,0 +1,16 @@
+{
+  "name": "Hide 'N Seek!",
+  "publisher": "QubicGames",
+  "releaseDate": "20241004",
+  "description": "Remember the good old game of hide and seek? Prepare for something a little more extreme!\n\nDive into classic gameplay where you can hide or seek. Count down before setting off to find the Hiders, or blend into the environment, stay silent, and outsmart the Seeker to win!\n\nFeatures:\n- Hide and run away from the seekers\n- Find and capture all the hiders\n- Enjoy multiplayer mode for up to 4 players!\n- Use powerups to gain an advantage\n- Collect coins to buy skins and pets!\n\nSimple, fun, and dynamic—Hide 'N Seek brings the joy of this beloved childhood game to life!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01001890204C8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001890204C8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001890204C8000/screen/1",
+    "http://api.nlib.cc/nx/01001890204C8000/screen/2",
+    "http://api.nlib.cc/nx/01001890204C8000/screen/3",
+    "http://api.nlib.cc/nx/01001890204C8000/screen/4",
+    "http://api.nlib.cc/nx/01001890204C8000/screen/5",
+    "http://api.nlib.cc/nx/01001890204C8000/screen/6"
+  ]
+}

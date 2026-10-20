@@ -1,0 +1,16 @@
+{
+  "name": "Farm Mystery",
+  "publisher": "Ocean Media",
+  "releaseDate": "20190822",
+  "description": "The Happy Orchard Farm is trapped in a nightmare! People are disappearing into the mist that surrounds the town at night in this Farm Mystery. It's up to you to solve the chilling case of this haunted place. Search for clues, solve puzzles and play mini-games to uncover the secrets of the Happy Orchard nightmare. Will you solve the Farm Mystery?",
+  "bannerUrl": "http://api.nlib.cc/nx/01000E400ED98000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000E400ED98000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000E400ED98000/screen/1",
+    "http://api.nlib.cc/nx/01000E400ED98000/screen/2",
+    "http://api.nlib.cc/nx/01000E400ED98000/screen/3",
+    "http://api.nlib.cc/nx/01000E400ED98000/screen/4",
+    "http://api.nlib.cc/nx/01000E400ED98000/screen/5",
+    "http://api.nlib.cc/nx/01000E400ED98000/screen/6"
+  ]
+}

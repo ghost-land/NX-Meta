@@ -1,0 +1,16 @@
+{
+  "name": "Slice, Dice & Rice",
+  "publisher": "ARC SYSTEM WORKS",
+  "releaseDate": "20180906",
+  "description": "Every blow equals instant death―――\n\nIn \"Slice, Dice & Rice\", a single, clean hit will determine the victor. The winner of the duel is determined by one's mastery of \"Parry\" and \"Shingan\". \"Parrying\" your opponent's attack will place you in an advantageous position. The \"Shingan\" will assist you in dealing with incoming attacks. Once activated, time slows down, making it easier to \"parry\" your opponent's attack.\n\nThere are many game modes available. \nKnow more about the 8 playable characters in \"Story Mode\".\nDuel with a CPU or your friends in \"VS Mode\".\nPut your skills to the test online in \"Network Mode\".\nTrain and practice in \"Dojo Mode\".\n\nEnjoy the simple, yet intuitive gameplay of \"Slice, Dice & Rice\".",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F4500AA4E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F4500AA4E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F4500AA4E000/screen/1",
+    "http://api.nlib.cc/nx/0100F4500AA4E000/screen/2",
+    "http://api.nlib.cc/nx/0100F4500AA4E000/screen/3",
+    "http://api.nlib.cc/nx/0100F4500AA4E000/screen/4",
+    "http://api.nlib.cc/nx/0100F4500AA4E000/screen/5",
+    "http://api.nlib.cc/nx/0100F4500AA4E000/screen/6"
+  ]
+}

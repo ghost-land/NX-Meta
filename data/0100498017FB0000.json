@@ -1,0 +1,16 @@
+{
+  "name": "Robo Wars",
+  "publisher": "MobilWay",
+  "releaseDate": "20220415",
+  "description": "Fight face to face with your opponent or keep your distance, it's up to you how the fight will go! Your main task is to defeat all opponents and become a duel master.\n\nTest your skills against various opponents in all arenas!\nUpgrade and change your equipment as you like - all to achieve the coveted victory!\n\nMain features:\n- Dynamic combat!\n- Dozens of unique weapons and mechs!\n- Upgrading your inventory!\n- Various arenas and enemies!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100498017FB0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100498017FB0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100498017FB0000/screen/1",
+    "http://api.nlib.cc/nx/0100498017FB0000/screen/2",
+    "http://api.nlib.cc/nx/0100498017FB0000/screen/3",
+    "http://api.nlib.cc/nx/0100498017FB0000/screen/4",
+    "http://api.nlib.cc/nx/0100498017FB0000/screen/5",
+    "http://api.nlib.cc/nx/0100498017FB0000/screen/6"
+  ]
+}

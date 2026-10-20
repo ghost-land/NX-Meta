@@ -1,0 +1,16 @@
+{
+  "name": "Ocean's Heart",
+  "publisher": "Nordcurrent",
+  "releaseDate": "20220210",
+  "description": "Ocean’s Heart is an action RPG featuring detailed pixel art with a heavy focus on exploration. In a lively world teeming with secrets and mysteries, Tilia sets out in search of her missing father. Follow the trail through the ruins of a flooded kingdom, shape the future of the current world, or keep your head down and focus on your own mission in this epic retro-inspired adventure!\n\n• Explore a detailed and beautiful world, brimming with secrets hidden in misty forests, isolated mountain peaks, or saltwater marshes. Every area is filled with unique and meaningful sidequests, ancient mysteries, and dangers.\n\n• Battle fearsome monsters and wield various weapons and ancient magic to defeat or outmaneuver them. Search for special materials to upgrade your weapons until you're demolishing monsters who once put up a fierce fight.\n\n• Gather various items throughout the world to craft potions, upgrade weapons, and expand your ever-growing arsenal. ",
+  "bannerUrl": "http://api.nlib.cc/nx/010085A014A6C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010085A014A6C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010085A014A6C000/screen/1",
+    "http://api.nlib.cc/nx/010085A014A6C000/screen/2",
+    "http://api.nlib.cc/nx/010085A014A6C000/screen/3",
+    "http://api.nlib.cc/nx/010085A014A6C000/screen/4",
+    "http://api.nlib.cc/nx/010085A014A6C000/screen/5",
+    "http://api.nlib.cc/nx/010085A014A6C000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Spin Rhythm XD",
+  "publisher": "Super Spin Digital",
+  "releaseDate": "20231026",
+  "description": "A homage to classic arcade rhythm games (Guitar Hero, DDR), with a modern aesthetic and soundtrack. Match colours and beats, spin, tap, flick and flow through the juiciest beats in the universe.\n\nSpin Rhythm XD is a kinetic rhythm action game with fluid controls, hand-crafted levels and beautiful, reactive backgrounds. Featuring over 60 licensed and original tracks by Nitro Fun, Teminite, Camellia, Panda Eyes, Au5, Anamanaguchi, Chime, Hyper Potions, Droptek, Tokyo Machine, Haywyre, Anomalie, F.O.O.L, Koven, Opiuo, Modus, Rogue, Tristam, Pegboard Nerds and more.",
+  "bannerUrl": "http://api.nlib.cc/nx/01002B7015A40000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002B7015A40000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002B7015A40000/screen/1",
+    "http://api.nlib.cc/nx/01002B7015A40000/screen/2",
+    "http://api.nlib.cc/nx/01002B7015A40000/screen/3",
+    "http://api.nlib.cc/nx/01002B7015A40000/screen/4",
+    "http://api.nlib.cc/nx/01002B7015A40000/screen/5",
+    "http://api.nlib.cc/nx/01002B7015A40000/screen/6"
+  ]
+}

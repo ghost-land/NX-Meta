@@ -1,0 +1,16 @@
+{
+  "name": "ANTONBLAST",
+  "publisher": "Joystick Ventures",
+  "releaseDate": "20241213",
+  "description": "ANTONBLAST is a fast-paced explosive action platformer that's all about destruction. Play as the enraged Dynamite Anton (or his cranked-out coworker Annie) and use your Mighty F’n Hammer to demolish bizarre worlds, tussle with screen-filling bosses, and steal your Spirits back from Satan!\n\nThat's right: Satan himself has stolen Anton's prized Spirit collection, and he'll stop at nothing to get it back. Thankfully, the local disgraced casino owner, Brulo, has his own beef with Satan, and he's willing to put aside his differences with Anton to make that devil pay.\n\nYour mission in every level is simple: SET Brulo's Detonators, FIND Anton's Spirit, and ESCAPE before Happy Hour ends!",
+  "bannerUrl": "http://api.nlib.cc/nx/01001E1017F9A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001E1017F9A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001E1017F9A000/screen/1",
+    "http://api.nlib.cc/nx/01001E1017F9A000/screen/2",
+    "http://api.nlib.cc/nx/01001E1017F9A000/screen/3",
+    "http://api.nlib.cc/nx/01001E1017F9A000/screen/4",
+    "http://api.nlib.cc/nx/01001E1017F9A000/screen/5",
+    "http://api.nlib.cc/nx/01001E1017F9A000/screen/6"
+  ]
+}

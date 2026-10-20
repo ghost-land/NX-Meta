@@ -1,0 +1,18 @@
+{
+  "name": "Rooster: Princess Rescue",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20260703",
+  "description": "Take on the role of a brave rooster and embark on an adventure packed with challenges. Run, jump, and test your skills through levels filled with moving platforms, sharp spikes, blade traps, circular saws, and many other hazards that will try to stop your journey.\n\nEach stage introduces new obstacles and demands precision, quick reflexes, and mastery of movement to cross dangerous gaps, avoid deadly traps, and reach increasingly difficult areas.\n\nFind your courage, sharpen your spurs, and face every challenge in a mission driven by blind passion. Only the alpha rooster will be able to reach her.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01001F6028DB8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001F6028DB8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001F6028DB8000/screen/1",
+    "http://api.nlib.cc/nx/01001F6028DB8000/screen/2",
+    "http://api.nlib.cc/nx/01001F6028DB8000/screen/3",
+    "http://api.nlib.cc/nx/01001F6028DB8000/screen/4",
+    "http://api.nlib.cc/nx/01001F6028DB8000/screen/5",
+    "http://api.nlib.cc/nx/01001F6028DB8000/screen/6"
+  ],
+  "version": 0,
+  "size": 79486749
+}

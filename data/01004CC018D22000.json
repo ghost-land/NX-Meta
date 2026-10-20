@@ -1,0 +1,16 @@
+{
+  "name": "Monster destroyer",
+  "publisher": "Elusor",
+  "releaseDate": "20220806",
+  "description": "This is a game where the main task is survival. Here you have nowhere to hide, the constant stream of attacking monsters will only make you stronger.\nWith each completed level, you will discover new powers.\nAccept the challenge - defeat all the monsters and you will know all your power.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004CC018D22000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004CC018D22000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004CC018D22000/screen/1",
+    "http://api.nlib.cc/nx/01004CC018D22000/screen/2",
+    "http://api.nlib.cc/nx/01004CC018D22000/screen/3",
+    "http://api.nlib.cc/nx/01004CC018D22000/screen/4",
+    "http://api.nlib.cc/nx/01004CC018D22000/screen/5",
+    "http://api.nlib.cc/nx/01004CC018D22000/screen/6"
+  ]
+}

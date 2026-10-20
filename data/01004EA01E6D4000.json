@@ -1,0 +1,16 @@
+{
+  "name": "Naheulbeuk's Dungeon Master",
+  "publisher": "Plug In Digital",
+  "releaseDate": "20240709",
+  "description": "Your mission, should you choose to accept it!\nEmbody Reivax, the servile (or not) steward of the Dungeon of Naheulbeuk. Years before the first incursion of fearless adventurers, you are tasked to build, develop, and populate the wobbly tower. Above all, try not to upset your master, the evil sorcerer Zangdar. Are you up to the task?",
+  "bannerUrl": "http://api.nlib.cc/nx/01004EA01E6D4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004EA01E6D4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004EA01E6D4000/screen/1",
+    "http://api.nlib.cc/nx/01004EA01E6D4000/screen/2",
+    "http://api.nlib.cc/nx/01004EA01E6D4000/screen/3",
+    "http://api.nlib.cc/nx/01004EA01E6D4000/screen/4",
+    "http://api.nlib.cc/nx/01004EA01E6D4000/screen/5",
+    "http://api.nlib.cc/nx/01004EA01E6D4000/screen/6"
+  ]
+}

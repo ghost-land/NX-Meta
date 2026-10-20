@@ -1,0 +1,15 @@
+{
+  "name": "Nudel Tag",
+  "publisher": "Seabird Interactive",
+  "releaseDate": "20240404",
+  "description": "Nudel Tag is a party game with 14 maps and 3 game modes where you must serve as many customers as possible within the allotted time. Be careful, anything goes and you will have to be cunning to avoid attacks from other servers.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005D301E34E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005D301E34E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005D301E34E000/screen/1",
+    "http://api.nlib.cc/nx/01005D301E34E000/screen/2",
+    "http://api.nlib.cc/nx/01005D301E34E000/screen/3",
+    "http://api.nlib.cc/nx/01005D301E34E000/screen/4",
+    "http://api.nlib.cc/nx/01005D301E34E000/screen/5"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Fishing Adventure",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20200221",
+  "description": "Main Features:\nOver 30 species of fish,\n7 large locations inspired by real places in the world,\nInteresting quests,\nTournaments,\nDaily records and rewards,\nReal fishing equipment,\nThe realistic and relaxing sound,\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01002600105C6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002600105C6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002600105C6000/screen/1",
+    "http://api.nlib.cc/nx/01002600105C6000/screen/2",
+    "http://api.nlib.cc/nx/01002600105C6000/screen/3",
+    "http://api.nlib.cc/nx/01002600105C6000/screen/4",
+    "http://api.nlib.cc/nx/01002600105C6000/screen/5"
+  ]
+}

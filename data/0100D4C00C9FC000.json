@@ -1,0 +1,16 @@
+{
+  "name": "Glass Masquerade",
+  "publisher": "Digerati",
+  "releaseDate": "20190208",
+  "description": "Welcome to Glass Masquerade – an artistic puzzle game inspired by Art Deco and stained-glass artisans of the 20th century. Combine hidden glass pieces to unveil clocks and themes exhibited by various cultures of the world at the 'International Times Exhibition' - an interactive electronic show.\n\n•\t25 beautiful and intricately designed stained-glass jigsaw puzzles to complete\n•\tJourney around the world – each puzzle is inspired by a different country \n•\tArt Deco mosaics and presentation give the game a distinct visual style \n•\tRelaxing gameplay provides a calming experience – no time limits, no stress\n•\tSoothing, atmospheric soundtrack by Russian composer Nikita Sevalnev\n•\tFinish the game and replay the puzzles to improve your completion times \n•\tInterface support for the following languages: English, French, Italian, German, Spanish, Japanese, Korean, Portuguese-Brazil, Russian, Simplified Chinese, Traditional Chinese",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D4C00C9FC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D4C00C9FC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D4C00C9FC000/screen/1",
+    "http://api.nlib.cc/nx/0100D4C00C9FC000/screen/2",
+    "http://api.nlib.cc/nx/0100D4C00C9FC000/screen/3",
+    "http://api.nlib.cc/nx/0100D4C00C9FC000/screen/4",
+    "http://api.nlib.cc/nx/0100D4C00C9FC000/screen/5",
+    "http://api.nlib.cc/nx/0100D4C00C9FC000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Professor Doctor Jetpack",
+  "publisher": "Roflcopter Ink",
+  "releaseDate": "20250116",
+  "description": "Professor Doctor Jetpack is a physics based, pixel art, precision platformer, in which you embark on a dangerous journey to... control your jetpack.\n\nJoin Albert Einstein's digital remains on his whacky quest to save the world from hidden threats, like The Internet. Explore an intricate cave system with over 85 handcrafted levels, riddled with deadly traps and enemies, while trying to master the gasoline filled, jet powered deathtrap strapped to your back. How far can you make it? Will you be able to save the world from its greatest threat lurking in the heart of our planet?\n\nFeatures:\n· Atmospheric pixel art\n· 85+ handcrafted levels, with ever increasing difficulty\n· Unique and challenging bosses that will put your skills to the test\n· Fun to learn and hard to master\n· Unmatched sense of achievement\n· Unlockable and upgradable equipment\n· Casual mode: Jetpack with \"training wheels\"",
+  "bannerUrl": "http://api.nlib.cc/nx/01005CF01BAC2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005CF01BAC2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005CF01BAC2000/screen/1",
+    "http://api.nlib.cc/nx/01005CF01BAC2000/screen/2",
+    "http://api.nlib.cc/nx/01005CF01BAC2000/screen/3",
+    "http://api.nlib.cc/nx/01005CF01BAC2000/screen/4",
+    "http://api.nlib.cc/nx/01005CF01BAC2000/screen/5",
+    "http://api.nlib.cc/nx/01005CF01BAC2000/screen/6"
+  ]
+}

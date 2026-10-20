@@ -1,0 +1,16 @@
+{
+  "name": "River Pirates",
+  "publisher": "EntwicklerX",
+  "releaseDate": "20230914",
+  "description": "Easy to play Tower Defense game with a pirates setting. \n\nRiver Pirates has an invading horde of pirates sailing up river to attack your stronghold. You defend your keep by placing a variety of defenses along the river's banks to prevent the pirates from navigating the river from one side of the screen to the other.\n\nTower Defense \nEnemies come in increasingly difficult waves on a predefined path. \nThe objective is to take care of all incoming enemies and escape is not to be.",
+  "bannerUrl": "http://api.nlib.cc/nx/010055001CF8C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010055001CF8C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010055001CF8C000/screen/1",
+    "http://api.nlib.cc/nx/010055001CF8C000/screen/2",
+    "http://api.nlib.cc/nx/010055001CF8C000/screen/3",
+    "http://api.nlib.cc/nx/010055001CF8C000/screen/4",
+    "http://api.nlib.cc/nx/010055001CF8C000/screen/5",
+    "http://api.nlib.cc/nx/010055001CF8C000/screen/6"
+  ]
+}

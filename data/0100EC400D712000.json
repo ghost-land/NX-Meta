@@ -1,0 +1,16 @@
+{
+  "name": "Croc's World Run",
+  "publisher": "Sprakelsoft",
+  "releaseDate": "20190221",
+  "description": "\n\"Croc's World Run\" is the newest part of the Croc's World franchise!\n\nIt features:\n+ 50 incredible levels \n+ Nice HD-Graphics\n+ 4 different Worlds\n+ many challenging enemies\n+ easy one-button-control\n\nInstructions:\n1. Croc runs automatically!\n2. Try to avoid all enemies or jump on them (don´t try it with the hedgehog or the mean fish)! \n3. Just press B to jump!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EC400D712000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EC400D712000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EC400D712000/screen/1",
+    "http://api.nlib.cc/nx/0100EC400D712000/screen/2",
+    "http://api.nlib.cc/nx/0100EC400D712000/screen/3",
+    "http://api.nlib.cc/nx/0100EC400D712000/screen/4",
+    "http://api.nlib.cc/nx/0100EC400D712000/screen/5",
+    "http://api.nlib.cc/nx/0100EC400D712000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Hoppy Hop",
+  "publisher": "Josyan",
+  "releaseDate": "20230616",
+  "description": "Join Hoppy in this classic action platformer as you collect candies, dodge enemies and jump. After all, you are a rabbit! ",
+  "bannerUrl": "http://api.nlib.cc/nx/010078401AAD6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010078401AAD6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010078401AAD6000/screen/1",
+    "http://api.nlib.cc/nx/010078401AAD6000/screen/2",
+    "http://api.nlib.cc/nx/010078401AAD6000/screen/3",
+    "http://api.nlib.cc/nx/010078401AAD6000/screen/4",
+    "http://api.nlib.cc/nx/010078401AAD6000/screen/5"
+  ]
+}

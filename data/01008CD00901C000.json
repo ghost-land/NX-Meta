@@ -1,0 +1,16 @@
+{
+  "name": "Discovery",
+  "publisher": "Noowanda",
+  "releaseDate": "20180524",
+  "description": "Explore a giant world made of blocks and modify it with your own creations. Construct houses, build entire villages, cities, monumental constructions or dig deep underground. Place torches or design complex electric circuits to light up your creations in the dark and enjoy beautiful day and night cycles. Build alone or together with friends in splitscreen multiplayer mode for up to 4 players.\n\n• Creative sandbox block-building experience: Create your own worlds with more than 250 unique materials.\n• Electric circuits: With light sensors, switches, wires and light bulbs.\n• Splitscreen Multiplayer: Build together with up to 3 friends.\n• Inking system: Customize the blocks with 16 different colors for your own look.\n• Easy accessibility: Suitable for children 6 years and older. No violence.\n• State of the Art graphics: Enjoy smooth visuals with shadows and modern effects.",
+  "bannerUrl": "http://api.nlib.cc/nx/01008CD00901C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008CD00901C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008CD00901C000/screen/1",
+    "http://api.nlib.cc/nx/01008CD00901C000/screen/2",
+    "http://api.nlib.cc/nx/01008CD00901C000/screen/3",
+    "http://api.nlib.cc/nx/01008CD00901C000/screen/4",
+    "http://api.nlib.cc/nx/01008CD00901C000/screen/5",
+    "http://api.nlib.cc/nx/01008CD00901C000/screen/6"
+  ]
+}

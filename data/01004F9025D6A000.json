@@ -1,0 +1,18 @@
+{
+  "name": "YinYang Street Ultimate Edition",
+  "publisher": "Cube Game",
+  "releaseDate": "20260625",
+  "description": "The story of this game takes place in a border town in the 1980s. Our protagonist Li Minglai is involved in an important operation. He runs into a series of strange things and finds his beloved wife missing when he comes home. Where used to be warm and sweet is now full of mysteries, which lead to a place called YinYang Street. Is this a coincidence or a conspiracy? Li Minglai has no time to think about it. All he could do is rush to YinYang Street and explore the bottomless abyss...",
+  "bannerUrl": "http://api.nlib.cc/nx/01004F9025D6A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004F9025D6A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004F9025D6A000/screen/1",
+    "http://api.nlib.cc/nx/01004F9025D6A000/screen/2",
+    "http://api.nlib.cc/nx/01004F9025D6A000/screen/3",
+    "http://api.nlib.cc/nx/01004F9025D6A000/screen/4",
+    "http://api.nlib.cc/nx/01004F9025D6A000/screen/5",
+    "http://api.nlib.cc/nx/01004F9025D6A000/screen/6"
+  ],
+  "version": 0,
+  "size": 1255275500
+}

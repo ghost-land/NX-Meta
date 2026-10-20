@@ -1,0 +1,18 @@
+{
+  "name": "Asphalt Dominion",
+  "publisher": "Gametry",
+  "releaseDate": "20260613",
+  "description": "Asphalt Dominion is a thrilling arcade racing game where speed is everything and every race is a fight for control. Step into a world of exotic supercars, high-stakes competition, and visually striking tracks that take you through breathtaking environments filled with sharp turns, long straights, and intense rival action. From sunlit circuits to dramatic seasonal landscapes, every location is built to deliver fast, aggressive, and unforgettable racing.",
+  "bannerUrl": "http://api.nlib.cc/nx/010043E0286AC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010043E0286AC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010043E0286AC000/screen/1",
+    "http://api.nlib.cc/nx/010043E0286AC000/screen/2",
+    "http://api.nlib.cc/nx/010043E0286AC000/screen/3",
+    "http://api.nlib.cc/nx/010043E0286AC000/screen/4",
+    "http://api.nlib.cc/nx/010043E0286AC000/screen/5",
+    "http://api.nlib.cc/nx/010043E0286AC000/screen/6"
+  ],
+  "version": 0,
+  "size": 620712538
+}

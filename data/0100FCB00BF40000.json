@@ -1,0 +1,16 @@
+{
+  "name": "R.B.I. Baseball 19",
+  "publisher": "MLBAM",
+  "releaseDate": "20190305",
+  "description": "R.B.I. Baseball 19 takes the field delivering heightened authenticity for a genuine MLB experience. We’ve added hundreds of new animations, updated player models, every official 2019 uniform, more player gear, improved ball physics and environments, and more!\n\n*Your Franchise: Manage your dream team across multiple seasons! Add pieces at the trade deadline, win over free agents, call up rookies and bring on new two-way players.\n\n*MLB Legends: Play as 165+ all-time greats like Jackie Robinson, Ted Williams, or Reggie Jackson! \n\n*Legends Teams: New Legends Teams on Exhibition Mode\n\n*Home Run Derby, Your Way: Pick any MLB player or Legend, any MLB ballpark and customize your bracket. \n\n*Weekly Roster Updates: Weekly, season-long roster updates with performance-based statistical tuning.\n\n*Bumpin’ Soundtrack: Music from artists including Evaride, Banzai, OneRepublic, and more!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FCB00BF40000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FCB00BF40000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FCB00BF40000/screen/1",
+    "http://api.nlib.cc/nx/0100FCB00BF40000/screen/2",
+    "http://api.nlib.cc/nx/0100FCB00BF40000/screen/3",
+    "http://api.nlib.cc/nx/0100FCB00BF40000/screen/4",
+    "http://api.nlib.cc/nx/0100FCB00BF40000/screen/5",
+    "http://api.nlib.cc/nx/0100FCB00BF40000/screen/6"
+  ]
+}

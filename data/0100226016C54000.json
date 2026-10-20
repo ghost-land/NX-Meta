@@ -1,0 +1,16 @@
+{
+  "name": "Wizorb",
+  "publisher": "Tribute Games",
+  "releaseDate": "20221006",
+  "description": "The once peaceful Kingdom of Gorudo is threatened by an evil presence. The only hope for salvation is Cyrus, a wizard versed in a secret magic art called Wizorb! Explore many strange places from the derelict monster infested town of Clover to Gorudo Castle atop Cauldron Peak. Danger lurks around every corner so you'll need to keep your wits about you and have quick reflexes in order to survive.\n\nKey features:\n- An all-new block-breaking game set in a fantasy world.\n- Use your magic wand to bounce the orb and cast various magic spells.\n- Over 60 levels in 5 different Worlds.\n- Earn gold to buy charms or to help the citizens rebuild their homes.\n- Epic boss fights.\n- Multiple endings.\n- Character animation by Paul Robertson.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100226016C54000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100226016C54000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100226016C54000/screen/1",
+    "http://api.nlib.cc/nx/0100226016C54000/screen/2",
+    "http://api.nlib.cc/nx/0100226016C54000/screen/3",
+    "http://api.nlib.cc/nx/0100226016C54000/screen/4",
+    "http://api.nlib.cc/nx/0100226016C54000/screen/5",
+    "http://api.nlib.cc/nx/0100226016C54000/screen/6"
+  ]
+}

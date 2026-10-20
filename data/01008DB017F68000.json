@@ -1,0 +1,16 @@
+{
+  "name": "Atari Mania",
+  "publisher": "Atari",
+  "releaseDate": "20221013",
+  "description": "A wild journey through videogame history, Atari Mania is a microgame collection wrapped in a hilarious retro-driven narrative of exploration and surprise.\n\nYou play as the Caretaker of the Atari Vault, the storehouse of classic Atari games. One night, a dead pixel appears and soon enough, all heck breaks loose!! \n\nFamiliar and beloved games begin to warp, mutate and combine into a series of increasingly crazy challenges. It’s up to you to fight back the pixels and other surprising villains, and restore order to the Vault!\n \nKey Features:\n\nManic Mashups - Over 150 wild microgames spanning the breadth of the Atari catalog from Asteroids to Yars' Revenge. You’ll fight back Centipedes with a Pong paddle, and sneak past Rhindle, Adventure's fiercest dragon!\n\nExcellent Exploration - Solve tricky puzzles and utilize tools to progress through the Vault and discover Atari Easter eggs and trophies.\n\nPixel-Perfect Style - A charming neo-retro art update to the classic Atari 2600 style.\n\nCharacters Like You’ve Never Seen Them Before - Go face to antennae with some of the greatest games and characters in videogame history. Trust us - you’ll never think of Bentley Bear the same way again!\n\nTreasure Trove of Atari History - Collectibles abound, including vintage Atari art, posters, and manuals.\n\nA Chiptune Delight - A propulsive joyful soundtrack of retro-inspired jams.",
+  "bannerUrl": "http://api.nlib.cc/nx/01008DB017F68000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008DB017F68000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008DB017F68000/screen/1",
+    "http://api.nlib.cc/nx/01008DB017F68000/screen/2",
+    "http://api.nlib.cc/nx/01008DB017F68000/screen/3",
+    "http://api.nlib.cc/nx/01008DB017F68000/screen/4",
+    "http://api.nlib.cc/nx/01008DB017F68000/screen/5",
+    "http://api.nlib.cc/nx/01008DB017F68000/screen/6"
+  ]
+}

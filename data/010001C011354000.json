@@ -1,0 +1,16 @@
+{
+  "name": "Aeolis Tournament",
+  "publisher": "Beyond Fun Studio",
+  "releaseDate": "20200723",
+  "description": "Aeolis Tournament is a 3D party action game where up to 8 players compete in various game modes based on a simple one-button mechanic. Characters use an air cannon to control the power of the wind and affect their surroundings. It features physics-based gameplay, a tournament mode and local and online multiplayer play.",
+  "bannerUrl": "http://api.nlib.cc/nx/010001C011354000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010001C011354000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010001C011354000/screen/1",
+    "http://api.nlib.cc/nx/010001C011354000/screen/2",
+    "http://api.nlib.cc/nx/010001C011354000/screen/3",
+    "http://api.nlib.cc/nx/010001C011354000/screen/4",
+    "http://api.nlib.cc/nx/010001C011354000/screen/5",
+    "http://api.nlib.cc/nx/010001C011354000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ACA NEOGEO BLUE'S JOURNEY",
+  "publisher": "HAMSTER",
+  "releaseDate": "20170907",
+  "description": "\"BLUE'S JOURNEY\" is a side-scrolling action game released by SNK in 1991.\n\nIn order to save the planet Raguy from the invasion of the Daruma tribe, the hero Blue must fight using leaves, boomerangs, and a variety of other weapons along with his special ability to change his body size. \n\nThe branching stages allow you to enjoy the game again and again.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100379003900000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100379003900000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100379003900000/screen/1",
+    "http://api.nlib.cc/nx/0100379003900000/screen/2",
+    "http://api.nlib.cc/nx/0100379003900000/screen/3",
+    "http://api.nlib.cc/nx/0100379003900000/screen/4",
+    "http://api.nlib.cc/nx/0100379003900000/screen/5",
+    "http://api.nlib.cc/nx/0100379003900000/screen/6"
+  ]
+}

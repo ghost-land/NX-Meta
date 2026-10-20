@@ -1,0 +1,16 @@
+{
+  "name": "Scholar's Mate",
+  "publisher": "JanduSoft",
+  "releaseDate": "20250710",
+  "description": "Scholar's Mate is an immersive first-person horror experience that puts you in the shoes of Judith, a young woman who wakes up in the gloomy facilities of a psychiatric hospital. \n\nYou must escape from this macabre place by solving mysteries while avoiding capture by Eddie, your sinister hunter.\n\nFeatures\n- A first person horror escape room.\n- Explore and solve the hidden secrets of the hospital to escape.\n- Relentless pursuit by Eddie.\n- Experience the tension with an original soundtrack and immersive sound effects designed to create an eerie atmosphere.",
+  "bannerUrl": "http://api.nlib.cc/nx/010057001FC44000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010057001FC44000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010057001FC44000/screen/1",
+    "http://api.nlib.cc/nx/010057001FC44000/screen/2",
+    "http://api.nlib.cc/nx/010057001FC44000/screen/3",
+    "http://api.nlib.cc/nx/010057001FC44000/screen/4",
+    "http://api.nlib.cc/nx/010057001FC44000/screen/5",
+    "http://api.nlib.cc/nx/010057001FC44000/screen/6"
+  ]
+}

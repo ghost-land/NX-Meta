@@ -1,0 +1,16 @@
+{
+  "name": "Boardwalk Arcade 2",
+  "publisher": "PlayWorks Partners",
+  "releaseDate": "20240423",
+  "description": "Boardwalk Arcade 2 Description\n\nBoardwalk Arcade 2: Boardwalk is a sequel to the successful Party Arcade game, this time developed exclusively with the Nintendo Switch™ in mind. Boardwalk Arcade 2, offers a brand-new location: a boardwalk by night full of exciting and classic mini-games for our players to enjoy.\nThis game features a collection of games that will be instantly familiar to anyone who’s been to a carnival or boardwalk; whether throwing skill-balls, lining up targets in shooting galleries, or taking your chances at grabbing that toy you want the claw game, experience the ambience of a boardwalk from the comfort of your living room. The more you play the more tickets you earn towards cosmetic upgrades, figurines, and collectables!\n\nBoardwalk Arcade 2 will include the following games\n\n1.\tBasketball Throw (Hoop shot)\n2.\tMini-Bowling\n3.\tSkee Ball/Skillball\n4.\tShooting Gallery\n5.\tWhack-a-Mole\n6.\tMascot launch\n7.\tClaw Machine\n8.\tPinball\n9.\tDarts - Balloon Pop\n10.\tRing Toss\n\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010035301E528000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010035301E528000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010035301E528000/screen/1",
+    "http://api.nlib.cc/nx/010035301E528000/screen/2",
+    "http://api.nlib.cc/nx/010035301E528000/screen/3",
+    "http://api.nlib.cc/nx/010035301E528000/screen/4",
+    "http://api.nlib.cc/nx/010035301E528000/screen/5",
+    "http://api.nlib.cc/nx/010035301E528000/screen/6"
+  ]
+}

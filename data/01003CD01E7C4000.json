@@ -1,0 +1,15 @@
+{
+  "name": "Recycle Master",
+  "publisher": "Entity3",
+  "releaseDate": "20240427",
+  "description": "Vaccum up the rubbish and clear the areas in this satisfying quirky game!\nUpgrade your speed, suck and capacity to help you get things done faster!\nEarn rewards and unlock new hoovers!\nCan you be the Recycle Master?",
+  "bannerUrl": "http://api.nlib.cc/nx/01003CD01E7C4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003CD01E7C4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003CD01E7C4000/screen/1",
+    "http://api.nlib.cc/nx/01003CD01E7C4000/screen/2",
+    "http://api.nlib.cc/nx/01003CD01E7C4000/screen/3",
+    "http://api.nlib.cc/nx/01003CD01E7C4000/screen/4",
+    "http://api.nlib.cc/nx/01003CD01E7C4000/screen/5"
+  ]
+}

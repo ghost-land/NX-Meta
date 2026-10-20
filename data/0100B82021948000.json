@@ -1,0 +1,16 @@
+{
+  "name": "Learn to Play - Penalty Shootout",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20250220",
+  "description": "Penalty Shootout is a short and simple game.\n\nShoot the ball as hard as you can to score goals. Then switch and try to save all the shots from your opponent!\n\nEach side will have 10 attempts. Score as many goals as possible to be victorious!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B82021948000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B82021948000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B82021948000/screen/1",
+    "http://api.nlib.cc/nx/0100B82021948000/screen/2",
+    "http://api.nlib.cc/nx/0100B82021948000/screen/3",
+    "http://api.nlib.cc/nx/0100B82021948000/screen/4",
+    "http://api.nlib.cc/nx/0100B82021948000/screen/5",
+    "http://api.nlib.cc/nx/0100B82021948000/screen/6"
+  ]
+}

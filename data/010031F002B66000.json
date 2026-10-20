@@ -1,0 +1,16 @@
+{
+  "name": "Mr. Shifty",
+  "publisher": "tinyBuild Games",
+  "releaseDate": "20170413",
+  "description": "Shift through bullets, and master lightning-fast takedowns in an all new kind of action game from tinyBuild and Team Shifty! Mr. Shifty follows a teleportation-fueled heist to break into the world's most secure facility.",
+  "bannerUrl": "http://api.nlib.cc/nx/010031F002B66000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010031F002B66000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010031F002B66000/screen/1",
+    "http://api.nlib.cc/nx/010031F002B66000/screen/2",
+    "http://api.nlib.cc/nx/010031F002B66000/screen/3",
+    "http://api.nlib.cc/nx/010031F002B66000/screen/4",
+    "http://api.nlib.cc/nx/010031F002B66000/screen/5",
+    "http://api.nlib.cc/nx/010031F002B66000/screen/6"
+  ]
+}

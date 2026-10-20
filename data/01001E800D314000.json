@@ -1,0 +1,14 @@
+{
+  "name": "Perry Pig Jump",
+  "publisher": "EntwicklerX",
+  "releaseDate": "20190124",
+  "description": "Meet Perry Pig – a friendly little piggy. Help him to jump into the sky and play a fantastic adventure with him.\n\nJump high and higher, collect stars and diamonds for Special Items and upgrades. For a happy jump you can clothes and accessories to dress up Perry pig as you like.\nCombine clothes for your unique style.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001E800D314000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001E800D314000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001E800D314000/screen/1",
+    "http://api.nlib.cc/nx/01001E800D314000/screen/2",
+    "http://api.nlib.cc/nx/01001E800D314000/screen/3",
+    "http://api.nlib.cc/nx/01001E800D314000/screen/4"
+  ]
+}

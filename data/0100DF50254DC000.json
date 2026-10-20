@@ -1,0 +1,16 @@
+{
+  "name": "Car Crash Simulator: Demolition Derby Madness",
+  "publisher": "Individual",
+  "releaseDate": "20251114",
+  "description": "Buckle up for the ultimate test of speed, destruction, and control!\nCar Crash Simulator brings high-octane action to your console — combining explosive crashes, wild ramp jumps, and intense demolition battles.\n\nTake the wheel in multiple game modes:\nDerby Mode — Smash into rival cars, send them flying, and rack up points with every impact.\nRamp Mode — Launch off giant ramps, perform insane stunts, and chase the biggest jumps.\n\nEvery crash counts! Upgrade your car’s speed, durability, and handling, pushing your vehicle to new limits. Whether you’re slamming into opponents or soaring through the air, every run is packed with adrenaline and chaos.\nThere are no limits to destruction — only your skill determines how far you’ll go. Ready to cause some damage?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DF50254DC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DF50254DC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DF50254DC000/screen/1",
+    "http://api.nlib.cc/nx/0100DF50254DC000/screen/2",
+    "http://api.nlib.cc/nx/0100DF50254DC000/screen/3",
+    "http://api.nlib.cc/nx/0100DF50254DC000/screen/4",
+    "http://api.nlib.cc/nx/0100DF50254DC000/screen/5",
+    "http://api.nlib.cc/nx/0100DF50254DC000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "GREEN",
+  "publisher": "STUDIO GREEN",
+  "releaseDate": "20180802",
+  "description": "Create a block yourself and use it to clear the stage Side scrolling 2D puzzle action game\nBecause it uses only the jump and block buttons, it is a simple game that anyone can feel free to play.\nPlease clear all 50 stages and save the lover's pink.",
+  "bannerUrl": "http://api.nlib.cc/nx/010068D00AE68000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010068D00AE68000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010068D00AE68000/screen/1",
+    "http://api.nlib.cc/nx/010068D00AE68000/screen/2",
+    "http://api.nlib.cc/nx/010068D00AE68000/screen/3",
+    "http://api.nlib.cc/nx/010068D00AE68000/screen/4",
+    "http://api.nlib.cc/nx/010068D00AE68000/screen/5",
+    "http://api.nlib.cc/nx/010068D00AE68000/screen/6"
+  ]
+}

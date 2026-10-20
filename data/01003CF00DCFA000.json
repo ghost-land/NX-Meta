@@ -1,0 +1,15 @@
+{
+  "name": "The Alliance Alive HD Remastered",
+  "publisher": "NIS America",
+  "releaseDate": "20191008",
+  "description": "Experience the world of The Alliance Alive HD Remastered in a new light! New visuals, an updated interface, and more await you in this epic tale of trials and triumphs.\n\nHumanity has been shattered by invading Daemons from another realm. To reclaim their home, an unlikely fellowship of heroes will band together to spark a fiery revolution. Explore various Daemon-controlled realms, awaken your inner strength in the heat of battle, and form alliances to amass a force strong enough to stand against the invading forces.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003CF00DCFA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003CF00DCFA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003CF00DCFA000/screen/1",
+    "http://api.nlib.cc/nx/01003CF00DCFA000/screen/2",
+    "http://api.nlib.cc/nx/01003CF00DCFA000/screen/3",
+    "http://api.nlib.cc/nx/01003CF00DCFA000/screen/4",
+    "http://api.nlib.cc/nx/01003CF00DCFA000/screen/5"
+  ]
+}

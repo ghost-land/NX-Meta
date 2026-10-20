@@ -1,0 +1,16 @@
+{
+  "name": "Gift",
+  "publisher": "Bushiroad",
+  "releaseDate": "20240509",
+  "description": "An old man wakes up and finds himself on a luxury cruise ship. \nHe encounters passengers that he feels nostalgic about for various reasons as he attempts to escape from the sinking ship.\n\nThis is an action game in which the player aims to escape from a giant ship before it sinks into the sea.\nThe tilt and water level of the ship are constantly changing, so the situation varies dramatically even in the same location depending on the timing.\nThe gimmicks scattered throughout the ship also act very differently depending on the tilt and water level.\nThe player needs to make strategic use of these changes to construct an escape route. Sometimes it is necessary to solve puzzles, and other times it is necessary to make skillful use of the character’s actions.\n\nAnd in the end…\nA very precious encounter is awaiting the old man.",
+  "bannerUrl": "http://api.nlib.cc/nx/01004DE01CF78000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004DE01CF78000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004DE01CF78000/screen/1",
+    "http://api.nlib.cc/nx/01004DE01CF78000/screen/2",
+    "http://api.nlib.cc/nx/01004DE01CF78000/screen/3",
+    "http://api.nlib.cc/nx/01004DE01CF78000/screen/4",
+    "http://api.nlib.cc/nx/01004DE01CF78000/screen/5",
+    "http://api.nlib.cc/nx/01004DE01CF78000/screen/6"
+  ]
+}

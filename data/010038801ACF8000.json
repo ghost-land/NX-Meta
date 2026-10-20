@@ -1,0 +1,15 @@
+{
+  "name": "Hyper Torque Racing",
+  "publisher": "Granzella",
+  "releaseDate": "20230727",
+  "description": "Move the car with just the accelerator, brake, and steering wheel. The simplified driving operations give you a deep, authentic racer experience you can enjoy.\n\n\"Hyper Torque Mode\" is the main mode to which you will belong as a racer to join the events in many countries. Win and progress through the competitions and aim for victory in the world championship.\n\nMultiplayer is also supported!\nYou can play local multiplayer with up to four nearby friends or online multiplayer with up to six players worldwide.\nWin more heated races and become the world's best racer ever!\nYou can unlock badges based on race wins and gameplay achievements.",
+  "bannerUrl": "http://api.nlib.cc/nx/010038801ACF8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010038801ACF8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010038801ACF8000/screen/1",
+    "http://api.nlib.cc/nx/010038801ACF8000/screen/2",
+    "http://api.nlib.cc/nx/010038801ACF8000/screen/3",
+    "http://api.nlib.cc/nx/010038801ACF8000/screen/4",
+    "http://api.nlib.cc/nx/010038801ACF8000/screen/5"
+  ]
+}

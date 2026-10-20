@@ -1,0 +1,16 @@
+{
+  "name": "Death Elevator",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20241128",
+  "description": "Enter the relentless world of Death Elevator, a sleek, low-poly FPS where every decision matters and every encounter could be your last. With a one-hit death mechanic and dynamic slow-motion, each battle demands precision and quick reflexes. Ascend through randomized floors, battling waves of enemies with ever-changing weapons, as you unravel the mystery behind the elevator.\n\nStripped of upgrades, skill trees, and progression systems, Death Elevator focuses purely on your skill. Compete for the highest scores and see how you stack up against others on the global leaderboard. Can you conquer the climb and claim your place at the top?\n\nFeatures:\n\n- Fast-paced movement and precision shooting\n- Slow-motion triggers for intense combat moments\n- Randomized rooms and weapon drops for varied gameplay\n- Global leaderboard to compete with players worldwide",
+  "bannerUrl": "http://api.nlib.cc/nx/010076E020614000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010076E020614000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010076E020614000/screen/1",
+    "http://api.nlib.cc/nx/010076E020614000/screen/2",
+    "http://api.nlib.cc/nx/010076E020614000/screen/3",
+    "http://api.nlib.cc/nx/010076E020614000/screen/4",
+    "http://api.nlib.cc/nx/010076E020614000/screen/5",
+    "http://api.nlib.cc/nx/010076E020614000/screen/6"
+  ]
+}

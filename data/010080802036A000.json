@@ -1,0 +1,16 @@
+{
+  "name": "EGGCONSOLE UNDEADLINE MSX2",
+  "publisher": "D4 Enterprise",
+  "releaseDate": "20241017",
+  "description": "This is a vertical-scrolling action shooting game released in Japan by T&E SOFT in 1989.\n\nThe story is set in the Kingdom of Zidane, where the forces of the underworld have advanced to the castle gates after continuous victories. Three young heroes rise up and embark on a journey to reclaim the \"Spirit of Roshufa.\"\n\nPlayers can choose and tackle any of the six stages in any order. The objective is to clear all the stages, unlock the final stage, and defeat the final boss.\n\n\n*The main game and gallery screen (*Gallery) are in Japanese version.\n*Other menu screens and \"How to play\" screens are in English.",
+  "bannerUrl": "http://api.nlib.cc/nx/010080802036A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010080802036A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010080802036A000/screen/1",
+    "http://api.nlib.cc/nx/010080802036A000/screen/2",
+    "http://api.nlib.cc/nx/010080802036A000/screen/3",
+    "http://api.nlib.cc/nx/010080802036A000/screen/4",
+    "http://api.nlib.cc/nx/010080802036A000/screen/5",
+    "http://api.nlib.cc/nx/010080802036A000/screen/6"
+  ]
+}

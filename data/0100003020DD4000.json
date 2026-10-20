@@ -1,0 +1,16 @@
+{
+  "name": "Uragun",
+  "publisher": "Drageus Games",
+  "releaseDate": "20250307",
+  "description": "Choose your path and rewards allowing you to research new skills, mod your Mech and its weapons and grow stronger. And yes, you can also play with your Mech looks!\n\nThe search for your missing pilot friend will bring you to different spectacular locations where the impact of the AI upraise changed the world as we know it.\n\nEvery fight will take place in a selected location of this beautiful and devastated world. \nYour quest will bring you to places like a deserted Barcelona, Industrialized Nairobi, the mines hidden in the snowy mountain rifts of North America or an overgrown and futuristic Hong Kong.\n\nAs you play, new weapons will unlock, ranging from shotguns and auto-rifles to plasma boomerangs and rocket launchers. Each weapon can handle different situations and enemies better: some are devastating against big swarms of enemies while others are better suited for heavily armored foes. You can equip them in pairs and experiment to find your favorite combination for every occasion.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100003020DD4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100003020DD4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100003020DD4000/screen/1",
+    "http://api.nlib.cc/nx/0100003020DD4000/screen/2",
+    "http://api.nlib.cc/nx/0100003020DD4000/screen/3",
+    "http://api.nlib.cc/nx/0100003020DD4000/screen/4",
+    "http://api.nlib.cc/nx/0100003020DD4000/screen/5",
+    "http://api.nlib.cc/nx/0100003020DD4000/screen/6"
+  ]
+}

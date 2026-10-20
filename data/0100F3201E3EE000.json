@@ -1,0 +1,15 @@
+{
+  "name": "Fire Race",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20240406",
+  "description": "\nFire Race is a racing game that demands precision! Embark on a world tour, competing to secure the first-place while navigating banana peels, piles of sand, dangerous ice stalactites, and much more!\n\nLooking for an extra challenge? Attempt to collect all the items and complete special quests in each level!\n\nAlthough the path is challenging, a dose of power-ups can make all the difference. Utilize them to confront opponents and secure your victory!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F3201E3EE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F3201E3EE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F3201E3EE000/screen/1",
+    "http://api.nlib.cc/nx/0100F3201E3EE000/screen/2",
+    "http://api.nlib.cc/nx/0100F3201E3EE000/screen/3",
+    "http://api.nlib.cc/nx/0100F3201E3EE000/screen/4",
+    "http://api.nlib.cc/nx/0100F3201E3EE000/screen/5"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Paper io 2",
+  "publisher": "QubicGames",
+  "releaseDate": "20230901",
+  "description": "Paint the map in your own color, eliminate your opponents, get the highest score and take over the Paper io world.\nCompete in a fierce battle and become a champion!\n\nGlide over the white space or your friends territory and create connection back to your own color to claim that area. Watch out! When you move outside of your color, your tail is exposed to attack and you can be eliminated by others.\n\nUse your strategic skills and powerups to attack and claim all of the white space that was previously owned by other players! \n\nFeatures:\n- as many maps as there are countries in the world\n- 14 skins which also change the look of your terrain\n- multiplayer mode up to 8 players on one screen!\n- custom game with 45 various shaped maps\n- powerups spawning during the game\n- catchy music\n- easy controls so anyone can play\n- simple rules and lots of fun!",
+  "bannerUrl": "http://api.nlib.cc/nx/010080D01B9D4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010080D01B9D4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010080D01B9D4000/screen/1",
+    "http://api.nlib.cc/nx/010080D01B9D4000/screen/2",
+    "http://api.nlib.cc/nx/010080D01B9D4000/screen/3",
+    "http://api.nlib.cc/nx/010080D01B9D4000/screen/4",
+    "http://api.nlib.cc/nx/010080D01B9D4000/screen/5",
+    "http://api.nlib.cc/nx/010080D01B9D4000/screen/6"
+  ]
+}

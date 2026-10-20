@@ -1,0 +1,16 @@
+{
+  "name": "Taboo Trial",
+  "publisher": "Happy Player",
+  "releaseDate": "20240704",
+  "description": "Unlock different Valkyries in Valhalla, each playable with distinct styles.\n\nTake up the weapons of the gods to challenge the “giants”, each weapon having a distinct combat style.\n \nSelect \"Blessings of the Gods\". Blessing of the Gods not only has different combat strategies, but also activates different combat skills. Your choices will create your own unique combat style.\n \nMulti-difficulty levels, each difficulty has a different mechanism, challenging different \"giants\".",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D5601EB0C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D5601EB0C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D5601EB0C000/screen/1",
+    "http://api.nlib.cc/nx/0100D5601EB0C000/screen/2",
+    "http://api.nlib.cc/nx/0100D5601EB0C000/screen/3",
+    "http://api.nlib.cc/nx/0100D5601EB0C000/screen/4",
+    "http://api.nlib.cc/nx/0100D5601EB0C000/screen/5",
+    "http://api.nlib.cc/nx/0100D5601EB0C000/screen/6"
+  ]
+}

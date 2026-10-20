@@ -1,0 +1,16 @@
+{
+  "name": "MXGP3 - The Official Motocross Videogame",
+  "publisher": "Milestone",
+  "releaseDate": "20171121",
+  "description": "Experience all the adrenaline of Motocross with the official Championship’s only videogame! MXGP3 - The Official Motocross Videogame offers the most involving game experience ever, with completely new gameplay. Race on 18 official tracks and in the MXoN with all riders and bikes from the 2016 MXGP and MX2 seasons and be the first to experience the thrill of riding one of the 10  2-strokes available! Render your rider and your bike unique, with more than 300 official components for a complete customisation! ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D940063A0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D940063A0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D940063A0000/screen/1",
+    "http://api.nlib.cc/nx/0100D940063A0000/screen/2",
+    "http://api.nlib.cc/nx/0100D940063A0000/screen/3",
+    "http://api.nlib.cc/nx/0100D940063A0000/screen/4",
+    "http://api.nlib.cc/nx/0100D940063A0000/screen/5",
+    "http://api.nlib.cc/nx/0100D940063A0000/screen/6"
+  ]
+}

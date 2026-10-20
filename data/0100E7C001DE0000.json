@@ -1,0 +1,16 @@
+{
+  "name": "Arcade Archives Kid's Horehore Daisakusen",
+  "publisher": "HAMSTER",
+  "releaseDate": "20180809",
+  "description": "'Kid's Horehore Daisakusen' is an action game that was \nreleased from Nichibutsu in 1987.\n\nKid, who has been drawn into the space-time labyrinth \nfrom the 23 century, fights to escape from a large track of \nthe enemy in order to return to the present day. Players \ndefeat enemies with dropping in holes with using items, to \nescape from the times, such as primitive times and the Edo \nera and contemporary.\n\nThe \"Arcade Archives\" series has faithfully reproduced \nmany classic Arcade masterpieces.\nPlayers can change various game settings such as game \ndifficulty, and also reproduce the atmosphere of arcade \ndisplay settings at that time. Players can also compete \nagainst each other from all over the world with their high \nscores.\nPlease enjoy the masterpiece that built a generation for \nvideo games.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E7C001DE0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E7C001DE0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E7C001DE0000/screen/1",
+    "http://api.nlib.cc/nx/0100E7C001DE0000/screen/2",
+    "http://api.nlib.cc/nx/0100E7C001DE0000/screen/3",
+    "http://api.nlib.cc/nx/0100E7C001DE0000/screen/4",
+    "http://api.nlib.cc/nx/0100E7C001DE0000/screen/5",
+    "http://api.nlib.cc/nx/0100E7C001DE0000/screen/6"
+  ]
+}

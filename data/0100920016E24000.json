@@ -1,0 +1,16 @@
+{
+  "name": "Behind Closed Doors: A Developer's Tale",
+  "publisher": "Sometimes You",
+  "releaseDate": "20220518",
+  "description": "You play as Ethan, who works in the office for a small video game development company and trying to support his pregnant wife. It is just a normal week for Ethan: waking up, going to work, coming home, go to bed and repeat day after day. But then, something strange happens. Ethan gets an unusual phone call in the middle of the night, and is somehow teleported to another dimension. Ethan must complete a few unusual trials and try to get back to the real world.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100920016E24000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100920016E24000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100920016E24000/screen/1",
+    "http://api.nlib.cc/nx/0100920016E24000/screen/2",
+    "http://api.nlib.cc/nx/0100920016E24000/screen/3",
+    "http://api.nlib.cc/nx/0100920016E24000/screen/4",
+    "http://api.nlib.cc/nx/0100920016E24000/screen/5",
+    "http://api.nlib.cc/nx/0100920016E24000/screen/6"
+  ]
+}

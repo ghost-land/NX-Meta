@@ -1,0 +1,16 @@
+{
+  "name": "Timespinner",
+  "publisher": "Lunar Ray Games",
+  "releaseDate": "20190604",
+  "description": "Join timekeeper Lunais on her quest for revenge against the empire that killed her family, in this gothic 90s inspired action platformer. \n\nUse time-bending powers to explore a vast, connected world, unearthing the secrets of the past and present. Collect powerful elemental Orbs and combine their powers to destroy all enemies who stand in your path. Test your skills of time manipulation with intense boss fights, before taking on the Emperor himself! You might discover that the course of history isn't always as clear as it seems...\n\nFeatures:\n• Stop time to evade foes, use them as platforms and solve puzzles\n• Discover a lovingly-crafted, lavish pixel art world and uncover a rich story universe\n• Clobber enemies with Magic Orbs found throughout the world, which grow stronger with use\n• Befriend mysterious Familiars, like Meyef the Dream Dragon, and train them to aid you in battle\n• Take on challenging boss battles with an emphasis on skill, timing and dodging\n• Locate hidden areas and treasures through secret walls and platforming puzzles\n• Invite a second player to join the adventure by controlling Lunais’ Familiar in local co-op mode",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DD300CF3A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DD300CF3A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DD300CF3A000/screen/1",
+    "http://api.nlib.cc/nx/0100DD300CF3A000/screen/2",
+    "http://api.nlib.cc/nx/0100DD300CF3A000/screen/3",
+    "http://api.nlib.cc/nx/0100DD300CF3A000/screen/4",
+    "http://api.nlib.cc/nx/0100DD300CF3A000/screen/5",
+    "http://api.nlib.cc/nx/0100DD300CF3A000/screen/6"
+  ]
+}

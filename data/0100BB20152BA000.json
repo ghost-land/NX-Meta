@@ -1,0 +1,16 @@
+{
+  "name": "Enigmatis: The Ghosts of Maple Creek",
+  "publisher": "Artifex Mundi",
+  "releaseDate": "20210625",
+  "description": "Imagine waking up after a powerful storm as the sun goes down. You find yourself just outside a small town on the side of the road. A shiver runs down your spine as your body remembers the recent dramatic events that your mind cannot or will not recall…",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BB20152BA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BB20152BA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BB20152BA000/screen/1",
+    "http://api.nlib.cc/nx/0100BB20152BA000/screen/2",
+    "http://api.nlib.cc/nx/0100BB20152BA000/screen/3",
+    "http://api.nlib.cc/nx/0100BB20152BA000/screen/4",
+    "http://api.nlib.cc/nx/0100BB20152BA000/screen/5",
+    "http://api.nlib.cc/nx/0100BB20152BA000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Pet Care",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20190214",
+  "description": "Do you know what else a bear has to do with honey, and maybe you can guess what the horse eats? Meet our animals and match the right food that cat, mouse, dog and other pets eat.",
+  "bannerUrl": "http://api.nlib.cc/nx/010082A00D80A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010082A00D80A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010082A00D80A000/screen/1",
+    "http://api.nlib.cc/nx/010082A00D80A000/screen/2",
+    "http://api.nlib.cc/nx/010082A00D80A000/screen/3",
+    "http://api.nlib.cc/nx/010082A00D80A000/screen/4",
+    "http://api.nlib.cc/nx/010082A00D80A000/screen/5",
+    "http://api.nlib.cc/nx/010082A00D80A000/screen/6"
+  ]
+}

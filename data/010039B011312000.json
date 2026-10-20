@@ -1,0 +1,16 @@
+{
+  "name": "Colorgrid",
+  "publisher": "QUByte Interactive",
+  "releaseDate": "20200324",
+  "description": "Find the correct positions for your lasers and mirrors to get the right mix of colors in each material.\n\n- 70 hand-crafted levels with increasing complexity.\n- Originally composed music to help you focus and relax while solving the puzzles\n- Learn the basics of color mixing to solve the levels.",
+  "bannerUrl": "http://api.nlib.cc/nx/010039B011312000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010039B011312000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010039B011312000/screen/1",
+    "http://api.nlib.cc/nx/010039B011312000/screen/2",
+    "http://api.nlib.cc/nx/010039B011312000/screen/3",
+    "http://api.nlib.cc/nx/010039B011312000/screen/4",
+    "http://api.nlib.cc/nx/010039B011312000/screen/5",
+    "http://api.nlib.cc/nx/010039B011312000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Runestone Keeper",
+  "publisher": "CIRCLE Ent.",
+  "releaseDate": "20200820",
+  "description": "Now on Nintendo Switch™, Runestone Keeper will keep you coming back for one more floor, one more run, as you try to push through the dangers of the dungeon!\n\nHeroes, monsters, equipment, events, magic and skills, traps and devices, shrines and altars, Goddesses and merchants. Choose your weapon and begin an epic adventure!\n\nFeatures:\n\n●\tRandomly Generated Dungeon Elements – almost everything is generated differently each time to ensure a unique experience!\n●\tPrefix and Suffix-based Equipment – Loot comes with random yet rare prefixes and suffixes. Fight, collect and combine for a killer setup!\n●\tDiverse Monsters - Tread lightly, or be ganged up on by monsters with complementary abilities that might drive you crazy.\n●\tItems, Traps, Devices and Events - Opportunities for a favorable turn even at the most desperate moment. Choose wisely and use the unwelcoming surroundings to your advantage!\n●\tHeroes and Goddesses – Create your hero’s attributes build! Sacrifice to receive your mighty God’s blessing (and later betray him to check out his fury)!\n●\tA Challenging Experience - Prepare to have a tragic (not to mention permanent) death!",
+  "bannerUrl": "http://api.nlib.cc/nx/010032200EC9C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010032200EC9C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010032200EC9C000/screen/1",
+    "http://api.nlib.cc/nx/010032200EC9C000/screen/2",
+    "http://api.nlib.cc/nx/010032200EC9C000/screen/3",
+    "http://api.nlib.cc/nx/010032200EC9C000/screen/4",
+    "http://api.nlib.cc/nx/010032200EC9C000/screen/5",
+    "http://api.nlib.cc/nx/010032200EC9C000/screen/6"
+  ]
+}

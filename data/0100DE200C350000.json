@@ -1,0 +1,16 @@
+{
+  "name": "Chasm",
+  "publisher": "Bit Kid",
+  "releaseDate": "20181011",
+  "description": "Welcome to Chasm, an action-adventure game in which you play a new recruit undertaking your first mission for the Guildean Kingdom. Thrilled to prove your worth as a knight, you track strange rumors that a mine vital to the Kingdom has been shut down. But what you discover in the mining town is worse than you imagined: The townspeople have disappeared, kidnapped by supernatural creatures emerging from the depths.\n\nHonor-bound to solve the mystery and restore peace to the Kingdom, you embark upon an epic adventure, with deadly battles against cunning monsters, exploration of ancient catacombs and castles, and powerful new equipment hidden at every turn. Though the overall story is the same for all players, your hero's journey will be unique: each of the rooms has been hand-designed, and behind the scenes Chasm stitches these rooms together into a one-of-a-kind world map that will be your own.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DE200C350000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DE200C350000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DE200C350000/screen/1",
+    "http://api.nlib.cc/nx/0100DE200C350000/screen/2",
+    "http://api.nlib.cc/nx/0100DE200C350000/screen/3",
+    "http://api.nlib.cc/nx/0100DE200C350000/screen/4",
+    "http://api.nlib.cc/nx/0100DE200C350000/screen/5",
+    "http://api.nlib.cc/nx/0100DE200C350000/screen/6"
+  ]
+}

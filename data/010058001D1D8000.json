@@ -1,0 +1,16 @@
+{
+  "name": "Dash & Roll",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20240425",
+  "description": "As a once ordinary marble, you're imbued with mystical abilities by a benevolent wizard, transforming your existence from mundane to magical. You now have to use your marvelous marble powers to save the marble kingdom and survive countless trials by dashing, jumping, dodging, smashing crystals, and defeating the powerful evil foe who is waiting for you.",
+  "bannerUrl": "http://api.nlib.cc/nx/010058001D1D8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010058001D1D8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010058001D1D8000/screen/1",
+    "http://api.nlib.cc/nx/010058001D1D8000/screen/2",
+    "http://api.nlib.cc/nx/010058001D1D8000/screen/3",
+    "http://api.nlib.cc/nx/010058001D1D8000/screen/4",
+    "http://api.nlib.cc/nx/010058001D1D8000/screen/5",
+    "http://api.nlib.cc/nx/010058001D1D8000/screen/6"
+  ]
+}

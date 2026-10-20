@@ -1,0 +1,17 @@
+{
+  "name": "Thomas & Friends™: Wonders of Sodor",
+  "publisher": "Dovetail Games",
+  "releaseDate": "20260609",
+  "description": "Join Thomas and his friends on a special journey across Sodor! Hop into the cabs of North Western Railway’s classic steam team to enjoy nostalgic stories and all-new narratives right from the engineer'sseats. Explore the Wonders of Sodor—fun and magic await!\n\n• Join Thomas, Diesel, Gordon, Percy, and Emily for railway adventures in their home, the Island of Sodor.\n\n• Explore iconic landmarks across Sodor, such as the Tidmouth Sheds, Knapford station, and the famous Windmills.\n\n• Play a total of 8 stories all narrated by the legendary Mark Moraghan.\n\n• Get involved by operating Thomas on his branch line, or even ride as a passenger!\n\nThomas & Friends™: Wonders of Sodor is powered by Train Sim World, combining the unparalleled detail and realism of Unreal Engine and Simugraph with accessible controls to create a nostalgic experience that all Thomas & Friends™ fans can enjoy.",
+  "bannerUrl": "http://api.nlib.cc/nx/01003A30253C0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003A30253C0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003A30253C0000/screen/1",
+    "http://api.nlib.cc/nx/01003A30253C0000/screen/2",
+    "http://api.nlib.cc/nx/01003A30253C0000/screen/3",
+    "http://api.nlib.cc/nx/01003A30253C0000/screen/4",
+    "http://api.nlib.cc/nx/01003A30253C0000/screen/5"
+  ],
+  "version": 0,
+  "size": 5578785201
+}

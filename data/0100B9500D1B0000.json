@@ -1,0 +1,16 @@
+{
+  "name": "Dauntless",
+  "publisher": "Phoenix Labs",
+  "releaseDate": "20191210",
+  "description": "As a Slayer of Ramsgate, you are all that stands between your world and the Behemoths that seek to devour it. Hunt huge monsters, alongside other Slayers on any platform, and craft awesome gear in this stylish free-to-play co-op action RPG.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B9500D1B0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B9500D1B0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B9500D1B0000/screen/1",
+    "http://api.nlib.cc/nx/0100B9500D1B0000/screen/2",
+    "http://api.nlib.cc/nx/0100B9500D1B0000/screen/3",
+    "http://api.nlib.cc/nx/0100B9500D1B0000/screen/4",
+    "http://api.nlib.cc/nx/0100B9500D1B0000/screen/5",
+    "http://api.nlib.cc/nx/0100B9500D1B0000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Splatoon™ 2",
+  "publisher": "Nintendo",
+  "releaseDate": "20170721",
+  "description": "Traditional 4-on-4 turf battles return in this full sequel to the original breakout hit game, along with new stages, new fashions and new weapons such as the two-handed Splat Dualies. Players can compete on the TV or on the go. Whether they use the Nintendo Switch Pro Controller or Joy-Con, players can aim their ink using motion controls. Splatoon 2 supports both local and online multiplayer matches. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F8F0000A2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F8F0000A2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F8F0000A2000/screen/1",
+    "http://api.nlib.cc/nx/0100F8F0000A2000/screen/2",
+    "http://api.nlib.cc/nx/0100F8F0000A2000/screen/3",
+    "http://api.nlib.cc/nx/0100F8F0000A2000/screen/4",
+    "http://api.nlib.cc/nx/0100F8F0000A2000/screen/5",
+    "http://api.nlib.cc/nx/0100F8F0000A2000/screen/6"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PixelJunk™ モンスターズ2",
+  "publisher": "スパイク・チュンソフト",
+  "releaseDate": "20180524",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E570051F0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E570051F0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E570051F0000/screen/1",
+    "http://api.nlib.cc/nx/0100E570051F0000/screen/2",
+    "http://api.nlib.cc/nx/0100E570051F0000/screen/3"
+  ]
+}

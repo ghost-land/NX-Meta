@@ -1,0 +1,15 @@
+{
+  "name": "Dorfs: Hammers for Hire",
+  "publisher": "Purple Play",
+  "releaseDate": "20241114",
+  "description": "Dorfs: Hammers for Hire is an arcade co-op game about a group of dwarven weaponcrafters and armorsmiths, traveling through the world to wherever the scent of war and gold takes them. Participating indirectly in various battles, the crew of the Dorfenwagen only has a limited time to deliver all the armaments that the soldiers request, putting them in a constant race against time and the unstoppable advance of the enemy.\nCo-Op Campaign\nUp to four players can participate in a Campaign that takes them across 5 Regions and 30 hand-crafted levels.\n\nArcade Classic\nWork together to clear 10 more levels in any order of your choice. \n\nVersus Battle\nHammer against your friends in this 2v2 Versus mode in any of the 5 arenas to fight in! Same level, same items, same challenges.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FF301FE38000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FF301FE38000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FF301FE38000/screen/1",
+    "http://api.nlib.cc/nx/0100FF301FE38000/screen/2",
+    "http://api.nlib.cc/nx/0100FF301FE38000/screen/3",
+    "http://api.nlib.cc/nx/0100FF301FE38000/screen/4",
+    "http://api.nlib.cc/nx/0100FF301FE38000/screen/5"
+  ]
+}

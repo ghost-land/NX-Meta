@@ -1,0 +1,16 @@
+{
+  "name": "Rally Rock 'N Racing",
+  "publisher": "SuperPowerUpGames",
+  "releaseDate": "20190628",
+  "description": "In Rally Rock 'N Racing, you’ll enjoy a wide variety of natural environments, such as deserts, snow-covered mountains, forests... where you can show your skill at the wheel, competing against everyone to become the fastest. The game has several modes, such as Championship, Time Trial, Arcade, and 4-player multiplayer.\n\nOnline leader board where you can compare your best times with those of your friends and players from around the world.\n\nFeatures:\n\n- Wide variety of tracks.\n- Multi-player with 4 players.\n- Realistic driving physics.\n- Lots of Rock 'N Roll music.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F5700DE18000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F5700DE18000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F5700DE18000/screen/1",
+    "http://api.nlib.cc/nx/0100F5700DE18000/screen/2",
+    "http://api.nlib.cc/nx/0100F5700DE18000/screen/3",
+    "http://api.nlib.cc/nx/0100F5700DE18000/screen/4",
+    "http://api.nlib.cc/nx/0100F5700DE18000/screen/5",
+    "http://api.nlib.cc/nx/0100F5700DE18000/screen/6"
+  ]
+}

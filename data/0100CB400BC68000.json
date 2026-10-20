@@ -1,0 +1,15 @@
+{
+  "name": "Trove",
+  "publisher": "gamigo US",
+  "releaseDate": "20210623",
+  "description": "Grab your friends, hone your blades, and set off for adventure in Trove, the ultimate action MMO! Battle the forces of Shadow in realms filled with incredible dungeons and items created by your fellow players. Whether hunting treasure in far-off lands or building realms of your own, it’s never been this good to be square!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CB400BC68000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CB400BC68000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CB400BC68000/screen/1",
+    "http://api.nlib.cc/nx/0100CB400BC68000/screen/2",
+    "http://api.nlib.cc/nx/0100CB400BC68000/screen/3",
+    "http://api.nlib.cc/nx/0100CB400BC68000/screen/4",
+    "http://api.nlib.cc/nx/0100CB400BC68000/screen/5"
+  ]
+}

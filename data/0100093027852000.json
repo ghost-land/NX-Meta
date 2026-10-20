@@ -1,0 +1,18 @@
+{
+  "name": "Death Run",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20260625",
+  "description": "Death Run drops you into the world's most dangerous live broadcast: a high-stakes sci-fi game show where participants are thrown into merciless laser gauntlets and the only exit is the finish line. Watched by billions, judged by the millisecond, you are the latest contestant. The question isn't whether the show wants you dead — it does. The question is whether you're fast enough, sharp enough, and precise enough to make it out anyway.\nAt its core, Death Run is a 3D precision platformer built around fluid movement and split-second decision making. Courses are laced with moving lasers — rotating, sweeping, pulsing, and converging in patterns that demand full attention and quick adaptation. A single hit sends you back to the start. There are no checkpoints. There is only the run.\nYour movement arsenal gives you the tools to survive: jump, double jump, upward dash, forward dash, float, and a momentum system that rewards players who keep moving forward without hesitation. Combining these fluidly is the difference between a clean run and a reset.\nThe game is built in levels, each taking one to two minutes to complete. Every five levels the action pauses for a story segment — expanding the dark, Squid Game-inspired narrative of the show, its hosts, its rules, and the world watching from the outside. The further you progress, the more the story peels back the layers of what this broadcast really is.\nWith a sleek neon-lit visual style, pounding atmosphere, and courses that escalate in complexity and speed, Death Run is a game about mastery. Each failed run teaches you something. Each completed run is earned.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100093027852000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100093027852000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100093027852000/screen/1",
+    "http://api.nlib.cc/nx/0100093027852000/screen/2",
+    "http://api.nlib.cc/nx/0100093027852000/screen/3",
+    "http://api.nlib.cc/nx/0100093027852000/screen/4",
+    "http://api.nlib.cc/nx/0100093027852000/screen/5",
+    "http://api.nlib.cc/nx/0100093027852000/screen/6"
+  ],
+  "version": 0,
+  "size": 932469724
+}

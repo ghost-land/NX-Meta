@@ -1,0 +1,16 @@
+{
+  "name": "Duel Princess",
+  "publisher": "qureate",
+  "releaseDate": "20220113",
+  "description": "This is a side-scrolling tower defense game where you lead your units from your own castle towards the Princess' castle and capture it. \nThere are roguelite elements that lets you enjoy building new decks each time you play the story mode.\nThere are also many sexy rewards that men all over the world can enjoy!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EDD016562000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EDD016562000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EDD016562000/screen/1",
+    "http://api.nlib.cc/nx/0100EDD016562000/screen/2",
+    "http://api.nlib.cc/nx/0100EDD016562000/screen/3",
+    "http://api.nlib.cc/nx/0100EDD016562000/screen/4",
+    "http://api.nlib.cc/nx/0100EDD016562000/screen/5",
+    "http://api.nlib.cc/nx/0100EDD016562000/screen/6"
+  ]
+}

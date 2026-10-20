@@ -1,0 +1,16 @@
+{
+  "name": "Airoheart",
+  "publisher": "Soedesco",
+  "releaseDate": "20220930",
+  "description": "Our story begins in the land of Engard, where our beloved hero Airoheart sets out on a journey to stop his brother's diabolical plan to unleash an ancient evil that has been sealed in the shadows for generations, and to trigger a war using the power of the Draoidh Stone.  \n\nWill you confront your own brother and stop him from executing his wicked plans?",
+  "bannerUrl": "http://api.nlib.cc/nx/01008BE0179BC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008BE0179BC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008BE0179BC000/screen/1",
+    "http://api.nlib.cc/nx/01008BE0179BC000/screen/2",
+    "http://api.nlib.cc/nx/01008BE0179BC000/screen/3",
+    "http://api.nlib.cc/nx/01008BE0179BC000/screen/4",
+    "http://api.nlib.cc/nx/01008BE0179BC000/screen/5",
+    "http://api.nlib.cc/nx/01008BE0179BC000/screen/6"
+  ]
+}

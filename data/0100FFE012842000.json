@@ -1,0 +1,15 @@
+{
+  "name": "Video Poker Collection",
+  "publisher": "eSolutions Nordic",
+  "releaseDate": "20210305",
+  "description": "Test your skills on your favorite Video Poker game.\n\nA perfect game for all video poker fans who want to try different casino poker games and pay tables.\n\nVideo Poker Collection contains 15 poker machines in one:\n* Aces and Eights\n* Aces and Faces\n* All American\n* Black Jack Bonus Poker\n* Bonus Poker\n* Bonus Poker Deluxe\n* Deuces and Joker Poker\n* Deuces Wild\n* Double Bonus Poker\n* Jacks or Better\n* Joker Poker\n* Super Double Double Bonus Poker\n* Tens or Better\n* Two Ways Royal\n* White Hot Aces\n\nFeatures:\n* Simple and clean design.\n* Fast and easy game play.\n* Gamble your winnings.\n* View statistics.\n* Climb the Leaderboard and earn bragging rights.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FFE012842000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FFE012842000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FFE012842000/screen/1",
+    "http://api.nlib.cc/nx/0100FFE012842000/screen/2",
+    "http://api.nlib.cc/nx/0100FFE012842000/screen/3",
+    "http://api.nlib.cc/nx/0100FFE012842000/screen/4",
+    "http://api.nlib.cc/nx/0100FFE012842000/screen/5"
+  ]
+}

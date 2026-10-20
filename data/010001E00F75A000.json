@@ -1,0 +1,16 @@
+{
+  "name": "Alchemist's Castle",
+  "publisher": "Kodobur Yazilim",
+  "releaseDate": "20191013",
+  "description": "Discovering the philosopher's stone turned the wise and kind alchemist into a power hungry, selfish tyrant. Task of stopping him falls upon you, the former apprintice of the alchemist. Discover the secrets of the Alchemist's Castle, survive and destroy the philosopher's stone!\n\nAlchemists's Castle is a 2D side-scroller platformer, inspired by old-school Metroid and Castlevania games.",
+  "bannerUrl": "http://api.nlib.cc/nx/010001E00F75A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010001E00F75A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010001E00F75A000/screen/1",
+    "http://api.nlib.cc/nx/010001E00F75A000/screen/2",
+    "http://api.nlib.cc/nx/010001E00F75A000/screen/3",
+    "http://api.nlib.cc/nx/010001E00F75A000/screen/4",
+    "http://api.nlib.cc/nx/010001E00F75A000/screen/5",
+    "http://api.nlib.cc/nx/010001E00F75A000/screen/6"
+  ]
+}

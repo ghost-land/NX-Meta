@@ -1,0 +1,18 @@
+{
+  "name": "Pick & Place",
+  "publisher": "REDDEER.GAMES",
+  "releaseDate": "20260521",
+  "description": "Welcome to the world’s most relaxing tidying-up simulator! Pick & Place is a vibrant, low-stress puzzle game where your only goal is to find the perfect home for everyday objects. From vintage vinyls and leafy succulents to chaotic books and mismatched clothes, every item has a story—and a specific spot where it \"just fits.\", and everything is hand-drawn in a vibrant retro, pixel style.\n\nForget timers, high scores, or \"Game Over\" screens. Here, the only reward is the pure, tingly satisfaction of a perfectly organized shelf and the gentle hum of lo-fi beats.\n\nKEY FEATURES: \n- Satisfying Tactile Gameplay: Feel the click! Experience the tactile joy of placing items with smooth, responsive controls designed for maximum \"ahhh\" moments.\n- Vibrant Pixel Art: Immerse yourself in a nostalgic, colorful, handcrafted 16-bit world. \n- Zero Stress, All Chill: No timers. No pressure. Just you, your collection, and a cozy atmosphere. It’s the perfect \"wind-down\" game before bed or during a rainy afternoon.",
+  "bannerUrl": "http://api.nlib.cc/nx/010056E027DF4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010056E027DF4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010056E027DF4000/screen/1",
+    "http://api.nlib.cc/nx/010056E027DF4000/screen/2",
+    "http://api.nlib.cc/nx/010056E027DF4000/screen/3",
+    "http://api.nlib.cc/nx/010056E027DF4000/screen/4",
+    "http://api.nlib.cc/nx/010056E027DF4000/screen/5",
+    "http://api.nlib.cc/nx/010056E027DF4000/screen/6"
+  ],
+  "version": 0,
+  "size": 266031849
+}

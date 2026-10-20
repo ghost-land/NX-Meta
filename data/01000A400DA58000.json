@@ -1,0 +1,16 @@
+{
+  "name": "棋士・藤井聡太の将棋トレーニング",
+  "publisher": "ゲームスタジオ",
+  "releaseDate": "20200305",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/01000A400DA58000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000A400DA58000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000A400DA58000/screen/1",
+    "http://api.nlib.cc/nx/01000A400DA58000/screen/2",
+    "http://api.nlib.cc/nx/01000A400DA58000/screen/3",
+    "http://api.nlib.cc/nx/01000A400DA58000/screen/4",
+    "http://api.nlib.cc/nx/01000A400DA58000/screen/5",
+    "http://api.nlib.cc/nx/01000A400DA58000/screen/6"
+  ]
+}

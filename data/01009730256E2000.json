@@ -1,0 +1,16 @@
+{
+  "name": "豆モン",
+  "publisher": "Anxious Noob Games Ltd",
+  "releaseDate": "20260312",
+  "description": "EVOLVE YOUR BEASTS!\nBean Beasts gain experience, evolve and unlock additional attacks. \n\nUSE POWERFUL ABILITIES!\nEach Beast comes with a unique special ability and secondary attack. \n\nUPGRADE YOUR TRAPS!\nChoose the path to best suit your strategy.\n\nRE-PATH YOUR FOES!\nUse walls to redirect enemies however you see fit.\n\nGame Features:\n- 10 unique Bean Beasts, each with 3 evolution stages.\n- 12 unique Traps, each with 2 upgrade paths.\n- 21 individual player-triggered abilities, including 5 summons.\n- 40 hand-crafted levels spanning 5 biomes.\n- 8 epic boss encounters.\n- Plus 8 endless mode maps.\n- A new Beast, Trap or Upgrade unlocked after every level.\n- 4 difficulty options - from beginner to beast mode.\n- Over 50 different enemies to challenge your tactical skills.\n- 2 damage types, 5 damage elements and 7 status effects.\n- Use of physics and gravity to shove your opponents.\n- Custom music, artwork and juicy sound effects.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009730256E2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009730256E2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009730256E2000/screen/1",
+    "http://api.nlib.cc/nx/01009730256E2000/screen/2",
+    "http://api.nlib.cc/nx/01009730256E2000/screen/3",
+    "http://api.nlib.cc/nx/01009730256E2000/screen/4",
+    "http://api.nlib.cc/nx/01009730256E2000/screen/5",
+    "http://api.nlib.cc/nx/01009730256E2000/screen/6"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Kingdom Trails",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20260508",
+  "description": "Wander through rolling hills, quiet forests, and forgotten ruins as you follow winding trails that lead to charming villages, scenic viewpoints, and secret locations tucked away off the beaten path. Each area invites you to slow down, take in the atmosphere, and enjoy the journey rather than the destination.\n\nWhether you're watching over distant mountains or listening to the gentle sounds of nature, Kingdom Trails is designed to help you relax and unwind.\n\nFeatures:\n>A serene, open kingdom filled with diverse landscapes\n>Exploration-focused gameplay with hidden locations to find\n>Immersive ambient soundscapes and calming music\n> Cozy, low-pressure experience—no combat or stress",
+  "bannerUrl": "http://api.nlib.cc/nx/01005F2027CA0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005F2027CA0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005F2027CA0000/screen/1",
+    "http://api.nlib.cc/nx/01005F2027CA0000/screen/2",
+    "http://api.nlib.cc/nx/01005F2027CA0000/screen/3",
+    "http://api.nlib.cc/nx/01005F2027CA0000/screen/4",
+    "http://api.nlib.cc/nx/01005F2027CA0000/screen/5",
+    "http://api.nlib.cc/nx/01005F2027CA0000/screen/6"
+  ],
+  "version": 0,
+  "size": 126956292
+}

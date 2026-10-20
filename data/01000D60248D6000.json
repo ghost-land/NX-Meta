@@ -1,0 +1,16 @@
+{
+  "name": "Five Nights at Freddy's: Secret of the Mimic",
+  "publisher": "Steel Wool Games",
+  "releaseDate": "20251216",
+  "description": "Enter the abandoned workshop of Murray’s Costume Manor and unravel the mystery left behind by the reclusive inventor, Edwin Murray. In Five Nights at Freddy’s: Secret of the Mimic, you’ll step into a world where every dark corner holds a secret and every flicker of light hints at an ever-present threat. The Mimic, a prototype endoskeleton, can adapt to any costume and become any character, including what you fear most. Armed with only your wits, a few gadgets, and a heavily redacted corporate briefing, you’ll attempt to retrieve Fazbear’s prized prototype technology while grappling with cryptic clues and a relentless shadow determined to dispatch all unwanted company.\n\nPrepare for heart-pounding thrills as you explore the labyrinth of the deserted Costume Manor, discovering remnants of Edwin’s unfinished work and eluding the monster he’s created. Experience Five Nights at Freddy’s: Secret of the Mimic, and survive the mystery and madness. \n\nDisclaimer: Fazbear Entertainment is not responsible for whatever you awaken in the dark.",
+  "bannerUrl": "http://api.nlib.cc/nx/01000D60248D6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01000D60248D6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01000D60248D6000/screen/1",
+    "http://api.nlib.cc/nx/01000D60248D6000/screen/2",
+    "http://api.nlib.cc/nx/01000D60248D6000/screen/3",
+    "http://api.nlib.cc/nx/01000D60248D6000/screen/4",
+    "http://api.nlib.cc/nx/01000D60248D6000/screen/5",
+    "http://api.nlib.cc/nx/01000D60248D6000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Jigsaw Dinosaurs",
+  "publisher": "Bigboot Studios",
+  "releaseDate": "20240201",
+  "description": "-Solve 53 unique puzzles in an ice world\n-Record your progress and come back later\n-Start with any level!\n-Try to reach 3 stars in every puzzle\n-Beautiful art for dino lovers\n-Driving dinos, party dinos, athlete dinos and more!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D9401E0D0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D9401E0D0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D9401E0D0000/screen/1",
+    "http://api.nlib.cc/nx/0100D9401E0D0000/screen/2",
+    "http://api.nlib.cc/nx/0100D9401E0D0000/screen/3",
+    "http://api.nlib.cc/nx/0100D9401E0D0000/screen/4",
+    "http://api.nlib.cc/nx/0100D9401E0D0000/screen/5",
+    "http://api.nlib.cc/nx/0100D9401E0D0000/screen/6"
+  ]
+}

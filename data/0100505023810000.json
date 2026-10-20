@@ -1,0 +1,16 @@
+{
+  "name": "Paper Plane",
+  "publisher": "Pix Arts",
+  "releaseDate": "20250516",
+  "description": "Take flight in Paper Plane, a serene yet thrilling adventure where you pilot a variety of unique paper planes through beautifully crafted circuits across multiple levels. Soar through vibrant and diverse sceneries—peaceful valleys, misty mountains, glowing night skies, and sunlit canyons—each offering a different challenge and atmosphere.\n\nNavigate from waypoint to waypoint, mastering the art of flight while avoiding dynamic hazards like tumbling rocks, erupting geysers, zones of intense gravity, and unpredictable wind conditions. Every level presents new obstacles and opportunities to test your skills and reflexes.\n\nAll of this is set to a mesmerizing, trippy soundtrack that shifts with the environment, enhancing the dreamlike flow of your journey.\n\nFeatures:\n\nMultiple paper planes with unique handling\nDay and night levels with dynamic weather and lighting\nBeautiful, handcrafted environments\nChallenging hazards and flight physics\nTrippy, immersive music that evolves as you play\nPrepare to unfold the skies.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100505023810000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100505023810000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100505023810000/screen/1",
+    "http://api.nlib.cc/nx/0100505023810000/screen/2",
+    "http://api.nlib.cc/nx/0100505023810000/screen/3",
+    "http://api.nlib.cc/nx/0100505023810000/screen/4",
+    "http://api.nlib.cc/nx/0100505023810000/screen/5",
+    "http://api.nlib.cc/nx/0100505023810000/screen/6"
+  ]
+}

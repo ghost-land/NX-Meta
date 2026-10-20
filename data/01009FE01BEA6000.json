@@ -1,0 +1,15 @@
+{
+  "name": "Quit Today",
+  "publisher": "JUSTDAN",
+  "releaseDate": "20251022",
+  "description": "The story begins on an ordinary morning when you arrive at the company as usual, only to discover that all your colleagues believe you're about to resign. They see you as a traitor to the company and gang up on you. To figure out what's going on, you embark on a journey to protect yourself with your briefcase. After witnessing the darkness within the company, you decide to quit by defeating the company!",
+  "bannerUrl": "http://api.nlib.cc/nx/01009FE01BEA6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009FE01BEA6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009FE01BEA6000/screen/1",
+    "http://api.nlib.cc/nx/01009FE01BEA6000/screen/2",
+    "http://api.nlib.cc/nx/01009FE01BEA6000/screen/3",
+    "http://api.nlib.cc/nx/01009FE01BEA6000/screen/4",
+    "http://api.nlib.cc/nx/01009FE01BEA6000/screen/5"
+  ]
+}

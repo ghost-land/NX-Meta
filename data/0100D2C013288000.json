@@ -1,0 +1,16 @@
+{
+  "name": "Lofi Ping Pong",
+  "publisher": "Redblack Spade",
+  "releaseDate": "20201208",
+  "description": "Lofi Ping Pong is a rhythm game with great soundtracks in lofi hip hop genre, different game modes and mysterious story part\n- Six locations to play/relax to\n- Several gameplay modifications to test your rhythm skill\n- Proceed through story part to open more lofi hip hop tracks",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D2C013288000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D2C013288000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D2C013288000/screen/1",
+    "http://api.nlib.cc/nx/0100D2C013288000/screen/2",
+    "http://api.nlib.cc/nx/0100D2C013288000/screen/3",
+    "http://api.nlib.cc/nx/0100D2C013288000/screen/4",
+    "http://api.nlib.cc/nx/0100D2C013288000/screen/5",
+    "http://api.nlib.cc/nx/0100D2C013288000/screen/6"
+  ]
+}

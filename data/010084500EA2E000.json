@@ -1,0 +1,16 @@
+{
+  "name": "Spacejacked",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20200612",
+  "description": "Spacejacked is a super fast-paced ARCADE TOWER-DEFENSE. Play as Dave, a lone technician tasked with protecting his spaceship from being overrun by aliens while it prepares to warp into hyperspace.\n\nPlayers who seek to experience a blend of action shooter and tower defense will enjoy this game!\n\nFeatures:\n * Shoot and build turrets!\n * Defend both the ground and ceiling! No spot is safe from aliens!\n * Story Mode filled with quirky characters over the course of 2 major story acts.\n * Challenge Mode with demanding set-pieces only fit for the most hardcore.\n * Two Endless Modes for even crazier action and compete for high-score with your friends.",
+  "bannerUrl": "http://api.nlib.cc/nx/010084500EA2E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010084500EA2E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010084500EA2E000/screen/1",
+    "http://api.nlib.cc/nx/010084500EA2E000/screen/2",
+    "http://api.nlib.cc/nx/010084500EA2E000/screen/3",
+    "http://api.nlib.cc/nx/010084500EA2E000/screen/4",
+    "http://api.nlib.cc/nx/010084500EA2E000/screen/5",
+    "http://api.nlib.cc/nx/010084500EA2E000/screen/6"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Double Dragon Revive",
+  "publisher": "ARC SYSTEM WORKS",
+  "releaseDate": "20251023",
+  "description": "The Double Dragon series has defined the belt-scroll action genre ever since it hit the arcades in 1987.\nNow it returns as Double Dragon Revive, thanks to the passionate support of retro game fans over the years!\n\n1. Renewed, stylish character graphics!\n   See your favorites from the golden age of arcades recreated in modern 3D graphics.\n   Powerful foes from their past return to face off against the Lee brothers.\n\n2. The ultimate belt-scroll action experience!\n   The player traverses the screen horizontally to take down enemies in this beloved genre.\n   Experience the same simple and intuitive gameplay, with controls and balance refined for the modern era.\n   The carefully crafted experience, supervised by staff with experience on Arc System Works fighting game titles, makes it easy for new players to get engrossed right away.\n\n3. Thrilling, strategic action!\n   The combat requires adaptation and variety, more than a simple button-masher.\n   Delve into the strategy by learning enemy patterns and finding the most effective attack timings.\n   Pick up weapons scattered throughout the stages and make the most of the area gimmicks to seize the upperhand in battle!",
+  "bannerUrl": "http://api.nlib.cc/nx/01006AE02236C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006AE02236C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006AE02236C000/screen/1",
+    "http://api.nlib.cc/nx/01006AE02236C000/screen/2",
+    "http://api.nlib.cc/nx/01006AE02236C000/screen/3",
+    "http://api.nlib.cc/nx/01006AE02236C000/screen/4",
+    "http://api.nlib.cc/nx/01006AE02236C000/screen/5",
+    "http://api.nlib.cc/nx/01006AE02236C000/screen/6"
+  ],
+  "version": 0,
+  "size": 4090394624
+}

@@ -1,0 +1,16 @@
+{
+  "name": "HEAVEN SEEKER ――The Savior of This Cruel World",
+  "publisher": "SUCCESS",
+  "releaseDate": "20241205",
+  "description": "・Explore a dungeon that changes each time you enter.\nIn this title, you move with the left stick and aim with the right stick.\nThis is a bullet hell shooting game where you freely control your character and explore random dungeons.\nWhen your HP reaches 0, you will lose all the items you have gained during this exploration.\nThe player gains experience by exploring many times and learning the patterns of the rooms and the nature of the enemies.\n\n・Create your own \"Magic Shot!\"\nThe shot fired by the player character can be modified by freely combining over 20 customizable items to change its properties.\nSince items are randomly acquired during each quest, players will fight with a different \"personalized shot\" each time they dive into a dungeon.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EE00205BA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EE00205BA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EE00205BA000/screen/1",
+    "http://api.nlib.cc/nx/0100EE00205BA000/screen/2",
+    "http://api.nlib.cc/nx/0100EE00205BA000/screen/3",
+    "http://api.nlib.cc/nx/0100EE00205BA000/screen/4",
+    "http://api.nlib.cc/nx/0100EE00205BA000/screen/5",
+    "http://api.nlib.cc/nx/0100EE00205BA000/screen/6"
+  ]
+}

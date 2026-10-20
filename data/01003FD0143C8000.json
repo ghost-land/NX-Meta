@@ -1,0 +1,15 @@
+{
+  "name": "ProtoCorgi",
+  "publisher": "PLAION",
+  "releaseDate": "20230615",
+  "description": "Play as Bullet, a C³ class (Cute Cybernetic Corgi) pup on his quest to save his owner, a brilliant scientist kidnapped by an alien race that wants to rule the galaxy. ProtoCorgi is a retro pixel art shoot’em up with a strong arcade feel! \n\nAbout this game\nProtoCorgi is a retro style pixel art, horizontal shoot ‘em up with arcade gameplay that gives the player control over Bullet, a C³ class (Cute Cybernetic Corgi) pup.  \n\nBe prepared to Shoot, Dodge and Bark your way through in this adorable Bark’em up! Countless waves of enemies, gigantic bosses and deadly obstacles will put your skills to the test. Help Bullet on his journey to save his master and friend Nixie from terrible alien forces! \n\nFear not, the adventure is available to everyone with an adjustable difficulty from “Pup” to “Ultra Nightmare”. ",
+  "bannerUrl": "http://api.nlib.cc/nx/01003FD0143C8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003FD0143C8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003FD0143C8000/screen/1",
+    "http://api.nlib.cc/nx/01003FD0143C8000/screen/2",
+    "http://api.nlib.cc/nx/01003FD0143C8000/screen/3",
+    "http://api.nlib.cc/nx/01003FD0143C8000/screen/4",
+    "http://api.nlib.cc/nx/01003FD0143C8000/screen/5"
+  ]
+}

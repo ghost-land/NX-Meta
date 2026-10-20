@@ -1,0 +1,16 @@
+{
+  "name": "Kemono Heroes",
+  "publisher": "JanduSoft",
+  "releaseDate": "20250327",
+  "description": "Kemono Heroes combines elements of run and gun, fast arcade action with dashes and slashes, with cool and fluffy characters. It can be experienced alone, choosing between 3 difficulties to enjoy a real challenge. Up to 4 friends can also join forces in cooperative mode, fighting and helping each other to overcome any obstacles in their way.\n\n\nFeatures:\n - Run 'n Slash 'n Gun.\n - Local cooperative 1-4 players.\n - Amazing 16 bit graphics.\n - 4 main characters, each of them with special skills.\n - 4 worlds with 3 stages each.\n - Unlockable weapons and powers.\n - Lots of fun and action!",
+  "bannerUrl": "http://api.nlib.cc/nx/01004E902034E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01004E902034E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01004E902034E000/screen/1",
+    "http://api.nlib.cc/nx/01004E902034E000/screen/2",
+    "http://api.nlib.cc/nx/01004E902034E000/screen/3",
+    "http://api.nlib.cc/nx/01004E902034E000/screen/4",
+    "http://api.nlib.cc/nx/01004E902034E000/screen/5",
+    "http://api.nlib.cc/nx/01004E902034E000/screen/6"
+  ]
+}

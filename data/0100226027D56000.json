@@ -1,0 +1,18 @@
+{
+  "name": "Sky Meadow",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20260515",
+  "description": "Sky Meadow is a cozy walking simulator set in a serene floating island garden, where time slows down and every step invites calm. Suspended high in the sky, this tranquil space is yours to explore—free from pressure, noise, or urgency.\n\nLet the sound of the wind, distant chimes, and soft ambient music guide your journey as you explore this dreamy sky sanctuary.\n\nFeatures:\n> A beautiful floating island garden set high above the clouds\n\n> Relaxing exploration with hidden spots and scenic views\n\n> Calming ambient audio and peaceful sound design\n\n> Stress-free, meditative gameplay with no combat or objectives\n\n> A soothing, zen-inspired atmosphere designed for unwinding",
+  "bannerUrl": "http://api.nlib.cc/nx/0100226027D56000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100226027D56000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100226027D56000/screen/1",
+    "http://api.nlib.cc/nx/0100226027D56000/screen/2",
+    "http://api.nlib.cc/nx/0100226027D56000/screen/3",
+    "http://api.nlib.cc/nx/0100226027D56000/screen/4",
+    "http://api.nlib.cc/nx/0100226027D56000/screen/5",
+    "http://api.nlib.cc/nx/0100226027D56000/screen/6"
+  ],
+  "version": 0,
+  "size": 660505566
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Sky Revolver",
+  "publisher": "ESDigital Games",
+  "releaseDate": "20250516",
+  "description": "Take control of the last remaining fighter in the war against the Empire. In this classic vertical-scroll shoot ’em up, you must break through enemy squadrons and destroy the fleet’s command to turn the tide of battle.\n\nKey Features:\n● Masterful Maneuvering – Evade relentless enemy fire using advanced piloting techniques.\n● Deep Customization System – Combine salvaged components to create unique fighter builds.\n● Diverse Enemy Forces – Adapt your tactics to everything from agile scouts to armored battleships.\n● Epic Boss Battles – Face colossal multi-phase showdowns against giant warships, each with unique weapons and combat strategies.\n\nEvery mission tests your skill and demands strategic planning for upgrades, blending reflexes with long-term tactics.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010097F022804000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010097F022804000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010097F022804000/screen/1",
+    "http://api.nlib.cc/nx/010097F022804000/screen/2",
+    "http://api.nlib.cc/nx/010097F022804000/screen/3",
+    "http://api.nlib.cc/nx/010097F022804000/screen/4",
+    "http://api.nlib.cc/nx/010097F022804000/screen/5",
+    "http://api.nlib.cc/nx/010097F022804000/screen/6"
+  ]
+}

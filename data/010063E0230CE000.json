@@ -1,0 +1,16 @@
+{
+  "name": "Pool With Me",
+  "publisher": "Soroka Games",
+  "releaseDate": "20250419",
+  "description": "Grab your cue and get ready for the most exciting pool experience! Pool With Me lets you play 8-ball pool in both 3D and 2D modes—whether you want realistic physics or fast-paced arcade action.\n\n• Play with Friends – Challenge up to 4 players locally or compete online.\n• 5 Stylish Locations – From neon-lit bars to classic pool halls, each table has its own vibe.\n• Championship Mode – Prove your skills and climb the ranks to become the best!\n• Easy to Learn, Hard to Master – Simple controls for beginners, deep gameplay for pros.\n\nPerfect for quick matches, parties, or intense tournaments—Pool With Me delivers fun for everyone!\n\nAre you ready to rule the table?",
+  "bannerUrl": "http://api.nlib.cc/nx/010063E0230CE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010063E0230CE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010063E0230CE000/screen/1",
+    "http://api.nlib.cc/nx/010063E0230CE000/screen/2",
+    "http://api.nlib.cc/nx/010063E0230CE000/screen/3",
+    "http://api.nlib.cc/nx/010063E0230CE000/screen/4",
+    "http://api.nlib.cc/nx/010063E0230CE000/screen/5",
+    "http://api.nlib.cc/nx/010063E0230CE000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Tiny Lands",
+  "publisher": "naptime.games",
+  "releaseDate": "20210604",
+  "description": "Relaxing puzzle game with some amazing features, if you are looking for a game which allows you to just sit back and play… Tiny Lands is for you!\nWhat makes it different from traditional “Find the differences” games? Let us summarize what makes Tiny Lands so unique:\n\n- Change the way you look at things - You play in a 3D environment, which means you can interact with the scene to adjust the angle and zoom your view. \n\n\n- Bring scenes to life with dynamic objects - You will experience a changing aura with fire, rain, thunder, snow, and wind. It all adds a lot of charm to the scenery.\n\n\n- Experience many different environments - When you play on a beach scene, you can hear the sounds of waves and listen to how seagulls sing… It’s very refreshing…\n\n- Relax and have fun at your own tempo - There is no time limit, so you don’t have to worry about how long you spend in a level. Set your favorite lo-fi music and play at your own pace.\n\n- Take it easy - Anyone can make mistakes, right? That's why there is no punishment for that. Grab a cup of coffee on a rainy day and just chill out.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F18014AC2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F18014AC2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F18014AC2000/screen/1",
+    "http://api.nlib.cc/nx/0100F18014AC2000/screen/2",
+    "http://api.nlib.cc/nx/0100F18014AC2000/screen/3",
+    "http://api.nlib.cc/nx/0100F18014AC2000/screen/4",
+    "http://api.nlib.cc/nx/0100F18014AC2000/screen/5",
+    "http://api.nlib.cc/nx/0100F18014AC2000/screen/6"
+  ]
+}

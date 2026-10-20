@@ -1,0 +1,16 @@
+{
+  "name": "Quarantine Zone: Border Zombie Checkpoint",
+  "publisher": "XenoXeno",
+  "releaseDate": "20251001",
+  "description": "Quarantine Zone: Border Zombie Checkpoint puts you in charge of a high-stakes border in a world teetering on the edge of a zombie outbreak. Every person who approaches your checkpoint could be healthy—or harbor a deadly infection. Use military-grade tools, sharp intuition, and strategic judgment to separate the living from the infected, because every mistake can spell disaster.\n\nKey Features:\n- Advanced Screening Tools: Utilize UV lights, thermometers, and manual scanners to uncover infections and hidden contraband.\n- Supply and Equipment Strategy: Carefully manage scarce test kits and inspection devices while keeping order at the checkpoint.\n- Unpredictable Threats: Handle an ever-changing flow of refugees, from the healthy to those carrying dangerous pathogens.\n- Critical Choices: Decide who enters, who is quarantined, and who must be eliminated based on clues, documents, and medical results.\n\nEvery person at your checkpoint carries a risk—some seek help, others conceal deadly threats. One wrong decision can ignite chaos and cost countless lives. How long can you maintain control and protect those who can still be saved?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AEA0250EA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AEA0250EA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AEA0250EA000/screen/1",
+    "http://api.nlib.cc/nx/0100AEA0250EA000/screen/2",
+    "http://api.nlib.cc/nx/0100AEA0250EA000/screen/3",
+    "http://api.nlib.cc/nx/0100AEA0250EA000/screen/4",
+    "http://api.nlib.cc/nx/0100AEA0250EA000/screen/5",
+    "http://api.nlib.cc/nx/0100AEA0250EA000/screen/6"
+  ]
+}

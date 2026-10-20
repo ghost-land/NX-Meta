@@ -1,0 +1,16 @@
+{
+  "name": "Arcane Vale",
+  "publisher": "Dynamic Zero",
+  "releaseDate": "20230331",
+  "description": "It's up to you to complete your fathers legacy and discover a long lost treasure as you are thrust into a world full of discovery.\n\nExplore a huge open-world full of deadly creatures and hidden secrets. Complete quests to win favor with the local inhabitants, in return, they may just help you on your journey. Level up your skills and equipment to become stronger as you face ever more powerful and deadly foes.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100256019A88000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100256019A88000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100256019A88000/screen/1",
+    "http://api.nlib.cc/nx/0100256019A88000/screen/2",
+    "http://api.nlib.cc/nx/0100256019A88000/screen/3",
+    "http://api.nlib.cc/nx/0100256019A88000/screen/4",
+    "http://api.nlib.cc/nx/0100256019A88000/screen/5",
+    "http://api.nlib.cc/nx/0100256019A88000/screen/6"
+  ]
+}

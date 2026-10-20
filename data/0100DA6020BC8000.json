@@ -1,0 +1,16 @@
+{
+  "name": "Penguin Helper",
+  "publisher": "Paybox",
+  "releaseDate": "20241226",
+  "description": "Welcome to the South Pole, where you will have to lift penguins!\n\nPenguin Helper is a fun 3D first-person game in which you become a real hero to these funny creatures.\n\nTake a walk among the snowy open spaces and watch the southern lights. But be careful! Penguins lose coordination as soon as a plane flies over them. Your task is to put them on their feet.\n\nExplore frosty landscapes, enjoy the beauty of vast expanses and skies, and enjoy the calm and tranquility of the South Pole.\n\nKey Features:\n\n- The breathtaking expanses of the South Pole\n- Interaction with penguins\n- Raising penguins as the main mechanic of the game\n- Meditative atmosphere with pleasant sound\n- Counter of raised penguins\n\nAre you ready to become a real hero of the South Pole? Put on warm clothes, stock up on tea and start your Penguin Helper adventure!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DA6020BC8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DA6020BC8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DA6020BC8000/screen/1",
+    "http://api.nlib.cc/nx/0100DA6020BC8000/screen/2",
+    "http://api.nlib.cc/nx/0100DA6020BC8000/screen/3",
+    "http://api.nlib.cc/nx/0100DA6020BC8000/screen/4",
+    "http://api.nlib.cc/nx/0100DA6020BC8000/screen/5",
+    "http://api.nlib.cc/nx/0100DA6020BC8000/screen/6"
+  ]
+}

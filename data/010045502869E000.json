@@ -1,0 +1,18 @@
+{
+  "name": "Vikings Pinball",
+  "publisher": "NOSTRA GAMES",
+  "releaseDate": "20260903",
+  "description": "Fun pinball style battles. Attack the military camps of the holy Roman Empire and crush the legionaries. Choose the right trajectories to inflict as much damage as possible.  Shoot down enemies, blow up barrels and collect coins. Free the map from these lazybones!",
+  "bannerUrl": "http://api.nlib.cc/nx/010045502869E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010045502869E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010045502869E000/screen/1",
+    "http://api.nlib.cc/nx/010045502869E000/screen/2",
+    "http://api.nlib.cc/nx/010045502869E000/screen/3",
+    "http://api.nlib.cc/nx/010045502869E000/screen/4",
+    "http://api.nlib.cc/nx/010045502869E000/screen/5",
+    "http://api.nlib.cc/nx/010045502869E000/screen/6"
+  ],
+  "version": 0,
+  "size": 92734035
+}

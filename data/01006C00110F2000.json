@@ -1,0 +1,16 @@
+{
+  "name": "A Glider's Journey",
+  "publisher": "Emma Franklin",
+  "releaseDate": "20210301",
+  "description": "A Glider's journey is a game about exploring a relaxing, colorful low poly world; while still challenging your piloting skills till the very end of each level.\n\nThe very simple controls (one joystick, no throttle no rudder) makes it very easy to pickup, but hard to master, thanks to the physics-based flight model. (Realistic mode)\n\nKey Features:\n\n- 15 levels featuring a variety of unique low poly biomes. (playtime ranging from 40 minutes to 2+ hours depending on your skill set)\n\n- Unique custom made soundtrack for every level style and feel.\n\n- An immersive experience thanks to the removal of all HUDs, completely replaced by subtle visual and audio indicators, such as the wind noise and wing particles for speed, the color of the wings for the progression of the level etc...",
+  "bannerUrl": "http://api.nlib.cc/nx/01006C00110F2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006C00110F2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006C00110F2000/screen/1",
+    "http://api.nlib.cc/nx/01006C00110F2000/screen/2",
+    "http://api.nlib.cc/nx/01006C00110F2000/screen/3",
+    "http://api.nlib.cc/nx/01006C00110F2000/screen/4",
+    "http://api.nlib.cc/nx/01006C00110F2000/screen/5",
+    "http://api.nlib.cc/nx/01006C00110F2000/screen/6"
+  ]
+}

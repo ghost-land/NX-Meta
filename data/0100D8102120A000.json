@@ -1,0 +1,16 @@
+{
+  "name": "Makis Adventure",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20250905",
+  "description": "Take the role of Maki as you explore a world of unique islands, meeting new friends and dashing through the waters using 3 different shark forms. Makis Adventure is a side-scrolling action platformer that lets you decide how to tackle its unique challenges. Whether you prefer to fight or focus on exploring, there’s plenty to discover and decide your play style.\n\nRun, wall jump, swim and bite your way through dungeons and use momentum as a shark to power through levels in blistering 2D pixel art style, defeat mini bosses and end bosses along the way, then use the 3D hub world to fly between uncharted lands, complete ring mini games and more!\n\n• Traverse wild and deadly islands in the form of a human or shark!\n• Run, jump, swim and bite your way through side-scrolling stages.\n• Shift into 3D as you roam the hub world of uncharted islands!\n• Focus on combat or exploration.\n• Play mini games, find hidden treasures and even go fishing!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D8102120A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D8102120A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D8102120A000/screen/1",
+    "http://api.nlib.cc/nx/0100D8102120A000/screen/2",
+    "http://api.nlib.cc/nx/0100D8102120A000/screen/3",
+    "http://api.nlib.cc/nx/0100D8102120A000/screen/4",
+    "http://api.nlib.cc/nx/0100D8102120A000/screen/5",
+    "http://api.nlib.cc/nx/0100D8102120A000/screen/6"
+  ]
+}

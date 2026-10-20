@@ -1,0 +1,16 @@
+{
+  "name": "Stick Fight: The Game",
+  "publisher": "Landfall Games",
+  "releaseDate": "20210401",
+  "description": "Stick Fight is a physics-based couch/online fighting game where you battle it out as the iconic stick figures from the golden age of the internet. Fight it out against your friends or find random sticks from around the world!\n\nFeatures\n- 2 to 4 players in either Local or Online Multiplayer\n- Physics-Based Combat System\n- 100 Highly Interactive Levels\n- Lots of weapons!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100622009FB0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100622009FB0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100622009FB0000/screen/1",
+    "http://api.nlib.cc/nx/0100622009FB0000/screen/2",
+    "http://api.nlib.cc/nx/0100622009FB0000/screen/3",
+    "http://api.nlib.cc/nx/0100622009FB0000/screen/4",
+    "http://api.nlib.cc/nx/0100622009FB0000/screen/5",
+    "http://api.nlib.cc/nx/0100622009FB0000/screen/6"
+  ]
+}

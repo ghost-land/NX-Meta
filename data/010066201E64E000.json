@@ -1,0 +1,16 @@
+{
+  "name": "Block Magic Puzzle",
+  "publisher": "ASI GAMES TECHNOLOGIES",
+  "releaseDate": "20240310",
+  "description": "Fill the empty 8x8 tiles with blocks until they are full horizontally or vertically and disappear. There are 5 different modes you can play: Classic mode, Timed mode, Blast mode, Advanced mode, and Challenge Mode.\n\nGet ready and let's have some fun!",
+  "bannerUrl": "http://api.nlib.cc/nx/010066201E64E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010066201E64E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010066201E64E000/screen/1",
+    "http://api.nlib.cc/nx/010066201E64E000/screen/2",
+    "http://api.nlib.cc/nx/010066201E64E000/screen/3",
+    "http://api.nlib.cc/nx/010066201E64E000/screen/4",
+    "http://api.nlib.cc/nx/010066201E64E000/screen/5",
+    "http://api.nlib.cc/nx/010066201E64E000/screen/6"
+  ]
+}

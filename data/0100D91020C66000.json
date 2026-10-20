@@ -1,0 +1,15 @@
+{
+  "name": "Farm",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20241214",
+  "description": "Chaos has taken over the pasture! Take on this addictive challenge where you need to help the farm animals find their pairs and escape the pen. Move cows, piglets, sheep, and more, organising them to free up space and ensure everyone gets out happy. But keep an eye on the unpaired animals, if any of them can’t find their way home, it’s game over! With puzzles growing more challenging, you’ll need strategy and agility to keep the farm in order. Can you solve these puzzles before chaos takes over?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D91020C66000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D91020C66000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D91020C66000/screen/1",
+    "http://api.nlib.cc/nx/0100D91020C66000/screen/2",
+    "http://api.nlib.cc/nx/0100D91020C66000/screen/3",
+    "http://api.nlib.cc/nx/0100D91020C66000/screen/4",
+    "http://api.nlib.cc/nx/0100D91020C66000/screen/5"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Bunker Builder & Construction Simulator",
+  "publisher": "Halva Studio",
+  "releaseDate": "20241205",
+  "description": "Step into the shoes of a master engineer and architect as you design, construct, and customize underground bunkers!\n\nPrepare for every scenario—from natural disasters to apocalyptic events.\nBuy resources, prepare materials, plan your layouts, and manage upgrades to build the ultimate survival shelter.\n\n- Plan and Build: Use advanced tools to create secure, efficient bunkers.\n- Upgrade and Expand: Enhance your structures with cutting-edge technology and new rooms.\n- Survival Challenges: Balance resources, meet survivors' needs, and withstand environmental threats.\n- Creative Freedom: Customize your bunker to suit your survival style.\n- Realistic Construction: Experience a blend of strategy and simulation with dynamic building systems.\n\nTensions are rising in the world.\n\nAre you ready to construct the ultimate survival shelter?",
+  "bannerUrl": "http://api.nlib.cc/nx/010066D02147E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010066D02147E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010066D02147E000/screen/1",
+    "http://api.nlib.cc/nx/010066D02147E000/screen/2",
+    "http://api.nlib.cc/nx/010066D02147E000/screen/3",
+    "http://api.nlib.cc/nx/010066D02147E000/screen/4",
+    "http://api.nlib.cc/nx/010066D02147E000/screen/5"
+  ]
+}

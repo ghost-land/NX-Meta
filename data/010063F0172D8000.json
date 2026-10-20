@@ -1,0 +1,16 @@
+{
+  "name": "Kubi Adventures",
+  "publisher": "Weakfish Studio",
+  "releaseDate": "20220117",
+  "description": "Kubi Adventures, 3D Cute Platformer Game!\nCollect keys and coins by passing enemies and obstacles! and finish the Levels!\n\nYou can buy new cats with the Coins you collect!\nLevels have different atmospheres and different obstacles!\nNew Levels are unlocked when you complete chapters!\nYou Need to Collect Keys to Pass Levels, Except the first Levels!",
+  "bannerUrl": "http://api.nlib.cc/nx/010063F0172D8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010063F0172D8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010063F0172D8000/screen/1",
+    "http://api.nlib.cc/nx/010063F0172D8000/screen/2",
+    "http://api.nlib.cc/nx/010063F0172D8000/screen/3",
+    "http://api.nlib.cc/nx/010063F0172D8000/screen/4",
+    "http://api.nlib.cc/nx/010063F0172D8000/screen/5",
+    "http://api.nlib.cc/nx/010063F0172D8000/screen/6"
+  ]
+}

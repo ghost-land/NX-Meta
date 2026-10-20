@@ -1,0 +1,16 @@
+{
+  "name": "Merge World Alchemist",
+  "publisher": "AlignmentSharp",
+  "releaseDate": "20250626",
+  "description": "Hiiro Amami, a novice alchemist, has graduated from alchemy school and opened hers workshop today.\nHiiro's best friend Augusta Margery comes to celebrate with her.\nHiiro is motivated after receiving a new alchemy pot as a gift!\nHowever, Augusta tells her something shocking.\nShe tells her that she is moving to a faraway city to treat her illness.\nKnowing that she will never see her again once she moves, Hiiro aims to create an item for treatment before she moves.\n\n・How to do alchemy\nAcquire materials by requesting collection from the Adventurer's Guild or by going out and collecting them yourself.\nMerge materials together to increase their level.\nCombine three types of materials to start alchemy.\nYou can turn in the alchemy items you create in quests to the Merchant Guild.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E09023870000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E09023870000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E09023870000/screen/1",
+    "http://api.nlib.cc/nx/0100E09023870000/screen/2",
+    "http://api.nlib.cc/nx/0100E09023870000/screen/3",
+    "http://api.nlib.cc/nx/0100E09023870000/screen/4",
+    "http://api.nlib.cc/nx/0100E09023870000/screen/5",
+    "http://api.nlib.cc/nx/0100E09023870000/screen/6"
+  ]
+}

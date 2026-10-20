@@ -1,0 +1,13 @@
+{
+  "name": "スーパー桃太郎電鉄",
+  "publisher": "KONAMI",
+  "releaseDate": "20230923",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/01009F90126EE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009F90126EE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009F90126EE000/screen/1",
+    "http://api.nlib.cc/nx/01009F90126EE000/screen/2",
+    "http://api.nlib.cc/nx/01009F90126EE000/screen/3"
+  ]
+}

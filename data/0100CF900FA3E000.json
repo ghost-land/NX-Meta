@@ -1,0 +1,16 @@
+{
+  "name": "FAIRY TAIL",
+  "publisher": "KOEI TECMO AMERICA",
+  "releaseDate": "20200731",
+  "description": "■Play as powerful mages from different guilds\nA total of 16 playable characters!\nVarious characters from guilds other than \"Fairy Tail\" appear!\nAlso, the game includes an original episode.\n\n■Magic battles, Fairy Tail style\nFamiliar moves from the source material such as Unison Raid and Extreme Magic can be performed!\nThere are also Unison Raids that are original to the game.\n\n■Aim to become the No. 1 guild\nThe town of Magnolia and inside of the guild are fully depicted.\nComplete missions that appear on the request board, raise your guild's rank with your comrades, and aim to become the No. 1 guild!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CF900FA3E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CF900FA3E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CF900FA3E000/screen/1",
+    "http://api.nlib.cc/nx/0100CF900FA3E000/screen/2",
+    "http://api.nlib.cc/nx/0100CF900FA3E000/screen/3",
+    "http://api.nlib.cc/nx/0100CF900FA3E000/screen/4",
+    "http://api.nlib.cc/nx/0100CF900FA3E000/screen/5",
+    "http://api.nlib.cc/nx/0100CF900FA3E000/screen/6"
+  ]
+}

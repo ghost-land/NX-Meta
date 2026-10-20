@@ -1,0 +1,16 @@
+{
+  "name": "Bleed",
+  "publisher": "Digerati",
+  "releaseDate": "20171214",
+  "description": "Wryn is a girl with a big arsenal and big dreams -- she wants to be the ultimate videogame hero! Help her take down the Greatest Heroes of All Time in an action-packed bid to claim the title for herself and show the world what a true hero looks like!\n\nBleed is an action-platformer focused on stylish, acrobatic dodging and fluid, challenging gameplay. There's no filler -- just you and your skills against seven levels of enemies, obstacles, breakneck set-pieces and inventive bosses!\n\nKey Features:\n• Unique control scheme enabling crazy fast action\n• 7 levels packed with multiple set-pieces and bosses\n• 4 difficulty levels that remix enemy placement and boss patterns\n• 2-player local co-op for all modes (requires at least two Joy-Cons)\n• 3 unlockable characters with their own gameplay twists\n• Survive the entire game on one life in Arcade Mode\n• Select and battle up to three bosses at once in Challenge Mode.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010042C006490000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010042C006490000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010042C006490000/screen/1",
+    "http://api.nlib.cc/nx/010042C006490000/screen/2",
+    "http://api.nlib.cc/nx/010042C006490000/screen/3",
+    "http://api.nlib.cc/nx/010042C006490000/screen/4",
+    "http://api.nlib.cc/nx/010042C006490000/screen/5",
+    "http://api.nlib.cc/nx/010042C006490000/screen/6"
+  ]
+}

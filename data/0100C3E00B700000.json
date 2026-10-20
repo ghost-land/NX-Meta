@@ -1,0 +1,16 @@
+{
+  "name": "SEGA AGES Space Harrier",
+  "publisher": "SEGA",
+  "releaseDate": "20190822",
+  "description": "Goal: Destroy all enemies. Harrier is in a constant state of motion as he traverses the Fantasy Zone. Can he eliminate all evil, supernatural beasts in order to save Dragon Land? Use your jet laser cannon to shoot while dodging obstacles. Can you beat all stages and reach the end? Play SEGA AGES Space Harrier today!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C3E00B700000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C3E00B700000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C3E00B700000/screen/1",
+    "http://api.nlib.cc/nx/0100C3E00B700000/screen/2",
+    "http://api.nlib.cc/nx/0100C3E00B700000/screen/3",
+    "http://api.nlib.cc/nx/0100C3E00B700000/screen/4",
+    "http://api.nlib.cc/nx/0100C3E00B700000/screen/5",
+    "http://api.nlib.cc/nx/0100C3E00B700000/screen/6"
+  ]
+}

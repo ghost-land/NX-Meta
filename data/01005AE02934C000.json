@@ -1,0 +1,18 @@
+{
+  "name": "超たこ焼きバトル",
+  "publisher": "SAT-BOX",
+  "releaseDate": "20260910",
+  "description": "Take on the ultimate takoyaki challenge on Nintendo Switch™!\nAdd the batter and ingredients, then flip the takoyaki with a pick!\nPlay with up to 4 players using one Joy-Con™ controller each!\n\nEnjoy a variety of game modes!\nCause chaos with items and random events in Party Battle, test your skills against friends in Battle, or make takoyaki to order in Score Attack!\n\nBecome a takoyaki master!\n\n《Rules》\nMake takoyaki using a takoyaki maker!\nThe better they turn out, the more points you earn!\nMake as many as you can before time runs out!\n\n《How to Play》\n1. Fill each hole in the pan with batter and ingredients.\n\n2. When the takoyaki starts to brown, use a pick to flip it over! Be careful not to act too quickly or too slowly! Once both sides are fully cooked, the takoyaki is done!\n\n[Party Battle]\nThe feature mode of Super Takoyaki Battle is \"Party Battle!\"\nChaos erupts as up to 4 players compete on one giant grill!\nUnique events occur to change the flow of the match!\nUse items to gain the advantage over your opponents!\nIt's anyone's game until the very last second!\n\n[Score Attack]\nMaster 3 different makers—home, food stall, and commercial—each with its own unique challenges!\nCook up as many takoyaki as you can, fill orders, and aim for a high score!\n\n[Battle] \nCompete with up to 4 players to see who's the ultimate takoyaki chef!\nYou can also challenge CPU opponents!\n\n[Rankings]\nCompete for high scores against players from around the world!\nBecome a takoyaki master!",
+  "bannerUrl": "http://api.nlib.cc/nx/01005AE02934C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005AE02934C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005AE02934C000/screen/1",
+    "http://api.nlib.cc/nx/01005AE02934C000/screen/2",
+    "http://api.nlib.cc/nx/01005AE02934C000/screen/3",
+    "http://api.nlib.cc/nx/01005AE02934C000/screen/4",
+    "http://api.nlib.cc/nx/01005AE02934C000/screen/5",
+    "http://api.nlib.cc/nx/01005AE02934C000/screen/6"
+  ],
+  "version": 0,
+  "size": 104906806
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Jigsaw Puzzle Utopia",
+  "publisher": "Gametry",
+  "releaseDate": "20241220",
+  "description": "Immerse yourself in the serene and satisfying world of Jigsaw Puzzle Utopia, a game designed for relaxation and mental engagement. This virtual jigsaw experience offers thousands of stunning puzzles with themes ranging from scenic landscapes and vibrant wildlife to intricate abstract art. \n\nChoose your difficulty by adjusting the number of pieces, from beginner-friendly sets to expert-level challenges. The game’s intuitive interface makes placing pieces seamless, with features like automatic sorting, hints, and progress tracking. Enjoy soothing background music and customize your workspace for an even more immersive experience. \n\nJigsaw Puzzle Utopia caters to all puzzle lovers, providing endless hours of calm and joy.",
+  "bannerUrl": "http://api.nlib.cc/nx/010015E020D0C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010015E020D0C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010015E020D0C000/screen/1",
+    "http://api.nlib.cc/nx/010015E020D0C000/screen/2",
+    "http://api.nlib.cc/nx/010015E020D0C000/screen/3",
+    "http://api.nlib.cc/nx/010015E020D0C000/screen/4",
+    "http://api.nlib.cc/nx/010015E020D0C000/screen/5",
+    "http://api.nlib.cc/nx/010015E020D0C000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Retro Space Fighter",
+  "publisher": "Erik Games",
+  "releaseDate": "20210426",
+  "description": "There are 6 consecutive stages that the player can play. New enemies join to fight at each stage. The player has to complete a stage to play the next one. The player experiences new mechanics, assets, and effects as he or she plays through the final boss fight.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001FE0133FA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001FE0133FA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001FE0133FA000/screen/1",
+    "http://api.nlib.cc/nx/01001FE0133FA000/screen/2",
+    "http://api.nlib.cc/nx/01001FE0133FA000/screen/3",
+    "http://api.nlib.cc/nx/01001FE0133FA000/screen/4",
+    "http://api.nlib.cc/nx/01001FE0133FA000/screen/5",
+    "http://api.nlib.cc/nx/01001FE0133FA000/screen/6"
+  ]
+}

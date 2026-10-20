@@ -1,0 +1,16 @@
+{
+  "name": "Detail Hunter",
+  "publisher": "Gametry",
+  "releaseDate": "20241225",
+  "description": "Dive into Detail Hunter, the premier spot-the-difference game that will put your attention to detail to the test! Experience a world of vivid, cartoon-style visuals and challenging puzzles. Explore a variety of dynamic environments, select your difficulty level, and use hints wisely as you race against the clock. Reveal hidden secrets and sharpen your detective skills to become the ultimate detail hunter. Whether you’re aiming to unwind or challenge yourself, this game offers an immersive and exciting experience for keen observers everywhere.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F33020D02000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F33020D02000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F33020D02000/screen/1",
+    "http://api.nlib.cc/nx/0100F33020D02000/screen/2",
+    "http://api.nlib.cc/nx/0100F33020D02000/screen/3",
+    "http://api.nlib.cc/nx/0100F33020D02000/screen/4",
+    "http://api.nlib.cc/nx/0100F33020D02000/screen/5",
+    "http://api.nlib.cc/nx/0100F33020D02000/screen/6"
+  ]
+}

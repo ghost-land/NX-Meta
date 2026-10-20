@@ -1,0 +1,16 @@
+{
+  "name": "Clock Simulator",
+  "publisher": "Kool2Play",
+  "releaseDate": "20190110",
+  "description": "One of the most original game concepts is now available on the Nintendo Switch™! Clock Simulator is a minimalistic rhythm game. It puts the player in the role of the clock itself to explore the concept of time in a whole new way and offer challenge, relaxation, or plain and simple fun. All that a clock needs to do is to advance precisely once every second. Second, after second, after second, after\nsecond … Sounds simple enough? But could YOU take over and do it? Calm down. Relax. Focus on your inner rhythm. Click once a second. Every second. You are the clock.\n\nClock Simulator offers:\n• A unique concept – a clock-based rhythm game: you are the clock\n• Controls so simple you could play with your eyes closed\n• A variety of play modes and themes ranging from meditative to arcade, all JoyCon™ friendly\n• Option to unlock modes and themes you enjoy – play them at your leisure\n• Two competitive multiplayer modes – exclusively on Nintendo Switch™\n• Controls utilise the steering possibilities provided by Nintendo Switch™",
+  "bannerUrl": "http://api.nlib.cc/nx/010002A00CC42000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010002A00CC42000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010002A00CC42000/screen/1",
+    "http://api.nlib.cc/nx/010002A00CC42000/screen/2",
+    "http://api.nlib.cc/nx/010002A00CC42000/screen/3",
+    "http://api.nlib.cc/nx/010002A00CC42000/screen/4",
+    "http://api.nlib.cc/nx/010002A00CC42000/screen/5",
+    "http://api.nlib.cc/nx/010002A00CC42000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Rune Factory 4 Special",
+  "publisher": "Marvelous (XSEED)",
+  "releaseDate": "20200225",
+  "description": "Welcome to Selphia, a region ruled by the Native Dragon Ventuswill...and you! Start an exciting new life in the village and embark on a grand adventure!\n\nFeatures:\n-Grow crops, raise monsters, catch fish, cook up tasty dishes, and craft powerful equipment. Live your life however you choose!\n\n-Become friends (or more than friends) with a charming and interactive cast of characters, and breathe life into the village with seasonal festivals and competitions.\n\n-Play through a special story alongside your spouse in the brand-new Newlywed Mode, and fall in love with your favorites all over again!\n\n-If you're a Rune Factory 4 fanatic, challenge yourself with a new difficulty mode.\n\n-Enjoy new in-game cutscenes, colorful CG illustrations, and an updated opening sequence.",
+  "bannerUrl": "http://api.nlib.cc/nx/010051D00E3A4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010051D00E3A4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010051D00E3A4000/screen/1",
+    "http://api.nlib.cc/nx/010051D00E3A4000/screen/2",
+    "http://api.nlib.cc/nx/010051D00E3A4000/screen/3",
+    "http://api.nlib.cc/nx/010051D00E3A4000/screen/4",
+    "http://api.nlib.cc/nx/010051D00E3A4000/screen/5",
+    "http://api.nlib.cc/nx/010051D00E3A4000/screen/6"
+  ]
+}

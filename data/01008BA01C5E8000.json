@@ -1,0 +1,14 @@
+{
+  "name": "Arcade Snake Go!",
+  "publisher": "ASI GAMES TECHNOLOGIES",
+  "releaseDate": "20230810",
+  "description": "Arcade Snake Go! is an addictive arcade game in which you take on the role of a hungry snake.\n\nYour goal is to eat as many apples as possible without colliding with your tail or hitting the bombs that appear randomly across the playing field.\n\nAlso pick up a potion of speed and life to last much longer!",
+  "bannerUrl": "http://api.nlib.cc/nx/01008BA01C5E8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008BA01C5E8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008BA01C5E8000/screen/1",
+    "http://api.nlib.cc/nx/01008BA01C5E8000/screen/2",
+    "http://api.nlib.cc/nx/01008BA01C5E8000/screen/3",
+    "http://api.nlib.cc/nx/01008BA01C5E8000/screen/4"
+  ]
+}

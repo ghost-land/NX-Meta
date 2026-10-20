@@ -1,0 +1,16 @@
+{
+  "name": "Rush Rally 3",
+  "publisher": "Brownmonster",
+  "releaseDate": "20191223",
+  "description": "60 FPS racing at night or day in the rain or snow! Over 72 new and unique stages each with different surface types including snow, gravel, tarmac and dirt! Race with one of the best car dynamics models to date, including real time vehicle deformation and damage, built from over 15 years of experience.\n\nWORLD RALLY RACING!\nTake on the new Career mode, race a Single Rally over many countries or grind metal to metal with other cars in Rally Cross.\n\nLIVE EVENTS\nCompete in weekly events against other players all over the world on a unique selection of tracks!\n\nBUILD YOUR GARAGE\nUpgrade, tune and customise a garage full of cars. Use the new livery editor to completely change the look of your vehicles. Buy new wheels and upgrades to make each car truly unique.\n\nCOMPETE WITH FRIENDS, MULTIPLAYER AND OFFLINE!\nReal-Time multiplayer, Social Leaderboards and Ghost Racing allow you to race any player at any time. See how you compare with the world's best.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010020900E7A8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010020900E7A8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010020900E7A8000/screen/1",
+    "http://api.nlib.cc/nx/010020900E7A8000/screen/2",
+    "http://api.nlib.cc/nx/010020900E7A8000/screen/3",
+    "http://api.nlib.cc/nx/010020900E7A8000/screen/4",
+    "http://api.nlib.cc/nx/010020900E7A8000/screen/5",
+    "http://api.nlib.cc/nx/010020900E7A8000/screen/6"
+  ]
+}

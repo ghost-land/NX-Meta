@@ -1,0 +1,15 @@
+{
+  "name": "HighScore Anomaly Underground",
+  "publisher": "SURPRISED HOTDOG",
+  "releaseDate": "20240606",
+  "description": "The timer will start once you are ready to play. The correct decision will move you up a level and the incorrect decision will reset you back to the beginning. Observation is key.\n\nIf you don't find anomalies, choose the elevator that states no anomalies otherwise choose the elevator that states confirm anomalies.\n\nThis is a short game however, this does depend on the player for how high they want their highest score to be.",
+  "bannerUrl": "http://api.nlib.cc/nx/010013701F562000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010013701F562000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010013701F562000/screen/1",
+    "http://api.nlib.cc/nx/010013701F562000/screen/2",
+    "http://api.nlib.cc/nx/010013701F562000/screen/3",
+    "http://api.nlib.cc/nx/010013701F562000/screen/4",
+    "http://api.nlib.cc/nx/010013701F562000/screen/5"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Rubix Roller",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20210705",
+  "description": "This puzzle strategy colour game requires thinking and planning ahead.\nProcedural level generation gives you an endless and unique gameplay experience every single time.\nFeatures 5 different modes including 2 player split screen duel.\nPlayer customization, upgrades, and powers.",
+  "bannerUrl": "http://api.nlib.cc/nx/010080E01515A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010080E01515A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010080E01515A000/screen/1",
+    "http://api.nlib.cc/nx/010080E01515A000/screen/2",
+    "http://api.nlib.cc/nx/010080E01515A000/screen/3",
+    "http://api.nlib.cc/nx/010080E01515A000/screen/4",
+    "http://api.nlib.cc/nx/010080E01515A000/screen/5",
+    "http://api.nlib.cc/nx/010080E01515A000/screen/6"
+  ]
+}

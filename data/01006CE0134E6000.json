@@ -1,0 +1,13 @@
+{
+  "name": "A Frog Game",
+  "publisher": "EntwicklerX",
+  "releaseDate": "20201022",
+  "description": "In this game you just have to catch flies. Nothing more, nothing less. But be careful, you are not the only hungry frog.\n\nEat special flies for better scores or time bonus. You also should know that not every fly is delicious!",
+  "bannerUrl": "http://api.nlib.cc/nx/01006CE0134E6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006CE0134E6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006CE0134E6000/screen/1",
+    "http://api.nlib.cc/nx/01006CE0134E6000/screen/2",
+    "http://api.nlib.cc/nx/01006CE0134E6000/screen/3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "YONESAWARA HOSPITAL",
+  "publisher": "DorsalFin Studio",
+  "releaseDate": "20230223",
+  "description": "Story\nIn 1978, the clinic went out of business due to the sudden disappearance of the director.\nTen years later, a phone call to an investigator sets the story in motion.\nWhat happened to the director?\nThe investigator goes to the abandoned clinic to track down the disappearances that took place in the past.\n\nStage of the game\nWe created an abandoned clinic based on actual ruins based in Japan.\n\nExploration mode for those who are not good at horror games\nWe have implemented a ruin exploration mode with no horror elements at all, which can be played even by those who are not good at horror games.\nYou can explore the ruins in various situations such as in the morning, noon, and night.\nYou can use the camera function to take pictures of the ruins in the Exploration Mode.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C72019B10000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C72019B10000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C72019B10000/screen/1",
+    "http://api.nlib.cc/nx/0100C72019B10000/screen/2",
+    "http://api.nlib.cc/nx/0100C72019B10000/screen/3",
+    "http://api.nlib.cc/nx/0100C72019B10000/screen/4",
+    "http://api.nlib.cc/nx/0100C72019B10000/screen/5",
+    "http://api.nlib.cc/nx/0100C72019B10000/screen/6"
+  ]
+}

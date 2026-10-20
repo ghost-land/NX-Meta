@@ -1,0 +1,18 @@
+{
+  "name": "Reel it! World Fishing",
+  "publisher": "SAT-BOX",
+  "releaseDate": "20260611",
+  "description": "Let's go fishing on the Nintendo Switch™!\nTravel to different world locations like North America, Europe, Africa, and the Amazon!\nEach spot is home to lots of unique fish to discover!\nPlay solo, or compete with up to 4 players using one Joy-Con™ each!\nBecome the world's greatest angler!\n\n[Score Attack]\nCatch as many fish as you can within the time limit!\nLook out for big fish to boost your score!\n\n[Endless]\nSit back, relax, and enjoy endless fishing!\nWatch the scenery shift from day to night!\nChange your gear when the situation calls and search for big catches!\n\n[Ranking]\nCompete against players around the world in Score Attack and Endless modes!\nShow off your skills by increasing your high score and rank!\n\n[Battle]\nCompete with up to 4 players for the highest score!\nFace off against CPUs in single-player mode!\n\n[Shop]\nSpend the points you've earned from fishing to buy new lures and rods!\nDiscover the perfect combination for your fishing style!\n\n[Records]\nEvery fish you catch will be added to your personal encyclopedia!",
+  "bannerUrl": "http://api.nlib.cc/nx/010034D027C50000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010034D027C50000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010034D027C50000/screen/1",
+    "http://api.nlib.cc/nx/010034D027C50000/screen/2",
+    "http://api.nlib.cc/nx/010034D027C50000/screen/3",
+    "http://api.nlib.cc/nx/010034D027C50000/screen/4",
+    "http://api.nlib.cc/nx/010034D027C50000/screen/5",
+    "http://api.nlib.cc/nx/010034D027C50000/screen/6"
+  ],
+  "version": 0,
+  "size": 698596459
+}

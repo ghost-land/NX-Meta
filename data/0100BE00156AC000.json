@@ -1,0 +1,16 @@
+{
+  "name": "Carebotz",
+  "publisher": "Takacs Peter",
+  "releaseDate": "20211220",
+  "description": "Carebotz is a twin-stick arena shooter game spiced with metroidvania elements. You control BIBZ, a little maintenance droid. Collect the tons of blueprints, navigate the tight corridors, customize your toolset, learn to take advantage of gravity, upgrade, repair and encounter many different types of enemies! The journey is full of secrets, surprises. Discover the factory carefully as danger lurks everywhere, avoid deadly obstacles using your hover engine. The levels require investigation, and often patience and exploration are the key to survival.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BE00156AC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BE00156AC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BE00156AC000/screen/1",
+    "http://api.nlib.cc/nx/0100BE00156AC000/screen/2",
+    "http://api.nlib.cc/nx/0100BE00156AC000/screen/3",
+    "http://api.nlib.cc/nx/0100BE00156AC000/screen/4",
+    "http://api.nlib.cc/nx/0100BE00156AC000/screen/5",
+    "http://api.nlib.cc/nx/0100BE00156AC000/screen/6"
+  ]
+}

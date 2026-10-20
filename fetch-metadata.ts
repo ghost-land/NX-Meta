@@ -7,11 +7,16 @@ interface NlibResponse {
   description?: string;
   banner?: string;
   icon?: string;
-  screens?: {
-    count?: number;
-    screenshots?: string[];
-  } | string[];
+  screens?: { count?: number; screenshots?: string[] } | string[];
 }
+
+interface OwnedEntry {
+  "Game Name": string;
+  Version: string;
+  Size: number;
+}
+
+type OwnedCatalog = Record<string, OwnedEntry>;
 
 interface GameMetadata {
   name: string;
@@ -21,154 +26,214 @@ interface GameMetadata {
   bannerUrl: string;
   iconUrl: string;
   screenshots: string[];
+  version: number;
+  size: number;
 }
 
-// Format date from "2025-07-11" to "20250711"
+const OWNED_URL = "https://data.ghostland.at/nx/owned.json";
+const NLIB_FIELDS =
+  "name,publisher,releaseDate,description,banner,icon,screens";
+const TID_PATTERN = /^[0-9A-Fa-f]{16}$/;
+const BATCH_SIZE = 20;
+
+function isValidTid(tid: string): boolean {
+  return TID_PATTERN.test(tid);
+}
+
+/** nlib covers retail NX titles (prefix 01) only */
+function supportsNlib(tid: string): boolean {
+  return tid.toUpperCase().startsWith("01");
+}
+
 function formatDate(date: string | undefined): string {
-  if (!date) return "";
-  return date.replace(/-/g, "");
+  return date ? date.replace(/-/g, "") : "";
 }
 
-// Fetch metadata for a TID
-async function fetchMetadata(tid: string): Promise<GameMetadata | null> {
-  const url = `https://api.nlib.cc/nx/${tid}?fields=name,publisher,releaseDate,description,banner,icon,screens`;
-  
+function parseVersion(version: string | undefined): number {
+  if (!version) return 0;
+  const parsed = Number.parseInt(version, 10);
+  return Number.isFinite(parsed) ? parsed : 0;
+}
+
+function extractScreenshots(screens: NlibResponse["screens"]): string[] {
+  if (!screens) return [];
+  if (Array.isArray(screens)) return screens;
+  return screens.screenshots ?? [];
+}
+
+function fromOwned(owned: OwnedEntry): GameMetadata {
+  return {
+    name: owned["Game Name"]?.trim() || "",
+    publisher: "",
+    releaseDate: "",
+    description: "",
+    bannerUrl: "",
+    iconUrl: "",
+    screenshots: [],
+    version: parseVersion(owned.Version),
+    size: typeof owned.Size === "number" ? owned.Size : 0,
+  };
+}
+
+function isSameMetadata(a: GameMetadata, b: GameMetadata): boolean {
+  return JSON.stringify(a) === JSON.stringify(b);
+}
+
+async function readExisting(tid: string): Promise<GameMetadata | null> {
+  const file = Bun.file(`data/${tid}.json`);
+  if (!(await file.exists())) return null;
   try {
-    const response = await fetch(url);
-    
-    if (!response.ok) {
-      console.error(`❌ Error for ${tid}: ${response.status}`);
-      return null;
-    }
-    
-    const data: NlibResponse = await response.json();
-    
-    // Use custom icon URL with /200 size when icon is available
-    const iconUrl = data.icon ? `https://api.nlib.cc/nx/${tid}/icon/200` : "";
-    
-    // Extract screenshots array from the API response
-    let screenshots: string[] = [];
-    if (data.screens) {
-      if (Array.isArray(data.screens)) {
-        screenshots = data.screens;
-      } else if (data.screens.screenshots) {
-        screenshots = data.screens.screenshots;
-      }
-    }
-    
-    return {
-      name: data.name || "",
-      publisher: data.publisher || "",
-      releaseDate: formatDate(data.releaseDate),
-      description: data.description || "",
-      bannerUrl: data.banner || "",
-      iconUrl: iconUrl,
-      screenshots: screenshots
-    };
-  } catch (error) {
-    console.error(`❌ Error fetching ${tid}:`, error);
+    return (await file.json()) as GameMetadata;
+  } catch {
     return null;
   }
 }
 
-// Extract TIDs from working.txt content
-function extractTids(content: string): string[] {
-  const lines = content.trim().split("\n");
-  const tids: string[] = [];
-  
-  for (const line of lines) {
-    const parts = line.split("|");
-    if (parts.length > 0) {
-      const tid = parts[0].trim();
-      // Check that TID starts with 01 and ends with 000 (16 hex chars total)
-      if (tid.match(/^01[0-9A-F]{11}000$/i)) {
-        tids.push(tid);
+async function fetchNlib(tid: string): Promise<NlibResponse | null> {
+  const url = `https://api.nlib.cc/nx/${tid}?fields=${NLIB_FIELDS}`;
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      if (response.status !== 404) {
+        console.error(`nlib error ${tid}: HTTP ${response.status}`);
       }
+      return null;
     }
+    return (await response.json()) as NlibResponse;
+  } catch (error) {
+    console.error(`nlib error ${tid}:`, error);
+    return null;
   }
-  
-  return tids;
 }
 
-// Process a batch of TIDs in parallel
-async function processBatch(tids: string[], startIndex: number): Promise<{ success: number; errors: number }> {
+async function buildMetadata(
+  tid: string,
+  owned: OwnedEntry
+): Promise<GameMetadata> {
+  const base = fromOwned(owned);
+
+  if (!supportsNlib(tid)) {
+    return base;
+  }
+
+  const nlib = await fetchNlib(tid);
+  if (!nlib) {
+    return base;
+  }
+
+  return {
+    name: nlib.name?.trim() || base.name,
+    publisher: nlib.publisher || "",
+    releaseDate: formatDate(nlib.releaseDate),
+    description: nlib.description || "",
+    bannerUrl: nlib.banner || "",
+    iconUrl: nlib.icon ? `https://api.nlib.cc/nx/${tid}/icon/200` : "",
+    screenshots: extractScreenshots(nlib.screens),
+    version: base.version,
+    size: base.size,
+  };
+}
+
+type BatchResult = { written: number; unchanged: number; errors: number };
+
+async function processBatch(
+  entries: Array<[string, OwnedEntry]>
+): Promise<BatchResult> {
   const results = await Promise.all(
-    tids.map(async (tid, index) => {
-      const globalIndex = startIndex + index;
-      const metadata = await fetchMetadata(tid);
-      
-      if (metadata) {
-        const filePath = `data/${tid}.json`;
-        await Bun.write(filePath, JSON.stringify(metadata, null, 2));
-        return { tid, success: true };
+    entries.map(async ([tid, owned]) => {
+      try {
+        const metadata = await buildMetadata(tid, owned);
+        if (!metadata.name) {
+          console.error(`no name for ${tid}`);
+          return "error" as const;
+        }
+
+        const existing = await readExisting(tid);
+        if (existing && isSameMetadata(existing, metadata)) {
+          return "unchanged" as const;
+        }
+
+        await Bun.write(`data/${tid}.json`, JSON.stringify(metadata, null, 2));
+        return "written" as const;
+      } catch (error) {
+        console.error(`failed ${tid}:`, error);
+        return "error" as const;
       }
-      return { tid, success: false };
     })
   );
-  
-  const success = results.filter(r => r.success).length;
-  const errors = results.filter(r => !r.success).length;
-  
-  return { success, errors };
+
+  return {
+    written: results.filter((r) => r === "written").length,
+    unchanged: results.filter((r) => r === "unchanged").length,
+    errors: results.filter((r) => r === "error").length,
+  };
 }
 
-// Main function
 async function main() {
-  console.log("🚀 Starting metadata fetch...\n");
-  
-  // 1. Fetch working.txt file
-  console.log("📥 Downloading working.txt...");
-  const workingTxtUrl = "https://nx-missing.ghostland.at/data/working.txt";
-  
-  let workingTxtContent: string;
+  console.log("Fetching metadata...\n");
+
+  console.log(`Downloading ${OWNED_URL}`);
+  let catalog: OwnedCatalog;
   try {
-    const response = await fetch(workingTxtUrl);
+    const response = await fetch(OWNED_URL);
     if (!response.ok) {
-      throw new Error(`HTTP Error: ${response.status}`);
+      throw new Error(`HTTP ${response.status}`);
     }
-    workingTxtContent = await response.text();
+    catalog = (await response.json()) as OwnedCatalog;
   } catch (error) {
-    console.error("❌ Failed to fetch working.txt:", error);
+    console.error("Failed to download owned.json:", error);
     process.exit(1);
   }
-  
-  // 2. Extract TIDs
-  console.log("🔍 Extracting TIDs...");
-  const tids = extractTids(workingTxtContent);
-  console.log(`✅ ${tids.length} TIDs found\n`);
-  
-  // 3. Create data/ directory if it doesn't exist
+
   await Bun.write("data/.gitkeep", "");
-  
-  // 4. Fetch metadata for each TID in parallel batches
-  const BATCH_SIZE = 20; // Process 20 TIDs at a time
-  let totalSuccess = 0;
-  let totalErrors = 0;
-  
-  console.log(`⚡ Processing with ${BATCH_SIZE} parallel requests...\n`);
-  
-  for (let i = 0; i < tids.length; i += BATCH_SIZE) {
-    const batch = tids.slice(i, i + BATCH_SIZE);
+
+  const entries = Object.entries(catalog).filter(([tid]) => {
+    if (!isValidTid(tid)) {
+      console.warn(`Skipping invalid TID: ${tid}`);
+      return false;
+    }
+    return true;
+  });
+
+  const nlibCount = entries.filter(([tid]) => supportsNlib(tid)).length;
+  const ownedOnlyCount = entries.length - nlibCount;
+
+  console.log(`Catalog: ${entries.length} titles`);
+  console.log(`  nlib refresh: ${nlibCount}`);
+  console.log(`  owned-only (non-01): ${ownedOnlyCount}\n`);
+
+  let written = 0;
+  let unchanged = 0;
+  let errors = 0;
+
+  for (let i = 0; i < entries.length; i += BATCH_SIZE) {
+    const batch = entries.slice(i, i + BATCH_SIZE);
     const batchNum = Math.floor(i / BATCH_SIZE) + 1;
-    const totalBatches = Math.ceil(tids.length / BATCH_SIZE);
-    
-    console.log(`📦 Batch ${batchNum}/${totalBatches} - Processing ${batch.length} TIDs...`);
-    
-    const { success, errors } = await processBatch(batch, i);
-    totalSuccess += success;
-    totalErrors += errors;
-    
-    console.log(`   ✅ Success: ${success} | ❌ Errors: ${errors}`);
-    console.log(`   📊 Progress: ${i + batch.length}/${tids.length} (${Math.round((i + batch.length) / tids.length * 100)}%)\n`);
+    const totalBatches = Math.ceil(entries.length / BATCH_SIZE);
+    const progress = Math.round(((i + batch.length) / entries.length) * 100);
+
+    console.log(
+      `Batch ${batchNum}/${totalBatches} (${batch.length} TIDs) — ${progress}%`
+    );
+
+    const result = await processBatch(batch);
+    written += result.written;
+    unchanged += result.unchanged;
+    errors += result.errors;
+
+    console.log(
+      `  written=${result.written} unchanged=${result.unchanged} errors=${result.errors}`
+    );
   }
-  
-  console.log("=".repeat(50));
-  console.log(`✅ Done!`);
-  console.log(`   - Success: ${totalSuccess}`);
-  console.log(`   - Errors: ${totalErrors}`);
-  console.log(`   - Total: ${tids.length}`);
+
+  console.log("\nDone");
+  console.log(`  written:    ${written}`);
+  console.log(`  unchanged:  ${unchanged}`);
+  console.log(`  errors:     ${errors}`);
+  console.log(`  total:      ${entries.length}`);
 }
 
-// Run the script
-main().catch(console.error);
-
+main().catch((error) => {
+  console.error(error);
+  process.exit(1);
+});

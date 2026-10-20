@@ -1,0 +1,16 @@
+{
+  "name": "Narcissus",
+  "publisher": "Mad Jackal Games",
+  "releaseDate": "20250604",
+  "description": "Narcissus is an adrenaline-pumping, top down, action-horror game that puts you in the shoes of the last survivor on a doomed spaceship. The clock is ticking, and danger lurks around every corner.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DD6022768000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DD6022768000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DD6022768000/screen/1",
+    "http://api.nlib.cc/nx/0100DD6022768000/screen/2",
+    "http://api.nlib.cc/nx/0100DD6022768000/screen/3",
+    "http://api.nlib.cc/nx/0100DD6022768000/screen/4",
+    "http://api.nlib.cc/nx/0100DD6022768000/screen/5",
+    "http://api.nlib.cc/nx/0100DD6022768000/screen/6"
+  ]
+}

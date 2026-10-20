@@ -1,0 +1,16 @@
+{
+  "name": "UNI",
+  "publisher": "Game Museum",
+  "releaseDate": "20190328",
+  "description": "UNI is a two-player party game containing 40 different types of mini games.\nAnd you can enjoy four-player team battle mode.\nUNI includes games from many genres adapted for a two-player game experience:\nSports, Action, Fighting, Arcade, Racing… Even RPG!\nIt’s easy to play and the rules are quite simple, making it enjoyable for all people regardless of age or gender.\n\nWith UNI, enjoy a happy and wonderful game experience together with your family, friends, and partners.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A0F00BC24000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A0F00BC24000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A0F00BC24000/screen/1",
+    "http://api.nlib.cc/nx/0100A0F00BC24000/screen/2",
+    "http://api.nlib.cc/nx/0100A0F00BC24000/screen/3",
+    "http://api.nlib.cc/nx/0100A0F00BC24000/screen/4",
+    "http://api.nlib.cc/nx/0100A0F00BC24000/screen/5",
+    "http://api.nlib.cc/nx/0100A0F00BC24000/screen/6"
+  ]
+}

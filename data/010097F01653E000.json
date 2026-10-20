@@ -1,0 +1,16 @@
+{
+  "name": "Gravity Light",
+  "publisher": "DEV4PLAY",
+  "releaseDate": "20211108",
+  "description": "Gravity Light is a platformer about a square hero, whose life has been turned upside down by a mechanical alien race attack. Follow your character on a space adventure to save him from the clutches of the motorized menace.\n\nJump, dodge, and shoot through a colorful environment full of floating platforms, portals, and robotic terrors. You'll have to rely on your wits, speed, and reflexes to navigate through the deadly gauntlets.\nKEY FEATURES\n45 Unique levels!\nTight controls - dodge bullets, outsmart your enemies, and avoid dangerous traps.\nHardcore difficulty - life as a square is tough, but small levels and quick respawn times to get you back to the action in no time!\nBosses. Prepare to face them.",
+  "bannerUrl": "http://api.nlib.cc/nx/010097F01653E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010097F01653E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010097F01653E000/screen/1",
+    "http://api.nlib.cc/nx/010097F01653E000/screen/2",
+    "http://api.nlib.cc/nx/010097F01653E000/screen/3",
+    "http://api.nlib.cc/nx/010097F01653E000/screen/4",
+    "http://api.nlib.cc/nx/010097F01653E000/screen/5",
+    "http://api.nlib.cc/nx/010097F01653E000/screen/6"
+  ]
+}

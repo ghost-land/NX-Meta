@@ -1,0 +1,16 @@
+{
+  "name": "Eternal Edge",
+  "publisher": "Ignatios Productions",
+  "releaseDate": "20180412",
+  "description": "Eternal Edge is an Action Adventure role-playing game following the young hero Cross on a quest to defeat the Skeleton King, Lord of the Dead. Gear up with powerful weapons, epic armor, and hidden spells to journey across the vast lands of the Little Kingdom and free its inhabitants from a long reign of evil.",
+  "bannerUrl": "http://api.nlib.cc/nx/010007100A16A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010007100A16A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010007100A16A000/screen/1",
+    "http://api.nlib.cc/nx/010007100A16A000/screen/2",
+    "http://api.nlib.cc/nx/010007100A16A000/screen/3",
+    "http://api.nlib.cc/nx/010007100A16A000/screen/4",
+    "http://api.nlib.cc/nx/010007100A16A000/screen/5",
+    "http://api.nlib.cc/nx/010007100A16A000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Monkey Wall",
+  "publisher": "COSEN",
+  "releaseDate": "20190124",
+  "description": "In this martial arts action/puzzle game, select a character as your avatar and start the rigorous training regime.\nThe player selects from four characters, each with four different costumes to choose from, and proceeds down the training path. Break through the walls as they approach by quickly determining the pose that matches the space to continue.\nMove in rhythm to the music and continue your training.\nThis fight is with yourself. Aim for the high score and keep up the pace as game gets faster.\n\nThe game won the highest award for game art at the Xiamen International Anime & Manga Festival’s “Mirai Sozo” Game Contest, receing high praise for its pop and comical character design and fluid movement.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F9700C73E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F9700C73E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F9700C73E000/screen/1",
+    "http://api.nlib.cc/nx/0100F9700C73E000/screen/2",
+    "http://api.nlib.cc/nx/0100F9700C73E000/screen/3",
+    "http://api.nlib.cc/nx/0100F9700C73E000/screen/4",
+    "http://api.nlib.cc/nx/0100F9700C73E000/screen/5",
+    "http://api.nlib.cc/nx/0100F9700C73E000/screen/6"
+  ]
+}

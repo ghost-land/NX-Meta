@@ -1,0 +1,16 @@
+{
+  "name": "Wampir Dungeon",
+  "publisher": "Weakfish Studio",
+  "releaseDate": "20220902",
+  "description": "Wampir Dungeon is a Dungeon game with Diffrent Gameplay.\n\nOur main character is a Vampire. But it has to constantly absorb blood.\nAbsorb their blood by killing the creatures in the dungeon and pass the level.\nIf the character cannot absorb enough blood, he dies. You have to be a little quick.\n\nLevels in different colors.\nSoft and Fast Gameplay.\nFast Combat Mechanic.\nSimplistic Graphics.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005C3019556000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005C3019556000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005C3019556000/screen/1",
+    "http://api.nlib.cc/nx/01005C3019556000/screen/2",
+    "http://api.nlib.cc/nx/01005C3019556000/screen/3",
+    "http://api.nlib.cc/nx/01005C3019556000/screen/4",
+    "http://api.nlib.cc/nx/01005C3019556000/screen/5",
+    "http://api.nlib.cc/nx/01005C3019556000/screen/6"
+  ]
+}

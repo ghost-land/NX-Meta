@@ -1,0 +1,16 @@
+{
+  "name": "Some Distant Memory",
+  "publisher": "Way Down Deep",
+  "releaseDate": "20191114",
+  "description": "Some Distant Memory is a hand-drawn story exploration game set 300 years after the apocalypse. You play an archaeologist named Professor Zay, joined by her companion, ARORA, a centuries-old AI capable of recreating human memories from scanned relics.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009EE00E91E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009EE00E91E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009EE00E91E000/screen/1",
+    "http://api.nlib.cc/nx/01009EE00E91E000/screen/2",
+    "http://api.nlib.cc/nx/01009EE00E91E000/screen/3",
+    "http://api.nlib.cc/nx/01009EE00E91E000/screen/4",
+    "http://api.nlib.cc/nx/01009EE00E91E000/screen/5",
+    "http://api.nlib.cc/nx/01009EE00E91E000/screen/6"
+  ]
+}

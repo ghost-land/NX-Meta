@@ -1,0 +1,16 @@
+{
+  "name": "Offroad Masters: Motocross Races",
+  "publisher": "Revulo Games",
+  "releaseDate": "20240628",
+  "description": "Dive into the action by navigating a vibrant, stylized main menu and jump straight into single-player mode. Choose from unique tracks set in 4 breathtaking environments. Customize your ride by selecting from a variety of motorcycles, each with its own unique design and stats to match your playstyle.\n\nUpon crossing the finish line, check out your performance on the results screen, highlighting any new records.\nFeel the satisfaction of progress and the excitement of new challenges. Offroad Masters: Motocross Races delivers an immersive, exhilarating racing experience that will keep you coming back for more. Are you ready to become the ultimate Offroad Master?\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D0001FB3C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D0001FB3C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D0001FB3C000/screen/1",
+    "http://api.nlib.cc/nx/0100D0001FB3C000/screen/2",
+    "http://api.nlib.cc/nx/0100D0001FB3C000/screen/3",
+    "http://api.nlib.cc/nx/0100D0001FB3C000/screen/4",
+    "http://api.nlib.cc/nx/0100D0001FB3C000/screen/5",
+    "http://api.nlib.cc/nx/0100D0001FB3C000/screen/6"
+  ]
+}

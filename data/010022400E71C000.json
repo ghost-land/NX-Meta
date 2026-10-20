@@ -1,0 +1,16 @@
+{
+  "name": "Harvest Moon: Mad Dash",
+  "publisher": "Natsume Inc.",
+  "releaseDate": "20191029",
+  "description": "Go solo or take along a few friends in this fast-paced farming frenzy! Harvest, fish, milk, and more as you fulfill orders to complete each level, but watch out for molten lava, raging boars, and other obstacles! Can you and your friends try to clear all the levels to restore the broken lighthouse?\n \n•       Fast-paced action means quick decisions are key!\n•       Use Harvest Sprite Powers to unlock special support skills!\n•       Easy-to-learn game mechanics means everyone can play!\n•       Take on farm, beach, Underworld, and Skyworld levels!",
+  "bannerUrl": "http://api.nlib.cc/nx/010022400E71C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010022400E71C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010022400E71C000/screen/1",
+    "http://api.nlib.cc/nx/010022400E71C000/screen/2",
+    "http://api.nlib.cc/nx/010022400E71C000/screen/3",
+    "http://api.nlib.cc/nx/010022400E71C000/screen/4",
+    "http://api.nlib.cc/nx/010022400E71C000/screen/5",
+    "http://api.nlib.cc/nx/010022400E71C000/screen/6"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Garage Mechanic Simulator",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20190726",
+  "description": "Now you can own and operate your own auto repair service with Garage Mechanic Simulator. Garage Mechanic Simulatorgives you the behind the scenes view of the daily dealings at local garages and dealership repair shops.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001DC00E324000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001DC00E324000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001DC00E324000/screen/1",
+    "http://api.nlib.cc/nx/01001DC00E324000/screen/2",
+    "http://api.nlib.cc/nx/01001DC00E324000/screen/3",
+    "http://api.nlib.cc/nx/01001DC00E324000/screen/4",
+    "http://api.nlib.cc/nx/01001DC00E324000/screen/5",
+    "http://api.nlib.cc/nx/01001DC00E324000/screen/6"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ビジュアルクイズこれな〜んだ?ー写真で脳トレひらめきクイズゲームー",
+  "publisher": "TT",
+  "releaseDate": "20230803",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/010051C01B754000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010051C01B754000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010051C01B754000/screen/1",
+    "http://api.nlib.cc/nx/010051C01B754000/screen/2",
+    "http://api.nlib.cc/nx/010051C01B754000/screen/3",
+    "http://api.nlib.cc/nx/010051C01B754000/screen/4",
+    "http://api.nlib.cc/nx/010051C01B754000/screen/5"
+  ]
+}

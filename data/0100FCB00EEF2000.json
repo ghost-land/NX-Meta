@@ -1,0 +1,16 @@
+{
+  "name": "Pet Shop Snacks",
+  "publisher": "Baltoro Minis",
+  "releaseDate": "20191004",
+  "description": "Welcome to Pet Shop Snacks!\n\nUpgrade your bar, beautify it and stock up on the very best ingredients. Let your restaurant be the talk of the town!\n\nLearn crazy recipes from the famous dog star chef! \n\nDeliver orders on time, but be careful not to mix them up! \n\nTo work!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FCB00EEF2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FCB00EEF2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FCB00EEF2000/screen/1",
+    "http://api.nlib.cc/nx/0100FCB00EEF2000/screen/2",
+    "http://api.nlib.cc/nx/0100FCB00EEF2000/screen/3",
+    "http://api.nlib.cc/nx/0100FCB00EEF2000/screen/4",
+    "http://api.nlib.cc/nx/0100FCB00EEF2000/screen/5",
+    "http://api.nlib.cc/nx/0100FCB00EEF2000/screen/6"
+  ]
+}

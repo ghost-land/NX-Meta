@@ -1,0 +1,16 @@
+{
+  "name": "Solitaire Spider Minimal",
+  "publisher": "Hook Games",
+  "releaseDate": "20200904",
+  "description": "- Play classic Spider Solitaire with 1/2/4 suits\n- Beautiful minimalist design, nothing will disturb you from puzzle\n- View your game stats on Statistics screen\n- Progress saving, pause game anytime\n- Play with touch screen, Joy-Con™ or Nintendo Switch Pro Controller\n- Relaxing music ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A73012A74000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A73012A74000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A73012A74000/screen/1",
+    "http://api.nlib.cc/nx/0100A73012A74000/screen/2",
+    "http://api.nlib.cc/nx/0100A73012A74000/screen/3",
+    "http://api.nlib.cc/nx/0100A73012A74000/screen/4",
+    "http://api.nlib.cc/nx/0100A73012A74000/screen/5",
+    "http://api.nlib.cc/nx/0100A73012A74000/screen/6"
+  ]
+}

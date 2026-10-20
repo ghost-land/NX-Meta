@@ -1,0 +1,16 @@
+{
+  "name": "Clover Cove",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20260130",
+  "description": "Clover Cove is a peaceful, exploration-driven walking simulator that invites you to wander across a colossal island dominated by a towering ancient castle. Discover quiet beaches, hidden groves, abandoned locations, mysterious ruins, and countless other hand-crafted locations—all at your own pace.\n\nThere are no enemies, no combat, and no pressure. Just curiosity, atmosphere, and the joy of uncovering a world that feels alive, forgotten, and waiting for you.\n\nFeatures:\n>A Giant Island to Explore\n\n>A Massive Castle That Looms Over Everything\n\n> Atmospheric, Immersive Worldbuilding\n\n> Go Anywhere, Discover Everything\n\n> Relaxing Music & Natural Soundscapes",
+  "bannerUrl": "http://api.nlib.cc/nx/0100876026A66000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100876026A66000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100876026A66000/screen/1",
+    "http://api.nlib.cc/nx/0100876026A66000/screen/2",
+    "http://api.nlib.cc/nx/0100876026A66000/screen/3",
+    "http://api.nlib.cc/nx/0100876026A66000/screen/4",
+    "http://api.nlib.cc/nx/0100876026A66000/screen/5",
+    "http://api.nlib.cc/nx/0100876026A66000/screen/6"
+  ]
+}

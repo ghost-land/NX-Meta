@@ -1,0 +1,16 @@
+{
+  "name": "Anodyne",
+  "publisher": "Nnooo",
+  "releaseDate": "20190228",
+  "description": "Immersed in a moody, dream-like soundtrack explore a world full of natural, urban and abstract environments, solving puzzles and defeating enemies…with a broom! \n\nInspired by old-school 16-bit adventure classics, take part in a deep and wonderful journey exploring a large overworld and many quirky, challenging and fun dungeons to find out what awaits you in Young's subconscious.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007DD00ABB4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007DD00ABB4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007DD00ABB4000/screen/1",
+    "http://api.nlib.cc/nx/01007DD00ABB4000/screen/2",
+    "http://api.nlib.cc/nx/01007DD00ABB4000/screen/3",
+    "http://api.nlib.cc/nx/01007DD00ABB4000/screen/4",
+    "http://api.nlib.cc/nx/01007DD00ABB4000/screen/5",
+    "http://api.nlib.cc/nx/01007DD00ABB4000/screen/6"
+  ]
+}

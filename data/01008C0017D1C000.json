@@ -1,0 +1,15 @@
+{
+  "name": "Space Lines: A Puzzle Arcade Game",
+  "publisher": "RuWaMo Games",
+  "releaseDate": "20220505",
+  "description": "Family friendly puzzle game for 1 to 4 players! Play alone or with friends! Conquer more than 100 stages! Battle with various creatures, traps and enjoy your space adventure.\n\nMore than 30 ships to unlock! 100 stages! Playable alone or up to 4 players!",
+  "bannerUrl": "http://api.nlib.cc/nx/01008C0017D1C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008C0017D1C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008C0017D1C000/screen/1",
+    "http://api.nlib.cc/nx/01008C0017D1C000/screen/2",
+    "http://api.nlib.cc/nx/01008C0017D1C000/screen/3",
+    "http://api.nlib.cc/nx/01008C0017D1C000/screen/4",
+    "http://api.nlib.cc/nx/01008C0017D1C000/screen/5"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Beekyr Reloaded",
+  "publisher": "Akaoni Studio",
+  "releaseDate": "20180614",
+  "description": "Beekyr Reloaded is an exciting Shoot'em Up that brings back the joy of classics in the genre. Play as Beekyr, a brave bee that must avenge his hive from the nasty wasp queens that destroyed it, along five different worlds filled with dangerous insects and many hazards that will put your skills to the limit.\n\nFeatures:\n• Multiple difficulty settings for both experienced players and beginners in the genre.\n• Horizontal and vertical stages with his own playstyles.\n• Five worlds with many secret stages to be discovered along each playthrought.\n• New unlockable characters with his own characteristics.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F8900ADC8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F8900ADC8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F8900ADC8000/screen/1",
+    "http://api.nlib.cc/nx/0100F8900ADC8000/screen/2",
+    "http://api.nlib.cc/nx/0100F8900ADC8000/screen/3",
+    "http://api.nlib.cc/nx/0100F8900ADC8000/screen/4",
+    "http://api.nlib.cc/nx/0100F8900ADC8000/screen/5",
+    "http://api.nlib.cc/nx/0100F8900ADC8000/screen/6"
+  ]
+}

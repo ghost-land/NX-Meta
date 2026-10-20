@@ -1,0 +1,12 @@
+{
+  "name": "Ancient Mahjong",
+  "publisher": "Pix Arts",
+  "releaseDate": "20230929",
+  "description": "Mahjong is the world famous Asian solitaire game to be played casually.\n\nIn this simple yet very effective version, you will have to match 2 tiles at a time with same figures.\n\nDesigned for young and older, this game will introduce you to the Ancient Art Of Chinese Games.",
+  "bannerUrl": "http://api.nlib.cc/nx/010029D01CECC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010029D01CECC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010029D01CECC000/screen/1",
+    "http://api.nlib.cc/nx/010029D01CECC000/screen/2"
+  ]
+}

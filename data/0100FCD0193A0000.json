@@ -1,0 +1,16 @@
+{
+  "name": "Project Blue",
+  "publisher": "8 Bit Legit",
+  "releaseDate": "20231006",
+  "description": "Hidden in the outskirts of the Dezone, a secret bio-weapons lab is conducting unspeakable experiments on the homeless youth of that concrete wasteland. \n\nThe most promising test subject, codenamed PROJECT BLUE, manages to break free following an overly successful bio-energy augmentation. \n\nNow it's up to YOU to help Blue escape from Theta Lab and bring down the shadowy multinational conglomerate running Neo Hong Kong! \n\nPut your skill, wits and reflexes to the test as you jump, swim, and blast your way through four massive areas in this exciting new action platformer.\n\n- 256 screens of heart-pounding action!\n- A huge, original soundtrack of 22 songs!\n- 3 layout-changing difficulty modes!\n- Secret rooms and alternate routes galore!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FCD0193A0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FCD0193A0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FCD0193A0000/screen/1",
+    "http://api.nlib.cc/nx/0100FCD0193A0000/screen/2",
+    "http://api.nlib.cc/nx/0100FCD0193A0000/screen/3",
+    "http://api.nlib.cc/nx/0100FCD0193A0000/screen/4",
+    "http://api.nlib.cc/nx/0100FCD0193A0000/screen/5",
+    "http://api.nlib.cc/nx/0100FCD0193A0000/screen/6"
+  ]
+}

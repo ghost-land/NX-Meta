@@ -1,0 +1,16 @@
+{
+  "name": "Bouncy Bob",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20180427",
+  "description": "Defeat hordes of zombies and seal your fate with the push of one button! \n\nBeat your own score in Single Mode or invite your friends to play together in Multiplayer Mode.\n\nKey features:\n• Local multiplayer for up to 4 players\n• Challenging single mode with high scores\n• Music by Piotr Surmacz\n• 15 arenas to play\n• HD Rumble\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A2700A86E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A2700A86E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A2700A86E000/screen/1",
+    "http://api.nlib.cc/nx/0100A2700A86E000/screen/2",
+    "http://api.nlib.cc/nx/0100A2700A86E000/screen/3",
+    "http://api.nlib.cc/nx/0100A2700A86E000/screen/4",
+    "http://api.nlib.cc/nx/0100A2700A86E000/screen/5",
+    "http://api.nlib.cc/nx/0100A2700A86E000/screen/6"
+  ]
+}

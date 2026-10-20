@@ -1,0 +1,16 @@
+{
+  "name": "Smoots Golf",
+  "publisher": "JanduSoft",
+  "releaseDate": "20211118",
+  "description": "Visit golf courses in 5 unique locations for a fun and endless multiplayer golf experience!\n\n- 45 different golf holes to master. Get precise shots with touch controls and go for the Hole-In-One! \n\n- 20 different minigolf holes to master. Get precise shots with touch controls and go for the Hole- In-One!\n\n- In Smoots Golf you can challenge your friends in Tournaments and Exhibition mode or hone your skills in Training mode.\n\nChoose your Smoot and become a Golf Champion!",
+  "bannerUrl": "http://api.nlib.cc/nx/010030F015C8C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010030F015C8C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010030F015C8C000/screen/1",
+    "http://api.nlib.cc/nx/010030F015C8C000/screen/2",
+    "http://api.nlib.cc/nx/010030F015C8C000/screen/3",
+    "http://api.nlib.cc/nx/010030F015C8C000/screen/4",
+    "http://api.nlib.cc/nx/010030F015C8C000/screen/5",
+    "http://api.nlib.cc/nx/010030F015C8C000/screen/6"
+  ]
+}

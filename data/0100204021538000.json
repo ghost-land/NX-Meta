@@ -1,0 +1,17 @@
+{
+  "name": "King of Tokyo - Richard Garfield",
+  "publisher": "Microids",
+  "releaseDate": "20260521",
+  "description": "Turn into a kaiju as you destroy everything in your path in this fast-paced dice game! Roll the dice and find the best possible combinations to rule over Tokyo, whether you choose to heal yourself, attack, buy cards or win Victory Points.\n\nAdapt your strategy to become the King of Tokyo at the right moment and attack all your opponents at the same time.\n\nThe first player to reach 20 Victory Points wins the game... and so does the last player to stay alive!\n\n- Build your strategy \nRoll the dice and choose wisely which ones to keep. Whether you decide to keep your dice or reroll, each decision is crucial to your winning strategy. Turn into a glass canon with powerful cards to reduce your opponents' hit points to 0, play it safe and quickly collect Victory Points, or build up health to become a tank: the choice is yours. \n\n- Choose your kaiju\nUnleash the kaiju within you and rule over Tokyo! The mighty Gigazaur, the cute Cyber Kitty or maybe the otherworldly Alienoid, choose the invader that suits you best.\n\n- Battle over Tokyo against AI or against your friends\nTest your strategies by competing against the AI in the solo mode, and find the strategy that matches you.\nChallenge up to 5 of your friends in the couch multiplayer mode to prove who the mightiest kaiju is! \n\n- A unique recreation\n(Re)discover King of Tokyo in a dynamic recreation of the critically acclaimed board game.\nImmerse yourself in the ukiyo-e inspired art style (Japanese woodblock prints and painting style).",
+  "bannerUrl": "http://api.nlib.cc/nx/0100204021538000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100204021538000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100204021538000/screen/1",
+    "http://api.nlib.cc/nx/0100204021538000/screen/2",
+    "http://api.nlib.cc/nx/0100204021538000/screen/3",
+    "http://api.nlib.cc/nx/0100204021538000/screen/4",
+    "http://api.nlib.cc/nx/0100204021538000/screen/5"
+  ],
+  "version": 0,
+  "size": 251165837
+}

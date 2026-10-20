@@ -1,0 +1,18 @@
+{
+  "name": "Robo Hop",
+  "publisher": "Gametry",
+  "releaseDate": "20260424",
+  "description": "Robo Hop is a fast-paced 3D platformer where you control a brave little robot exploring vibrant worlds filled with lava pits, floating islands, and tricky obstacles. Jump, dodge, and collect glowing gears while battling hovering enemies and mastering precise platforming challenges. Every level tests your timing, reflexes, and curiosity as you hop your way to victory.",
+  "bannerUrl": "http://api.nlib.cc/nx/010054C027D42000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010054C027D42000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010054C027D42000/screen/1",
+    "http://api.nlib.cc/nx/010054C027D42000/screen/2",
+    "http://api.nlib.cc/nx/010054C027D42000/screen/3",
+    "http://api.nlib.cc/nx/010054C027D42000/screen/4",
+    "http://api.nlib.cc/nx/010054C027D42000/screen/5",
+    "http://api.nlib.cc/nx/010054C027D42000/screen/6"
+  ],
+  "version": 0,
+  "size": 53469500
+}

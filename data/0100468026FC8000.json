@@ -1,0 +1,16 @@
+{
+  "name": "Frostholm Isle",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20260207",
+  "description": "Frostholm Isle is a calm walking simulator set on a remote island inspired by Nordic legends and Viking-era villages. Explore at your own pace through snow-dusted paths, wooden longhouses, frozen shores, and quiet hills overlooking the sea. There is no combat, no danger, and no urgency!\n\nFeel the crunch of snow beneath your feet as cold winds drift through the village. Distant waves crash against icy cliffs, and soft ambient sounds bring the island to life. Frostholm Isle is designed as a peaceful journey through a frozen world meant for reflection and rest.\n\nFeatures:\n> Relaxing Walking Simulator – Stress-free exploration with no combat or objectives\n> Viking-Inspired Village – Longhouses, docks, runestones, and snowy paths\n> Nordic Island Landscapes – Frozen coastlines, hills, and quiet open spaces\n> Atmospheric Soundscape – Wind, sea, and subtle ambient music\n> Meditative Experience – Slow, calming gameplay built for relaxation\n\nA Quiet Northern Journey",
+  "bannerUrl": "http://api.nlib.cc/nx/0100468026FC8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100468026FC8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100468026FC8000/screen/1",
+    "http://api.nlib.cc/nx/0100468026FC8000/screen/2",
+    "http://api.nlib.cc/nx/0100468026FC8000/screen/3",
+    "http://api.nlib.cc/nx/0100468026FC8000/screen/4",
+    "http://api.nlib.cc/nx/0100468026FC8000/screen/5",
+    "http://api.nlib.cc/nx/0100468026FC8000/screen/6"
+  ]
+}

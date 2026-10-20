@@ -1,0 +1,15 @@
+{
+  "name": "Guess the word",
+  "publisher": "Ultimate Games",
+  "releaseDate": "20190214",
+  "description": "Play and learn letters and words - \"Guess A Word\" is an educational game for preschoolers and toddlers.\n\nCreate words from letters as fast as you can! Your techer will give you hints!",
+  "bannerUrl": "http://api.nlib.cc/nx/01005DC00D80C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005DC00D80C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005DC00D80C000/screen/1",
+    "http://api.nlib.cc/nx/01005DC00D80C000/screen/2",
+    "http://api.nlib.cc/nx/01005DC00D80C000/screen/3",
+    "http://api.nlib.cc/nx/01005DC00D80C000/screen/4",
+    "http://api.nlib.cc/nx/01005DC00D80C000/screen/5"
+  ]
+}

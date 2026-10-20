@@ -1,0 +1,15 @@
+{
+  "name": "Let's Sing 13",
+  "publisher": "PLAION",
+  "releaseDate": "20201113",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A6F0119FE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A6F0119FE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A6F0119FE000/screen/1",
+    "http://api.nlib.cc/nx/0100A6F0119FE000/screen/2",
+    "http://api.nlib.cc/nx/0100A6F0119FE000/screen/3",
+    "http://api.nlib.cc/nx/0100A6F0119FE000/screen/4",
+    "http://api.nlib.cc/nx/0100A6F0119FE000/screen/5"
+  ]
+}

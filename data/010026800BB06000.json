@@ -1,0 +1,16 @@
+{
+  "name": "Brick Breaker",
+  "publisher": "Nacon",
+  "releaseDate": "20190103",
+  "description": "Brick Breaker, the classic arcade game, is back with a breathtaking new version. Its explosive gameplay - unique and timeless - is filled with surprises. Sharpen your reflexes and precision to overcome the hundred different levels that await you. Collect bonuses, avoid traps and shoot your way to victory. Play alone or with up to 4 players on a split screen. Brick Breaker will offer you many hours of fun and entertainment!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010026800BB06000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010026800BB06000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010026800BB06000/screen/1",
+    "http://api.nlib.cc/nx/010026800BB06000/screen/2",
+    "http://api.nlib.cc/nx/010026800BB06000/screen/3",
+    "http://api.nlib.cc/nx/010026800BB06000/screen/4",
+    "http://api.nlib.cc/nx/010026800BB06000/screen/5",
+    "http://api.nlib.cc/nx/010026800BB06000/screen/6"
+  ]
+}

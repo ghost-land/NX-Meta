@@ -1,0 +1,16 @@
+{
+  "name": "Golem Gates",
+  "publisher": "Digerati",
+  "releaseDate": "20190531",
+  "description": "Golem Gates is a post-apocalyptic sci-fi blend of action-strategy and card battler, pitting your conjured armies against otherworldly forces. Choose from 100 cards (known as Glyphs) and unleash diverse units, buildings, buffs, and more in tactical combat across single player, co-op, and multiplayer.\n \nAn ancient threat surges from the Golem Gates, and only the Harbinger stands guard. Wielding the nanite-infused power of The Ash, you must protect a world ravaged by ancient wars. \n \nKey Features\n\tChoose your Glyphs: Customize your deck from dozens of units, buildings, traps, buffs, debuffs, and techs. \n\n\tStreamlined tactics: Play cards/Glyphs directly into active combat and adapt at a moment’s notice to defend, flank, and fortify. \n\n\tHours of unique content: Single player campaign, challenge scenarios, solo/co-op survival, competitive matches online or with bots, and more. ",
+  "bannerUrl": "http://api.nlib.cc/nx/01003C000D84C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003C000D84C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003C000D84C000/screen/1",
+    "http://api.nlib.cc/nx/01003C000D84C000/screen/2",
+    "http://api.nlib.cc/nx/01003C000D84C000/screen/3",
+    "http://api.nlib.cc/nx/01003C000D84C000/screen/4",
+    "http://api.nlib.cc/nx/01003C000D84C000/screen/5",
+    "http://api.nlib.cc/nx/01003C000D84C000/screen/6"
+  ]
+}

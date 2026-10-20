@@ -1,0 +1,16 @@
+{
+  "name": "Kakurasu World",
+  "publisher": "Hook Games",
+  "releaseDate": "20201023",
+  "description": "Kakurasu World - beautiful puzzler, great addition to your logic game collection. \n\nSelect squares until the row and column totals match the clues.\n\n- 90 kakurasu puzzles, Easy/Medium/Hard difficulty levels\n- Pleasant light & dark color themes\n- Relaxing music",
+  "bannerUrl": "http://api.nlib.cc/nx/010053C012AE2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010053C012AE2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010053C012AE2000/screen/1",
+    "http://api.nlib.cc/nx/010053C012AE2000/screen/2",
+    "http://api.nlib.cc/nx/010053C012AE2000/screen/3",
+    "http://api.nlib.cc/nx/010053C012AE2000/screen/4",
+    "http://api.nlib.cc/nx/010053C012AE2000/screen/5",
+    "http://api.nlib.cc/nx/010053C012AE2000/screen/6"
+  ]
+}

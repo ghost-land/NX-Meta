@@ -1,0 +1,16 @@
+{
+  "name": "EGGCONSOLE GUARDIC MSX",
+  "publisher": "D4 Enterprise",
+  "releaseDate": "20241121",
+  "description": "This is a shooting game released in 1986 in Japan. Players control their ship, battling waves of enemies, with the goal of finding and destroying the enemy's mothership.\n\nThe game features a top-down view. Players maneuver their ship, defeating enemies to progress to the next stage. Along the way, strategic elements like route selection and power allocation make this game stand out from typical shooters. Power distribution is particularly important, as players need to carefully manage their resources ― such as speed and shot power ― to avoid running out of energy at crucial moments.\n\nThough a shooter, mapping is required, giving this game a unique twist. It's highly recommended for players looking for a different type of shooting experience.\n\n\n*The main game and gallery screen (*Gallery) are in Japanese version.\n*Other menu screens and \"How to play\" screens are in English.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C9F020AEA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C9F020AEA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C9F020AEA000/screen/1",
+    "http://api.nlib.cc/nx/0100C9F020AEA000/screen/2",
+    "http://api.nlib.cc/nx/0100C9F020AEA000/screen/3",
+    "http://api.nlib.cc/nx/0100C9F020AEA000/screen/4",
+    "http://api.nlib.cc/nx/0100C9F020AEA000/screen/5",
+    "http://api.nlib.cc/nx/0100C9F020AEA000/screen/6"
+  ]
+}

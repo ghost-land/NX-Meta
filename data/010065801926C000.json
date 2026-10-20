@@ -1,0 +1,15 @@
+{
+  "name": "Brutal Chase Turbo",
+  "publisher": "House of Pandas",
+  "releaseDate": "20220916",
+  "description": "Brutal Chase Turbo is an arcade racer inspired by the classic late 80s cop chasing games. Get into your police car and ram your enemies until they give up!\n\nBrutal Chase Turbo features:\n\n• Easy control.\n• 5 different cars.\n• 9 different cities with a total of 108 levels.\n• Collect credits by ramming enemy vehicles and completing levels.\n• Upgrade your cars in the garage.\n• Classic arcade feeling with great sense of speed.\n• 60 FPS",
+  "bannerUrl": "http://api.nlib.cc/nx/010065801926C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010065801926C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010065801926C000/screen/1",
+    "http://api.nlib.cc/nx/010065801926C000/screen/2",
+    "http://api.nlib.cc/nx/010065801926C000/screen/3",
+    "http://api.nlib.cc/nx/010065801926C000/screen/4",
+    "http://api.nlib.cc/nx/010065801926C000/screen/5"
+  ]
+}

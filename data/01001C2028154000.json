@@ -1,0 +1,18 @@
+{
+  "name": "Outbreak Compound",
+  "publisher": "Gametry",
+  "releaseDate": "20260808",
+  "description": "Outbreak Compound is a fast-paced top-down zombie survival shooter where every second counts. Trapped inside a devastated compound overrun by the undead, you must fight through relentless waves of infected, scavenge powerful weapons, and use explosives wisely to stay alive. From tight defensive holds to chaotic last stands, survival depends on quick reflexes, smart positioning, and ruthless firepower.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001C2028154000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001C2028154000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001C2028154000/screen/1",
+    "http://api.nlib.cc/nx/01001C2028154000/screen/2",
+    "http://api.nlib.cc/nx/01001C2028154000/screen/3",
+    "http://api.nlib.cc/nx/01001C2028154000/screen/4",
+    "http://api.nlib.cc/nx/01001C2028154000/screen/5",
+    "http://api.nlib.cc/nx/01001C2028154000/screen/6"
+  ],
+  "version": 0,
+  "size": 79192327
+}

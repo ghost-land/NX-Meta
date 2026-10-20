@@ -1,0 +1,16 @@
+{
+  "name": "Neon Chrome",
+  "publisher": "10tons",
+  "releaseDate": "20171012",
+  "description": "Experience a ruthless top-down cyberpunk shooter and blast your way through enemies and walls. Upgrade, enhance and build up your strength. The path to stopping the Overseer is ever changing.\n\nBlast your way through enemies and walls with guns and cybernetic abilities. Experiment with different roles like the Hacker or the Cyber Psycho. Upgrade your character stats, discover new cybernetic enhancements and build up strength. Every death is a new beginning — the path to stopping the Overseer is never the same. \n\nShoot through walls, make rooms explode, and obliterate whole floors\nExplore procedural levels with endless variety\nDefeat the bosses in hand-crafted boss fights\nUnlock new abilities, enhancements and weapons\nInstall enhancements and upgrade your weapons\nLocal co-op devastation for 2-4 players ",
+  "bannerUrl": "http://api.nlib.cc/nx/010075E0047F8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010075E0047F8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010075E0047F8000/screen/1",
+    "http://api.nlib.cc/nx/010075E0047F8000/screen/2",
+    "http://api.nlib.cc/nx/010075E0047F8000/screen/3",
+    "http://api.nlib.cc/nx/010075E0047F8000/screen/4",
+    "http://api.nlib.cc/nx/010075E0047F8000/screen/5",
+    "http://api.nlib.cc/nx/010075E0047F8000/screen/6"
+  ]
+}
