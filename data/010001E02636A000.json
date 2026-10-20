@@ -1,7 +1,7 @@
 {
-  "name": "フォルトナの魔術師",
-  "publisher": "ケムコ",
-  "releaseDate": "20260306",
+  "name": "Fortuna Magus",
+  "publisher": "KEMCO",
+  "releaseDate": "20260305",
   "description": "Amane, Tia, and Lill lived peacefully with their father, Kalius, until his sudden disappearance shattered their lives. Ten years later, a chance meeting with a magus named Rett pulls Amane and Tia into a dangerous journey. In a world where magi are feared and persecuted, standing up for Rett makes Amane a fugitive. As they flee from the law, the siblings search for answers and the truth behind their father’s fate.\n\nFortuna Magus features strategic turn-based battles built around revelations and TP (Technical Points). Learn new spells and tandem attacks by meeting combat conditions, manage TP to unleash devastating special skills, and strengthen characters through element levels using magestones. Deep customization and rewarding progression await long after the story ends.",
   "bannerUrl": "http://api.nlib.cc/nx/010001E02636A000/banner",
   "iconUrl": "https://api.nlib.cc/nx/010001E02636A000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/010001E02636A000/screen/4",
     "http://api.nlib.cc/nx/010001E02636A000/screen/5",
     "http://api.nlib.cc/nx/010001E02636A000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 196639630
 }

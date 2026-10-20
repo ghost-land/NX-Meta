@@ -1,8 +1,8 @@
 {
   "name": "Dog Chaos",
   "publisher": "Gametry",
-  "releaseDate": "20260402",
-  "description": "",
+  "releaseDate": "20260403",
+  "description": "Step into a fun and chaotic adventure where you play as a mischievous dog exploring a lively world full of tasks, surprises, and challenges. Complete a variety of missions such as collecting items, interacting with objects, and reaching special locations to progress through exciting levels. Each stage offers new objectives and playful scenarios that test your curiosity and problem-solving skills.\n\nUnlock new areas, overcome obstacles, and experience a lighthearted role-playing adventure designed for casual players of all ages. With clear goals, rewarding progression, and plenty of playful chaos, every level brings a new opportunity to explore, complete tasks, and become the ultimate trouble-making hero.",
   "bannerUrl": "http://api.nlib.cc/nx/0100034027C06000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100034027C06000/icon/200",
   "screenshots": [
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100034027C06000/screen/4",
     "http://api.nlib.cc/nx/0100034027C06000/screen/5",
     "http://api.nlib.cc/nx/0100034027C06000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 64334668
 }
