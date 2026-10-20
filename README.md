@@ -49,3 +49,7 @@ Changed files under `data/`, plus `index.json` and `index.tfl`, are committed ba
 | `index.json` | Aggregated title database |
 | `index.tfl` | Encrypted Tinfoil index |
 | `public.key` | RSA public key used for encryption |
+
+## License
+
+[Unlicense](LICENSE) — public domain. Use it for anything.
