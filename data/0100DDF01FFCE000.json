@@ -1,0 +1,18 @@
+{
+  "name": "Mythmatch",
+  "publisher": "Team Artichoke",
+  "releaseDate": "20260707",
+  "description": "Mythmatch is a narrative-rich, town-building merge game. By day, it's a cozy resource management game where Artemis works with the mortals to rebuild their town and recruit new villagers. But at night, she rises to Olympus to challenge her family in fast-paced arcade minigames to prove she deserves a place in the pantheon.\n\nFeatures\n- Satisfying match-3 gameplay\n- Discover new items by merging and crafting\n- Repair and expand a thriving community\n- Challenge the gods in 4 unique minigames\n- Play with a friend in Arcade Mode\n- Heartfelt story about found family and belonging",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DDF01FFCE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DDF01FFCE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DDF01FFCE000/screen/1",
+    "http://api.nlib.cc/nx/0100DDF01FFCE000/screen/2",
+    "http://api.nlib.cc/nx/0100DDF01FFCE000/screen/3",
+    "http://api.nlib.cc/nx/0100DDF01FFCE000/screen/4",
+    "http://api.nlib.cc/nx/0100DDF01FFCE000/screen/5",
+    "http://api.nlib.cc/nx/0100DDF01FFCE000/screen/6"
+  ],
+  "version": 0,
+  "size": 427104368
+}

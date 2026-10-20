@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Station Manager Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 37417024
 }

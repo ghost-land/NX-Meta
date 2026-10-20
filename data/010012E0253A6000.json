@@ -1,5 +1,5 @@
 {
-  "name": "脱出ゲーム R00M07",
+  "name": "Escape game R00M07",
   "publisher": "AlignmentSharp",
   "releaseDate": "20251127",
   "description": "Move through 3D space to find hints, solve mysteries and escape from the room.\nAnyone can play to the end because you can see hints and answers.",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/010012E0253A6000/screen/4",
     "http://api.nlib.cc/nx/010012E0253A6000/screen/5",
     "http://api.nlib.cc/nx/010012E0253A6000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 322247729
 }

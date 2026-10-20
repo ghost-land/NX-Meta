@@ -9,5 +9,7 @@
     "http://api.nlib.cc/nx/0100E7F01ACA2000/screen/1",
     "http://api.nlib.cc/nx/0100E7F01ACA2000/screen/2",
     "http://api.nlib.cc/nx/0100E7F01ACA2000/screen/3"
-  ]
+  ],
+  "version": 0,
+  "size": 79980563
 }

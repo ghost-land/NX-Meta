@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Hexapoda Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 89094873
 }

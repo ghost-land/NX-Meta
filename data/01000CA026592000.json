@@ -1,5 +1,5 @@
 {
-  "name": "エモージーバテルフィールドアイランドウォーフェア",
+  "name": "Emoji Battlefield - Island Warfare",
   "publisher": "EpiXR Games",
   "releaseDate": "20260226",
   "description": "You’ve washed ashore on a mysterious island where ancient emojis have awakened — and they’re not happy to see you.\nThis rogue-like first-person shooter throws you into wild, fast-paced combat against tiki emojis wearing carved masks and wielding primal powers.\nBefore each run, customize your experience with crazy modifiers: make enemies bounce, wear funny hats, or unleash volcanic chaos for maximum challenge. Choose your arena — from overgrown jungles and hidden beach ruins to ancient temples filled with deadly traps — each location has its own hazards, secrets, and surprises.\nArmed with just a pistol, you’ll face wave after wave of emojis that rush, leap, explode, or even summon others to fight. Defeat them to collect glowing orbs, level up, and unlock upgrades or powerful new weapons. Each decision shapes your survival — will you go for raw power, faster reloads, or explosive mayhem?\nEvery battle becomes a frantic dance of dodging lava bursts, leaping over collapsing bridges, and using temple traps to your advantage. The further you go, the wilder the island gets — until you’re overwhelmed by the ancient emoji horde.\nSurvive long enough, and you’ll uncover new arenas, more upgrades, and deeper chaos for your next run.\nCan you conquer the island before the emojis claim you?",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/01000CA026592000/screen/4",
     "http://api.nlib.cc/nx/01000CA026592000/screen/5",
     "http://api.nlib.cc/nx/01000CA026592000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 2356343256
 }

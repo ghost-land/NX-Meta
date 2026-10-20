@@ -1,0 +1,18 @@
+{
+  "name": "Grayland Remastered",
+  "publisher": "1DER Entertainment",
+  "releaseDate": "20260813",
+  "description": "A noir story of a tiny bird fighting to bring color back to a dying world.\n\nCaught in the endless war between Humans and Aliens, you are a small bird struggling to survive in the ruined, radioactive lands of Grayland. What was once a peaceful home has become a scorched, lifeless battlefield.\n\nFly through breathtaking hand-painted environments, dodge enemy drones, cleanse toxic hotspots, and confront colossal bosses on your journey to save your loved ones. Discover the haunting mystery behind the fall of this world—and fight to restore hope where none remains.\n\nKey Features\n• 16 handcrafted, challenging levels\n• Atmospheric noir visuals and a deeply emotional story\n• Varied and intense boss encounters\n• A beautiful, immersive soundtrack\n• Rebalanced difficulty for smoother, more rewarding progression\n\nEven the smallest being can change the fate of a world.\nBe the one who brings life back to Grayland.",
+  "bannerUrl": "http://api.nlib.cc/nx/010074B027F44000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010074B027F44000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010074B027F44000/screen/1",
+    "http://api.nlib.cc/nx/010074B027F44000/screen/2",
+    "http://api.nlib.cc/nx/010074B027F44000/screen/3",
+    "http://api.nlib.cc/nx/010074B027F44000/screen/4",
+    "http://api.nlib.cc/nx/010074B027F44000/screen/5",
+    "http://api.nlib.cc/nx/010074B027F44000/screen/6"
+  ],
+  "version": 0,
+  "size": 83235688
+}

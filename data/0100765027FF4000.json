@@ -1,0 +1,18 @@
+{
+  "name": "Skyforge Trails",
+  "publisher": "Gametry",
+  "releaseDate": "20260515",
+  "description": "Skyforge Trails is an isometric puzzle-adventure set among breathtaking floating islands high above the clouds. Players guide a brave traveler across ancient stone paths, shifting platforms, dangerous traps, and mysterious ruins scattered through magical sky realms. Each level is a handcrafted challenge that blends exploration, timing, and clever problem-solving, rewarding careful planning as much as quick movement. \n\nAlong the way, you will push blocks, activate glowing tiles, avoid hazards, collect coins, and discover new routes through increasingly complex environments. From fiery volcanic heights to frozen mountain trails and peaceful sky temples, every world introduces fresh mechanics and a distinct visual atmosphere. The journey is both relaxing and challenging, combining satisfying puzzle design with the charm of vibrant pixel-art landscapes.\n\nWith its mix of accessible gameplay, atmospheric worldbuilding, and rewarding progression, Skyforge Trails invites players to forge their own path through a magical world suspended between the heavens and the unknown.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100765027FF4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100765027FF4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100765027FF4000/screen/1",
+    "http://api.nlib.cc/nx/0100765027FF4000/screen/2",
+    "http://api.nlib.cc/nx/0100765027FF4000/screen/3",
+    "http://api.nlib.cc/nx/0100765027FF4000/screen/4",
+    "http://api.nlib.cc/nx/0100765027FF4000/screen/5",
+    "http://api.nlib.cc/nx/0100765027FF4000/screen/6"
+  ],
+  "version": 0,
+  "size": 45677177
+}

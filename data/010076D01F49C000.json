@@ -1,0 +1,18 @@
+{
+  "name": "Stories from the Outbreak",
+  "publisher": "AbsoDev",
+  "releaseDate": "20240716",
+  "description": "The year is 2020. A new virus – the New Death – has begun turning people into violent zombies. The government has collapsed, and a brutal paramilitary group has taken control over most of Latvia. The streets are not safe, and the police or army will not protect you.\nYou turn the radio on. The military is announcing that one last ferry will be heading out to Iceland from the western shore. Escape will be granted to those with enough fuel for the entry fee, and enough courage to attempt the journey across zombie-infested Latvia.\nStories from the Outbreak is a turn-based roguelike zombie RPG. The combat is heavily strategic, allowing customisation in team composition and character progression, and the game features dozens of trinkets that provide passive bonuses following the best roguelike design practices. Between combats, you must make decisions about traversing the landscape, and written events force you to navigate the moral complexities of surviving in a hostile environment.",
+  "bannerUrl": "http://api.nlib.cc/nx/010076D01F49C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010076D01F49C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010076D01F49C000/screen/1",
+    "http://api.nlib.cc/nx/010076D01F49C000/screen/2",
+    "http://api.nlib.cc/nx/010076D01F49C000/screen/3",
+    "http://api.nlib.cc/nx/010076D01F49C000/screen/4",
+    "http://api.nlib.cc/nx/010076D01F49C000/screen/5",
+    "http://api.nlib.cc/nx/010076D01F49C000/screen/6"
+  ],
+  "version": 0,
+  "size": 116295362
+}

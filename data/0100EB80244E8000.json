@@ -1,0 +1,18 @@
+{
+  "name": "Dragon Is Dead",
+  "publisher": "PM Studios",
+  "releaseDate": "20260423",
+  "description": "The black dragon [Guernian], who once faced down the gods, has fallen. \nFrom the rift he fled before his death, an unholy energy has spread across the world, and life is undergoing a bizarre mutation. People call it Corruption and live their days in fear, but few know its trustworthy source and full extent.\n\nYou are an immortal warrior, a so-called Successor, chosen by the God of Light [Lu], the God of Fire [Ashuran], and the God of Water [Harnia]. Arriving in Cliffshire, a town of light, Successors must head to a burial ground where demons are said to be manifesting and follow clues to cleanse the distorted world.\n\nDragon is Dead delivers 2D platformer action requiring precise dodging and pattern-breaking. Each area is a vertically and horizontally intertwined, multi-layered structure that regenerates in a rogue-lite fashion with different terrain, monster placement, and loot composition on each run. When you die, you lose your gold and temporary buffs, but your gear and runes are permanently preserved and become the basis for the next cycle. Defeating bosses yields rune stones that can be used to craft or awaken legendary gear, and artifacts found during exploration can bring both powerful blessings and dangerous curses depending on the combination, providing new tactical tension each time.\n\nMake your way to the Citadel – the closer you get, the more you’ll come face-to-face with a secret that has brought the world to its knees.\n\nFeatures:\n\n•\tTight, immersive platforming and combat\n•\tStunning visuals to draw you into the world\n•\tEach run brings new challenges as you gain strength\n•\tExtensive customization and character options for exciting builds\n•\tConquer the Corruption to unravel the story",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EB80244E8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EB80244E8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EB80244E8000/screen/1",
+    "http://api.nlib.cc/nx/0100EB80244E8000/screen/2",
+    "http://api.nlib.cc/nx/0100EB80244E8000/screen/3",
+    "http://api.nlib.cc/nx/0100EB80244E8000/screen/4",
+    "http://api.nlib.cc/nx/0100EB80244E8000/screen/5",
+    "http://api.nlib.cc/nx/0100EB80244E8000/screen/6"
+  ],
+  "version": 0,
+  "size": 378293701
+}

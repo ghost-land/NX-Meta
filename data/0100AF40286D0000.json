@@ -1,0 +1,17 @@
+{
+  "name": "Fish In",
+  "publisher": "RandomSpin Games",
+  "releaseDate": "20260604",
+  "description": "Welcome to Fish In — a relaxing yet addictive fishing adventure built for everyone who loves the thrill of a perfect catch.\n\nExplore beautifully crafted worlds, each brimming with unique fish, hidden secrets, and breathtaking scenery. From tranquil forest ponds to mysterious deep-sea trenches, every location offers new species to discover and new challenges to master.\n\nCast your line and feel the excitement as rare and legendary fish tug at your rod. Build a massive collection of beautifully designed fish — each one hand-crafted with vibrant colors and charming detail. Track your progress, unlock new species, and chase the rarest catches in the game.\n\nUpgrade your fishing gear to reach deeper waters and distant shores. Better rods, stronger lines, and specialized lures open up a world of possibilities. Trade with other anglers, sell your prized catches, and invest in the equipment you need to become the ultimate angler.\n\nWith charming character designs, gorgeous environments, and dozens of unique fish to collect, Fish In is a fishing experience unlike any other. Whether you have five minutes or five hours, every session rewards you with something new.\n\nPick up your rod. The water is calling.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AF40286D0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AF40286D0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AF40286D0000/screen/1",
+    "http://api.nlib.cc/nx/0100AF40286D0000/screen/2",
+    "http://api.nlib.cc/nx/0100AF40286D0000/screen/3",
+    "http://api.nlib.cc/nx/0100AF40286D0000/screen/4",
+    "http://api.nlib.cc/nx/0100AF40286D0000/screen/5"
+  ],
+  "version": 0,
+  "size": 707053812
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Nubla",
+  "publisher": "GammeraNest",
+  "releaseDate": "20240912",
+  "description": "Nubla proposes an adventure that begins in the halls of the Thyssen museum.\n\nFollowing him, we begin a journey that will take us to discover the wonderful world of Nubla, full of puzzles and forgotten places. Who has not dreamed of plunging into one of the paintings hanging on the wall of a museum and venture into an unknown world?\n\nThroughout this first chapter of Nubla the underlying theme of our game is the construction of identity, something that we will discover from conceptualizing inspired by the art, many challenges in the form of puzzles that we face, discovering the forgotten world of Nubla.\n\nNubla, is not only a game but an interesting educational project that puts in dialogue the art, technology and new narratives. It generates, in certain ways, a reinterpretation and creatively vision of the works of the museum. Backgrounds, characters and game mechanics are inspired by works and artistic styles, bringing the world of art in a playful and fun way.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EA801AB00000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EA801AB00000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EA801AB00000/screen/1",
+    "http://api.nlib.cc/nx/0100EA801AB00000/screen/2",
+    "http://api.nlib.cc/nx/0100EA801AB00000/screen/3",
+    "http://api.nlib.cc/nx/0100EA801AB00000/screen/4",
+    "http://api.nlib.cc/nx/0100EA801AB00000/screen/5",
+    "http://api.nlib.cc/nx/0100EA801AB00000/screen/6"
+  ],
+  "version": 0,
+  "size": 305595712
+}

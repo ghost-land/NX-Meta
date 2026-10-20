@@ -1,0 +1,16 @@
+{
+  "name": "Immunuzzle",
+  "publisher": "Afil Games",
+  "releaseDate": "20260619",
+  "description": "Get ready for a microscopic battle full of strategy in Immunuzzle, an engaging pixel art puzzle where every move can change everything. Use pieces inspired by the immune system to contain a spreading infection, turning each decision into a true test of planning and intelligence.\n\nChoose your pieces carefully, place each one with precision, and watch the infection react immediately to every move. Here, no action comes without consequences. Every placement shapes the future of the board, blocks paths, and completely redefines the threat.\n\nWith constantly evolving challenges, you will face increasingly complex layouts, tight chokepoints, and infection patterns that demand quick thinking and strategic vision. This is not just about filling spaces, it is about mastering the field, controlling the spread, and turning chaos into order.\n\nWith retro visuals full of personality, smart mechanics, and that satisfying feeling of solving something tough, Immunuzzle delivers a unique experience. Perfect for players who love challenging puzzles, impactful decisions, and hard-earned victories.\n\nObserve, plan, and fight the infection until you take full control.",
+  "bannerUrl": "http://api.nlib.cc/nx/010076D028428000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010076D028428000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010076D028428000/screen/1",
+    "http://api.nlib.cc/nx/010076D028428000/screen/2",
+    "http://api.nlib.cc/nx/010076D028428000/screen/3",
+    "http://api.nlib.cc/nx/010076D028428000/screen/4"
+  ],
+  "version": 0,
+  "size": 67763507
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Homebound Plush",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20260917",
+  "description": "Embark on a charming adventure with a teddy bear who was accidentally forgotten by a young boy during a move and must now set out on a journey to reunite with his owner. Run, jump, and explore vibrant pixel art levels, facing enemies and traveling through a variety of environments, including houses, gardens, and city streets.\n\nCollect special items along the way to aid your adventure.\n\nEach level features its own exciting boss battle.\n\nWith precise controls, moderate challenges, and a cozy atmosphere, this is the perfect adventure for fans of classic 16-bit platformers. Test your skills through a fun and heartwarming journey filled with charm for players of all ages.",
+  "bannerUrl": "http://api.nlib.cc/nx/010085A028C2A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010085A028C2A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010085A028C2A000/screen/1",
+    "http://api.nlib.cc/nx/010085A028C2A000/screen/2",
+    "http://api.nlib.cc/nx/010085A028C2A000/screen/3",
+    "http://api.nlib.cc/nx/010085A028C2A000/screen/4",
+    "http://api.nlib.cc/nx/010085A028C2A000/screen/5",
+    "http://api.nlib.cc/nx/010085A028C2A000/screen/6"
+  ],
+  "version": 0,
+  "size": 67350895
+}

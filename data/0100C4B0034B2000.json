@@ -5,5 +5,7 @@
   "description": "Nintendo Labo Toy-Con 01 Variety Kit",
   "bannerUrl": "http://api.nlib.cc/nx/0100C4B0034B2000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100C4B0034B2000/icon/200",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 930833291
 }

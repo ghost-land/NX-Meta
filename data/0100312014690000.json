@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Mars Horizon Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 857931786
 }

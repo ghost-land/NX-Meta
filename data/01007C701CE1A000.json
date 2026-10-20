@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Quadroids Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 223356205
 }

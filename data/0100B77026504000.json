@@ -1,0 +1,18 @@
+{
+  "name": "DUNGEON RAZE",
+  "publisher": "Phoenixx",
+  "releaseDate": "20260618",
+  "description": "DUNGEON RAZE is an intense power-trip where you don't crawl through the dungeon, you blast through it. Become a destruction magic-wielding witch and reduce every wall and defense system to dust.\n\nDemolish Everything in Sight\nNot even the walls of the dungeon can stop you. Tear through the map to hunt down gold, power-ups, and rescue allies. Your firepower vaporizes the dungeon as you go\n\nExperience Instant Hyper-Inflation\nForget grinding for gradual stat upgrades and go for explosive growth. Power scaling that defies logic is achievable within minutes. Watch your projectiles multiply, and your damage skyrocket until even the toughest walls satisfyingly crumble in a single shot.\n\nLead a Mobile Fortress\nNo one razes alone. Smash through the rubble to rescue imprisoned adventurers and add their firepower to your own. As your squad grows and your inflation peaks, the screen fills with a chaotic storm of magic and munitions that no defense can withstand.\n\nPush Your Destructive Limits\nFind out just how much devastation you can unleash:\n- Eternal Dungeon: No limits, no end. See how far your \"hyper-inflated\" firepower can go in a procedurally generated maze of infinite destruction.\n- Speed Raze: How fast can you raze the core? A time-based mode where every second counts.\n- Hard Dungeon: High-difficulty stages filled with tougher walls and enemies, designed to challenge your ultimate power. Encounter special allies and powerful, unknown foes.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B77026504000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B77026504000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B77026504000/screen/1",
+    "http://api.nlib.cc/nx/0100B77026504000/screen/2",
+    "http://api.nlib.cc/nx/0100B77026504000/screen/3",
+    "http://api.nlib.cc/nx/0100B77026504000/screen/4",
+    "http://api.nlib.cc/nx/0100B77026504000/screen/5",
+    "http://api.nlib.cc/nx/0100B77026504000/screen/6"
+  ],
+  "version": 0,
+  "size": 597389090
+}

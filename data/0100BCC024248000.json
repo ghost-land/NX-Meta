@@ -1,0 +1,18 @@
+{
+  "name": "Veins of DARKNESS Horror",
+  "publisher": "CGI LAB GAMES",
+  "releaseDate": "20260410",
+  "description": "Veins of DARKNESS Horror is a first-person horror experience where you play as an ordinary shift worker sent on a routine business trip. Your company rents you a house on the outskirts of town — quiet, isolated, and seemingly perfect for a short stay. But soon it becomes clear that something about this place is deeply wrong.\n\nThe atmosphere grows heavier with every passing moment. The deeper you explore, the more unsettling secrets begin to surface.\n\nAlong the way, you will encounter a variety of challenging and unusual puzzles that must be solved to uncover the truth and move forward. Each discovery pulls you further into the mystery hidden within the house.\n\nPrepare for an intense horror experience where every step feels uncertain and every new corner may reveal something you wish you had never found.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BCC024248000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BCC024248000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BCC024248000/screen/1",
+    "http://api.nlib.cc/nx/0100BCC024248000/screen/2",
+    "http://api.nlib.cc/nx/0100BCC024248000/screen/3",
+    "http://api.nlib.cc/nx/0100BCC024248000/screen/4",
+    "http://api.nlib.cc/nx/0100BCC024248000/screen/5",
+    "http://api.nlib.cc/nx/0100BCC024248000/screen/6"
+  ],
+  "version": 0,
+  "size": 307952784
+}

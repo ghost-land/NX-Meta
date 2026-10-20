@@ -1,0 +1,18 @@
+{
+  "name": "Zumba World - The Marble Monster Adventure",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20260507",
+  "description": "Zumba World – The Monster Marble Adventure fuses classic marble-shooter action with an explorable hub world! You play as a fearless dinosaur hero carrying colorful marbles in your snout. Dash across a central plaza strewn with glowing portals to four monstrous realms:\n•\tHalloween Haunt – Match eerie ghost-marbles before they vanish through spectral gates.\n•\tJurassic Ridge – Stop prehistoric marbles tumbling off volcanic cliffs.\n•\tDragon’s Keep – Halt fiery dragon-scaled marbles before they scorch your lair.\n•\tZombie Crypt – Prevent undead marbles from escaping the graveyard walls.\nSelect any portal, then take your place at the center of winding thematic paths. Launch marbles to match three or more identical orbs, trigger spectacular chain reactions, and clear each wave before it crosses your boundary to earn up to three stars per level.\nEvery ten levels, dash back to the hub world and venture into the next realm. Discover hidden shortcuts, unlock bonus mini-challenges, and collect special relics that reveal the Monster Marble Adventure’s secrets. Each realm introduces unique marble colors, path shapes, moving obstacles, and accelerating speeds—keeping the marble mayhem fresh and exhilarating!\nAddictive and family-friendly, Zumba World – The Monster Marble Adventure challenges you to master marble matching across four thrilling monster worlds.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BFC02401E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BFC02401E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BFC02401E000/screen/1",
+    "http://api.nlib.cc/nx/0100BFC02401E000/screen/2",
+    "http://api.nlib.cc/nx/0100BFC02401E000/screen/3",
+    "http://api.nlib.cc/nx/0100BFC02401E000/screen/4",
+    "http://api.nlib.cc/nx/0100BFC02401E000/screen/5",
+    "http://api.nlib.cc/nx/0100BFC02401E000/screen/6"
+  ],
+  "version": 0,
+  "size": 326490918
+}

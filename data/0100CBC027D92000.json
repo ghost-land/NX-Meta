@@ -1,0 +1,17 @@
+{
+  "name": "Resonant Blade",
+  "publisher": "REDDEER.GAMES",
+  "releaseDate": "20260910",
+  "description": "In RESONANT BLADE, sound itself becomes your weapon. The Dark Synths have overrun a world once protected by domed cities, turning them into cages for an ever-growing army of hostile machines.\n\nYou play as Atlas, a scientist forced to become a fighter after his home is destroyed. Armed with the Resonant Blade, he channels sonic energy into devastating attacks - and uses that same resonance to uncover hidden paths, solve environmental puzzles, and expose secrets buried in the ruins.\n\nDash, parry, and tune your blade's frequency to break through enemy defenses in fast, precise 2D combat that combines intense action, exploration, and environmental puzzles. As the Synths adapt and grow stronger, only careful timing and clever use of sound will keep Atlas - and what's left of Terra - alive.\n\nFeatures:\n- Sonic-powered combat: slash, dash, and modulate frequencies to break enemy defenses\n- Explore the ruins of Terra and uncover secrets through sound-based puzzles\n- Fast, precise 2D action combining combat, exploration, and environmental challenges\n- Face an ever-evolving army of Dark Synth machines and challenging bosses\n- Single-player sci-fi adventure in a dystopian, atmospheric world",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CBC027D92000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CBC027D92000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CBC027D92000/screen/1",
+    "http://api.nlib.cc/nx/0100CBC027D92000/screen/2",
+    "http://api.nlib.cc/nx/0100CBC027D92000/screen/3",
+    "http://api.nlib.cc/nx/0100CBC027D92000/screen/4",
+    "http://api.nlib.cc/nx/0100CBC027D92000/screen/5"
+  ],
+  "version": 0,
+  "size": 253397476
+}

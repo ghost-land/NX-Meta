@@ -1,0 +1,18 @@
+{
+  "name": "Fairy Tale Fighters",
+  "publisher": "HUNTERS",
+  "releaseDate": "20260618",
+  "description": "Fairy Tale Fighters is a 2D fighting game.\n\nMomotaro, Kintaro, Sun Wukong, Peter Pan, Pinocchio, Aladdin,\nPuss in Boots, Red Hood, Alice, Rapunzel, Snow White,\nCinderella, the Witch, the Wolf, and many more fairy tale characters all gather in one place!\n\nWhen your gauge fills up, you can unleash a powerful super special move!\nEnjoy exciting battles in a magical fantasy world!",
+  "bannerUrl": "http://api.nlib.cc/nx/010077D0277B6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010077D0277B6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010077D0277B6000/screen/1",
+    "http://api.nlib.cc/nx/010077D0277B6000/screen/2",
+    "http://api.nlib.cc/nx/010077D0277B6000/screen/3",
+    "http://api.nlib.cc/nx/010077D0277B6000/screen/4",
+    "http://api.nlib.cc/nx/010077D0277B6000/screen/5",
+    "http://api.nlib.cc/nx/010077D0277B6000/screen/6"
+  ],
+  "version": 0,
+  "size": 101090874
+}

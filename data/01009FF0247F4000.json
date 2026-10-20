@@ -1,0 +1,18 @@
+{
+  "name": "The Last Salvage Squad",
+  "publisher": "Waku Waku Games",
+  "releaseDate": "20260618",
+  "description": "Battle enemy forces reminiscent of alien weapons from retro sci-fi works in this single-player 2.5D FPS.\n\n■STORY\nOne day, a gargantuan alien spaceship invades and unleashes countless combat weapons upon Earth, demolishing human civilization in the blink of an eye. Although humans succeeded in developing special weapons that could deal an effective blow to the aliens, it was too late to revive their civilization.\n\nTo this day, however, the Earth has yet to fall silent despite its abandoned cities, for swarm weapons known as \"CogrinaUnits,\" 12-meter-tall autonomous humanoid units, collect and operate the limited number of special weapons that remain, and continue to fight against the aliens, all for the sake of accomplishing the mission humanity entrusted them with....\n\n■Simple yet varied missions with a wide range of fighting styles\n・Choose whether to take down the multi-legged robot weapons ravaging the city by leveraging the terrain, or to move in close and finish them off.\n\n・The next unit is sent out immediately once you are defeated.\n\n・Only a limited amount of equipment remains, so you'll need to recover items from defeated units to continue the battle.\n\n■A story of hope told between battles\n・Find out what comes of the battle against the overwhelming enemy forces\n\n・Light-hearted conversation scenes with fellow units during intermissions\n\n・Plus a shiba inu!",
+  "bannerUrl": "http://api.nlib.cc/nx/01009FF0247F4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009FF0247F4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009FF0247F4000/screen/1",
+    "http://api.nlib.cc/nx/01009FF0247F4000/screen/2",
+    "http://api.nlib.cc/nx/01009FF0247F4000/screen/3",
+    "http://api.nlib.cc/nx/01009FF0247F4000/screen/4",
+    "http://api.nlib.cc/nx/01009FF0247F4000/screen/5",
+    "http://api.nlib.cc/nx/01009FF0247F4000/screen/6"
+  ],
+  "version": 0,
+  "size": 325199991
+}

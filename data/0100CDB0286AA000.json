@@ -1,0 +1,18 @@
+{
+  "name": "Traffic Survivor",
+  "publisher": "Gametry",
+  "releaseDate": "20260724",
+  "description": "Traffic Survivor is a fast-paced endless runner where every second on the highway can be your last. Sprint through dense traffic, dodge trucks and cars, avoid roadblocks, and react instantly to an ever-changing stream of hazards. Master running, jumping, sliding, and boosting as the road grows faster, tougher, and more chaotic. How long can you survive?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CDB0286AA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CDB0286AA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CDB0286AA000/screen/1",
+    "http://api.nlib.cc/nx/0100CDB0286AA000/screen/2",
+    "http://api.nlib.cc/nx/0100CDB0286AA000/screen/3",
+    "http://api.nlib.cc/nx/0100CDB0286AA000/screen/4",
+    "http://api.nlib.cc/nx/0100CDB0286AA000/screen/5",
+    "http://api.nlib.cc/nx/0100CDB0286AA000/screen/6"
+  ],
+  "version": 0,
+  "size": 272040021
+}

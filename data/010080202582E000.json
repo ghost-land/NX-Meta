@@ -1,0 +1,18 @@
+{
+  "name": "Chronoquartz",
+  "publisher": "Infinite Stairs",
+  "releaseDate": "20251106",
+  "description": "You'll need to use the knowledge gained from previous loops to progress further in the game. This will allow you to open coded doors, take secret passages, know the location of objects, and discover the fastest paths to reach your destination.\n\nWith each loop, you'll need to decide which path to take and which object to retrieve to reach your goal. Your number of turns is limited, so choose wisely.\n\nTo gain new insights into the game, you'll need to solve puzzles that span one or more loops. Meticulous planning is essential, because remember: every move counts.\n\nAll the information you gather might help you thwart Morthas' plans. He wants to seize the Chronoquartz and manipulate history. Time needs you: will you succeed to save it?",
+  "bannerUrl": "http://api.nlib.cc/nx/010080202582E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010080202582E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010080202582E000/screen/1",
+    "http://api.nlib.cc/nx/010080202582E000/screen/2",
+    "http://api.nlib.cc/nx/010080202582E000/screen/3",
+    "http://api.nlib.cc/nx/010080202582E000/screen/4",
+    "http://api.nlib.cc/nx/010080202582E000/screen/5",
+    "http://api.nlib.cc/nx/010080202582E000/screen/6"
+  ],
+  "version": 0,
+  "size": 99023639
+}

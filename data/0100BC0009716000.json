@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Kirby Star Allies Demo for KIOSK",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 489399380
 }

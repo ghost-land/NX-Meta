@@ -1,0 +1,18 @@
+{
+  "name": "River City Saga: Journey to the West",
+  "publisher": "ARC SYSTEM WORKS",
+  "releaseDate": "20260604",
+  "description": "Sun Wukong, Zhu Bajie, Sha Wujing, and Tang Sanzang!\nAll of the main characters are Kunio!!\nA wild, exhilarating comedy action adventure where they all set out for Tianzhu.\n\n1. A roguelike action game where you grow stronger with each run!\nObtain Secret Skills from gods who randomly appear as you progress through the stages to boost your abilities and stats!\nWith a whopping 80 different Secret Skills available, discover your ultimate build and mow down the swarms of enemies!\n\n2. Master 3 distinct fighting styles!\nYou'll start with only the speed-focused Sun Wukong, but as you progress through the story, you'll unlock the power-focused Zhu Bajie and the long-range Sha Wujing!\nFreely choose between the three Kunios and utilize their unique traits to conquer each stage!\n\n3. Familiar faces from the River City series join the fray!\nSeries regulars make their appearances one after another as characters from Journey to the West!\nSometimes they will aid Kunio's crew on their journey, while other times they will stand in your way as bosses...\nDon't miss the hilarious banter that unfolds throughout the story!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F850264EA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F850264EA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F850264EA000/screen/1",
+    "http://api.nlib.cc/nx/0100F850264EA000/screen/2",
+    "http://api.nlib.cc/nx/0100F850264EA000/screen/3",
+    "http://api.nlib.cc/nx/0100F850264EA000/screen/4",
+    "http://api.nlib.cc/nx/0100F850264EA000/screen/5",
+    "http://api.nlib.cc/nx/0100F850264EA000/screen/6"
+  ],
+  "version": 0,
+  "size": 830790339
+}

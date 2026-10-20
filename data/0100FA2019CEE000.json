@@ -1,0 +1,18 @@
+{
+  "name": "D-topia",
+  "publisher": "Annapurna Interactive",
+  "releaseDate": "20260714",
+  "description": "Step into a future where happiness is curated by artificial intelligence, in this gentle-paced puzzle adventure.\n\nThe Utopia Project was created in the interest of maximizing human happiness and comfort. As the newest residential Facilitator at D-topia, your role is to resolve issues around the residential community. Tackle fun logic-based puzzles to resolve mechanical issues and keep the facilities running smoothly and meet the many vibrant residents, each with their own unique story and personal struggle.\n\nBut what happens when problems go beyond the mechanical? How will your choices impact the wellbeing of the residents, and the future of humanity? In a world of curated happiness, what does it mean to find purpose?\n\nFeatures:\n* A Gentle-Paced, Reflective Adventure: Unwind in a calm, yet thought-provoking journey to discover what happiness truly means. \n\n* Clever, Integrated Puzzles: Tackle satisfying logic puzzles that connect to the heart of this gentle-paced adventure.\n\n* Meet D-topia’s Residents: Gain their trust, discover their stories, and shape their futures in unexpected ways.\n\n* Your Choices Matter: Guide this artificial intelligence-managed utopia toward joy or despair through your decisions. \n\n* Step Into Two Worlds: Move between the bright, public reality and the hidden “Block Side” to fix glitches and uncover secrets.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FA2019CEE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FA2019CEE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FA2019CEE000/screen/1",
+    "http://api.nlib.cc/nx/0100FA2019CEE000/screen/2",
+    "http://api.nlib.cc/nx/0100FA2019CEE000/screen/3",
+    "http://api.nlib.cc/nx/0100FA2019CEE000/screen/4",
+    "http://api.nlib.cc/nx/0100FA2019CEE000/screen/5",
+    "http://api.nlib.cc/nx/0100FA2019CEE000/screen/6"
+  ],
+  "version": 0,
+  "size": 626271684
+}

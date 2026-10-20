@@ -1,5 +1,5 @@
 {
-  "name": "ディストーティドザーリビングマナー",
+  "name": "Distorted – The Living Manor",
   "publisher": "EpiXR Games",
   "releaseDate": "20260326",
   "description": "Some places don’t stay the same.\nIn Distorted – The Living Manor, you are sent to investigate an old mansion rumored to be haunted. Your task seems simple: enter the manor once per day, carefully inspect its rooms, and decide whether something supernatural has occurred.\nAt first, the house appears normal. Quiet. Almost welcoming.\nBut as days pass, subtle changes begin to appear — shadows where none should be, missing rooms, unsettling figures that vanish when approached.\nEach day follows the same ritual:\nExplore the manor, observe its details, and trust your memory.\nIf you encounter something truly unnatural, you must burn a ghost charm in the fireplace before leaving. If not, you return home and come back the next day.\nYour choices matter. Burning a charm when nothing happened — or failing to burn one when something did — pushes the investigation toward an uncertain outcome.\nAs you explore, you’ll discover diary pages scattered throughout the manor, slowly revealing the tragic history of the house and the entity tied to it. The manor itself reacts to your presence, changing layouts, objects, and events across repeated visits.\nNo two investigations are the same.\nThe house remembers.",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100A83027452000/screen/4",
     "http://api.nlib.cc/nx/0100A83027452000/screen/5",
     "http://api.nlib.cc/nx/0100A83027452000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 1040654423
 }

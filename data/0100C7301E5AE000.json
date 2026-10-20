@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Frogun Encore Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 213685176
 }

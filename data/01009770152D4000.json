@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Bullet Beat Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 102013290
 }

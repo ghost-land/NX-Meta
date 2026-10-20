@@ -1,8 +1,8 @@
 {
-  "name": "アスファルト・チャンピオンズ",
+  "name": "Road Champions",
   "publisher": "isTom Games",
-  "releaseDate": "20251211",
-  "description": "Asphalt Champions is a high-octane racing game where style meets speed. Tame the roads of the countryside, master the art of turbo boosting, and dominate a world built for speed and glory.\nThese modern champion riders charge through diverse tracks – be it dusty desert roads, ramshackle junkyards, or winding country lanes. Beat your opponents, compete in time trials, and participate in champion tournaments in single-player – or challenge a friend for a cutthroat couch multiplayer race!\nEnjoy arcade car racing action with 16 upgradeable and customizable vehicles on 12 different racing tracks.\nIt is time to hit the gas!\nFeatures\n•\t16 cars – Collect, upgrade, and customize your vehicles.\n•\t12 racing tracks – Rush through different environments.\n•\tA variety of boosts – Get an edge over your opponents! \n•\tChoose your difficulty – Set your AI opponents’ skill to Easy, Medium, or Hard for a customizable challenge.\n•\t3 driver modes – Change your view to third-person, first-person, or close-up mode: what fits your racing style?\nGame Modes\n•\tTournament mode – Play multiple rounds against the same opponents. Collect points each round in Race, Elimination, or Time Trial modes.\n•\tQuick Race mode – Play a simple round on a chosen track against AI opponents.\n•\tTime Trial challenge – Beat set track times or your own best time.\n•\tHotseat – Play against your friends for a round of split-screen multiplayer.\nEarn your place among the Asphalt Champions, where every race is a fight for glory and every second counts!",
+  "releaseDate": "20251222",
+  "description": "Road Champions is a high-octane racing game where style meets speed. Tame the roads of the countryside, master the art of turbo boosting, and dominate a world built for speed and glory.\nThese modern champion riders charge through diverse tracks – be it dusty desert roads, ramshackle junkyards, or winding country lanes. Beat your opponents, compete in time trials, and participate in champion tournaments in single-player – or challenge a friend for a cutthroat couch multiplayer race!\nEnjoy arcade car racing action with 16 upgradeable and customizable vehicles on 12 different racing tracks.\nIt is time to hit the gas!\nFeatures\n•\t16 cars – Collect, upgrade, and customize your vehicles.\n•\t12 racing tracks – Rush through different environments.\n•\tA variety of boosts – Get an edge over your opponents! \n•\tChoose your difficulty – Set your AI opponents’ skill to Easy, Medium, or Hard for a customizable challenge.\n•\t3 driver modes – Change your view to third-person, first-person, or close-up mode: what fits your racing style?\nGame Modes\n•\tTournament mode – Play multiple rounds against the same opponents. Collect points each round in Race, Elimination, or Time Trial modes.\n•\tQuick Race mode – Play a simple round on a chosen track against AI opponents.\n•\tTime Trial challenge – Beat set track times or your own best time.\n•\tHotseat – Play against your friends for a round of split-screen multiplayer.\nEarn your place among the Road Champions, where every race is a fight for glory and every second counts!",
   "bannerUrl": "http://api.nlib.cc/nx/01004020261CA000/banner",
   "iconUrl": "https://api.nlib.cc/nx/01004020261CA000/icon/200",
   "screenshots": [
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/01004020261CA000/screen/4",
     "http://api.nlib.cc/nx/01004020261CA000/screen/5",
     "http://api.nlib.cc/nx/01004020261CA000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 219583979
 }

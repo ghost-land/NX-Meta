@@ -1,0 +1,18 @@
+{
+  "name": "Death by Scrolling",
+  "publisher": "MicroProse",
+  "releaseDate": "20260416",
+  "description": "Welcome to Death by Scrolling, an action game set in the chaotic depths of Purgatory, inc. now under new management! Choose your character—each with unique perks and abilities, and race upward through endless levels. Battle bizarre monsters, dodge death itself, and collect gems to pay the Ferryman’s exorbitant fee! With each screen inching upward, time is never on your side. Outsmart the Reaper, grab power-ups, complete quirky side quests, and shop from vendors mid-run. Stay alive, pay your dues, and maybe, just maybe, you'll cross that river.\nKey Features\n\t- Varied Cast of Characters: Select from multiple playable characters, each offering distinct abilities and perks to suit your playstyle.\n\t- Vertically Scrolling Mayhem: Constant upward movement means no time to rest—let the fiery bottom of the screen catch you, and it’s game over.\n\t- Relentless Pursuit: The Reaper is always close by—stun, dodge, and outmaneuver, but never kill him!\n\t- Loot & Progression: Collect gold and precious gems to unlock upgrades, power-ups, and abilities from quirky vendors.\n\t- Bonus Runs & Side Quests: Discover extra challenges and side quests at the top of each level for extra rewards.\n\t- Monster Mash: Battle quirky underworld creatures, from hellish pests to demonic bosses, all in a wild vertical sprint.\n\t- Quirky Lore & Humor: A tongue-in-cheek take on afterlife bureaucracy, with cheeky dialogues and playful narration.\n\t- Leaderboards: See how your purgatorial performance stacks up against other trapped souls.\nChoose your hero. Outsmart death. Outrun scrolling. Earn your passage. Are you ready to survive Purgatory, inc.?",
+  "bannerUrl": "http://api.nlib.cc/nx/01009C0024534000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009C0024534000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009C0024534000/screen/1",
+    "http://api.nlib.cc/nx/01009C0024534000/screen/2",
+    "http://api.nlib.cc/nx/01009C0024534000/screen/3",
+    "http://api.nlib.cc/nx/01009C0024534000/screen/4",
+    "http://api.nlib.cc/nx/01009C0024534000/screen/5",
+    "http://api.nlib.cc/nx/01009C0024534000/screen/6"
+  ],
+  "version": 0,
+  "size": 292570796
+}

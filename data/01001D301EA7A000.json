@@ -5,5 +5,7 @@
   "description": "This app includes a Digital artbook to view setting materials and illustrations of Tales of Graces f Remastered, and a Digital Soundtrack to listen to in-game BGM.",
   "bannerUrl": "http://api.nlib.cc/nx/01001D301EA7A000/banner",
   "iconUrl": "https://api.nlib.cc/nx/01001D301EA7A000/icon/200",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 991086989
 }

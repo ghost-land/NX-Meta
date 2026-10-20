@@ -1,0 +1,18 @@
+{
+  "name": "Rumbral",
+  "publisher": "Pdpartid@games",
+  "releaseDate": "20260423",
+  "description": "FIND YOUR PATH IN RUMBRAL\n\nYou wake up in a dark, mysterious forest with no memory of who you are or why you're there. Move through a world filled with abandoned structures and puzzles, perhaps left behind by others. Survivors? Explorers? Discover strange magenta liquids that reveal secrets of the past… and maybe of yourself. But be careful: you might not be alone in this desolate place.\n\nTRAVEL BETWEEN REALITIES\n\nThroughout your journey in Rumbral, you'll come across strange magenta puddles that allow you to travel to another reality. Shift between these parallel worlds to influence both and find your way forward.\n\nSOLVE MYSTERIOUS PUZZLES\n\nThe path won’t always be easy: you’ll need to solve different obstacles that stand in your way to keep moving on.\n\nDISCOVER HIDDEN COLLECTIBLES\n\nAlong the way, you'll find special collectible items, some more hidden than others. Gathering them will help you uncover the story of this broken world.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E6B02672A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E6B02672A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E6B02672A000/screen/1",
+    "http://api.nlib.cc/nx/0100E6B02672A000/screen/2",
+    "http://api.nlib.cc/nx/0100E6B02672A000/screen/3",
+    "http://api.nlib.cc/nx/0100E6B02672A000/screen/4",
+    "http://api.nlib.cc/nx/0100E6B02672A000/screen/5",
+    "http://api.nlib.cc/nx/0100E6B02672A000/screen/6"
+  ],
+  "version": 0,
+  "size": 506112225
+}

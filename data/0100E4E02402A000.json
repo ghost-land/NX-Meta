@@ -2,7 +2,7 @@
   "name": "Machine Gun Fury",
   "publisher": "ESDigital Games",
   "releaseDate": "20260320",
-  "description": "On a bold and potentially dangerous mission to revive the classic Arcade military shooter. Fully loaded with addictive top-down and side-scrolling run-and-gun gameplay, pixel-perfect 2D graphics, explosive SID soundtrack and massive destruction! Fight on foot and in heavily armed vehicles.\n\nDo you miss the days of the Arcade military shooter? Single-handedly blasting your way through entire armies of enemy soldiers, rescuing good guys, and blowing lots of stuff up!!\n\nRelying on just your reactions, your fast trigger finger and a limited grenade supply. Do you pine for the golden age of run-and-gun shooters?\n\nIf the answer is yes, Machine Gun Fury is here!",
+  "description": "When tyranny takes control… someone has to pull the trigger. Machine Gun Fury is a bold revival of the classic arcade military shooter — no cover systems, no moral debates, just pure reflex-driven carnage. It’s you, your trigger finger, and a limited supply of grenades against entire armies. If you grew up blasting through classic arcade games, welcome back to the frontline, soldier.\n\nBlast your way through enemy armies with nothing but sharp reflexes, heavy firepower, and a limited supply of grenades. Liberate 8 explosive regions packed with screen-filling bosses, relentless waves of enemies, and high-intensity run-and-gun action. \n\nStep into the boots of three unstoppable soldiers armed to the teeth and ready to bring tyranny to its knees:\n\n- Gunner Jimbo – A walking assault division. Built for suppressive fire and zero compromise. If he stops shooting, something big is about to explode.\n- Suzi Uzi – Fast, tactical, and merciless. She doesn’t waste bullets. She doesn’t miss. She doesn’t stop moving.\n- Mini-Gun Floyd – The embodiment of sustained fire. When those barrels spin up, the battlefield becomes a memory.\n\nThree warriors. One impossible mission. Infinite enemies.\n\nFight on foot or take control of heavily armed vehicles including tanks, boats, and combat buggies. Unleash a full arsenal of military-grade weaponry and trigger explosive chain reactions that turn enemy strongholds into rubble. If it moves — eliminate it.\n\n- Fast-paced top-down and side-scrolling run-and-gun gameplay\n- Full range of combat weaponry delivering large-scale destruction and huge body counts\n- Authentic 8-bit pixel art powered by modern enhancements\n- Destructible elements, screen shake, particle effects, and layered parallax backgrounds\n- Explosive SID-inspired soundtrack that hits like an arcade cabinet turned up to max\n\nPress Start. Pull the trigger. Feel the Fury.",
   "bannerUrl": "http://api.nlib.cc/nx/0100E4E02402A000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100E4E02402A000/icon/200",
   "screenshots": [
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100E4E02402A000/screen/4",
     "http://api.nlib.cc/nx/0100E4E02402A000/screen/5",
     "http://api.nlib.cc/nx/0100E4E02402A000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 155859603
 }

@@ -1,8 +1,8 @@
 {
-  "name": "Eradicator Genesis エラディケーター・ジェネシス",
+  "name": "Eradicator Genesis",
   "publisher": "GAME NACIONAL",
-  "releaseDate": "20251114",
-  "description": "\n\nAI has taken over the Earth, constructing machines and carrying out genetic experiments, giving rise to monstrous and colossal creatures. Only two humans can stand against the gigantic bosses, offering humanity a faint glimmer of hope.",
+  "releaseDate": "20260103",
+  "description": "\n\nAI has taken over the Earth, building machines and conducting genetic experiments, giving rise to monstrous and colossal creatures. Only two humans can rise against the gigantic bosses, giving humanity a glimmer of hope.",
   "bannerUrl": "http://api.nlib.cc/nx/01003EC025D5A000/banner",
   "iconUrl": "https://api.nlib.cc/nx/01003EC025D5A000/icon/200",
   "screenshots": [
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/01003EC025D5A000/screen/4",
     "http://api.nlib.cc/nx/01003EC025D5A000/screen/5",
     "http://api.nlib.cc/nx/01003EC025D5A000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 77987281
 }

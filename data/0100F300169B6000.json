@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100F300169B6000/screen/4",
     "http://api.nlib.cc/nx/0100F300169B6000/screen/5",
     "http://api.nlib.cc/nx/0100F300169B6000/screen/6"
-  ]
+  ],
+  "version": 65536,
+  "size": 132234014
 }

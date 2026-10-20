@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Mindcop Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 328443099
 }

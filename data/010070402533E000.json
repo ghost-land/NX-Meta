@@ -1,0 +1,18 @@
+{
+  "name": "Bubsy 4D",
+  "publisher": "Atari",
+  "releaseDate": "20260522",
+  "description": "Join Bubsy on a new, intergalactic, platforming adventure! Yeah, we couldn’t believe it either. The world’s most infamous, wise-cracking bobcat has returned to 3D with new challenges, new moves, and even more purrsonality – in space! Run, jump, glide, and roll across alien planets, battle robotic sheep, and collect tons and tons of yarn. What could possibly go wrong?\n\nBubsy’s longstanding enemies, the fleece-obsessed Woolies, have stolen all of the Earth’s sheep. Oh well, that ain’t Bubsy’s problem. Until the sheep overthrow their captors and return as deadly BaaBots, empowered by Woolie technology, determined to steal Bubsy’s most prized possession, The Golden Fleece. \n\nWith the help of his motley crew of acquaintances, Bubsy must journey through space to defeat the BaaBots and take back the Golden Fleece. Luckily, he’s acquired some new skills to navigate the expansive, craft-themed levels. Bubsy can leap, glide, claw his way up walls, and pounce off enemies. He can also puff up into a new hairball form to roll at blistering speeds. \n\nThe team at Fabraz crafted this expressive new moveset to cater to beginners and speedrun enthusiasts alike. Once you’ve mastered Bubsy’s clawsome new moves, show off your skills by uploading your best level times to the online leaderboards for other players to race against!\n\nFeatures\n- Explore intergalactic, craft-themed worlds, each ending in a BaaBot boss battle\n- New hairball form allows you to roll, bounce, and launch your way around\n- An expressive platforming moveset supports both beginner and advanced levels of play\n- Spend yarn to purrchase stylish new outfits, or collect a hidden blueprint in each level to unlock new moves and upgrades\n- Tackle each level’s time trial, upload your best run, and race against other players’ ghost data\n- Chat with a cast of furmiliar friends including Terri, Terry, Virgil, and Oblivia\n- Pawsitively funky soundtrack by Fat Bard, incorporating elements of jazz, big band, electro-swing and more",
+  "bannerUrl": "http://api.nlib.cc/nx/010070402533E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010070402533E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010070402533E000/screen/1",
+    "http://api.nlib.cc/nx/010070402533E000/screen/2",
+    "http://api.nlib.cc/nx/010070402533E000/screen/3",
+    "http://api.nlib.cc/nx/010070402533E000/screen/4",
+    "http://api.nlib.cc/nx/010070402533E000/screen/5",
+    "http://api.nlib.cc/nx/010070402533E000/screen/6"
+  ],
+  "version": 0,
+  "size": 764726702
+}

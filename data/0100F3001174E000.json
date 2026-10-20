@@ -1,0 +1,17 @@
+{
+  "name": "A Dance of Fire and Ice",
+  "publisher": "7th Beat Games",
+  "releaseDate": "20260212",
+  "description": "A Dance of Fire and Ice is a deceptively simple rhythm game: press the button along to the beat to keep your orbiting planets on the path.\n\nBut the path isn't always so simple. Before long, you'll travel across different twisting shapes and patterns, representing different rhythms spread across all sorts of genres.\n\nThis version includes the base game \"A Dance of Fire and Ice\", the expansion \"Neo Cosmos\", and all-new 4-player local multiplayer.\n\nEXPLORE THE COSMOS\nSoar through each genre of music in a variety of colorful fantasy landscapes in over 30 different worlds.\n\nPREDICT EVERY MOVEMENT\nWith a track that shows you every rhythm ahead of time, you’ll learn to sight-read levels as they come. No tricks, and nothing is reaction-based.\n\nTEAM UP WITH FRIENDS\nPlay in a group of up to four friends in local co-operative play! When a friend misses a beat, keep pushing onward to revive them and pull them back into the song.\n\nCHALLENGE THE OVERSEER IN NEO COSMOS\nWhen you're ready for a challenge, jump into the \"Neo Cosmos\" story expansion. Directed by TaroNuke (creator of NotITG and UKSRT), it includes plenty of surprises, new characters, and whole new game mechanics to mix things up.\n\nCALIBRATE YOUR EXPERIENCE\nManually adjust your calibration on-the-fly, or use our auto-calibration method. We're musicians, and it hurts us to play off-sync games.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F3001174E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F3001174E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F3001174E000/screen/1",
+    "http://api.nlib.cc/nx/0100F3001174E000/screen/2",
+    "http://api.nlib.cc/nx/0100F3001174E000/screen/3",
+    "http://api.nlib.cc/nx/0100F3001174E000/screen/4",
+    "http://api.nlib.cc/nx/0100F3001174E000/screen/5"
+  ],
+  "version": 0,
+  "size": 522203701
+}

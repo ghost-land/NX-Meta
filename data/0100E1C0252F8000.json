@@ -1,0 +1,18 @@
+{
+  "name": "Maestro",
+  "publisher": "Double Jack",
+  "releaseDate": "20260917",
+  "description": "Maestro is an easy-to-learn hard-to-master rhythm game that turns you into an orchestra conductor. With precise Joy-Con™ motion controls, every gesture matters. You don’t just play the music: you conduct it.\n\nExplore a curated repertoire spanning movies and gaming soundtracks, classical and jazz music bringing together the most iconic works in music History. Conduct scores from Star Wars, Game of Thrones, The Lord of the Rings, Harry Potter, and Attack on Titan and the timeless masterpieces of Beethoven, Mozart, Wagner, Vivaldi, and Duke Ellington.\n\nStep into the Parisian artistic society and discover music, culture and gastronomy where real orchestra conducting meets griping rhythm gameplay. Set the tempo, cue the instruments, guide the crescendos, and lead every performance in real time.\n\nAre you ready to become a true Maestro?\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E1C0252F8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E1C0252F8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E1C0252F8000/screen/1",
+    "http://api.nlib.cc/nx/0100E1C0252F8000/screen/2",
+    "http://api.nlib.cc/nx/0100E1C0252F8000/screen/3",
+    "http://api.nlib.cc/nx/0100E1C0252F8000/screen/4",
+    "http://api.nlib.cc/nx/0100E1C0252F8000/screen/5",
+    "http://api.nlib.cc/nx/0100E1C0252F8000/screen/6"
+  ],
+  "version": 0,
+  "size": 2872392133
+}

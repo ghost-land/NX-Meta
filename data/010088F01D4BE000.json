@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Reef Escape Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 242216499
 }

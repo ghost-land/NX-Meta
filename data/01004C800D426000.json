@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "The Sushi Spinnery Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 28384483
 }

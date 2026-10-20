@@ -1,0 +1,18 @@
+{
+  "name": "Space Parkour Obby",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20260912",
+  "description": "Play as a frog and jump through a space-themed obstacle course filled with floating platforms, jump pads, moving obstacles, and dangerous traps. Complete every level while avoiding the endless void below.\n\nFor the ultimate challenge, try Hardcore Mode. All checkpoints are disabled, so one mistake sends you back to the beginning.\n\nFeatures:\n>Play as a frog in outer space.\n>Complete challenging parkour levels.\n>Leap across floating and moving platforms.\n>Avoid traps, obstacles, and the endless void.\n>Attempt Hardcore Mode with no checkpoints.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E05029908000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E05029908000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E05029908000/screen/1",
+    "http://api.nlib.cc/nx/0100E05029908000/screen/2",
+    "http://api.nlib.cc/nx/0100E05029908000/screen/3",
+    "http://api.nlib.cc/nx/0100E05029908000/screen/4",
+    "http://api.nlib.cc/nx/0100E05029908000/screen/5",
+    "http://api.nlib.cc/nx/0100E05029908000/screen/6"
+  ],
+  "version": 0,
+  "size": 111398437
+}

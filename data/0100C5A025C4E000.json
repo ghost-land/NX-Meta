@@ -1,0 +1,18 @@
+{
+  "name": "Entrance 8 入口",
+  "publisher": "Nerd Games",
+  "releaseDate": "20260213",
+  "description": "\nTrapped in a dark corridor, every detail must be carefully observed. Only by noticing the anomalies can the path to Entrance 8 be found.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C5A025C4E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C5A025C4E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C5A025C4E000/screen/1",
+    "http://api.nlib.cc/nx/0100C5A025C4E000/screen/2",
+    "http://api.nlib.cc/nx/0100C5A025C4E000/screen/3",
+    "http://api.nlib.cc/nx/0100C5A025C4E000/screen/4",
+    "http://api.nlib.cc/nx/0100C5A025C4E000/screen/5",
+    "http://api.nlib.cc/nx/0100C5A025C4E000/screen/6"
+  ],
+  "version": 0,
+  "size": 196821804
+}

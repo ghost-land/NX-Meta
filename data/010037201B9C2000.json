@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Nova Lands Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 166471836
 }

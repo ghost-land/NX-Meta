@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Pocket Arcade Story Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 31043863
 }

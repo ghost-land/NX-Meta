@@ -1,0 +1,18 @@
+{
+  "name": "Zombie Legion",
+  "publisher": "NOSTRA GAMES",
+  "releaseDate": "20260716",
+  "description": "Command and control your own horde of zombies to defeat your opponents and become the greatest in the arenas. Collect weak humans and turn them into your weapons. The larger your undead army, the greater your chances of domination. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100763028224000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100763028224000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100763028224000/screen/1",
+    "http://api.nlib.cc/nx/0100763028224000/screen/2",
+    "http://api.nlib.cc/nx/0100763028224000/screen/3",
+    "http://api.nlib.cc/nx/0100763028224000/screen/4",
+    "http://api.nlib.cc/nx/0100763028224000/screen/5",
+    "http://api.nlib.cc/nx/0100763028224000/screen/6"
+  ],
+  "version": 0,
+  "size": 56129880
+}

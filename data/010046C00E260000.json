@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Pocket Harvest",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 28123817
 }

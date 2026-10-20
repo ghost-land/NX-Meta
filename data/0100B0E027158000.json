@@ -1,0 +1,18 @@
+{
+  "name": "My Winter Drive",
+  "publisher": "DEZVOLT GAMES",
+  "releaseDate": "20260418",
+  "description": "In My Winter Drive, every detail counts. You start with nothing but an empty chassis, and piece by piece, you’ll craft it into a fully functional vehicle. But building your car is only half the challenge — the frozen countryside is unforgiving. One wrong move, and your journey could end before it begins. Every decision matters, from managing resources to maintaining your own health, as you push forward through snow, ice, and harsh winds.\n\nKey Features\n• Assemble Your Car, Part by Part\nInstall the engine, mount the wheels, adjust the carburetor, and fine-tune every component. Precision is crucial — even a small mistake can lead to breakdowns.\n• Automotive Quests and Practical Tasks\nTake on a variety of car-related jobs, from repairs and repainting to more unexpected challenges, earning rewards and improving your skills.\n• Survival in the Winter Wilderness\nHunger, fatigue, hygiene, and stress all impact your performance. Manage your supplies wisely and find creative solutions to survive the harsh environment.\n\nStep into a world where car building meets survival. Every journey is a test of skill, patience, and resilience. Are you ready to face the winter and drive your creation to life?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B0E027158000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B0E027158000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B0E027158000/screen/1",
+    "http://api.nlib.cc/nx/0100B0E027158000/screen/2",
+    "http://api.nlib.cc/nx/0100B0E027158000/screen/3",
+    "http://api.nlib.cc/nx/0100B0E027158000/screen/4",
+    "http://api.nlib.cc/nx/0100B0E027158000/screen/5",
+    "http://api.nlib.cc/nx/0100B0E027158000/screen/6"
+  ],
+  "version": 0,
+  "size": 362542465
+}

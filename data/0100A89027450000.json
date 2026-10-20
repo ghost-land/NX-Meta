@@ -1,0 +1,18 @@
+{
+  "name": "Solitaire Legends - Fables and Fairytales",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20260521",
+  "description": "Solitaire Legends – Fables and Fairytales blends timeless Klondike Solitaire with a rich world inspired by classic fairytales and folklore.\nPlay traditional Solitaire in 1-card or 3-card draw mode, earning score and experience with every completed game. As you progress, you unlock beautifully illustrated cosmetic rewards inspired by legendary stories such as Little Red Riding Hood, Cinderella, Hansel and Gretel, Puss in Boots, Snow White, Maleficent, and many more.\nEach playing card features unique fairytale artwork — heroes, villains, magical creatures, and iconic scenes brought to life in a storybook style. Every single card can be customized individually, allowing you to mix characters and tales across your deck.\nBefore each game, you can choose your preferred visuals: enchanted forests, castle halls, moonlit villages, or dark fairytale realms as backgrounds, along with themed card backs that match your favorite stories.\nWith relaxing gameplay, no time pressure, and a constantly expanding collection, Fables and Fairytales offers hours of magical Solitaire for players who love classic cards and timeless stories alike.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A89027450000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A89027450000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A89027450000/screen/1",
+    "http://api.nlib.cc/nx/0100A89027450000/screen/2",
+    "http://api.nlib.cc/nx/0100A89027450000/screen/3",
+    "http://api.nlib.cc/nx/0100A89027450000/screen/4",
+    "http://api.nlib.cc/nx/0100A89027450000/screen/5",
+    "http://api.nlib.cc/nx/0100A89027450000/screen/6"
+  ],
+  "version": 0,
+  "size": 139017611
+}

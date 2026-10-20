@@ -1,0 +1,18 @@
+{
+  "name": "Fowl Damage",
+  "publisher": "REDDEER.GAMES",
+  "releaseDate": "20260326",
+  "description": "Fowl Damage is an atmospheric puzzle platformer where your default jump provides enough fall damage to destroy you. Carefully manage your jumps and falls as you adventure through this chilling, beautiful, and occasionally cute world!\n\nYour adventure will have you escape from the factory, splash through the riverbed, climb the giant trees of the ancient forest, slip your way through the slimy cave and hunt for secret warp zones in each area in an attempt to find a new home for your fragile friend. And all that by only using one button!\n\nKEY FEATURES: \n- Atmospheric gameplay.\n- Unique, challenging mechanics, such as ramps that convert your falls into incredible speed boosts or bubbles that can catch (or launch!) you.\n- Intense boss fights that will put your platforming and puzzle-solving skills to the test.\n- Many secrets to discover!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D28026E46000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D28026E46000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D28026E46000/screen/1",
+    "http://api.nlib.cc/nx/0100D28026E46000/screen/2",
+    "http://api.nlib.cc/nx/0100D28026E46000/screen/3",
+    "http://api.nlib.cc/nx/0100D28026E46000/screen/4",
+    "http://api.nlib.cc/nx/0100D28026E46000/screen/5",
+    "http://api.nlib.cc/nx/0100D28026E46000/screen/6"
+  ],
+  "version": 0,
+  "size": 171764144
+}

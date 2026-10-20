@@ -1,0 +1,18 @@
+{
+  "name": "PUPU's Adventure Park",
+  "publisher": "Happy Player",
+  "releaseDate": "20260924",
+  "description": "Manage an Adventure Park\n Build all kinds of facilities, such as weapon shops, general stores, and tailor shops, then assign the right Pupus to run them. The harder the heroes “adventure” in your park, the more resources you earn, allowing you to keep expanding your very own adventure park.\n\nRaise the Pupu Clan\n As your park continues to grow, you’ll need more reliable workers. Breed new Pupus through the Spring of Life, build homes for them, and make cookies and cakes to keep them fed—yes, they absolutely love sweets! Of course, you’ll also need to take care of their little moods from time to time.\n\nUnlock Facilities and Blueprints\n From basic shops to special NPCs like bards, merchants, and bounty hunters, keep unlocking blueprints to expand what your park can do. As construction goes on, you may even stumble upon the surprising story hidden behind this adventure park.\n\nPost Adventure Commissions\n Post all kinds of tasks on the commission board to attract different types of heroes. Design your tasks wisely to maximize park revenue and obtain key resources such as rare items and hero essence, which can be used to upgrade and expand your park.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BEC026C10000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BEC026C10000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BEC026C10000/screen/1",
+    "http://api.nlib.cc/nx/0100BEC026C10000/screen/2",
+    "http://api.nlib.cc/nx/0100BEC026C10000/screen/3",
+    "http://api.nlib.cc/nx/0100BEC026C10000/screen/4",
+    "http://api.nlib.cc/nx/0100BEC026C10000/screen/5",
+    "http://api.nlib.cc/nx/0100BEC026C10000/screen/6"
+  ],
+  "version": 0,
+  "size": 862155228
+}

@@ -1,7 +1,7 @@
 {
   "name": "Ragdoll Arena - Kick the body",
   "publisher": "Evgheni Carasiov",
-  "releaseDate": "20251018",
+  "releaseDate": "20251017",
   "description": "Step into Ragdoll Arena: Kick the Body – the ultimate third-person ragdoll battleground where chaos meets strategy.\nEvery fight is unpredictable: physics-driven ragdoll duels, intense gunfights, and tricky puzzles that push your reflexes and brainpower to the limit.\n\nYour mission is simple – fight through arenas, solve challenges, and survive long enough to reach the store, where new upgrades unlock the path to the next level. But don’t relax: one wrong move, one missed shot, and your floppy hero will be flying across the map.\n\nWith smooth graphics, hilarious physics, thrilling action, and clever puzzles, this is not just another ragdoll game – it’s your test of skill, timing, and pure madness.\n\nAre you ready to kick, shoot, and ragdoll your way to victory?",
   "bannerUrl": "http://api.nlib.cc/nx/01007EC025C22000/banner",
   "iconUrl": "https://api.nlib.cc/nx/01007EC025C22000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/01007EC025C22000/screen/4",
     "http://api.nlib.cc/nx/01007EC025C22000/screen/5",
     "http://api.nlib.cc/nx/01007EC025C22000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 144190071
 }

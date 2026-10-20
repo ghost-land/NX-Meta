@@ -11,5 +11,7 @@
     "http://api.nlib.cc/nx/010015A01D0B8000/screen/3",
     "http://api.nlib.cc/nx/010015A01D0B8000/screen/4",
     "http://api.nlib.cc/nx/010015A01D0B8000/screen/5"
-  ]
+  ],
+  "version": 0,
+  "size": 81695179
 }

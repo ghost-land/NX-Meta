@@ -5,5 +5,7 @@
   "description": "A free demo of Bravely Default™ II is now available!",
   "bannerUrl": "http://api.nlib.cc/nx/0100B6801137E000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100B6801137E000/icon/200",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 2433481312
 }

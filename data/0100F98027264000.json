@@ -1,0 +1,18 @@
+{
+  "name": "Akuma Rise",
+  "publisher": "KEMCO",
+  "releaseDate": "20260507",
+  "description": "Set in the demon realm of Adribune, this story-driven JRPG follows Kaine, a demon who awakens with no memories after washing ashore on a remote island. With the Overlord gone, rival nations clash and heroes from the Radiant Realm invade, seeking to dominate the Shadow Realm. Joined by three demon princesses and a strange mascot, Kaine searches for fragments of his lost past while fighting to protect a world on the brink of collapse.\n\nFeaturing classic turn-based RPG gameplay, battles play out in a side-view command system that rewards strategy and timing. Equip and grow magical orbs to learn powerful skills, unlock new abilities, and customize your party. Each character also wields unique POW skills that can turn the tide of battle when used at the right moment. With deep progression, charming companions, and nostalgic JRPG flair, this fantasy RPG delivers a satisfying experience for fans of turn-based battle games.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F98027264000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F98027264000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F98027264000/screen/1",
+    "http://api.nlib.cc/nx/0100F98027264000/screen/2",
+    "http://api.nlib.cc/nx/0100F98027264000/screen/3",
+    "http://api.nlib.cc/nx/0100F98027264000/screen/4",
+    "http://api.nlib.cc/nx/0100F98027264000/screen/5",
+    "http://api.nlib.cc/nx/0100F98027264000/screen/6"
+  ],
+  "version": 0,
+  "size": 187663875
+}

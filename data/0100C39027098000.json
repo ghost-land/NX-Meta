@@ -1,0 +1,18 @@
+{
+  "name": "Tales of Formentera",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20260904",
+  "description": "Tales of Formentera is an adventure game set on a small island inspired by the real landscapes of Formentera, where old legends shape its history. Something mysterious is happening, and the people of the island need your help to uncover the truth.\n\nExplore the island freely, visit its most iconic locations, and talk to the locals to learn about their stories, traditions, and legends. You will piece together clues that help you understand what is really going on. \n\nThroughout your journey, you will discover hidden places, solve puzzles, collect unique items, and help islanders with optional side quests. Tales of Formentera invites you to explore at your own pace and uncover the secrets of an island full of history, mystery, and charm.\n\n\nFeatures:\n* Adventure game focused on exploration and discovery\n* An open island inspired by the real locations of Formentera\n* Interact with islanders and learn about their stories and legends\n* Puzzles integrated into the environment\n* Optional side quests where you help the locals\n* Collectibles hidden throughout the island",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C39027098000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C39027098000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C39027098000/screen/1",
+    "http://api.nlib.cc/nx/0100C39027098000/screen/2",
+    "http://api.nlib.cc/nx/0100C39027098000/screen/3",
+    "http://api.nlib.cc/nx/0100C39027098000/screen/4",
+    "http://api.nlib.cc/nx/0100C39027098000/screen/5",
+    "http://api.nlib.cc/nx/0100C39027098000/screen/6"
+  ],
+  "version": 0,
+  "size": 47373417
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Minesweeper Classic",
+  "publisher": "Soroka Games",
+  "releaseDate": "20260117",
+  "description": "Minesweeper Classic brings the legendary puzzle back to life with crisp visuals, smooth controls, and the timeless gameplay millions grew up with. Tap into pure logic as you uncover tiles, dodge hidden mines, and chase that perfect clear.\n\nTake on five difficulty levels - from easy warm-ups to expert boards that will test your skills to the limit. Whether you're reliving a classic or discovering it for the first time, every round delivers quick, satisfying, and endlessly replayable fun.\n\nRediscover a true classic - simple to learn, rewarding to master, and impossible to put down.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009BB02668A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009BB02668A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009BB02668A000/screen/1",
+    "http://api.nlib.cc/nx/01009BB02668A000/screen/2",
+    "http://api.nlib.cc/nx/01009BB02668A000/screen/3",
+    "http://api.nlib.cc/nx/01009BB02668A000/screen/4",
+    "http://api.nlib.cc/nx/01009BB02668A000/screen/5"
+  ],
+  "version": 0,
+  "size": 33842161
+}

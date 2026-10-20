@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Gravity Thrust Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 24016137
 }

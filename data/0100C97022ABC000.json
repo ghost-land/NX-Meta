@@ -1,0 +1,18 @@
+{
+  "name": "The Posthumous Investigation",
+  "publisher": "CriticalLeap",
+  "releaseDate": "20260917",
+  "description": "THE CLIENT IS THE VICTIM\nMaster the Time Loop: You have one day to solve the crime. Learn the schedules of 14 unique characters, spot their contradictions, and manipulate their routines. Keep your knowledge when the day resets and stay one step ahead of the killer.\n\nMASTER THE LOOP\nNo hand-holding. Use your \"Thinking Board\" to link evidence, reconstruct the timeline, and accuse the culprit. Only pure logic will free you from the loop.\n\nLITERARY NOIR\nA Living Literary World: Experience a satirical, witty, and dark adaptation of Brazil’s legendary author, Machado de Assis. Your investigation takes you through a hand-drawn 1937 Rio de Janeiro that drips with style, sarcasm, and atmosphere. There is no single correct answer: every accusation has its logic, and the truth is yours to define.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C97022ABC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C97022ABC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C97022ABC000/screen/1",
+    "http://api.nlib.cc/nx/0100C97022ABC000/screen/2",
+    "http://api.nlib.cc/nx/0100C97022ABC000/screen/3",
+    "http://api.nlib.cc/nx/0100C97022ABC000/screen/4",
+    "http://api.nlib.cc/nx/0100C97022ABC000/screen/5",
+    "http://api.nlib.cc/nx/0100C97022ABC000/screen/6"
+  ],
+  "version": 0,
+  "size": 346666557
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Rune Dice",
+  "publisher": "Kwalee",
+  "releaseDate": "20260519",
+  "description": "\"Launch dice across enchanted battlefields where realistic physics meets ancient magic. Matching dice fuse into a more powerful one that seeks its equals, triggering devastating chain combos. Plan each throw carefully - every dice placement can trigger massive combos that wipe out entire enemy waves or set up tactical future plays. Master both precise aiming and strategic prediction to unleash the full power of mystical dice fusion.\n\nPick from 8 unique classes, each with special dice and magical abilities. Every class offers multiple heroes with different starting combinations, ensuring each adventure feels completely different. Spread deadly poison through enemy ranks as a Rogue, unleash lightning storms as a Mage, or absorb massive damage as a heavily armored Warrior. Each class opens up entirely new tactical approaches and synergies.\n\nEvery location culminates in challenging battles against bosses, each with unique abilities that will test your strategy.\n\nSome bosses summon additional minions, others manipulate the dice field, and the most dangerous can completely change combat rules. Adapt your dice collection and tactics to overcome each distinct threat.\n\nCraft a powerful combination of dice, relics, and runes that work together to define your playstyle.\n\nCollect magical dice through combat victories and shop purchases, discover game-changing relics that provide permanent enhancements, and gather tactical runes for battlefield manipulation. Visit ancient altars where you can risk your dice for upgrades, or play it safe and build your arsenal gradually. The synergy between your dice attacks, relic bonuses, and rune abilities creates devastating combinations and endless strategic possibilities.\"",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F5102672C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F5102672C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F5102672C000/screen/1",
+    "http://api.nlib.cc/nx/0100F5102672C000/screen/2",
+    "http://api.nlib.cc/nx/0100F5102672C000/screen/3",
+    "http://api.nlib.cc/nx/0100F5102672C000/screen/4",
+    "http://api.nlib.cc/nx/0100F5102672C000/screen/5",
+    "http://api.nlib.cc/nx/0100F5102672C000/screen/6"
+  ],
+  "version": 0,
+  "size": 113129156
+}

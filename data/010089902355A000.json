@@ -1,0 +1,18 @@
+{
+  "name": "KEJORA",
+  "publisher": "SOFT SOURCE",
+  "releaseDate": "20260115",
+  "description": "There’s a mystery hidden behind this peaceful village, unknown to its inhabitants, who carry on with their daily lives.\n\nKejora features hand-drawn art and animation, environmental platformer puzzles, and party-based inspired gameplay with 2 supporting characters with unique skills to help Kejora in her exploration and journey.\n\nKey Features:\n\n◆Beautiful visuals: Immerse yourself in the story, accompanied by stunning, hand-drawn landscapes, characters, and animation.\n    \n◆Party-based inspired gameplay: Kejora is accompanied by her two friends on her journey, each with their own unique abilities to help Kejora overcome obstacles and puzzles.\n  \n◆Puzzle platformer adventure: Explore various hand-drawn environments, and with the help of Kejora and her friends, discover items that can help you, solve puzzles, and defeat enemies.",
+  "bannerUrl": "http://api.nlib.cc/nx/010089902355A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010089902355A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010089902355A000/screen/1",
+    "http://api.nlib.cc/nx/010089902355A000/screen/2",
+    "http://api.nlib.cc/nx/010089902355A000/screen/3",
+    "http://api.nlib.cc/nx/010089902355A000/screen/4",
+    "http://api.nlib.cc/nx/010089902355A000/screen/5",
+    "http://api.nlib.cc/nx/010089902355A000/screen/6"
+  ],
+  "version": 0,
+  "size": 575668794
+}

@@ -1,7 +1,7 @@
 {
   "name": "猫忍えくすはーと",
   "publisher": "Sekai Games",
-  "releaseDate": "20251016",
+  "releaseDate": "20260205",
   "description": "",
   "bannerUrl": "http://api.nlib.cc/nx/0100D54024B24000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100D54024B24000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100D54024B24000/screen/4",
     "http://api.nlib.cc/nx/0100D54024B24000/screen/5",
     "http://api.nlib.cc/nx/0100D54024B24000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 542513849
 }

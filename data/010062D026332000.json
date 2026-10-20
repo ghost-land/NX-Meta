@@ -1,7 +1,7 @@
 {
-  "name": "Nitrous Fury ニトラス・フューリー",
+  "name": "Nitrous Fury",
   "publisher": "Baltoro Minis",
-  "releaseDate": "20251225",
+  "releaseDate": "20251224",
   "description": "Feel the Speed. Rule the Streets.\n\nStep into the world of high-octane drag racing, where every millisecond counts and every gear shift can decide your fate.\n\nWelcome to a vibrant metropolis bursting with neon lights, roaring engines, and pure adrenaline.\n\nTest your reflexes and precision in intense straight-line races across ¼ mile, ½ mile, or full-mile tracks — both by day and under the dazzling glow of city nights.\n\nUpgrade, tune, and customize more than 60 unique cars to dominate your rivals. Boost your engine, fine-tune your gearbox, unleash the nitro, and leave your opponents in a trail of smoke and shattered pride.\n\nShift. Launch. Win.\n\nEvery second counts. Every victory matters.\nFeel the rush of nitro, the thrill of precision, and the glory of crossing the finish line first.\n\nIt’s not just a race — it’s a lifestyle.",
   "bannerUrl": "http://api.nlib.cc/nx/010062D026332000/banner",
   "iconUrl": "https://api.nlib.cc/nx/010062D026332000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/010062D026332000/screen/4",
     "http://api.nlib.cc/nx/010062D026332000/screen/5",
     "http://api.nlib.cc/nx/010062D026332000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 242817238
 }

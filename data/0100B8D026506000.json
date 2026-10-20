@@ -2,7 +2,7 @@
   "name": "SnapCat: Mia's Cozy Adventure",
   "publisher": "REDDEER.GAMES",
   "releaseDate": "20260106",
-  "description": "Grab your camera and get ready for the cat-tastrophe of cuteness! \nNo timers, no battles, no pressure—just pure, pawsitive vibes. Your mission?\nTrack down the island’s quirky kitty residents and snap their most purr-sonality-packed poses!\n\nWander across bright, bubbly islands that feel like an endless summer vacation—but keep your eyes peeled! These fuzzy superstars love to hide, lounge, stretch, and strike suspiciously perfect poses. When they’re thirsty, drop off a cute little water bowl to keep them happy!\n\nEvery photo you take lands in your super-colorful Cat-alog Album, where you can admire your masterpieces, name your new feline friends, and relive every whisker-wiggling moment.\n\nSnap Cat:\nBright colors. Big personalities.\nCats who act like they’re the stars of their own cartoon show.\n(And honestly… they kinda are.)\n\nKEY FEATURES: \n- 17 colorful islands full of kitties \n- cozy, stress-free gameplay and feel-good atmosphere\n- relaxing music, perfect for unwinding after a long day\n- photo album with all your pictures and the option to name the cats",
+  "description": "Pack your things, we're going on a trip! We're going to visit breathtaking islands and make the most of the summer sun. But remember - the core item in your luggage is your camera!\nAside from admiring the architecture and colorful flora, we have one crucial mission - documenting the furry inhabitants of the islands. Can you find and photograph all of them? \nGrab your camera and get ready for the cat-tastrophe of cuteness! \nNo timers, no battles, no pressure—just pure, pawsitive vibes. \n\nWander across bright, bubbly islands that feel like an endless summer vacation—but keep your eyes peeled! These fuzzy superstars love to hide, lounge, stretch, and strike suspiciously perfect poses. Aside from taking pictures, you can fill their cute little water bowls to keep them happy, and, most importantly, don't forget to pet them! \n\nEvery photo you take lands in your super-colorful Cat-alog Album, where you can admire your masterpieces, name your new feline friends, and relive every whisker-wiggling moment.\n\nSnap Cat:\nBright colors. Big personalities.\nCats who act like they’re the stars of their own cartoon show.\n(And honestly… they kinda are.)\n\nKEY FEATURES: \n- 17 colorful islands full of kitties \n- cozy, stress-free gameplay and feel-good atmosphere\n- relaxing music, perfect for unwinding after a long day\n- photo album with all your pictures and the option to name the cats",
   "bannerUrl": "http://api.nlib.cc/nx/0100B8D026506000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100B8D026506000/icon/200",
   "screenshots": [
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100B8D026506000/screen/4",
     "http://api.nlib.cc/nx/0100B8D026506000/screen/5",
     "http://api.nlib.cc/nx/0100B8D026506000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 168706184
 }

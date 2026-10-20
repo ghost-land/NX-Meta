@@ -1,0 +1,18 @@
+{
+  "name": "Island Survive Simulator - Craft, Build, Grow",
+  "publisher": "STG SOFTWARE SRL",
+  "releaseDate": "20260508",
+  "description": "After a shipwreck leaves you stranded on a remote island, survival becomes your only goal. Surrounded by ocean and unknown terrain, you must quickly learn how to adapt and use the environment to your advantage. With no tools, no shelter, and limited resources, every step you take matters. You begin by gathering what you can, crafting simple items, and building a safe place to survive the day and night cycle.\n\nAs you spend more time on the island, new opportunities appear. You improve your equipment, expand your shelter, and explore deeper into different areas. Managing resources and making the right choices becomes essential as you try to stay alive and progress. What starts as a basic survival challenge gradually turns into a full experience of building, growing, and creating your own system on the island.\n\nKey Features:\n- Survival Gameplay: Adapt to the island and manage your basic needs\n- Crafting System: Create tools and useful items from gathered resources\n- Building Mechanics: Construct and improve your shelter\n- Resource Gathering: Collect materials found across the island\n- Exploration: Discover different parts of the environment\n\nIsland Survive Simulator - Craft, Build, Grow delivers a steady and engaging survival experience where progress depends on how well you build, explore, and use everything around you.\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C2502759C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C2502759C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C2502759C000/screen/1",
+    "http://api.nlib.cc/nx/0100C2502759C000/screen/2",
+    "http://api.nlib.cc/nx/0100C2502759C000/screen/3",
+    "http://api.nlib.cc/nx/0100C2502759C000/screen/4",
+    "http://api.nlib.cc/nx/0100C2502759C000/screen/5",
+    "http://api.nlib.cc/nx/0100C2502759C000/screen/6"
+  ],
+  "version": 0,
+  "size": 554498678
+}

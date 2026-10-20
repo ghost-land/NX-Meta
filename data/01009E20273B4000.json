@@ -1,0 +1,18 @@
+{
+  "name": "Doll Defenders",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20260507",
+  "description": "Doll Defenders is a tower defense action game set in the “Male Doll” multiverse where you’re tasked with protecting a sacred statue from invading monsters, all while meeting heroes and unlocking special scenes and animations on your way to the final showdown\n\nMaster a dozen weapon types or stick to the ones that fit your playstyle. Fight it out against enemy waves across 3 different worlds and 15 unique levels with 8 hunky characters to rescue!\n\n• Journey to a mysterious dimension where characters from the “Male Doll” multiverse of visual novels converge!\n• Protect a sacred statue from waves of monsters in top-down tower defense style.\n• Choose from 12 different weapon types to suit your preferred playstyle!\n• Survive 15 different levels set across 3 uniquely themed worlds.\n• Meet and rescue 8 handsome characters and win their affections!",
+  "bannerUrl": "http://api.nlib.cc/nx/01009E20273B4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009E20273B4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009E20273B4000/screen/1",
+    "http://api.nlib.cc/nx/01009E20273B4000/screen/2",
+    "http://api.nlib.cc/nx/01009E20273B4000/screen/3",
+    "http://api.nlib.cc/nx/01009E20273B4000/screen/4",
+    "http://api.nlib.cc/nx/01009E20273B4000/screen/5",
+    "http://api.nlib.cc/nx/01009E20273B4000/screen/6"
+  ],
+  "version": 0,
+  "size": 93363349
+}

@@ -1,7 +1,7 @@
 {
   "name": "READY OR DIE",
   "publisher": "STG SOFTWARE SRL",
-  "releaseDate": "20260212",
+  "releaseDate": "20260213",
   "description": "READY OR DIE drops you into situations where hesitation can be fatal and discipline is the only path to survival. As the leader of an elite tactical unit, you are sent into volatile operations where chaos, fear, and uncertainty dominate every room you enter.\n\nThis tactical first-person shooter emphasizes methodical gameplay over raw firepower. Each mission challenges you to secure hostile locations, respond to unpredictable threats, and protect innocent lives under extreme pressure. Quick thinking, clear judgment, and proper use of tactical equipment are essential to keeping control when situations spiral out of hand.\n\nYour actions are constantly evaluated. Following procedures, minimizing collateral damage, and making the right calls at the right moment will determine your mission rating and overall progression. Reckless choices may lead to success, but never without consequences.\n\nKey Features\n\n- Tactical FPS with a strong focus on realism and tension\n- High-stakes operations involving civilians, hostages, and suspects\n- Strategic room-clearing and multiple entry methods\n- Reactive AI with dynamic and unpredictable behavior\n- Performance-based ranking system influenced by your decisions\n- Semi-open environments offering different tactical approaches\n\nEvery mission is a test of professionalism.\n\nStay calm, stay precise, and remember—when the door opens, you must be READY OR DIE.\n",
   "bannerUrl": "http://api.nlib.cc/nx/0100ABE026334000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100ABE026334000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100ABE026334000/screen/4",
     "http://api.nlib.cc/nx/0100ABE026334000/screen/5",
     "http://api.nlib.cc/nx/0100ABE026334000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 1227696217
 }

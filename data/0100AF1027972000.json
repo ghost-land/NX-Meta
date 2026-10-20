@@ -1,0 +1,18 @@
+{
+  "name": "Empire Hike",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20260411",
+  "description": "Wander through marble streets, towering amphitheaters, and bustling forums as you explore a sunlit city of stone and history. Every district hides landmarks waiting to be found!\n\nEmpire Hike is all about exploration, atmosphere, and discovery — rewarding curiosity and careful observation.\n\nFeatures:\n>Vast Rome-inspired imperial city\n>Iconic landmarks and hidden locations to find\n>Calm, immersive walking simulator gameplay\n>Scenic viewpoints and secret spots",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AF1027972000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AF1027972000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AF1027972000/screen/1",
+    "http://api.nlib.cc/nx/0100AF1027972000/screen/2",
+    "http://api.nlib.cc/nx/0100AF1027972000/screen/3",
+    "http://api.nlib.cc/nx/0100AF1027972000/screen/4",
+    "http://api.nlib.cc/nx/0100AF1027972000/screen/5",
+    "http://api.nlib.cc/nx/0100AF1027972000/screen/6"
+  ],
+  "version": 0,
+  "size": 253905687
+}

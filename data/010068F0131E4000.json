@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Game Dev Tycoon",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 64113568
 }

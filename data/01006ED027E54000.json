@@ -1,0 +1,16 @@
+{
+  "name": "Paranormal Observation",
+  "publisher": "Platuro",
+  "releaseDate": "20260514",
+  "description": "Begin your new career as a paranormal investigator with the latest ghost-hunting tool: your computer. Ghost hunting has become more dangerous, so you cannot enter the building directly. Instead, you stay close to the action from your paranormal observation room in the basement. In most cases it is safe to be there, but not always.\n\nEach investigation brings a new experience. Every ghost has different behaviour that helps you identify it. Explore various difficulty levels and maps, from a fishing house to Chernobyl and even the Backrooms.\n\nYour computer is equipped with the latest paranormal observation tools: a room-specific electromagnetic field (EMF) meter, a temperature gauge, a sound meter, a laser grid, and a UV lamp to reveal things invisible under normal light.\n\nUse the exorcism module to banish the ghost once you are confident about which spirit you are dealing with. Earn additional experience points to unlock new difficulty levels.\n\nWith each completed investigation, earn money and experience to unlock upgrades, discover new maps, and take on even more challenging missions.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006ED027E54000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006ED027E54000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006ED027E54000/screen/1",
+    "http://api.nlib.cc/nx/01006ED027E54000/screen/2",
+    "http://api.nlib.cc/nx/01006ED027E54000/screen/3",
+    "http://api.nlib.cc/nx/01006ED027E54000/screen/4"
+  ],
+  "version": 0,
+  "size": 4133152959
+}

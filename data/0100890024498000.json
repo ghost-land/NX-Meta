@@ -1,0 +1,17 @@
+{
+  "name": "Monster Crown: Sin Eater",
+  "publisher": "Studio Aurum",
+  "releaseDate": "20260430",
+  "description": "Explore the beautiful, textured and detailed environments of The Crown Nation, With over a thousand unique, hand-crafted Monster sprites, and hundreds of colors to choose from, you'll find the ace Monster that's right for you! And once you've found your favorites, use Monster Crossbreeding or perform Monster Fusion to reach new heights!\n\nThe game's storyline puts you in the shoes of Asur, a young farm boy who has aspired to be a Monster Tamer his whole life, just like his big brother. When his family is put in mortal danger, he must act to set things right, and change the Crown Nation forever.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100890024498000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100890024498000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100890024498000/screen/1",
+    "http://api.nlib.cc/nx/0100890024498000/screen/2",
+    "http://api.nlib.cc/nx/0100890024498000/screen/3",
+    "http://api.nlib.cc/nx/0100890024498000/screen/4",
+    "http://api.nlib.cc/nx/0100890024498000/screen/5"
+  ],
+  "version": 0,
+  "size": 422522694
+}

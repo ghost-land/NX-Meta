@@ -5,5 +5,7 @@
   "description": "Nintendo Labo™ Toy-Con 02: Robot Kit ",
   "bannerUrl": "http://api.nlib.cc/nx/01009AB0034E0000/banner",
   "iconUrl": "https://api.nlib.cc/nx/01009AB0034E0000/icon/200",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 960491801
 }

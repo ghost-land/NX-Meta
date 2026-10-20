@@ -1,0 +1,18 @@
+{
+  "name": "The Witch's Bakery",
+  "publisher": "Silver Lining",
+  "releaseDate": "20260820",
+  "description": "The Witch's Bakery is a cozy Adventure RPG about a joyful witch who opens her bakery in modern Paris. She has one special power: she can see into people's heart and heal emotions through magic!\n\nYOUR DAILY LIFE AS A WITCH-BAKER IN PARIS!\nYou play as Lunne, who has just arrived in the city! Each day is split into three phases:\n\n- Daytime, where Lunne manages her bakery and serves clients with her team of friends.\n- Evening, where Lunne explores Paris, builds relationships, discovers the city's secrets and goes inside her friends' troubled heart.\n- Night, where Lunne rests, improves her magic, decorates her bakery and spends time in her cosy atelier.\n\nThe story progresses through the days as you earn experience, money, and fame, meet new friends and heal their heart.\n\nA COLORFUL PARIS IN A JOYFUL ADVENTURE!\nOnce your work day is done, you can visit several districts of Paris to meet with main characters, engage in activities to learn new skills, buy books for new recipes, etc.\nFrom typical streets of famous districts like Montmartre and the Grands Boulevards, to more intimate promenades known only by locals, Paris has many wonders to discover.Each district has its own characters, activities and shops!\n\nA STORY ABOUT EMOTIONS AND VULNERABILITY\nFor some people, their emotion is locked away so strongly than Lunne needs to go inside their heart to help them. She enters their \"Heart Palace\", a magical space where emotions and thoughts take shape. Lunne needs to guide the personified Emotion back to the heart. Inside the Heart Palace, Lunne discovers the person's deepest struggles and finds the key ingredient she needs to make a bread that will heal them!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BCB025968000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BCB025968000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BCB025968000/screen/1",
+    "http://api.nlib.cc/nx/0100BCB025968000/screen/2",
+    "http://api.nlib.cc/nx/0100BCB025968000/screen/3",
+    "http://api.nlib.cc/nx/0100BCB025968000/screen/4",
+    "http://api.nlib.cc/nx/0100BCB025968000/screen/5",
+    "http://api.nlib.cc/nx/0100BCB025968000/screen/6"
+  ],
+  "version": 0,
+  "size": 1841121721
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Oni Station",
+  "publisher": "404 Games",
+  "releaseDate": "20260620",
+  "description": "Wake up trapped inside a train with no memory of how you got there. Beyond the windows, endless darkness stretches across abandoned tracks while an unknown presence follows close behind. The fuel gauge keeps dropping, and every passing station may hold the supplies needed to survive — or something far worse.\n\nOni Station is a tense atmospheric horror experience set aboard a lonely moving train where fear, mystery, and survival collide. Travel through eerie stations, uncover fragments of the forgotten past, and face the constant pressure of something lurking just out of sight. The deeper you go, the more the truth begins to unravel.\n\nFeatures:\n\t•\tDark atmospheric horror inspired by psychological tension and urban legends.\n\t•\tProcedurally generated stations that create a different journey every time.\n\t•\tImmersive train setting filled with mystery, danger, and unsettling discoveries.\n\t•\tResource-focused survival where every decision matters.\n\t•\tOnline leaderboards to challenge other survivors around the world.\n\t•\tHaunting sound design and environments that keep the tension alive until the very end.\n\n\nHow long can you keep the train moving before the darkness finally catches up? Step aboard Oni Station, uncover the secrets hidden along the tracks, and survive a journey where every stop could be your last.\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EBF0278F4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EBF0278F4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EBF0278F4000/screen/1",
+    "http://api.nlib.cc/nx/0100EBF0278F4000/screen/2",
+    "http://api.nlib.cc/nx/0100EBF0278F4000/screen/3",
+    "http://api.nlib.cc/nx/0100EBF0278F4000/screen/4",
+    "http://api.nlib.cc/nx/0100EBF0278F4000/screen/5"
+  ],
+  "version": 0,
+  "size": 146220058
+}

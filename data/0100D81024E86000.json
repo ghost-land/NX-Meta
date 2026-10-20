@@ -1,5 +1,5 @@
 {
-  "name": "ぶちかませ！パンチチャンピオン",
+  "name": "Smack it! PUNCH CHAMPION",
   "publisher": "SAT-BOX",
   "releaseDate": "20251113",
   "description": "Use Joy-Con™ motion controls to throw exhilarating punches!\nThe built-in gyro sensors make every hit feel real!\n\n[Score Attack]\nHold a Joy-Con™ in each hand and follow your partner's instructions to punch!\nHit as hard as you can and climb the leaderboards!\n\n[Battle]\nFace off against CPUs in single-player mode!\nShare Joy-Con™ and go head-to-head with family and friends!\nUp to 4 players can join the action!\n\n[Partner Select]\nChoose from over 10 different partners who will block your punches!\nTeam up with your favorite character and become the ultimate champion!",
@@ -11,5 +11,7 @@
     "http://api.nlib.cc/nx/0100D81024E86000/screen/3",
     "http://api.nlib.cc/nx/0100D81024E86000/screen/4",
     "http://api.nlib.cc/nx/0100D81024E86000/screen/5"
-  ]
+  ],
+  "version": 0,
+  "size": 335535664
 }

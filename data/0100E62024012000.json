@@ -1,5 +1,5 @@
 {
-  "name": "ザンバーガラクティックマーブルブラースト",
+  "name": "Zumba - Galactic Marble Blast",
   "publisher": "EpiXR Games",
   "releaseDate": "20260312",
   "description": "Zumba – Galactic Marble Blast propels you into a vibrant sci-fi universe where you, a brave spacefrog, must fend off waves of rolling marbles—and occasionally rogue planets—before they vanish into the void. Select a star system, position your frog-powered cannon at the screen’s center, and launch colorful marbles or planets along winding orbital paths. Match three or more identical spheres to trigger spectacular explosions, pause the advance, and rack up combos for massive scores.\nEarn up to three stars on each level by clearing all spheres before they cross the event horizon. Every ten levels, you warp into a new galaxy with unique challenges: the glowing Nebula Gardens, the rocky Asteroid Belts, the swirling Quantum Vortex, and the perilous Black Hole Citadel. Each galaxy introduces new marble colors, curved gravitational paths, floating obstacles, and ever-increasing speeds—keeping the cosmic challenge fresh and exhilarating.",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100E62024012000/screen/4",
     "http://api.nlib.cc/nx/0100E62024012000/screen/5",
     "http://api.nlib.cc/nx/0100E62024012000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 184719567
 }

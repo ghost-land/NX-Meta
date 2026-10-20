@@ -1,0 +1,18 @@
+{
+  "name": "Squad Legends - Battle Royale",
+  "publisher": "St Pow Games",
+  "releaseDate": "20260905",
+  "description": "Enter a fast-paced battlefield where every encounter can turn into a fight for control. Choose your character, arm yourself, and face the opposing team across detailed urban environments filled with buildings, obstacles, and strategic positions.\n\nMove through the battlefield, track enemy movements, and use your surroundings to create opportunities. Whether you push forward aggressively or take time to find a better position, quick reactions and accurate shooting can determine the outcome of every confrontation.\n\nTake part in team-based battles where individual skill and teamwork go hand in hand. \nKeep an eye on the score, support your teammates, manage your ammunition, and adapt your approach as the battle develops.\n\nChoose the character that fits your style and return to the action after each elimination. Change your route, rethink your position, and get back into the fight to help your team turn the match around.\n\nKey Features:\n• Experience fast-paced 3D third-person combat\n• Choose from multiple playable characters\n• Battle opposing teams across urban-themed maps\n• Use buildings, obstacles, and strategic areas to your advantage\n• Manage weapons, ammunition, health, and reloads during combat\n• Track the score and work together with your teammates\n• Use the respawn system to quickly return to the battlefield\n• Rely on reflexes, accuracy, positioning, and quick decisions\n\nChoose your character, prepare for battle, and step onto the battlefield. Your next confrontation is waiting.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B6A028C72000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B6A028C72000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B6A028C72000/screen/1",
+    "http://api.nlib.cc/nx/0100B6A028C72000/screen/2",
+    "http://api.nlib.cc/nx/0100B6A028C72000/screen/3",
+    "http://api.nlib.cc/nx/0100B6A028C72000/screen/4",
+    "http://api.nlib.cc/nx/0100B6A028C72000/screen/5",
+    "http://api.nlib.cc/nx/0100B6A028C72000/screen/6"
+  ],
+  "version": 0,
+  "size": 376525812
+}

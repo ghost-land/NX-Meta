@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "My Butler",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 400793288
 }

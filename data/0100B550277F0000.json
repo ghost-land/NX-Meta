@@ -1,0 +1,18 @@
+{
+  "name": "Springbot: The Last Spark",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20260603",
+  "description": "Springbot: The Last Spark is a side-scrolling action platforming adventure. Traverse a vibrant world by running, jumping and bouncing on springy robotic legs as you try to find gems hidden in mazelike stages. Push crates to reach higher platforms, avoid spike traps, hop on the heads of roving enemies to deactivate them and touch checkpoints to safeguard your progress.\n\nThis journey will take you through forests, underground caverns, lofty cliffs and more as you collect coins and explore in colorfully cute HD style across 35 unique levels. Replay cleared stages for better times or to collect more coins, team up for co-op play or put your skills to the test in Glitch Mode!\n\n• Take the role of Springbot as the last remaining hope to restore memory to his fellow robots!\n• Enjoy retro side-scrolling adventure through colorful platforming stages.\n• Run, jump and bounce on spring-like legs as you traverse mazelike environments!\n• Avoid traps and hop on the heads of enemies as you master 35 unique levels.\n• Collect gems to power the Great Heart and bring order to a chaotic world!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B550277F0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B550277F0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B550277F0000/screen/1",
+    "http://api.nlib.cc/nx/0100B550277F0000/screen/2",
+    "http://api.nlib.cc/nx/0100B550277F0000/screen/3",
+    "http://api.nlib.cc/nx/0100B550277F0000/screen/4",
+    "http://api.nlib.cc/nx/0100B550277F0000/screen/5",
+    "http://api.nlib.cc/nx/0100B550277F0000/screen/6"
+  ],
+  "version": 0,
+  "size": 193371450
+}

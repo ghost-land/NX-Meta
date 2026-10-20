@@ -1,0 +1,17 @@
+{
+  "name": "Inversion: The Single Path",
+  "publisher": "CGI LAB GAMES",
+  "releaseDate": "20260618",
+  "description": "Enter a surreal platforming adventure where the world constantly changes around you. This is more than a journey through obstacles - it’s a challenge where the environment itself becomes part of the puzzle.\n\nUsing the power of a rotating, you’ll manipulate the world to find new paths, avoid dangers, and uncover hidden ways forward. Every level introduces fresh challenges that test your reflexes, timing, and ability to adapt to changing surroundings.\n\nCollect coins, overcome mind-bending platforming sequences, and take on intense encounters where the entire arena shifts and moves beneath your feet. Some stages demand speed and precision, while others reward careful observation and creative thinking.\n\nBlending dynamic gameplay, puzzle-solving, and fast-paced action, this adventure invites you to master a world where nothing stays still for long.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DE9027E20000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DE9027E20000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DE9027E20000/screen/1",
+    "http://api.nlib.cc/nx/0100DE9027E20000/screen/2",
+    "http://api.nlib.cc/nx/0100DE9027E20000/screen/3",
+    "http://api.nlib.cc/nx/0100DE9027E20000/screen/4",
+    "http://api.nlib.cc/nx/0100DE9027E20000/screen/5"
+  ],
+  "version": 0,
+  "size": 78740387
+}

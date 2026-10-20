@@ -1,0 +1,16 @@
+{
+  "name": "Protocol: Annihilation",
+  "publisher": "Eathrabaria",
+  "releaseDate": "20260430",
+  "description": "Protocol: Annihilation is a high-intensity sci-fi shooter where your only directive is total destruction. Take control of a powerful combat robot built for one purpose—eliminate every hostile machine in your path. Navigate through dangerous, futuristic environments filled with relentless enemy fire, shifting hazards, and increasingly complex robotic threats designed to test your reflexes and strategy.\n\nAs you progress, collect and upgrade an arsenal of devastating weapons, each offering unique ways to dismantle your enemies. Adapt your playstyle on the fly as you face diverse enemy types, from fast-moving drones to heavily armored war machines, all with distinct attack patterns and behaviors. Precision, timing, and quick decision-making are key to survival.\n\nEach level intensifies the chaos, pushing you deeper into enemy territory under the strict protocol: annihilation. Master your movement, outmaneuver overwhelming forces, and prepare for climactic encounters that demand everything you’ve learned. At the end of your mission awaits a massive, formidable final boss—an ultimate test of your firepower and skill in a battle where only one will remain.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BAC0281BC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BAC0281BC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BAC0281BC000/screen/1",
+    "http://api.nlib.cc/nx/0100BAC0281BC000/screen/2",
+    "http://api.nlib.cc/nx/0100BAC0281BC000/screen/3",
+    "http://api.nlib.cc/nx/0100BAC0281BC000/screen/4"
+  ],
+  "version": 0,
+  "size": 51868272
+}

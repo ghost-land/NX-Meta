@@ -1,0 +1,18 @@
+{
+  "name": "Néro & Sci ∫ Integral Edition",
+  "publisher": "Souris-Lab",
+  "releaseDate": "20260527",
+  "description": "Solve math-based puzzles as you jump from platform to platform in a colorful world made of numbers and geometrical shapes. Join Nero and Sci on their adventure, solo or with a friend, and travel across 4 unique worlds, designed to stimulate logical and mathematical thinking.\n\nJump, think, solve, and explore the world of Héméide\n- 36 levels across 4 distinct worlds\n- Choose between solo or local multiplayer: play as either Néro or Sci\n- Over 20 hours of gameplay with high replayability\n\nA fun workout for the brain\n- Gameplay mechanics recommended by the Institute for Research on Mathematics Education (IREM Lyon)\n- Progressive difficulty and hint system designed for players aged 13+\n- A walkthrough guide of the game's puzzle is available on our Discord server, so you don't feel stuck!",
+  "bannerUrl": "http://api.nlib.cc/nx/01007CD02773E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007CD02773E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007CD02773E000/screen/1",
+    "http://api.nlib.cc/nx/01007CD02773E000/screen/2",
+    "http://api.nlib.cc/nx/01007CD02773E000/screen/3",
+    "http://api.nlib.cc/nx/01007CD02773E000/screen/4",
+    "http://api.nlib.cc/nx/01007CD02773E000/screen/5",
+    "http://api.nlib.cc/nx/01007CD02773E000/screen/6"
+  ],
+  "version": 0,
+  "size": 1744102682
+}

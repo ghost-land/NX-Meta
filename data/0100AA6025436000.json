@@ -1,7 +1,7 @@
 {
-  "name": "BROK: The Brawl Bar 名探偵ブロクと激闘の酒場",
+  "name": "BROK: The Brawl Bar",
   "publisher": "COWCAT",
-  "releaseDate": "20251204",
+  "releaseDate": "20251202",
   "description": "Brok, a former boxer turned detective, stumbles upon an underground bar hidden deep in the Slums. Old instincts kick in, and he jumps headfirst to prove he’s still top dog! (or...gator.)\n\nSolo or with a friend in co-op, take on creative challenges inspired by \"Event matches\" of platform fighters, taken to the next level with original addictive mechanics and variety. In this gritty-yet-humorous bar, meet unforgettable characters and uncover surprises around every corner as the story unfolds.\n\n- 60+ varied challenges, with unique mechanics\n- 6 playable characters, each offering distinct abilities\n- Local co-op for up to 4 players\n- Creator mode: Build your own challenges\n- Additional modes: Survival, Versus, Support, Daily and Bonus Challenges\n- Multiple difficulty levels\n- In-game achievements to unlock\n- Text localized in 12 languages.\n\nThis game is part of the BROK the InvestiGator universe.",
   "bannerUrl": "http://api.nlib.cc/nx/0100AA6025436000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100AA6025436000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100AA6025436000/screen/4",
     "http://api.nlib.cc/nx/0100AA6025436000/screen/5",
     "http://api.nlib.cc/nx/0100AA6025436000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 1235383430
 }

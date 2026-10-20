@@ -1,0 +1,18 @@
+{
+  "name": "STEINS;GATE RE:BOOT",
+  "publisher": "MAGES.",
+  "releaseDate": "20260820",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/01008BC024FDE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008BC024FDE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008BC024FDE000/screen/1",
+    "http://api.nlib.cc/nx/01008BC024FDE000/screen/2",
+    "http://api.nlib.cc/nx/01008BC024FDE000/screen/3",
+    "http://api.nlib.cc/nx/01008BC024FDE000/screen/4",
+    "http://api.nlib.cc/nx/01008BC024FDE000/screen/5",
+    "http://api.nlib.cc/nx/01008BC024FDE000/screen/6"
+  ],
+  "version": 0,
+  "size": 6216329188
+}

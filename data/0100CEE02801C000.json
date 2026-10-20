@@ -1,0 +1,18 @@
+{
+  "name": "P.I.S. File",
+  "publisher": "STEAM STREET",
+  "releaseDate": "20260618",
+  "description": "About the Story\nAfter humanity disappeared from Earth, the robots at the Earth Post Office continue to operate. The postwoman from the Heaven Post Office was shot down, scattering letters everywhere. Although she eventually retrieved the letters, she still needs to evade the scrutiny of the Earth Post Office… Solve puzzle to help the protagonist escape her predicament. There is no text in the game.\n\nGame Features\n1. Original Music\n2. Drawn on paper with pencil\n3. Short games, approximately half an hour long\n4. Three Endings\n\nAuthor's Note\nHello everyone, I'm HAIM. This game is once again my own, encompassing the art, music, script, and programming. With the goal of ensuring that people around the world can enjoy this game regardless of language barriers, I deliberately challenged myself to create a text-free game, relying solely on visuals to help players understand the story and levels. This proved difficult, and it prolonged the development cycle. During this time, I also came up with more ideas, ultimately creating three endings (good, normal, and bad), giving the story greater depth.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CEE02801C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CEE02801C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CEE02801C000/screen/1",
+    "http://api.nlib.cc/nx/0100CEE02801C000/screen/2",
+    "http://api.nlib.cc/nx/0100CEE02801C000/screen/3",
+    "http://api.nlib.cc/nx/0100CEE02801C000/screen/4",
+    "http://api.nlib.cc/nx/0100CEE02801C000/screen/5",
+    "http://api.nlib.cc/nx/0100CEE02801C000/screen/6"
+  ],
+  "version": 0,
+  "size": 222071898
+}

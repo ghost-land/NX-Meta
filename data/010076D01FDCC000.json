@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Some Some Convenience Store Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 865162476
 }

@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Adventures of Ben Rabbit Run Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 645205662
 }

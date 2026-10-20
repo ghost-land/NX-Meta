@@ -1,5 +1,5 @@
 {
-  "name": "グリードランド",
+  "name": "Greedland",
   "publisher": "Gamersky Games",
   "releaseDate": "20260305",
   "description": "By using the unreal engine 5, your journey of conquest will be more than ordinary. You will fully experience and immerse yourself in the violent beauty of blood and fire.\n\nHordes of monsters crash down on you, exploding into crimson mist with every shot. Missiles rain, cannons roar, and lasers paint the sky! Unleash extreme firepower to incinerate every enemy in your path. Millions of monstrosities across dozens of levels eye you hungrily. Retreat? Never! Blast right through them! Forge your throne of victory with blood and fire! Powered by Unreal Engine 5, the stunning visual fidelity delivers a symphony of gunfire and an unforgettable feast for your eyes.\n\nSurrounded by monsters? Running low on ammo? Your Titan Mechas are always on standby, ready to deploy. With a brutal aesthetic and overwhelming firepower, they'll crush everything in their path. Bosses or elite foes? They're just minor speed bumps on your rampage. The collision of steel and flesh is always exhilarating! Auxiliary gear combined with mech upgrades transforms you into a mobile meat grinder, making the monsters remember the terror of humanity's wrath!\n\nWelcome to the Armory, warrior! Here, your firepower will undergo radical evolution! Each Power Armor boasts unique upgrades—there's always one to suit your playstyle. A vast arsenal of chips will supercharge your combat, combining with over 300 upgrades to maximize the adrenaline rush of every encounter. Mix and match diverse auxiliary equipment to create unique experiences each run, and even synthesize ultimate gear to utterly dominate the battlefield!",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100963024A40000/screen/4",
     "http://api.nlib.cc/nx/0100963024A40000/screen/5",
     "http://api.nlib.cc/nx/0100963024A40000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 443556655
 }

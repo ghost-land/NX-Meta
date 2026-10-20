@@ -1,0 +1,17 @@
+{
+  "name": "Take Me To The Dungeon!!",
+  "publisher": "Mango Council",
+  "releaseDate": "20260716",
+  "description": "Explore the depths of this massive dungeon with your adorable companion Una in this exciting  ROGUE-like deck-building adventure!\nGame feature:\n• Dynamic Dungeon Layout\nFight through randomly-generated monster-filled dungeons and encounter merchants, treasures and story events. You can only see three levels down, so choose wisely as you push deeper into the dungeon.\n\n• Titillating Card Battles\nBuild the most powerful deck out of over 50 different cards and 20 different runes and use it to overwhelm your enemies! \n\n• Random Treasure\nObtain random treasures to upgrade Una's abilities. Put together the strongest combination and synergize it with your deck to deal ungodly amounts of damage!\n\n• An Exciting Story with Multiple Endings\nMake choices and experience different endings in this exciting adventure story! Unlock different side stories to trigger various card enchantments. Some enchantments might come in handy, while others might hurt you!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A69025238000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A69025238000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A69025238000/screen/1",
+    "http://api.nlib.cc/nx/0100A69025238000/screen/2",
+    "http://api.nlib.cc/nx/0100A69025238000/screen/3",
+    "http://api.nlib.cc/nx/0100A69025238000/screen/4",
+    "http://api.nlib.cc/nx/0100A69025238000/screen/5"
+  ],
+  "version": 0,
+  "size": 1052615780
+}

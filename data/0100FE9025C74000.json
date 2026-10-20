@@ -1,0 +1,18 @@
+{
+  "name": "Sora - Songs of the Stone",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20260604",
+  "description": "Begin a majestic journey across vast deserts, towering mountains, and forgotten stone temples. As a vibrant parrot, you glide through sunlit canyons, silent ruins, and sweeping plateaus while staying close to your flock on a long and meaningful migration.\nEach handcrafted level guides your flight with 40–60 airy markers drifting between ridges, arches, cliffs, and ancient structures. Wind boosts offer bursts of speed to help you keep pace, while the open landscapes invite you to explore and take in the quiet beauty of the world around you.\nThe experience stays peaceful throughout—there are no enemies, no dangers, only the challenge of maintaining your rhythm as you navigate through stone corridors and across glowing desert skies. If you collide with anything, you gently return to the last marker and continue your serene flight.\nEvery flock behaves a little differently, making each run feel unique. Some birds glide swiftly through the canyons, while others move with a slower, more deliberate grace. Whether you’re carving through the air above sand dunes or drifting past ancient monoliths, each moment offers a soothing balance of calm exploration and light challenge.\nLet the stone sing beneath your wings as you soar from landmark to landmark, discovering the stories etched into every cliff and ruin along your path.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FE9025C74000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FE9025C74000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FE9025C74000/screen/1",
+    "http://api.nlib.cc/nx/0100FE9025C74000/screen/2",
+    "http://api.nlib.cc/nx/0100FE9025C74000/screen/3",
+    "http://api.nlib.cc/nx/0100FE9025C74000/screen/4",
+    "http://api.nlib.cc/nx/0100FE9025C74000/screen/5",
+    "http://api.nlib.cc/nx/0100FE9025C74000/screen/6"
+  ],
+  "version": 0,
+  "size": 1033934810
+}

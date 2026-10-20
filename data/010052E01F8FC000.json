@@ -1,7 +1,7 @@
 {
-  "name": "バン！バン！バンディッツ",
-  "publisher": "日本コロムビア",
-  "releaseDate": "20241128",
+  "name": "BANG! BANG! BANDITS",
+  "publisher": "NIPPON COLUMBIA",
+  "releaseDate": "20260319",
   "description": "BANG! BANG! BANDITS is an all new, original shooting game. It adopts simple rules and controls while maintaining the tension and exhilaration of the classic genre of gun shooting games. This means that it can be enjoyed by a wide range of people, from children to adults. It features colorful, adorable characters and an easy-to-understand world.\n\n■Intuitive controls that require zero explanation! Anyone can play immediately!\nSimple controls: just hold the Joy-Con™ in one hand as a handgun and aim and shoot at the enemies on the screen!!\nAutomatically move around the field, aim and shoot at all the enemies that appear, and collect lots and lots of coins!\nThere is no bullet limit, so you can fire as much as you want!\nThere's nothing to it, just shoot away!\n\n■12 types of stages x 2 leagues, for a lot of fun to be had!\nThe Normal League, where the battles take place, has 12 stages with different characteristics, including jungles, urban areas, ruins, and caves.\nOnce you've conquered all the stages in the Normal League, you can challenge the Wild League, which is the most difficult mode available!\n\n■Unique enemy characters run amok all over the screen!\nDefeat the Goomin that attack you one after another, and defeat the evil boss waiting at the end of the stage!\n\n■Enjoy 2 different ways to play: Challenge Mode and Battle Mode!\nStart with low-class stages in Challenge Mode and then conquer the most difficult stages.\nYou can play alone or in a team of 2 to 4 people! If each player has a Joy-Con, you can enjoy competitive play, such as single battles (individual battles) where 2-4 players compete for the highest score, or team battles where 2 teams of 2 players compete for the highest score!\n",
   "bannerUrl": "http://api.nlib.cc/nx/010052E01F8FC000/banner",
   "iconUrl": "https://api.nlib.cc/nx/010052E01F8FC000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/010052E01F8FC000/screen/4",
     "http://api.nlib.cc/nx/010052E01F8FC000/screen/5",
     "http://api.nlib.cc/nx/010052E01F8FC000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 3992977408
 }

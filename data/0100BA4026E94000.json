@@ -1,0 +1,18 @@
+{
+  "name": "Castlevania: Belmont's Curse",
+  "publisher": "KONAMI",
+  "releaseDate": "20261015",
+  "description": "Medieval Paris, Where the Tolling Bells Herald the End\n1499. Paris is engulfed in flames as monstrous creatures suddenly emerge from the shadows.\nTrevor Belmont, the hero who defeated Dracula, ventures into the burning streets with his daughter, Rose Belmont. Armed with the legendary holy whip, the Vampire Killer, they hunt down the beasts bleeding from the looming castle.\n\nRose is soon swept up in the dark conspiracy that lurks beneath. Will she succeed in saving Paris from devastation?\n\nSatisfying Whip Action\nCastlevania's iconic whip action is more satisfying than ever!\nCrack your whip to move around freely like a trapeze artist!\nMaster the whip mechanics and be creative to pounce on your prey like a wolf in fast-paced combat!\n\nDiverse Bosses and the Arcana System\nFace-off against legendary bosses including Death, Medusa and Carmilla in addition to enigmatic new bosses such as Joan of Arc.\nOnce defeated, bosses are sealed into Rose's tarot cards, turning them into Arcana - use their skills to cast spells and obtain unique special actions\n\nCustomize Your Battle Style with Weapons and Relics\nCustomize Rose’s battle style by using a variety of equipment, including weapons spanning seven distinct categories and Relics that trigger powerful effects through both offense and defense.\nCombine equipment you discover through exploration to create your own playstyle!\n\nIconic Castlevania Atmosphere, Reimagined in New Stages\nFrom iconic Gothic aesthetics to vivid, refined visuals, the game presents a fresh take on the world of Castlevania.\nExplore maps filled with both new features and familiar elements inspired by classic Castlevania titles.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BA4026E94000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BA4026E94000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BA4026E94000/screen/1",
+    "http://api.nlib.cc/nx/0100BA4026E94000/screen/2",
+    "http://api.nlib.cc/nx/0100BA4026E94000/screen/3",
+    "http://api.nlib.cc/nx/0100BA4026E94000/screen/4",
+    "http://api.nlib.cc/nx/0100BA4026E94000/screen/5",
+    "http://api.nlib.cc/nx/0100BA4026E94000/screen/6"
+  ],
+  "version": 65536,
+  "size": 560321310
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Samurai Obby",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20260410",
+  "description": "Take on one long, continuous obby set in a Japanese samurai world, filled with deadly platforms, precise jumps, and skill-based obstacles. Littered with checkpoints to keep you progressing — pure parkour as you make your way along the warrior’s path.\n\nFeatures:\n\nOne long samurai-themed obby\nSkill-based parkour gameplay\nTricky jumps and challenging obstacles\nJapanese-inspired environments and visuals\nCheckpoints throughout the course\nDesigned for players who enjoy classic obbies",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C88027956000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C88027956000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C88027956000/screen/1",
+    "http://api.nlib.cc/nx/0100C88027956000/screen/2",
+    "http://api.nlib.cc/nx/0100C88027956000/screen/3",
+    "http://api.nlib.cc/nx/0100C88027956000/screen/4",
+    "http://api.nlib.cc/nx/0100C88027956000/screen/5",
+    "http://api.nlib.cc/nx/0100C88027956000/screen/6"
+  ],
+  "version": 0,
+  "size": 144454614
+}

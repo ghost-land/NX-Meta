@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Paint Ball - Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 101680233
 }

@@ -1,0 +1,18 @@
+{
+  "name": "Papercraft Tactics",
+  "publisher": "AGE Zero",
+  "releaseDate": "20260724",
+  "description": "Arrange, rotate, and link weapons, potions, and magical wands on a grid to align inputs and outputs. When a turn starts, your backpack comes alive: links fire, effects cascade, and your custom combos automatically fill the action queue. Draft new items, manage deep elemental resistances, and nudge the battlefield with tactical card plays in a charming, cozy paper-theater world.\n\nKey Features\nThe Living Backpack: Your inventory is your build. Rotate and position items to connect green inputs and yellow outputs, forging automated synergies.\n\nChain-Reaction Combat: At the start of your turn, linked items trigger sequentially to execute actions (Attack, Block, InflictEffect) without hidden rules.\n\nTactical Card Play: Don't just watch. Play clutch, limited-use cards mid-turn to manipulate the queue—double a hit, purge a debuff, or force an instant trigger.\n\nDraft & Adapt: Build around distinct hero passives and draft unique scaling or mimic items to counter shifting enemy resistance profiles.\n\nPaper-Theater Aesthetic: Lose yourself in a warm, handmade world featuring hand-drawn cut-out characters and cozy stage lighting.",
+  "bannerUrl": "http://api.nlib.cc/nx/010077F02877A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010077F02877A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010077F02877A000/screen/1",
+    "http://api.nlib.cc/nx/010077F02877A000/screen/2",
+    "http://api.nlib.cc/nx/010077F02877A000/screen/3",
+    "http://api.nlib.cc/nx/010077F02877A000/screen/4",
+    "http://api.nlib.cc/nx/010077F02877A000/screen/5",
+    "http://api.nlib.cc/nx/010077F02877A000/screen/6"
+  ],
+  "version": 0,
+  "size": 502413548
+}

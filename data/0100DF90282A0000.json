@@ -1,0 +1,18 @@
+{
+  "name": "Lamp Clicker",
+  "publisher": "SOURCE BYTE",
+  "releaseDate": "20260812",
+  "description": "Lamp Clicker is a simple and addictive incremental / idle clicker game\nwhere your goal is to build your own… lamp empire.\n\nYou click the lamp. \nThe lamp starts to glow. \nYour earnings increase. \nYou feel satisfaction.\n\nYou can unlock new lamps — from ordinary candles and oil lamps… to increasingly bizarre creations you’d rather not question (yes, we’re looking at you, Toilet Lamp).\n\nYou start to wonder… does this make any sense? You keep clicking…",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DF90282A0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DF90282A0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DF90282A0000/screen/1",
+    "http://api.nlib.cc/nx/0100DF90282A0000/screen/2",
+    "http://api.nlib.cc/nx/0100DF90282A0000/screen/3",
+    "http://api.nlib.cc/nx/0100DF90282A0000/screen/4",
+    "http://api.nlib.cc/nx/0100DF90282A0000/screen/5",
+    "http://api.nlib.cc/nx/0100DF90282A0000/screen/6"
+  ],
+  "version": 0,
+  "size": 105155747
+}

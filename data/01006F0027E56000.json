@@ -1,0 +1,18 @@
+{
+  "name": "Akita: Legends Squad",
+  "publisher": "UMURO",
+  "releaseDate": "20260507",
+  "description": "Take the leap into a gravity-defying action adventure! Akita: Legends Squad brings the classic thrill of the 3D platformer genre to the Nintendo Switch™ with modern, high-speed movement mechanics and stunning environments.\n\nTake control of Akita, a brave hero equipped with high-tech thrusters, and navigate through a series of challenging floating islands. From freezing snow-capped peaks and mysterious ancient ruins to futuristic cloud cities, every world offers a unique visual spectacle and a fresh set of deadly obstacles. Master the art of mid-air hovering, dodge giant rolling boulders, maneuver through massive spinning gears, and solve intricate platforming puzzles.\n\nKey Features:\n\nDynamic Jetpack Platforming: Leap across massive gaps, hover over dangerous traps, and master precise mid-air controls to survive the sky-high courses.\n\nDiverse 3D Worlds: Journey through beautifully crafted environments, each packed with unique physics-based challenges and platforming mechanics.\n\nChallenging Obstacle Courses: Test your reflexes against spike traps, moving platforms, powerful wind currents, and intricate level designs that will push your skills to the limit.\n\nCollect and Conquer: Gather hidden coins, find secret gems, and complete levels with perfect timing to prove your worth.\n\nPerfect for All Players: A family-friendly adventure that offers accessible fun for beginners and tight, skill-based challenges for hardcore platforming fans.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006F0027E56000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006F0027E56000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006F0027E56000/screen/1",
+    "http://api.nlib.cc/nx/01006F0027E56000/screen/2",
+    "http://api.nlib.cc/nx/01006F0027E56000/screen/3",
+    "http://api.nlib.cc/nx/01006F0027E56000/screen/4",
+    "http://api.nlib.cc/nx/01006F0027E56000/screen/5",
+    "http://api.nlib.cc/nx/01006F0027E56000/screen/6"
+  ],
+  "version": 0,
+  "size": 257489025
+}

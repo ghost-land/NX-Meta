@@ -1,0 +1,18 @@
+{
+  "name": "Turnip Mountain",
+  "publisher": "JanduSoft",
+  "releaseDate": "20260730",
+  "description": "Turnip Mountain is a physics-based climbing adventure built around a unique control system: each hand is controlled independently. Enjoy a natural and satisfying climbing experience. Master your momentum as you grip walls, swing from ropes, launch yourself across gaps and discover your own route to the summit. Every move depends on your skill, making every successful climb its own reward. \n\nKey Features\n    \n- A truly unique control system: Control hands independently.\n- Physics-based climbing: Grab, swing, push and build momentum to overcome obstacles and reach new heights.\n- Local co-op mode: Share the challenge with a friend, with each player controlling just one arm.\n- Multiple paths to the summit: Experiment with different routes, discover shortcuts and find your own way up the mountain for greater replayability.\n- Unlock cosmetic items: Collect colour palettes to completely change the visual appearance of your climber. Or collect coins to don some fancy headwear!\n- Bop to the top with a pitch-perfect soundtrack by Isabelle Chiming",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CDF02813A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CDF02813A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CDF02813A000/screen/1",
+    "http://api.nlib.cc/nx/0100CDF02813A000/screen/2",
+    "http://api.nlib.cc/nx/0100CDF02813A000/screen/3",
+    "http://api.nlib.cc/nx/0100CDF02813A000/screen/4",
+    "http://api.nlib.cc/nx/0100CDF02813A000/screen/5",
+    "http://api.nlib.cc/nx/0100CDF02813A000/screen/6"
+  ],
+  "version": 0,
+  "size": 98973322
+}

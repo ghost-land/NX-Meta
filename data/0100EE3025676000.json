@@ -1,5 +1,5 @@
 {
-  "name": "Jacob Jazz´s タマリンドのおかしなディナー",
+  "name": "Tamarindos Freaking Dinner",
   "publisher": "Celery Emblem",
   "releaseDate": "20251211",
   "description": "Mascot Horror in a 90´s escape room! deliver your pizza order to Tagomago´s Mansion, but be careful, dinner is not the pizza..its YOU! escape from this haunted house and his 7 cannibalish inhabitants in a time loop with more than 25 endings!\n\nThe sequel to BAOBABS MAUSOLEUM and the second game on Jacob Jazz´s TREELOGY!",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100EE3025676000/screen/4",
     "http://api.nlib.cc/nx/0100EE3025676000/screen/5",
     "http://api.nlib.cc/nx/0100EE3025676000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 612256976
 }

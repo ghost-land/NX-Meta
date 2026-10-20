@@ -1,7 +1,7 @@
 {
-  "name": "Formula Racing Pro 2026 フォーミュラレーシング・プロ2026",
+  "name": "Formula Racing Pro 2026",
   "publisher": "Baltoro Minis",
-  "releaseDate": "20251218",
+  "releaseDate": "20251225",
   "description": "Push Beyond Limits – Rule the Race!\n\nGet ready for the next generation of speed in Formula Racing Pro 2026! Experience the ultimate adrenaline rush as you take on faster cars, smarter rivals, and brand-new circuits inspired by the world’s most iconic tracks.\n\nWith enhanced graphics, improved physics, and dynamic weather, every lap feels more real than ever. Master your racing line, react to changing track conditions, and fight for the top spot in intense head-to-head battles.\n\nWhether you’re a seasoned pro or just starting out, Formula Racing Pro 2026 delivers pure racing excitement — accessible, fast, and endlessly thrilling!\n\nTune your car, chase the podium, and prove you’re the fastest driver on the grid. The future of racing starts now!\n",
   "bannerUrl": "http://api.nlib.cc/nx/0100213025EB4000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100213025EB4000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100213025EB4000/screen/4",
     "http://api.nlib.cc/nx/0100213025EB4000/screen/5",
     "http://api.nlib.cc/nx/0100213025EB4000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 407534779
 }

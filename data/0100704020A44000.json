@@ -1,6 +1,6 @@
 {
-  "name": "アーケードアーカイブス アウトフォクシーズ",
-  "publisher": "ハムスター",
+  "name": "Arcade Archives THE OUTFOXIES",
+  "publisher": "HAMSTER",
   "releaseDate": "20251218",
   "description": "\"THE OUTFOXIES\" is an action game released by NAMCO LIMITED (current Bandai Namco Entertainment Inc.) in 1995.\nYou select one of the world’s top assassins as your protagonist, and under the orders  of a mysterious billionaire, your mission is to eliminate all the others.\nWhether for the reward, for pride, or simply for the thrill of combat…\nA  no-rules showdown among the world’s  most dangerous professionals is about to begin!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpieces that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
   "bannerUrl": "http://api.nlib.cc/nx/0100704020A44000/banner",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100704020A44000/screen/4",
     "http://api.nlib.cc/nx/0100704020A44000/screen/5",
     "http://api.nlib.cc/nx/0100704020A44000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 121259917
 }

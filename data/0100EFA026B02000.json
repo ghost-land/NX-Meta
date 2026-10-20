@@ -1,0 +1,18 @@
+{
+  "name": "SwooshCat",
+  "publisher": "pixelforeststudio",
+  "releaseDate": "20260409",
+  "description": "SwooshCat – A precision platformer starring an adorable feline! Master simple jumps and dashes to embark on a challenging yet delightful adventure. \n\nSlash, Parry, Break, Dodge – Your dash isn't just movement: it's a combat blade and puzzle key!\n\nExplore lush jungles and scorching deserts, each meticulously packed with deadly traps and cunning mechanisms to challenge your skills and strategy!\n\nTurn foes into stepping stones – Chain kills, parries, and dashes to bounce off corpses and bullets, resetting mobility to reach \"impossible\" corners!\n\nEasy to learn, deep to master: Newbies leap right in; speedrunners face brutal challenges!\n\nButtery controls + Rich level design = An unmissable catventure! ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EFA026B02000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EFA026B02000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EFA026B02000/screen/1",
+    "http://api.nlib.cc/nx/0100EFA026B02000/screen/2",
+    "http://api.nlib.cc/nx/0100EFA026B02000/screen/3",
+    "http://api.nlib.cc/nx/0100EFA026B02000/screen/4",
+    "http://api.nlib.cc/nx/0100EFA026B02000/screen/5",
+    "http://api.nlib.cc/nx/0100EFA026B02000/screen/6"
+  ],
+  "version": 0,
+  "size": 57924638
+}

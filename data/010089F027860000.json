@@ -1,0 +1,18 @@
+{
+  "name": "Counter Call - Half Escape Shooter",
+  "publisher": "St Pow Games",
+  "releaseDate": "20260602",
+  "description": "Counter Call - Half Escape Shooter Enter a high-intensity first-person shooter built for nonstop action and fast decision-making. Every mission throws you straight into combat, where quick reflexes, precision aiming, and smart positioning are the only way to survive. Fight through waves of enemies across compact, action-driven maps designed to keep you constantly engaged. \n\nThere’s no downtime — every route leads to new encounters, pushing you to stay alert and react instantly to threats coming from all directions. Adapt your playstyle to each situation. Choose the right weapon, switch tactics on the fly, and handle both close-range aggression and controlled, long-distance combat. Success depends on how well you read the battlefield and respond under pressure. Enjoy smooth controls and responsive mechanics that make movement, aiming, and shooting feel sharp and satisfying. Every encounter is direct, intense, and rewarding for players who think fast and act faster. \n\nKey Features: \n\t•\tFast-paced FPS gameplay with continuous action \n\t•\tWave-based enemy encounters\n\t•\tCompact maps designed for constant engagement\n\t•\tFlexible combat styles: aggressive or tactical \n\t•\tSmooth controls and responsive shooting mechanics \n\t•\tIncreasing challenge that tests reflexes and precision\nStep into the zone. Eliminate the threat. Win.",
+  "bannerUrl": "http://api.nlib.cc/nx/010089F027860000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010089F027860000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010089F027860000/screen/1",
+    "http://api.nlib.cc/nx/010089F027860000/screen/2",
+    "http://api.nlib.cc/nx/010089F027860000/screen/3",
+    "http://api.nlib.cc/nx/010089F027860000/screen/4",
+    "http://api.nlib.cc/nx/010089F027860000/screen/5",
+    "http://api.nlib.cc/nx/010089F027860000/screen/6"
+  ],
+  "version": 0,
+  "size": 1497731578
+}

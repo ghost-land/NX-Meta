@@ -1,0 +1,17 @@
+{
+  "name": "Drift & Stunt Mania",
+  "publisher": "RandomSpin Games",
+  "releaseDate": "20260507",
+  "description": "Drift & Stunt Mania is your ultimate playground on wheels. Take the wheel of powerful muscle cars and lose yourself in a hand-crafted open world — from rolling British countryside roads to muddy off-road trails and bustling city streets packed with secrets to uncover.\n\nBefore you hit the road, hit the garage. Tweak the engine, tune the suspension, swap the tires, slap on a fresh coat of paint — your car is yours to build from the ground up. Every adjustment you make, you feel on the road. The handling is raw, responsive, and deeply satisfying.\n\nOut in the world, there are no rules. Chain massive drifts through hairpin turns, launch off ramps, pull off insane stunts, and leave tire marks across every surface you can find. The world is wide open and every corner hides a new opportunity to go faster, fly higher, and look cooler doing it.\n\nThe detail is what sets this apart. The light catching the mud on your hood. The way the chassis shakes over rough terrain. The growl of a tuned engine hitting full throttle on an empty road. Drift & Stunt Mania doesn't just look good — it feels alive.\n\nOne car. One world. Your rules.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DEF027AEE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DEF027AEE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DEF027AEE000/screen/1",
+    "http://api.nlib.cc/nx/0100DEF027AEE000/screen/2",
+    "http://api.nlib.cc/nx/0100DEF027AEE000/screen/3",
+    "http://api.nlib.cc/nx/0100DEF027AEE000/screen/4",
+    "http://api.nlib.cc/nx/0100DEF027AEE000/screen/5"
+  ],
+  "version": 0,
+  "size": 148161299
+}

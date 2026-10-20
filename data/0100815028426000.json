@@ -1,0 +1,17 @@
+{
+  "name": "BARDA: Backpack Roguelike",
+  "publisher": "Mudita Games",
+  "releaseDate": "20260717",
+  "description": "In our innovative inventory system, every problem directly affects your backpack. Hunger, fatigue, madness. These are just some of the things that can happen during a run. How can you keep your bag tidy in those conditions?\n\nSimply drag and drop the best object you have on a challenge to complete it and move on to the next zone. If you don't have anything suitable, you can always use your own two hands and a dash of courage!\n\nWill you be able to scatter your grandfather’s ashes at the summit of the Mountain?\n\nComplete missions to unlock options in the Explorer's Tree and keep trying to reach the summit of the Mountain until you manage to scatter your deceased grandfather's ashes there.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100815028426000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100815028426000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100815028426000/screen/1",
+    "http://api.nlib.cc/nx/0100815028426000/screen/2",
+    "http://api.nlib.cc/nx/0100815028426000/screen/3",
+    "http://api.nlib.cc/nx/0100815028426000/screen/4",
+    "http://api.nlib.cc/nx/0100815028426000/screen/5"
+  ],
+  "version": 0,
+  "size": 185558219
+}

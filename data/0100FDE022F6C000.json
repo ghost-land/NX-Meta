@@ -1,7 +1,7 @@
 {
-  "name": "武士",
+  "name": "Samu",
   "publisher": "GAME NACIONAL",
-  "releaseDate": "20250502",
+  "releaseDate": "20251213",
   "description": "Engage in intense, strategic duels against powerful bosses — each encounter demands skill, timing, and careful planning to overcome your enemies.\nSharpen your reflexes, master counterattacks against each boss’s unique abilities, and conquer brutal challenges where precision determines the thin line between defeat and victory.\n\nKey Features:\n\nHigh-quality pixel art style: detailed retro visuals with striking atmosphere.\n\nImmersive setting: transporting players to the age of the samurai in feudal Japan.\n\nPrecise and responsive gameplay: smooth controls ensure fair and fast-paced combat.\n\nSkill-based progression: refine your technique and rise to become a true master.",
   "bannerUrl": "http://api.nlib.cc/nx/0100FDE022F6C000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100FDE022F6C000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100FDE022F6C000/screen/4",
     "http://api.nlib.cc/nx/0100FDE022F6C000/screen/5",
     "http://api.nlib.cc/nx/0100FDE022F6C000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 44807589
 }

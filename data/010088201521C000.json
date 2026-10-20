@@ -1,0 +1,18 @@
+{
+  "name": "Lost Islands",
+  "publisher": "Glitch Studio",
+  "releaseDate": "20260517",
+  "description": "You don’t remember how you got to this islands, but now you’re stranded in the wild.\nSurviving here will be no simple task.\nFirst you’ll need to find food, craft some primitive tools, and build a shelter. Think you have what it takes?\nYour survival adventure is about to begin… In order to survive and escape the deserted lost islands, the hero will have to explore desert islands and dungeons, become a forager expert and gather items, craft multiple new ones and fight monsters in this fantasy adventure.",
+  "bannerUrl": "http://api.nlib.cc/nx/010088201521C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010088201521C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010088201521C000/screen/1",
+    "http://api.nlib.cc/nx/010088201521C000/screen/2",
+    "http://api.nlib.cc/nx/010088201521C000/screen/3",
+    "http://api.nlib.cc/nx/010088201521C000/screen/4",
+    "http://api.nlib.cc/nx/010088201521C000/screen/5",
+    "http://api.nlib.cc/nx/010088201521C000/screen/6"
+  ],
+  "version": 0,
+  "size": 1510202080
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Eternal Exodus",
+  "publisher": "Fordesoft",
+  "releaseDate": "20260514",
+  "description": "GAMEPLAY\n\n- Catch demons and train them for battle.\n- Fuse them together into more powerful species.\n- Craft weapons and armor that teach new spells and passive abilities to them.\n- Earn extra turns in combat by exploiting enemies' weaknesses.\n- Explore a massive world full of rewarding sidequests, minigames, and puzzles.\n\nSTORY\n\nThe afterlife isn't what you expected. Sure, you can live forever here, but only if you stay in the good graces of those in power. And it's looking like you won't.\n\nLuckily, you have a Subjugator: a forbidden wrist-worn device that allows you to summon demons.\n\nWhat begins as a simple revolt against the afterlife's governing force, The Crown, quickly spirals into something much, much greater.\n\nInspired by a wide range of philosophical and mystical texts, Eternal Exodus takes you on a unique journey to uncover the metaphysical secrets of the universe and tear open the fabric of reality.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100CCD0139CA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CCD0139CA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CCD0139CA000/screen/1",
+    "http://api.nlib.cc/nx/0100CCD0139CA000/screen/2",
+    "http://api.nlib.cc/nx/0100CCD0139CA000/screen/3",
+    "http://api.nlib.cc/nx/0100CCD0139CA000/screen/4",
+    "http://api.nlib.cc/nx/0100CCD0139CA000/screen/5",
+    "http://api.nlib.cc/nx/0100CCD0139CA000/screen/6"
+  ],
+  "version": 0,
+  "size": 891428072
+}

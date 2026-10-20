@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Out of Line Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 501478985
 }

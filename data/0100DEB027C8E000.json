@@ -1,0 +1,18 @@
+{
+  "name": "Wild West Survivors",
+  "publisher": "CGI GERMANY DESIGN",
+  "releaseDate": "20260717",
+  "description": "In a world where the undead have consumed the frontier, survival is the only law left. Step into the boots of a fearless bounty hunter and fight through waves of zombies across cursed towns, abandoned mines, and forgotten wilderness. Unlock powerful survivors, devastating weapons, and loyal companions as you carve your path through the apocalypse.  \n\n- Begin your journey as a lone gunslinger and unlock unique playable characters, each with their own abilities and playstyles.\n\n- Create hundreds of powerful build combinations using a perk system that enhances weapons, triggers explosions, and unleashes elemental powers such as lightning, fire, and ice.\n\n- Fight alongside loyal companions with unique abilities. Some pets strengthen your attacks and skills, while others bring powerful combat abilities of their own.\n\n- Survive against massive zombie hordes, deadly elite enemies, and terrifying bosses that will challenge your reflexes, positioning, and strategy.\n\n- Explore diverse locations ranging from abandoned western towns and graveyards to dark mines, cursed forests, and forgotten frontier outposts. Every location introduces new dangers, secrets, and gameplay opportunities.\n\n- Wield a massive arsenal of weapons, from classic revolvers and lever-action rifles to experimental creations like Tesla gun and explosive heavy weaponry.\n\n- Gather resources and experience during every run to upgrade your characters, pets, weapons, and abilities, allowing you to take on increasingly dangerous enemies.\n\n- Immerse yourself in stylized visuals and a soundtrack inspired by the brutal atmosphere of a zombie-infested Wild West.\n\n- Complete missions to unlock locations and gameplay modifiers.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DEB027C8E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DEB027C8E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DEB027C8E000/screen/1",
+    "http://api.nlib.cc/nx/0100DEB027C8E000/screen/2",
+    "http://api.nlib.cc/nx/0100DEB027C8E000/screen/3",
+    "http://api.nlib.cc/nx/0100DEB027C8E000/screen/4",
+    "http://api.nlib.cc/nx/0100DEB027C8E000/screen/5",
+    "http://api.nlib.cc/nx/0100DEB027C8E000/screen/6"
+  ],
+  "version": 0,
+  "size": 958437774
+}

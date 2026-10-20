@@ -1,0 +1,17 @@
+{
+  "name": "Gurei",
+  "publisher": "Astrolabe Games",
+  "releaseDate": "20260723",
+  "description": "Overview\n\nRei, the main character, is a human spirit bound with the challenging duty of defeating mystical entities of nature, the Kami, to obtain their power.\n\nYou are free to pick your fights against the Kami in any order. The game features a dynamic difficulty system where each enemy strength is defined by the player’s chosen path. This means that the very same Kami fought at the very beginning could also be the final boss in a different route. Hope to never leave the one you struggle most to fight last!\n\nCombat Features\n\nBesides sword attacks, dodges, head stomps and other basic abilities, Rei will learn a completely new skill for each defeated Kami. Those will provide further depth to your combat arsenal, be it a stronger dash, a weapon that can execute enemies, the ability to heal and many more! \n\nPlayer choice is the ultimate power. Taking into account the vastly distinct enemies’ patterns and unique skills granted upon each victory, you will be able to decide how to approach every challenge. It won’t be easy either way, but you can always go back and try something different.\n\nBeyond the Brawl\n\nGurei is a game about fighting strong enemies, but that’s not all. The Kami inhabit a surreal castle located between the human and spirit worlds. After each victory, Rei comes closer to the realm of spirits, starting to encounter peculiar characters from Japanese mythology. These creatures will add novelty and strangeness to your journey, providing commentary, unique animations, side objectives and obscure secrets.\n\nUnlikely “Friends”\n\nYou will get to know the different Kami quite well. When Rei defeats them, she absorbs their power – and their personality. The defeated Kami will be carried around wherever Rei goes, and they’ll surely have stuff to talk about. Sometimes their remarks will be useful information that builds the player’s understanding of the lore and the game mechanics, but sometimes they will be... not so helpful, to put it briefly. Good luck!",
+  "bannerUrl": "http://api.nlib.cc/nx/010095702714A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010095702714A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010095702714A000/screen/1",
+    "http://api.nlib.cc/nx/010095702714A000/screen/2",
+    "http://api.nlib.cc/nx/010095702714A000/screen/3",
+    "http://api.nlib.cc/nx/010095702714A000/screen/4",
+    "http://api.nlib.cc/nx/010095702714A000/screen/5"
+  ],
+  "version": 0,
+  "size": 303865640
+}

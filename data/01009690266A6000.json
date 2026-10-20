@@ -1,0 +1,18 @@
+{
+  "name": "Astra GalaxyX",
+  "publisher": "Nerd Games",
+  "releaseDate": "20260502",
+  "description": "\n■ Classic Arcade Shooter\nEnjoy simple, fast-paced, and thrilling action inspired by classic 2D shooters.\n\n■ In-Combat Upgrade System\nFreely enhance attributes such as fire rate, attack power, projectile speed, and weapon types as you play.\n\n■ Diverse Enemies and Varied Attack Patterns\nUnique formations and a wide variety of enemy ships constantly appear, putting you in increasingly challenging situations.\n\n■ Stage-Based Progression\nComplete all 10 stages and face steadily increasing difficulty with each level.\n\n■ Strategic Life Management\nSurvive intense attacks by using your limited resources wisely, creating a challenging and rewarding experience.\n\n■ Four Difficulty Levels\nChoose from four difficulty settings, from beginner to advanced, and challenge yourself based on your skill level.\n\n■ Score Attack for High Replayability\nBeat your high score and keep pushing your limits.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009690266A6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009690266A6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009690266A6000/screen/1",
+    "http://api.nlib.cc/nx/01009690266A6000/screen/2",
+    "http://api.nlib.cc/nx/01009690266A6000/screen/3",
+    "http://api.nlib.cc/nx/01009690266A6000/screen/4",
+    "http://api.nlib.cc/nx/01009690266A6000/screen/5",
+    "http://api.nlib.cc/nx/01009690266A6000/screen/6"
+  ],
+  "version": 0,
+  "size": 527497191
+}

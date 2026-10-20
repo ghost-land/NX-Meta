@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Super Mega Zero Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 41401706
 }

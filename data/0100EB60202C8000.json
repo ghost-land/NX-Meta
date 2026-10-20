@@ -1,0 +1,18 @@
+{
+  "name": "Kalanoro",
+  "publisher": "New Tales",
+  "releaseDate": "20260827",
+  "description": "WELCOME TO LEMURIA\nA world inspired by Madagascar’s folklore. Once a paradise, it now suffers under the witch Raneny’s ruthless rule. Having grown tired of exploiting its people, she decided to host a huge concert with the island’s most famous band. You’re sent on a mission to fight back by rallying legendary musicians to your cause!\n\nTHE (BOGUS) PROPHECY CHOSE YOU\nDash through diverse biomes across Lemuria, save and befriend funky locals to form your crew, and jump over industrial platforming traps to become Lemuria’s number one band and finally face Raneny!\n\nDANCING THROUGH JOYFUL CHAOS\nDefeat Raneny’s minions in fast-paced combat, using hair-based powers and improvised weapons (slippers included) to fight epic and groovy boss battles and free the island!\n\nHOP ON A FUN MUSICAL ROADTRIP \nAssemble a band with eccentric lemur artists, manage your tour bus through mini-games, and build your band’s popularity among locals to perform on bigger stages.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EB60202C8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EB60202C8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EB60202C8000/screen/1",
+    "http://api.nlib.cc/nx/0100EB60202C8000/screen/2",
+    "http://api.nlib.cc/nx/0100EB60202C8000/screen/3",
+    "http://api.nlib.cc/nx/0100EB60202C8000/screen/4",
+    "http://api.nlib.cc/nx/0100EB60202C8000/screen/5",
+    "http://api.nlib.cc/nx/0100EB60202C8000/screen/6"
+  ],
+  "version": 0,
+  "size": 3266128069
+}

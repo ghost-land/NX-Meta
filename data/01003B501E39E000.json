@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Shanghai Summer Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 263502502
 }

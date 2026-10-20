@@ -1,0 +1,18 @@
+{
+  "name": "Pets Survivors",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20260812",
+  "description": "Domesticated animals get wild in roguelike arena shooter combat where survival is all that matters! Pick 1 of 14 playable pets, each with unique skills and stats, as they face hordes of fantasy monsters like slimes, rock giants, oversized bugs, carnivorous plants and more in top-down retro pixel art style.\n\nChoose wisely from a dozen starting weapons, then select a level from areas you’ve unlocked. Take down waves of enemies while strategically keeping your distance from danger. Level up and choose upgrades mid-battle, all in preparation for a big boss showdown. If you succeed, you’ll bank coins you’ve collected to spend on permanent perks, thus stacking the deck in your favor for the next fight!\n\n• Survive waves of incoming enemies in addictive real-time arena combat!\n• Choose from more than a dozen domesticated animals.\n• Pick a starting weapon and upgrade on-the-fly as you level up!\n• Collect coins to spend on permanent stat boosts between stages.\n• Use character-specific skills to turn the tide of battle!\n• Enjoy retro pixel art aesthetics and multiple difficulty options!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F960292C6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F960292C6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F960292C6000/screen/1",
+    "http://api.nlib.cc/nx/0100F960292C6000/screen/2",
+    "http://api.nlib.cc/nx/0100F960292C6000/screen/3",
+    "http://api.nlib.cc/nx/0100F960292C6000/screen/4",
+    "http://api.nlib.cc/nx/0100F960292C6000/screen/5",
+    "http://api.nlib.cc/nx/0100F960292C6000/screen/6"
+  ],
+  "version": 0,
+  "size": 87900194
+}

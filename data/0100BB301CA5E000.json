@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Turbo Shell",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 107582886
 }

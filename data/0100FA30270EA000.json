@@ -1,0 +1,18 @@
+{
+  "name": "GluMe",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20260422",
+  "description": "Get ready for GluMe, a sliding puzzle game where you control a slime, and any friends you pick up along the way. Move through top-down grid stages, collecting gems across 80 unique puzzles of growing size and complexity.\n\nNew challenges keep appearing: sleeping gray slimes wake when touched, turning blue and sticking to you. Use them to cross pitfalls, but don’t grow too big to fit into tight spots. Find the right order to collect gems and uncover secrets. Reset anytime if you get stuck. Enjoy chiptune tunes and retro vibes!\n\n• Move around puzzling stages and collect gems to advance.\n• Run into other slimes to wake them up and stick together.\n• Use your slimes’ changing shape to get around obstacles.\n• Master 80 unique levels presented in retro pixel art style.\n• Revisit cleared stages to find secrets you’ve missed.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FA30270EA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FA30270EA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FA30270EA000/screen/1",
+    "http://api.nlib.cc/nx/0100FA30270EA000/screen/2",
+    "http://api.nlib.cc/nx/0100FA30270EA000/screen/3",
+    "http://api.nlib.cc/nx/0100FA30270EA000/screen/4",
+    "http://api.nlib.cc/nx/0100FA30270EA000/screen/5",
+    "http://api.nlib.cc/nx/0100FA30270EA000/screen/6"
+  ],
+  "version": 0,
+  "size": 83820810
+}

@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Galaxy Champions TV",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 97005568
 }

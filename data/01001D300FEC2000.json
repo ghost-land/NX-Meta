@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Quest Hunter",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 293454485
 }

@@ -1,0 +1,18 @@
+{
+  "name": "Guts 'n Grunts",
+  "publisher": "Cascadia Games",
+  "releaseDate": "20260410",
+  "description": "Inspired by games like Contra and Turrican, Guts 'n Grunts is a mid-paced action game with lots of shooting, swimming, and rolling. Find power-ups. Earn upgrades. Fight for pig freedom!\n\nAPR 07, 2060. It has been 40 years since the Technate has taken control of the world. In their arrogance and gluttony, they created a breed of intelligent pig. These pigs were trained from birth to self slaughter when they reach mature age. For a time, the Technocrats enjoyed their meat.\n\nThen, a special boar was born -- one hellbent on destroying the Technate and putting the pigs at their rightful place atop the tower. His name was Rudy Hammon.\n\nRudy must destroy the Technocratic infrastructure in his mission to dethrone Klaus Küller, the highest of the Technocrats. Along the way, he will face mutants, giant robots, and pork-crazed scientists who can't stop eating.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009B7027934000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009B7027934000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009B7027934000/screen/1",
+    "http://api.nlib.cc/nx/01009B7027934000/screen/2",
+    "http://api.nlib.cc/nx/01009B7027934000/screen/3",
+    "http://api.nlib.cc/nx/01009B7027934000/screen/4",
+    "http://api.nlib.cc/nx/01009B7027934000/screen/5",
+    "http://api.nlib.cc/nx/01009B7027934000/screen/6"
+  ],
+  "version": 0,
+  "size": 230945289
+}

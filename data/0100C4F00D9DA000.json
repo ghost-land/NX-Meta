@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "The Pyraplex Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 29356929
 }

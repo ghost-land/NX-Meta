@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Voodoo Strikers Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 115683425
 }

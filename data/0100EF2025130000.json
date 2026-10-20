@@ -1,0 +1,18 @@
+{
+  "name": "Relic Digger レリック・ディガー",
+  "publisher": "Nerd Games",
+  "releaseDate": "20260522",
+  "description": "Relic Digger is an action-adventure exploration game centred around subterranean excavation.\n\nWith every dig, you may uncover hidden treasure — or perhaps unravel an ancient mystery.\n\nTake on the role of an explorer searching for relics, rare minerals, and long-forgotten secrets buried beneath the earth as you progress through your adventure.\n\nCollect the resources you discover and sell them for profit. Use your earnings to purchase new tools, more powerful equipment, and special items.\n\nThe more you upgrade your gear, the deeper you can explore, unlocking even greater rewards — along with increasingly dangerous challenges.\n\nFeaturing engaging visuals and addictive gameplay, this is the perfect game for players who enjoy the thrill of exploration, progression, and valuable discoveries.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EF2025130000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EF2025130000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EF2025130000/screen/1",
+    "http://api.nlib.cc/nx/0100EF2025130000/screen/2",
+    "http://api.nlib.cc/nx/0100EF2025130000/screen/3",
+    "http://api.nlib.cc/nx/0100EF2025130000/screen/4",
+    "http://api.nlib.cc/nx/0100EF2025130000/screen/5",
+    "http://api.nlib.cc/nx/0100EF2025130000/screen/6"
+  ],
+  "version": 0,
+  "size": 67200625
+}

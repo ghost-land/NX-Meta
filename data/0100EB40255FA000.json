@@ -1,5 +1,5 @@
 {
-  "name": "セレスティアルアセンド",
+  "name": "Celestial Ascend",
   "publisher": "EpiXR Games",
   "releaseDate": "20260129",
   "description": "Rise above the clouds and follow a solitary traveler on a quest that blends graceful platforming with peaceful exploration. Each level is a dreamlike chapter of a larger tale about loss, resolve, and the hope of earning a second chance for humanity. Glide across floating islands, scale soaring structures, and navigate shifting gravity as friendly spirit guides share fragments of the story and teach you new abilities.\nDesigned for flow and mindfulness, the game favors clarity over frustration: precise jumps feel good, challenges are fair, and environmental puzzles fit naturally into the world. The painterly art direction and ethereal soundtrack turn every vista into a moment worth lingering on—without rushing you forward.\nFeatures\n•\tSkybound 3D platforming with double jumps and directional dashes\n•\tGentle environmental puzzles woven into exploration\n•\tFive distinct areas per level with evolving mechanics\n•\tSurreal, stylized worlds and sweeping, meditative vistas\n•\tNarrative fragments from helpful spirit guides\n•\tAccessible difficulty focused on flow, not punishment",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100EB40255FA000/screen/4",
     "http://api.nlib.cc/nx/0100EB40255FA000/screen/5",
     "http://api.nlib.cc/nx/0100EB40255FA000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 453817009
 }

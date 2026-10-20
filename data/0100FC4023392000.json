@@ -1,0 +1,18 @@
+{
+  "name": "STARBITES",
+  "publisher": "ハピネット",
+  "releaseDate": "20251016",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FC4023392000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FC4023392000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FC4023392000/screen/1",
+    "http://api.nlib.cc/nx/0100FC4023392000/screen/2",
+    "http://api.nlib.cc/nx/0100FC4023392000/screen/3",
+    "http://api.nlib.cc/nx/0100FC4023392000/screen/4",
+    "http://api.nlib.cc/nx/0100FC4023392000/screen/5",
+    "http://api.nlib.cc/nx/0100FC4023392000/screen/6"
+  ],
+  "version": 0,
+  "size": 2283217709
+}

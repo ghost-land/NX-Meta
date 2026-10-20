@@ -1,7 +1,7 @@
 {
   "name": "TRALALERO TRALALA ELEPHANT RUNNER",
-  "publisher": "Vitalii Kaminskyi",
-  "releaseDate": "20251225",
+  "publisher": "CONSANN REAL ESTATE",
+  "releaseDate": "20251226",
   "description": "The circus can’t hold him anymore! In this action-packed 3D endless runner, you take control of a runaway elephant on a chaotic dash for freedom. Smash through obstacles, dodge traps, and use your trunk to clear the path as the city turns into your playground. Every step brings new challenges, and every move could mean escape or capture.\n\nCollect peanuts along the way to unlock upgrades, power-ups, and hilarious new skins for your elephant. From speed boosts to protective shields and giant-sized rampages, every run offers wild new ways to crush, crash, and outsmart the keepers chasing you. The game unfolds in a single endless level that constantly evolves — with speed increasing, obstacles changing, and chaos reaching new heights the longer you survive.\n\nKey Features:\n\n- Dynamic 3D endless runner gameplay full of humor and chaos\n- Continuous evolving world that grows harder the further you run\n- Wide range of power-ups: speed bursts, shields, giant elephant mode, peanut magnets and more\n- Upgrade system with peanuts: enhance abilities and unlock fun skins\n- Interactive world: destroy cars, kiosks, trees, fences, and open secret paths\n- Unique abilities for strategic play — smash, jump, slide, and rampage\n\nFreedom won’t come easy — only the smartest, fastest, and most destructive elephants will break free. Run wild, cause mayhem, and prove that nothing can stop you in TRALALERO TRALALA ELEPHANT RUNNER!\n",
   "bannerUrl": "http://api.nlib.cc/nx/010045E024780000/banner",
   "iconUrl": "https://api.nlib.cc/nx/010045E024780000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/010045E024780000/screen/4",
     "http://api.nlib.cc/nx/010045E024780000/screen/5",
     "http://api.nlib.cc/nx/010045E024780000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 359299104
 }

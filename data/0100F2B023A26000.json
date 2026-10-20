@@ -1,0 +1,18 @@
+{
+  "name": "The King is Watching",
+  "publisher": "tinyBuild Games",
+  "releaseDate": "20260729",
+  "description": "The King's watchful gaze.\n\nPeasants toil, miners dig, and knights train... but only when I look at them! Wherever my eyes fall, progress follows. But the moment I glance elsewhere?\nLaziness! Chaos! I must choose wisely between the fields, the mines, or the barracks, expanding my gaze so no one slacks off!\n\nCommand the kingdom's lifeblood\nWater, wheat, stone, coal, silver, every resource fuels my empire! Farms feed my people, mines fund my ambitions, and workshops forge mighty defenses. Every decision shapes my reign, and only a well-managed kingdom will survive the storm.\n\nA roguelite kingdom\nEach land presents new trials, from cursed cemeteries to infernal depths. Enemies are led by unexpected Generals, demanding unique tactics to defeat. As a true roguelite, my efforts grant permanent upgrades for my next reign. With my royal council of cavalry masters, arcane sages, and cunning strategists, victory is inevitable!\n\nEver-Expanding Kingdom!\nRegularly updated with new free content, the console version comes packed from day one with the Volcano update, adding a fiery new biome, new bosses, and new ways to expand your realm.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F2B023A26000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F2B023A26000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F2B023A26000/screen/1",
+    "http://api.nlib.cc/nx/0100F2B023A26000/screen/2",
+    "http://api.nlib.cc/nx/0100F2B023A26000/screen/3",
+    "http://api.nlib.cc/nx/0100F2B023A26000/screen/4",
+    "http://api.nlib.cc/nx/0100F2B023A26000/screen/5",
+    "http://api.nlib.cc/nx/0100F2B023A26000/screen/6"
+  ],
+  "version": 0,
+  "size": 536673876
+}

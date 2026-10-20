@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Home Run High Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 36427225
 }

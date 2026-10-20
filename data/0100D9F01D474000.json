@@ -1,0 +1,18 @@
+{
+  "name": "Rhythm Heaven™ Groove",
+  "publisher": "Nintendo",
+  "releaseDate": "20260702",
+  "description": "Get ready to use your ears! Time your button presses to the beat in this broad collection of rhythm games that are easy to learn and rewarding to master. Catch flying veggies, bounce fruit off your biceps, swing sledgehammers, and more as you focus on catchy original music—including tracks by renowned Japanese musician Tsunku♂. \n\nBoost frogs into the air, flap umbrellas, and so much more in over 80 rhythm games—and that’s just solo mode!\n\nCooperate and compete in over 30 rhythm games for up to four players\n\nGather up to four players* around a single system to slice arrows, pluck hair from onions, and more. Whether you’re striving to see who can be first to snatch the cake, or teaming up to save the prince with the power of tennis, these games are sure to test your ability to keep the beat.\n\nBecome a magician and use the power of rhythm to beat monsters in Beatspell\n\nAs you progress in the game, you'll gradually unlock Beatspell—a mode in which you combat monsters with rhythm-based spells, like fire and healing, by tapping buttons to the beat. What spells will strike a chord when you face down your foes?",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D9F01D474000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D9F01D474000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D9F01D474000/screen/1",
+    "http://api.nlib.cc/nx/0100D9F01D474000/screen/2",
+    "http://api.nlib.cc/nx/0100D9F01D474000/screen/3",
+    "http://api.nlib.cc/nx/0100D9F01D474000/screen/4",
+    "http://api.nlib.cc/nx/0100D9F01D474000/screen/5",
+    "http://api.nlib.cc/nx/0100D9F01D474000/screen/6"
+  ],
+  "version": 0,
+  "size": 2924671469
+}

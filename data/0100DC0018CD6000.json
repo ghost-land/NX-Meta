@@ -1,0 +1,18 @@
+{
+  "name": "Isles of Sea and Sky",
+  "publisher": "Cicada Games",
+  "releaseDate": "20261008",
+  "description": "A fantastic, oceanic, open world puzzle adventure. Solve innovative block puzzles while unearthing a mystifying story, gaining new friends that change the puzzle landscape, and unlocking powers that provide more options for how you choose to progress through the enigmatic Isles of Sea and Sky.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DC0018CD6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DC0018CD6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DC0018CD6000/screen/1",
+    "http://api.nlib.cc/nx/0100DC0018CD6000/screen/2",
+    "http://api.nlib.cc/nx/0100DC0018CD6000/screen/3",
+    "http://api.nlib.cc/nx/0100DC0018CD6000/screen/4",
+    "http://api.nlib.cc/nx/0100DC0018CD6000/screen/5",
+    "http://api.nlib.cc/nx/0100DC0018CD6000/screen/6"
+  ],
+  "version": 0,
+  "size": 407689173
+}

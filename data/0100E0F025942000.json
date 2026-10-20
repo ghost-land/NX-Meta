@@ -1,0 +1,18 @@
+{
+  "name": "Sky Escort",
+  "publisher": "Wise Games",
+  "releaseDate": "20260423",
+  "description": "Game Overview\nIn Sky Escort, you take on the role of a mercenary navigating treacherous skies to deliver high-stakes cargo. To survive relentless pirate raids, you must fortify your airship with defensive structures, upgrade your vessel in outpost cities, and recruit a legendary crew.\n\n【Build & Manage】\nIn the resource-scarce void of the sky, survival is up to you. Allocate limited resources to build economic facilities on your hull, boosting productivity to fund your defenses. Balancing economic growth with combat readiness is the ultimate key to victory.\n\n【Defend Against Foes】\nSky pirates are constantly circling, waiting for a chance to plunder your cargo. Equip your ship with automated weaponry to repel approaching enemies. However, building space is strictly limited. As Captain, you must decide which weapons to prioritize and how to position them for maximum efficiency. Fail to hold the line, and you’ll lose more than just the cargo—you’ll lose the ship and your life.\n\n【Deck-Building】\nSky Escort is a card-driven experience where you build and refine your deck as you play. Unlike traditional turn-based card games, it features real-time combat. You must think on your feet, rapidly playing cards and adjusting your strategy in the heat of battle for a truly pulse-pounding experience.\n\n【Recruit & Upgrade】\nNo captain survives alone. Bolster your strength by recruiting specialized crew members at outpost cities along your route. Each crew member brings unique abilities to the table, and you can further hone their skills through training at the Academy. Beyond the crew, your ship is your fortress—customize and upgrade multiple ship sections with a variety of specialized components to suit your playstyle.\n\n【Diverse Factions】\nExplore the world of Sky Escort through the lens of different factions, each featuring unique mechanics and playstyles:\n\nThe Empire: Rulers of the sky through sheer force. They boast immense commercial and industrial power, fueled by a subjugated labor force.\nPanda Sages: Masters of \"Chi Manipulation.\" They wield potent spells and find strength in maintaining the perfect balance between Yin and Yang.\nThe Wanderers: Outcasts exiled by the Empire. They are creative survivalists who deploy advanced combat robots to fight their battles.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E0F025942000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E0F025942000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E0F025942000/screen/1",
+    "http://api.nlib.cc/nx/0100E0F025942000/screen/2",
+    "http://api.nlib.cc/nx/0100E0F025942000/screen/3",
+    "http://api.nlib.cc/nx/0100E0F025942000/screen/4",
+    "http://api.nlib.cc/nx/0100E0F025942000/screen/5",
+    "http://api.nlib.cc/nx/0100E0F025942000/screen/6"
+  ],
+  "version": 0,
+  "size": 549939756
+}

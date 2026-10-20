@@ -1,0 +1,18 @@
+{
+  "name": "Q REMASTERED",
+  "publisher": "Aksys Games",
+  "releaseDate": "20260521",
+  "description": "Q REMASTERED is a simple puzzle game that anyone can enjoy! You can freely draw lines and shapes to solve all the missions. But be wary of gravity, however, as what you draw will fall as soon as you're done drawing! Available as part of the Q Collection Bundle and not for individual sale from Aksys Games.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007EE024D80000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007EE024D80000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007EE024D80000/screen/1",
+    "http://api.nlib.cc/nx/01007EE024D80000/screen/2",
+    "http://api.nlib.cc/nx/01007EE024D80000/screen/3",
+    "http://api.nlib.cc/nx/01007EE024D80000/screen/4",
+    "http://api.nlib.cc/nx/01007EE024D80000/screen/5",
+    "http://api.nlib.cc/nx/01007EE024D80000/screen/6"
+  ],
+  "version": 0,
+  "size": 351301985
+}

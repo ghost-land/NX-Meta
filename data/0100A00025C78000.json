@@ -1,0 +1,18 @@
+{
+  "name": "Aery - Surreal World",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20260806",
+  "description": "This game is a relaxing, story-driven flight exploration game that carries you through a series of impossible, dreamlike worlds where reality has quietly lost its mind.\n\nYou play as a tiny spirit drifting endlessly forward through landscapes that shouldn't exist. Glide alongside an enormous dirty whale as it tumbles weightlessly through a sky laced with glittering rainbows — close enough to see the barnacles and grime clinging to its hide as streaks of violet and gold light wash over it. Descend into a sunken apartment block resting silently on the ocean floor, where coral has crept up the wallpaper, fish drift through the living room, and the television still flickers faintly in the deep blue dark. Soar through a vast kingdom where every tree, every cloud, and every cobblestone has been consumed by solid, gleaming gold — beautiful, eerie, and utterly silent.\n\nEach world is its own self-contained dream: a unique color palette, atmosphere, and mood that tells a different piece of a larger, quietly unfolding story. Hidden across every level are glowing memory fragments — scattered clues to what this broken universe once was. Collect enough of them and the next impossible world opens up.\n\nThe game is designed above all else to feel good. The flying is smooth and freeing, the worlds are strange and beautiful, and the story unfolds gently without ever demanding anything of you. Whether you play to explore, to collect, or simply to get lost somewhere wonderfully weird, there is always something waiting just around the next impossible corner.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A00025C78000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A00025C78000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A00025C78000/screen/1",
+    "http://api.nlib.cc/nx/0100A00025C78000/screen/2",
+    "http://api.nlib.cc/nx/0100A00025C78000/screen/3",
+    "http://api.nlib.cc/nx/0100A00025C78000/screen/4",
+    "http://api.nlib.cc/nx/0100A00025C78000/screen/5",
+    "http://api.nlib.cc/nx/0100A00025C78000/screen/6"
+  ],
+  "version": 0,
+  "size": 1118110846
+}

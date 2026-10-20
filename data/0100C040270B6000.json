@@ -1,0 +1,18 @@
+{
+  "name": "AVILION forever - Retro JRPG",
+  "publisher": "STUDIO FRONTIER",
+  "releaseDate": "20260423",
+  "description": "AVILION forever is a classic Japanese RPG (JRPG)\nrevived by its original creator 20 years later.\n\nA story-focused, offline, single-player RPG\nwith no gacha and no ads.\n\nThe 2004 classic mobile JRPG \"AVILION\" makes its miracle comeback as\n\"AVILION forever\"! Reborn as a solo experience, you can now enjoy this\nlegendary journey anytime, anywhere—no server access required.\n\nThis special version faithfully preserves the original graphics and sound,\nwhile adding never-before-seen assets and carefully rebalanced game systems.\nExperience Chapters 1 through 7, marking a major milestone in the epic story.\n(DLC for subsequent chapters is currently under consideration.)\n\nStep into a nostalgic, warm pixel-art RPG world!\n\n■ What is AVILION forever?\nAVILION forever is an accessible turn-based JRPG set in a magic academy.\nIt features two unique systems: the Avatar Rental System and\nthe Action Slot System.\n\nCustomizable Protagonist:\nCreate your own avatar and enroll in the academy.\n\nFreedom of Choice:\nThere are no fixed parties. Choose your companions freely from hundreds\nof unique students.\n\nStrategic Battles:\nFight using skills set in your \"Action Slots.\"\nWith limited space, deciding which skills to learn and which allies to bring\ncreates deep strategic depth within a simple one-handed interface.\n\nClassic Exploration:\nEnjoy the addictive Auto-Mapping system as you fill in dungeons,\nhunt for Ancient Chests containing rare loot,\nand collect coins to challenge the mighty Archon.\n\nThe story begins with a small incident at school and expands into a\nworld-spanning adventure from Chapter 2 onwards.\nEach chapter feels like a complete RPG, featuring its own beginning,\nend, and fearsome bosses.\n\n■ New Features & Enhancements\n• Expanded warehouse storage capacity\n• Optional speed settings for faster movement and battle flow\n• Carefully rebalanced EXP, drop rates, and encounter rates for solo play\n• Stability improvements and bug fixes\n\n■ Changes from the Original Version\nThis version has been specifically adjusted for a fair and enjoyable\nsingle-player RPG experience.\n\n• Avatar color options increased from 4 to 8\n• Reduced grinding with faster leveling and improved item drop rates\n• Lessons and Ancient Chests now reset 4 times per day\n(4:00, 10:00, 16:00, 22:00)\n\n■ Solo Play Avatar Rental\nWhile online features such as messaging, friend circles, and auctions\nhave been removed, you are not alone.\n\nThe game includes hundreds of Virtual Player avatars available for rental.\nYou can even team up with avatars submitted by fans during special campaigns,\nbringing a multiplayer-like feeling to your solo adventure.\n\nNote: The game is available in English and Japanese only.\n\nVisit our official site for Q&A and Quest Guides for Chapters 1 & 2:",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C040270B6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C040270B6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C040270B6000/screen/1",
+    "http://api.nlib.cc/nx/0100C040270B6000/screen/2",
+    "http://api.nlib.cc/nx/0100C040270B6000/screen/3",
+    "http://api.nlib.cc/nx/0100C040270B6000/screen/4",
+    "http://api.nlib.cc/nx/0100C040270B6000/screen/5",
+    "http://api.nlib.cc/nx/0100C040270B6000/screen/6"
+  ],
+  "version": 0,
+  "size": 134369724
+}

@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "LOVE - Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 250309128
 }

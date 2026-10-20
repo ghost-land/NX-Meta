@@ -1,0 +1,18 @@
+{
+  "name": "Neko Odyssey",
+  "publisher": "Flyhigh Works",
+  "releaseDate": "20260730",
+  "description": "Neko Odyssey: A Game for Cat Lovers You Can't Miss!\n\nHere’s a slightly unusual Casual Adventure game where the main gameplay centers around taking pictures of cats. The pixel art graphics in a 3D setting create a charming atmosphere reminiscent of Japanese animation.\n\nIn the game, you'll have to search for cats in various locations throughout the town and take pictures to upload to social media (in game). Each photo you upload will earn likes from netizens. As you receive more likes, you'll become better known, and your followers may offer tips on finding new and different cat poses.\n\nDuring the cat photography sessions, some cats may require you to establish a connection with them before allowing you to photograph them. You'll also encounter certain events that will lead you to discover new photo opportunities.\n\nApart from taking cat photos and sharing them on social media, the game features a main storyline where you'll unravel the mysteries of the town based on the information you capture in your cat photos. You'll experience excitement, cuteness, and inspiration along with the adventure in this game.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100727028694000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100727028694000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100727028694000/screen/1",
+    "http://api.nlib.cc/nx/0100727028694000/screen/2",
+    "http://api.nlib.cc/nx/0100727028694000/screen/3",
+    "http://api.nlib.cc/nx/0100727028694000/screen/4",
+    "http://api.nlib.cc/nx/0100727028694000/screen/5",
+    "http://api.nlib.cc/nx/0100727028694000/screen/6"
+  ],
+  "version": 0,
+  "size": 532159150
+}

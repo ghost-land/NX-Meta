@@ -1,0 +1,18 @@
+{
+  "name": "Dead Estate",
+  "publisher": "2 Left Thumbs",
+  "releaseDate": "20260710",
+  "description": "Dead Estate is a gory, fast-paced, challenging, roguelike shooter with a heavy emphasis on Halloween and other horror influences. Ascend the floors of a monster-filled mansion with 10 unique characters, collecting loads of items and weapons, tackle grueling challenges, and discover secrets and unlockables along the way!\n\nBeware of the lurking threats on every floor -- some are especially persistent...\n\nHIGH REPLAYABILITY!\n\n- 10 playable characters, each with distinct playstyles and 4 Costumes each\n- 150 weapons and 300 items to make each run unique\n- Explore the vast complexity of the Estate - discovering alternate floors & floor variants\n- An isometric style with compact rooms designed for tense, close-quarters combat\n- Try a looped run, or varying difficulty levels to push your skills\n- Blessing & Curse run modifiers to maximize replayability\n- 20 custom Challenge Runs\n- A bounty of secrets to be discovered, and many more to be unlocked\n\nASSIGNMENT ANYA\n\nAn entirely separate campaign inspired by classic survival horror games, set prior to the events of the main game. Play as Anya, a fledgling actress who finds herself helplessly lost in the mansion after her film crew is attacked by the undead.\n\nAbandoned by her leading man and left alone with nothing but a mask to disguise herself with, Anya must escape the increasingly warped and deadly estate all on her own.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009DC017B4E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009DC017B4E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009DC017B4E000/screen/1",
+    "http://api.nlib.cc/nx/01009DC017B4E000/screen/2",
+    "http://api.nlib.cc/nx/01009DC017B4E000/screen/3",
+    "http://api.nlib.cc/nx/01009DC017B4E000/screen/4",
+    "http://api.nlib.cc/nx/01009DC017B4E000/screen/5",
+    "http://api.nlib.cc/nx/01009DC017B4E000/screen/6"
+  ],
+  "version": 0,
+  "size": 728508323
+}

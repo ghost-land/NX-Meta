@@ -1,5 +1,5 @@
 {
-  "name": "セレスティアルフォール",
+  "name": "Celestial Fall",
   "publisher": "EpiXR Games",
   "releaseDate": "20251106",
   "description": "In this game, you follow the protagonist who initially fell from heaven back into the sky. The game is a unique combination of a third-person platformer and a light-hearted exploration game with an almost philosophical story-telling. It is highly stylized and surprises with breathtaking environments, a surreal world full of beauty and grace, and a couple of small environmental puzzles that blend perfectly into the peaceful yet stunning environments. Will you be able to make it back into heaven? Find it out.\n",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100C67024DA0000/screen/4",
     "http://api.nlib.cc/nx/0100C67024DA0000/screen/5",
     "http://api.nlib.cc/nx/0100C67024DA0000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 444324485
 }

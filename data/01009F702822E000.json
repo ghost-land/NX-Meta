@@ -1,0 +1,18 @@
+{
+  "name": "Cubic Riders",
+  "publisher": "NOSTRA GAMES",
+  "releaseDate": "20260723",
+  "description": "A fast-paced racing game where you can test your skills and see how you perform on the track. You have to be really fast and make decisions in milliseconds. Avoid all the obstacles and become number one! Customize your Cubics to win in style!  ",
+  "bannerUrl": "http://api.nlib.cc/nx/01009F702822E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009F702822E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009F702822E000/screen/1",
+    "http://api.nlib.cc/nx/01009F702822E000/screen/2",
+    "http://api.nlib.cc/nx/01009F702822E000/screen/3",
+    "http://api.nlib.cc/nx/01009F702822E000/screen/4",
+    "http://api.nlib.cc/nx/01009F702822E000/screen/5",
+    "http://api.nlib.cc/nx/01009F702822E000/screen/6"
+  ],
+  "version": 0,
+  "size": 63931331
+}

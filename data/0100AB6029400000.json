@@ -1,0 +1,18 @@
+{
+  "name": "Ironford",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20260903",
+  "description": "Welcome to Ironford, a cozy exploration game where adventure is all about discovery. Set in a quiet medieval fishing village along the coast, you'll wander through winding streets, wooden docks, market squares, forests, and hidden paths in search of every rare gem scattered throughout the world.\n\nFeatures:\n>Explore a handcrafted medieval seaside village.\n>Search for and collect every rare gem.\n>Wander through docks, markets, forests and village streets.\n>Enjoy a relaxing, stress-free exploration experience.\n>No combat, no timers, and no pressure—just exploration and collecting.\n\nCan you uncover every rare gem hidden within Ironford?\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AB6029400000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AB6029400000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AB6029400000/screen/1",
+    "http://api.nlib.cc/nx/0100AB6029400000/screen/2",
+    "http://api.nlib.cc/nx/0100AB6029400000/screen/3",
+    "http://api.nlib.cc/nx/0100AB6029400000/screen/4",
+    "http://api.nlib.cc/nx/0100AB6029400000/screen/5",
+    "http://api.nlib.cc/nx/0100AB6029400000/screen/6"
+  ],
+  "version": 0,
+  "size": 732009498
+}

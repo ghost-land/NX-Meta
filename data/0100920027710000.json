@@ -1,0 +1,18 @@
+{
+  "name": "Limbot",
+  "publisher": "Ionized Studios",
+  "releaseDate": "20260806",
+  "description": "Welcome to Limbot, the ultimate physics-based city stomping experience where up to 4 players must attempt to pilot a person dressed as a giant cardboard robot! Embrace the chaos in a paper-craft metropolis designed to be crushed, smashed, and destroyed!\n\nStomp, kick, and punch your way to completing wacky objectives set in a fully destructible cardboard world, where every building, obstacle, and enemy can be bashed to pieces or flattened into pulp! Smash down skyscrapers, face-off against paper foes, and take down the biggest (and silliest) crafted bosses this world has ever seen…\n\nGo full DIY and unlock upgrades to customise your robot such as strapping a soda can to your leg for a handy speed boost, wooden spoons to give your Karate chops some added range, or slap on some stickers to add some extra style. Mix and match upgrades to make your perfect robot!\n\nIntuitive controls make moving limbs simple and accessible to players of all ages and abilities. All you need to do is figure out how to work together... good luck with that! Oh, one more thing, if the robot trips, it's definitely your teammate’s fault!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100920027710000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100920027710000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100920027710000/screen/1",
+    "http://api.nlib.cc/nx/0100920027710000/screen/2",
+    "http://api.nlib.cc/nx/0100920027710000/screen/3",
+    "http://api.nlib.cc/nx/0100920027710000/screen/4",
+    "http://api.nlib.cc/nx/0100920027710000/screen/5",
+    "http://api.nlib.cc/nx/0100920027710000/screen/6"
+  ],
+  "version": 0,
+  "size": 419125286
+}

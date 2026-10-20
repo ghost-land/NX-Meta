@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Deadly Days Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 173866270
 }

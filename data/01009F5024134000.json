@@ -1,0 +1,18 @@
+{
+  "name": "Spire Blast",
+  "publisher": "Drageus Games",
+  "releaseDate": "20260605",
+  "description": "Dive into the vibrant world of Spire Blast! Team up with your ever-hungry dragon companion to collapse mysterious spires using colourful, physics-based puzzle mechanics. Launch matching coloured projectiles, trigger chain reactions, and master strategic planning to bring each tower tumbling down.\n\nWith hundreds of levels spanning breathtaking environments, powerful boosters like rockets, paint grenades, and Rubik’s cube bombs are unlocked to turn the tide in your favour. Easy to pick up but rich in tactical depth, Spire Blast promises a relaxing yet addictive experience for players of all ages.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009F5024134000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009F5024134000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009F5024134000/screen/1",
+    "http://api.nlib.cc/nx/01009F5024134000/screen/2",
+    "http://api.nlib.cc/nx/01009F5024134000/screen/3",
+    "http://api.nlib.cc/nx/01009F5024134000/screen/4",
+    "http://api.nlib.cc/nx/01009F5024134000/screen/5",
+    "http://api.nlib.cc/nx/01009F5024134000/screen/6"
+  ],
+  "version": 0,
+  "size": 436440263
+}

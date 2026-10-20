@@ -1,0 +1,18 @@
+{
+  "name": "Frog Parkour Obby",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20260905",
+  "description": "Play as a frog and take on a colorful parkour obstacle course filled with moving platforms, powerful jump pads, dangerous traps, and tricky jumps. Reach the end of each level and prove your parkour skills.\n\nLooking for a tougher challenge? Try Hardcore Mode, where every checkpoint is disabled. One mistake sends you all the way back.\n\nFeatures\n>Complete challenging parkour levels.\n>Jump across moving platforms and use jump pads.\n>Avoid traps and dangerous obstacles.\n>Attempt Hardcore Mode with no checkpoints.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A710298F8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A710298F8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A710298F8000/screen/1",
+    "http://api.nlib.cc/nx/0100A710298F8000/screen/2",
+    "http://api.nlib.cc/nx/0100A710298F8000/screen/3",
+    "http://api.nlib.cc/nx/0100A710298F8000/screen/4",
+    "http://api.nlib.cc/nx/0100A710298F8000/screen/5",
+    "http://api.nlib.cc/nx/0100A710298F8000/screen/6"
+  ],
+  "version": 0,
+  "size": 174286340
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Club Soko",
+  "publisher": "Miracle Tea",
+  "releaseDate": "20260723",
+  "description": "Play as Maude, a graffiti artist compelled to tag up the walls of a nightclub at every possible opportunity. As you move your way past bouncers and club goers you come to discover there’s more to Club Soko than meets the eye.\n\nGame Features:\n- Over 100+ handcrafted puzzles\n- An undo system to work through past mistakes\n- 6 chapters each with their own music\n- 13 unlockable cameo characters to discover from other true indie devs, artists, and indie games!\n- 11 different kinds of puzzle pieces\n- 2 types of secret rooms to find\n- A chill music mode\n- A puke toggle!\n- The first puzzle game in the world with a circle pit!",
+  "bannerUrl": "http://api.nlib.cc/nx/01008BC026898000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008BC026898000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008BC026898000/screen/1",
+    "http://api.nlib.cc/nx/01008BC026898000/screen/2",
+    "http://api.nlib.cc/nx/01008BC026898000/screen/3",
+    "http://api.nlib.cc/nx/01008BC026898000/screen/4",
+    "http://api.nlib.cc/nx/01008BC026898000/screen/5",
+    "http://api.nlib.cc/nx/01008BC026898000/screen/6"
+  ],
+  "version": 0,
+  "size": 209527046
+}

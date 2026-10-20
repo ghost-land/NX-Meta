@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Paleo Pines Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 767974734
 }

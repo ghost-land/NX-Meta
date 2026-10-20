@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Sea of Stars Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 225781874
 }

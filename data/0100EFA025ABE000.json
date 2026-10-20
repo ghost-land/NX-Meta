@@ -1,7 +1,7 @@
 {
-  "name": "ラビットサムライ",
+  "name": "Rabbit Samurai",
   "publisher": "Upscale Studio",
-  "releaseDate": "20251113",
+  "releaseDate": "20251114",
   "description": "In Rabbit Samurai, you’ll join a colorful 2D deck-building adventure. Each fight is tougher and funnier than the last.\n\nFace off against quirky creatures in 42 arenas. Each round, you’ll grow stronger as you shuffle your way to victory. Between battles, choose how to improve your chances: add a new card to your deck, remove a card holding you back, or heal up and keep going.\n\nDiscover chests and secret quests to earn upgrades, boosts, and new ways to play your cards. Defeat bosses to earn powerful rewards and improve your samurai skills. With enemies that attack, shield, and heal in tricky combinations, every match will keep you on your toes.\n\nIt’s easy to learn, entertaining, and full of short strategy sessions that are ideal for casual deck-building fans. Do you have what it takes to guide this fluffy warrior through 42 battles and claim victory?",
   "bannerUrl": "http://api.nlib.cc/nx/0100EFA025ABE000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100EFA025ABE000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100EFA025ABE000/screen/4",
     "http://api.nlib.cc/nx/0100EFA025ABE000/screen/5",
     "http://api.nlib.cc/nx/0100EFA025ABE000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 68359159
 }

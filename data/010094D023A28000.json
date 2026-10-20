@@ -1,0 +1,18 @@
+{
+  "name": "Drill Core",
+  "publisher": "tinyBuild Games",
+  "releaseDate": "20260428",
+  "description": "Welcome to Drill Core, where corporate greed meets strategic planet-mining! By day, lead an elite crew of miners, carriers, and guards as they carve a path through hostile alien worlds. Build advanced facilities, upgrade deadly turrets, and prepare for relentless nightly assaults from alien lifeforms. Will you chase maximum efficiency at any cost, or play it safe and fight to survive?\nDrill Core is a strategy roguelike that will push your decision-making to the limit. Every run is a fresh challenge during which you will:\n- Manage resources across procedurally generated maps, where no two expeditions ever play the same.\n- Explore three distinct biomes, each packed with unique enemies, blocks, and bosses: Caves, Frozen Worlds, and Jungle.\n- Command one of three unique platforms:\n- Humans — adaptable, well-equipped, and armed with reliable machine guns.\n- Dwarves — hardy demolition specialists who blast through rock and enemies alike with brutal efficiency.\n- Swarnids — led by a ruthless Queen who spawns endless loyal workers to devour everything in their path.\n- Take on a range of contracts: drill to the planet’s core, ship huge resource hauls back to your corporate overlords, or test their latest experimental machinery.",
+  "bannerUrl": "http://api.nlib.cc/nx/010094D023A28000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010094D023A28000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010094D023A28000/screen/1",
+    "http://api.nlib.cc/nx/010094D023A28000/screen/2",
+    "http://api.nlib.cc/nx/010094D023A28000/screen/3",
+    "http://api.nlib.cc/nx/010094D023A28000/screen/4",
+    "http://api.nlib.cc/nx/010094D023A28000/screen/5",
+    "http://api.nlib.cc/nx/010094D023A28000/screen/6"
+  ],
+  "version": 0,
+  "size": 2272284055
+}

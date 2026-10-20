@@ -1,0 +1,18 @@
+{
+  "name": "Puppergeist",
+  "publisher": "Serenity Forge",
+  "releaseDate": "20260820",
+  "description": "Doggie Underworld: A Rhythmic Journey\n\nPlay as Claire, a witch who journeys into the mysterious Doggie Underworld with one simple goal: Finding her lost Pup!\n\nAs you travel through Doggie Underworld, you'll encounter countless souls, each with a story to tell. Share moments with them, play together, and listen to their heartfelt tales. Use your sense of rhythm to lift their spirits and ease their troubles, bringing you one beat closer to reuniting with your own lost Pup.\n\nThe Heart of the Game\n\nAs a visual novel with rhythm mechanics, the story moves forward as you succeed in rhythm challenges. Alongside her new demon friend, Lunne, Claire learns to deepen her connection with doggie spirits, uncovering stories of friendship, love, and loss.  Every rhythm challenge is unique, along with remixes and bonus features. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D9D028292000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D9D028292000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D9D028292000/screen/1",
+    "http://api.nlib.cc/nx/0100D9D028292000/screen/2",
+    "http://api.nlib.cc/nx/0100D9D028292000/screen/3",
+    "http://api.nlib.cc/nx/0100D9D028292000/screen/4",
+    "http://api.nlib.cc/nx/0100D9D028292000/screen/5",
+    "http://api.nlib.cc/nx/0100D9D028292000/screen/6"
+  ],
+  "version": 0,
+  "size": 287279875
+}

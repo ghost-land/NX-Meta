@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "NED (Demo)",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 313239974
 }

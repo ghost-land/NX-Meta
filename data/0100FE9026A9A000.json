@@ -1,7 +1,7 @@
 {
   "name": "Samurai Simulator: Kensei Warrior",
   "publisher": "Testagamercreations",
-  "releaseDate": "20260319",
+  "releaseDate": "20260320",
   "description": "Step into the role of Takashi Hayato, a samurai turned ronin after the murder of his lord. Set in feudal Japan during the Sengoku era, the game follows a journey of revenge, honor, and difficult choices.\nMaster skill-based katana combat with light and heavy attacks, blocks, parries, counterattacks, and executions. Use stealth to strike from the shadows or face enemies head-on in intense duels. Archery supports combat, offering tactical options in battle.\n\nProgress through story-driven levels set in villages, temples, mountain paths, and enemy strongholds. Your actions shape the Honor Karma System — follow the Path of Honor to gain survivability, or the Path of Blood to embrace raw power. Karma influences gameplay bonuses and determines the final ending.\n\nKey Features\n\n- Skill-based katana combat with light, heavy, parry, counter, and execution mechanics\n- Stealth gameplay with detection, silent kills, and risk-reward encounters\n- Archery support for tactical combat and positioning\n- Atmospheric levels inspired by feudal Japan\n- Cinematic boss duels that test timing, focus, and resolve\n- A branching Honor Karma system that shapes gameplay and story outcomes\n\nYour journey ends where honor, revenge, and destiny collide.\nOnly your choices will decide whether Takashi becomes a legendary warrior, a ruthless survivor, or a ronin lost to history.",
   "bannerUrl": "http://api.nlib.cc/nx/0100FE9026A9A000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100FE9026A9A000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100FE9026A9A000/screen/4",
     "http://api.nlib.cc/nx/0100FE9026A9A000/screen/5",
     "http://api.nlib.cc/nx/0100FE9026A9A000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 460811758
 }

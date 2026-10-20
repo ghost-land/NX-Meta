@@ -1,0 +1,18 @@
+{
+  "name": "Zombie Rollerz: The Last Ship",
+  "publisher": "Zing Games",
+  "releaseDate": "20260514",
+  "description": "Command the last ship against relentless waves of zombies in a mystical world. Build turrets, lead your crew, upgrade the ship, explore, gather resources and discover powerful artifacts.\n\nThe Horde\nFight the zombie hordes filled with the mundane, the abnormal, and the dangerous. The longer you survive, the stronger and more numerous the zombies become. But the loot and artifacts also become stronger and more numerous.\n\nTurrets!\nLoot resources to construct various powerful turrets. Choose your upgrade path, combine turret effects and create your own zombie death machine.\n\nBuild your Ship\nPlow your way through a sea of zombies by equipping and upgrading ship parts and turrets. Collect and unlock powerful upgrades that drastically alter the way you survive.\n\nCommand your crew\nManage, rescue, and hire crew members with unique skills and abilities. Every role is important for the survival of the ship and assigning the right crew member with the right talents is key to survival.\n\nDiscover the world\nKeep each run fresh and exciting by exploring mysterious ruins and discovering powerful artifacts and loot. Combine their effects and the more artifacts you find, the more combinations and strategies become open to you.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D1200B940000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D1200B940000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D1200B940000/screen/1",
+    "http://api.nlib.cc/nx/0100D1200B940000/screen/2",
+    "http://api.nlib.cc/nx/0100D1200B940000/screen/3",
+    "http://api.nlib.cc/nx/0100D1200B940000/screen/4",
+    "http://api.nlib.cc/nx/0100D1200B940000/screen/5",
+    "http://api.nlib.cc/nx/0100D1200B940000/screen/6"
+  ],
+  "version": 0,
+  "size": 288484930
+}

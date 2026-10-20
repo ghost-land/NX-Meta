@@ -1,0 +1,18 @@
+{
+  "name": "Volcano Princess",
+  "publisher": "Colorful Palette",
+  "releaseDate": "20260730",
+  "description": "Multi-ending daughter-raising simulation game: Volcano Princess\n\nIn a volcanic kingdom where smithing, magic, and alchemy flourish,\nyou play as a father and guide your daughter as she grows up.\n\nEach and every choice you make will influence your daughter's growth and lead the story to different endings.\n\nFeaturing over 50 unique endings, the game offers a wide variety of outcomes based on your future career path and the bonds you forge with the people who matter most.\n\nWith its multiplatform release, this version also includes full Japanese voice support, newly written story content, new event illustrations, and a brand-new exploration map.\n\n[Notes]\n\"Volcano Princess Prologue\" is a demo version.\nData played in \"Volcano Princess Prologue\" cannot be carried over to the full release. Thank you for your understanding.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007CB025C58000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007CB025C58000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007CB025C58000/screen/1",
+    "http://api.nlib.cc/nx/01007CB025C58000/screen/2",
+    "http://api.nlib.cc/nx/01007CB025C58000/screen/3",
+    "http://api.nlib.cc/nx/01007CB025C58000/screen/4",
+    "http://api.nlib.cc/nx/01007CB025C58000/screen/5",
+    "http://api.nlib.cc/nx/01007CB025C58000/screen/6"
+  ],
+  "version": 65536,
+  "size": 1546173792
+}

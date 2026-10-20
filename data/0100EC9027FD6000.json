@@ -1,0 +1,18 @@
+{
+  "name": "Mate'Morphosis",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20260805",
+  "description": "Strategize and conquer in a brainteasing twist on a tabletop gaming classic! Mate’Morphosis is a chess-inspired puzzle game built around the concept of becoming the pieces that you capture. Outsmart each board, adapt to evolving mechanics and hunt down the rival king across every stage! Instead of commanding multiple pieces, you’ll need to navigate the board with a single player piece that transforms into the type of piece you’ve just defeated.\n\nStep up from pawn to knight, bishop or rook in order to take out the queen and finally gain the freedom of movement necessary to checkmate the king. Your route evolves with every move. Learn as you go, even if you’re not a master at classic chess! Enjoy retro 2D pixel art presentation and tight hand-crafted challenges with quick restarts, fast strategic pacing and a gradual climb in difficulty across dozens of unique stages!\n\n• Push your strategic thinking to the limit!\n• Master 60 hand-crafted puzzles inspired by chess.\n• Command a single piece and morph into the ones you defeat!\n• Determine your route to victory over the queen and put the king in checkmate.\n• Enjoy beginner-friendly rules and gradual increase in challenge!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EC9027FD6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EC9027FD6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EC9027FD6000/screen/1",
+    "http://api.nlib.cc/nx/0100EC9027FD6000/screen/2",
+    "http://api.nlib.cc/nx/0100EC9027FD6000/screen/3",
+    "http://api.nlib.cc/nx/0100EC9027FD6000/screen/4",
+    "http://api.nlib.cc/nx/0100EC9027FD6000/screen/5",
+    "http://api.nlib.cc/nx/0100EC9027FD6000/screen/6"
+  ],
+  "version": 0,
+  "size": 82045589
+}

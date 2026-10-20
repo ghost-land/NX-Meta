@@ -2,7 +2,7 @@
   "name": "Construction Sim: City and Road Builder",
   "publisher": "Head A Games",
   "releaseDate": "20260106",
-  "description": "Take the reins of your own construction company and transform a small contracting gig into an industry-leading empire. In Construction Sim: City and Road Builder, every job is a stepping stone — from hauling materials and clearing sites to assembling massive bridges, paving roads, and even installing wind turbines.\n\nMaster the art of construction with a deep set of mechanics:\n- Dynamic Contract System – Tackle jobs of varying complexity, from simple one-star deliveries to multi-stage mega projects.\n- Company Progression – Upgrade your business to unlock advanced contracts, features, and bigger challenges.\n- Specialized Machinery – Purchase, maintain, and operate a full fleet of equipment, from excavators and cranes to dump trucks and compactors.\n- Realistic Operations – Experience authentic physics for loading, leveling, compacting, and transporting.\n- Equipment Management – Match the right machines to each job, and keep them in shape with a detailed repair system.\n\nWith clean, realistic visuals and an atmosphere that captures the everyday grind of the construction world, Construction Sim: City and Road Builder delivers the satisfying journey from rookie contractor to industry titan.\n",
+  "description": "Take the reins of your own construction company and transform a small contracting gig into an industry-leading empire. In Construction Sim: City and Road Builder, every job is a stepping stone — from hauling materials and clearing sites to assembling massive bridges, paving roads, and even installing wind turbines.\n\nMaster the art of construction with a deep set of mechanics:\n- Dynamic Contract System – Tackle jobs of varying complexity, from simple one-star deliveries to multi-stage mega projects.\n- Company Progression – Upgrade your business to unlock advanced contracts, features, and bigger challenges.\n- Specialized Machinery – Purchase, maintain, and operate a full fleet of equipment, from excavators and cranes to dump trucks and compactors.\n- Realistic Operations – Experience authentic physics for loading, leveling, compacting, and transporting.\n- Equipment Management – Match the right machines to each job, and keep them in shape with a detailed repair system.\n\nWith clean, realistic visuals and an atmosphere that captures the everyday grind of the construction world, Construction Sim: City and Road Builder delivers the satisfying journey from rookie contractor to industry titan.",
   "bannerUrl": "http://api.nlib.cc/nx/0100879025156000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100879025156000/icon/200",
   "screenshots": [
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100879025156000/screen/4",
     "http://api.nlib.cc/nx/0100879025156000/screen/5",
     "http://api.nlib.cc/nx/0100879025156000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 652847232
 }

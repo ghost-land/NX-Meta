@@ -1,0 +1,18 @@
+{
+  "name": "Dead Gears - Space of War",
+  "publisher": "CONSANN REAL ESTATE",
+  "releaseDate": "20260529",
+  "description": "Everything changed the moment the signal was lost.\nA distant colony on planet Virelia has fallen silent after a mysterious bio-mechanical infection spread across the surface, consuming everything in its path. What was once a functioning world is now a hostile environment where technology and life have merged into something unpredictable and dangerous.\n\nYou are Captain Darius Vex, leader of an elite unit sent to investigate, contain, and eliminate the threat. The mission quickly turns into a fight for survival as you move through abandoned facilities, ruined cities, and infected zones where every step forward reveals new dangers.\n\nCombat is shaped by choice and situation. You can move through shadows, disable enemy systems, and avoid detection, or engage directly using advanced energy-based weapons built for high-intensity encounters. Each approach changes how you experience the battlefield, forcing you to adapt constantly.\n\nAt the core of your abilities lies a powerful energy control system. You absorb and redirect energy to activate devices, disable threats, generate protective shields, or unleash powerful bursts that can turn the tide of battle. Managing energy becomes just as important as aiming and movement.\n\nExploration reveals more than just new paths. Hidden areas, data logs, and fragments of information begin to uncover the origin of the infection and what really happened on Virelia. The deeper you go, the more the line between machine and organism begins to disappear.\n\nAs you progress, your equipment evolves, your abilities expand, and the enemies grow more aggressive and intelligent. What begins as a mission becomes a descent into the core of an alien system that is still growing.\n\nSurvival is not guaranteed. Understanding the threat is the only way forward.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EC1025E74000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EC1025E74000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EC1025E74000/screen/1",
+    "http://api.nlib.cc/nx/0100EC1025E74000/screen/2",
+    "http://api.nlib.cc/nx/0100EC1025E74000/screen/3",
+    "http://api.nlib.cc/nx/0100EC1025E74000/screen/4",
+    "http://api.nlib.cc/nx/0100EC1025E74000/screen/5",
+    "http://api.nlib.cc/nx/0100EC1025E74000/screen/6"
+  ],
+  "version": 0,
+  "size": 1327270184
+}

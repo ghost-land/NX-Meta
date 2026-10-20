@@ -2,7 +2,7 @@
   "name": "Doki Monsters : Quest",
   "publisher": "REDDEER.GAMES",
   "releaseDate": "20251127",
-  "description": "Have you ever wanted to relive a cartridge-era adventure? Now’s your chance!\nIn Doki Monsters: Quest, you set out to find your missing childhood friend — teaming up with captured creatures, battling turn-by-turn, and pushing deeper into a dangerous open world. \n\nGrow stronger, unlock new routes, and face off against Rangers and shady corporations that disturb the peace.\n\nPrefer comfort with your challenge? Modern touches keep the journey smooth: fast-forward battles, optional helper tips, and a quest log that keeps your goals crystal clear. Choose between an 8-bit or piano soundtrack, switch up retro color palettes, and make the adventure yours.\n\nWhat the adventure offers:\n- 140+ original monsters to collect, train, and evolve your strategy.\n- About a 20 hour story spanning 15+ towns, plus caves, shrines, seas, and mountains.\n- Turn-based battles against Rangers and corporations, with seamless overworld encounters.\n- Rare-hunt post-game content and 7 alternate looks per monster (one ultra-rare!).\n- Fast-forward battles, optional tips, and a clear quest log — you choose your way of playing!\n- Possibility to select 8-bit or piano OST, toggle 20+ retro color palettes, and choose from 9 playable characters.\n- Side activities — everyone’s favorite — FISHING!\n- 4 save files available in case you would like to share your world with your friends!\n\nSharpen your strategy, build the ultimate team, and bring a friend home!\n\nDoki Monsters: Quest’s amazing adventure awaits you!",
+  "description": "Have you ever wanted to relive a cartridge-era adventure? Now’s your chance!\nIn Doki Monsters: Quest, you set out to find your missing childhood friend — teaming up with captured creatures, battling turn-by-turn, and pushing deeper into a dangerous open world.\n\nGrow stronger, unlock new routes, and face off against Rangers and shady corporations that disturb the peace.\n\nPrefer comfort with your challenge? Modern touches keep the journey smooth: fast-forward battles, optional helper tips, and a quest log that keeps your goals crystal clear. \n\nWhat the adventure offers:\n- 140+ original monsters to collect, train, and evolve your strategy.\n- About a 20 hour story spanning 15+ towns, plus caves, shrines, seas, and mountains.\n- Turn-based battles against Rangers and corporations, with seamless overworld encounters.\n- Rare-hunt post-game content and 7 alternate looks per monster (one ultra-rare!).\n- Fast-forward battles, optional tips, and a clear quest log — you choose your way of playing!\n- Side activities — everyone’s favorite — FISHING!\n- 4 save files available in case you would like to share your world with your friends!\n\nSharpen your strategy, build the ultimate team, and bring a friend home!\n\nDoki Monsters: Quest’s amazing adventure awaits you!\n",
   "bannerUrl": "http://api.nlib.cc/nx/010084202447E000/banner",
   "iconUrl": "https://api.nlib.cc/nx/010084202447E000/icon/200",
   "screenshots": [
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/010084202447E000/screen/4",
     "http://api.nlib.cc/nx/010084202447E000/screen/5",
     "http://api.nlib.cc/nx/010084202447E000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 69986833
 }

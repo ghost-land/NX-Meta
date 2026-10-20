@@ -1,0 +1,18 @@
+{
+  "name": "Simogo Legacy Collection",
+  "publisher": "Simogo",
+  "releaseDate": "20251202",
+  "description": "From cute arcade novelties to innovative text-based thrillers and acclaimed fourth wall-breaking stories, Simogo Legacy Collection is an eclectic celebration of Simogo's past, featuring faithful renditions of seven games released on mobile platforms between 2010 and 2015.\n\n• Kosmo Spin\n• Bumpy Road\n• Beat Sneak Bandit\n• Year Walk (+ Year Walk Companion)\n• DEVICE 6\n• The Sailor’s Dream\n• SPL-T\n\nAdditionally, Simogo Legacy Collection features bonus content with thoughtfully curated curios from Simogo's wide-ranging history.\n\n• Year Walk Bedtime Stories for Awful Children – E-book\n• The Lighthouse Painting – Audio drama Podcast\n• Music – Tracks from Simogo’s history, including previously unreleased tracks\n• Images – Illustrations from Simogo’s archive\n• Year Walk Prototype – Playable prototype\n• Bumpy Road Prototype – Playable prototype\n• Rollovski Prototype – Playable prototype\n• The Sensational December Machine – Playable short story\n\nRequires understanding of written and spoken English to be fully enjoyed.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DCD025378000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DCD025378000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DCD025378000/screen/1",
+    "http://api.nlib.cc/nx/0100DCD025378000/screen/2",
+    "http://api.nlib.cc/nx/0100DCD025378000/screen/3",
+    "http://api.nlib.cc/nx/0100DCD025378000/screen/4",
+    "http://api.nlib.cc/nx/0100DCD025378000/screen/5",
+    "http://api.nlib.cc/nx/0100DCD025378000/screen/6"
+  ],
+  "version": 0,
+  "size": 846973524
+}

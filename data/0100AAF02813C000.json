@@ -1,0 +1,18 @@
+{
+  "name": "Ready or Nowhere",
+  "publisher": "Global Games Publisher",
+  "releaseDate": "20260818",
+  "description": "Step into the heart of high-risk tactical operations in this intense first-person shooter where every move can mean the difference between success and failure. As an elite tactical operator, you are deployed into hostile environments overrun by dangerous terrorists, where innocent lives depend entirely on your actions. Every mission demands careful planning, accurate shooting, and the ability to stay calm under relentless pressure as you fight through fortified enemy positions and rescue hostages before it's too late.\n\nFace unpredictable combat across detailed locations where every room, hallway, and corner could hide a deadly threat. Build your perfect loadout, customize your weapons and equipment, and adapt your tactics to every situation. Success isn't determined by speed alone—it belongs to those who think ahead, use every advantage, and complete every objective without leaving anyone behind.\n\nKey Features:\n• Complete Tactical Missions: Finish two challenging operations across two detailed maps.\n• Rescue Every Hostage: Save innocent civilians and eliminate every terrorist.\n• Strategic Combat: Use tactics, precision, and smart positioning to survive.\n• Weapon Customization: Add suppressors, change colors, and equip attachments.\n• Customize Your Operator: Personalize your outfit with tactical clothing and gear.\n\n\n\nSave every hostage, eliminate every hostile, and complete every objective to prove yourself as an elite operator capable of succeeding where others fail.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AAF02813C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AAF02813C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AAF02813C000/screen/1",
+    "http://api.nlib.cc/nx/0100AAF02813C000/screen/2",
+    "http://api.nlib.cc/nx/0100AAF02813C000/screen/3",
+    "http://api.nlib.cc/nx/0100AAF02813C000/screen/4",
+    "http://api.nlib.cc/nx/0100AAF02813C000/screen/5",
+    "http://api.nlib.cc/nx/0100AAF02813C000/screen/6"
+  ],
+  "version": 0,
+  "size": 631047500
+}

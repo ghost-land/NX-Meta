@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Zombie Soup Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 1391417068
 }

@@ -1,0 +1,18 @@
+{
+  "name": "Tiny Crown",
+  "publisher": "Gametry",
+  "releaseDate": "20260814",
+  "description": "Tiny Crown is a fast-paced pixel-art platformer where you guide a brave little king through a castle full of traps, spikes, and dangerous jumps. Run, leap, and survive your way across handcrafted levels that test your timing, precision, and patience.\nDon’t let the charming retro visuals fool you — every room is a challenge. One wrong move, and the castle will punish you. But with skill, persistence, and sharp reflexes, even the smallest ruler can conquer the deadliest dungeon.",
+  "bannerUrl": "http://api.nlib.cc/nx/010078902841E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010078902841E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010078902841E000/screen/1",
+    "http://api.nlib.cc/nx/010078902841E000/screen/2",
+    "http://api.nlib.cc/nx/010078902841E000/screen/3",
+    "http://api.nlib.cc/nx/010078902841E000/screen/4",
+    "http://api.nlib.cc/nx/010078902841E000/screen/5",
+    "http://api.nlib.cc/nx/010078902841E000/screen/6"
+  ],
+  "version": 0,
+  "size": 53183738
+}

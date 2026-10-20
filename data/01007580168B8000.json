@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Off The Road Unleashed Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 367621485
 }

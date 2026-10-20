@@ -1,0 +1,18 @@
+{
+  "name": "The Legend of Heroes: Trails beyond the Horizon",
+  "publisher": "NIS America",
+  "releaseDate": "20260115",
+  "description": "The prophesied end of the Zemurian continent draws near, and so does the launch of humanity's first foray into space. A sudden invitation from Marduk to cooperate in a high-tech training exercise sets Van Arkride, Ashen Chevalier Rean Schwarzer, and Father Kevin Graham on a collision course with the secrets at the very core of Zemuria.\n\nTheir paths may diverge, but the ultimate question remains the same: Just what lies beyond the edge of the horizon?",
+  "bannerUrl": "http://api.nlib.cc/nx/01007B102141A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007B102141A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007B102141A000/screen/1",
+    "http://api.nlib.cc/nx/01007B102141A000/screen/2",
+    "http://api.nlib.cc/nx/01007B102141A000/screen/3",
+    "http://api.nlib.cc/nx/01007B102141A000/screen/4",
+    "http://api.nlib.cc/nx/01007B102141A000/screen/5",
+    "http://api.nlib.cc/nx/01007B102141A000/screen/6"
+  ],
+  "version": 0,
+  "size": 11384351066
+}

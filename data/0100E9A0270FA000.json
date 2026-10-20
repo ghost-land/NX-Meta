@@ -1,0 +1,18 @@
+{
+  "name": "Blackspot: The Card Game",
+  "publisher": "Elushis",
+  "releaseDate": "20260507",
+  "description": "Blackspot is a fast paced pirate card duel where every decision could make you a legend or send you to the bottom of the sea.\n\nDraw your card. Read your enemy. Then choose to play it straight, run a bluff, or throw down a taunt. One wrong read and your streak is gone, but walk away too early and you will never know what you left on the table.\n\nQuick, tense duels resolve in seconds with a single bold choice. Face dangerous opponents with distinct personalities, from the sloppy Drunkard to the ruthless Captain.\n\nEndless Arcade mode lets you build your streak, spend your gold, and survive as long as you dare. Challenge Mode offers progressive trials that teach the ropes and push your limits. Local multiplayer brings pass and play duels for two pirates on one Nintendo Switch™.\n\nDeep meta progression allows you to earn Notoriety, unlock relics, cosmetics, and permanent advantages across every run. The Black Spot raises the stakes. Draw the Ace of Spades and you cannot run. You must win or die trying.\n\nEasy to learn. Hard to master. Impossible to put down.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E9A0270FA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E9A0270FA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E9A0270FA000/screen/1",
+    "http://api.nlib.cc/nx/0100E9A0270FA000/screen/2",
+    "http://api.nlib.cc/nx/0100E9A0270FA000/screen/3",
+    "http://api.nlib.cc/nx/0100E9A0270FA000/screen/4",
+    "http://api.nlib.cc/nx/0100E9A0270FA000/screen/5",
+    "http://api.nlib.cc/nx/0100E9A0270FA000/screen/6"
+  ],
+  "version": 0,
+  "size": 329183255
+}

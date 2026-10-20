@@ -1,0 +1,18 @@
+{
+  "name": "Dungeon Clawler",
+  "publisher": "Stray Fawn",
+  "releaseDate": "20260430",
+  "description": "Dungeon Clawler mixes deck-building with a dash of roguelike mechanics and most importantly: a claw machine.\n\nTo improve his fortune in gambling, the evil dungeon lord has chopped off your left rabbit paw and wears it as a charm. Replacing your lost limb with a trusty claw, you fight your way through the dungeon to reclaim what's yours!\n\nInstead of drawing cards from a deck, your items are physically dropped into a claw machine. Each turn you operate the claw to grab items — what you grab determines your actions for that turn. Size and material matter: larger items give the claw more to grip, while different materials unlock special synergies with your claws and perks.\n\nFind new items and add them to your machine to create game-changing builds. Earn gold coins to upgrade or modify your items and unlock powerful new synergies. You will need to use every trick up your sleeve to reach the evil dungeon lord’s lair at the heart of the dungeon and reclaim your lost paw.\n\n• The ultimate claw machine roguelike experience — control the claw in real time to grab weapons, shields, and items\n• Choose from multiple unique characters, each with their own strengths, weaknesses, and special abilities\n• Multiple difficulty levels and unlockable lucky paws to customize your run\n• Break the game — go crazy with different claw and item synergies\n• Venture into mystery locations and discover treasures and dangerous obstacles\n• Spend your hard-earned coins in the dungeon’s pachinko machines\n• Meet different characters who might help you on your journey",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A500257A4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A500257A4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A500257A4000/screen/1",
+    "http://api.nlib.cc/nx/0100A500257A4000/screen/2",
+    "http://api.nlib.cc/nx/0100A500257A4000/screen/3",
+    "http://api.nlib.cc/nx/0100A500257A4000/screen/4",
+    "http://api.nlib.cc/nx/0100A500257A4000/screen/5",
+    "http://api.nlib.cc/nx/0100A500257A4000/screen/6"
+  ],
+  "version": 0,
+  "size": 257453816
+}

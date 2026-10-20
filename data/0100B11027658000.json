@@ -1,0 +1,18 @@
+{
+  "name": "Defender of the Crown: The Legend Returns",
+  "publisher": "Nordcurrent",
+  "releaseDate": "20260813",
+  "description": "In the 1980s, Defender of the Crown helped define a new kind of cinematic strategy game. Now it returns, rebuilt for modern platforms and remastered with an entirely new way to play.  \n \n\nConquer territories, raise armies, storm castles, and shift the balance of power. It's the Defender of the Crown you remember - just sharper, cleaner, and built for today.   \n\nThree Ways to Play   \n\nRetro Mode. The original Amiga classic, preserved with near-perfect authenticity and quality-of-life enhancements.  \n\nClassic Mode. Amiga classic reimagined for today. A completely new visual identity, refined mechanics, and smoother systems.  \n\nKingdom Mode. An entirely new challenge. Procedurally generated maps, special dice mechanics, unlockable abilities, and multiple difficulty levels to keep every run unpredictable.   \n\nFaithful to Its Roots, Built for Today  \n\nEverything that made the original special is intact: the ruleset, the pacing, the atmosphere. What's changed is everything around it - cleaner systems, improved balance, a modernized interface, and quality-of-life updates throughout.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100B11027658000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B11027658000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B11027658000/screen/1",
+    "http://api.nlib.cc/nx/0100B11027658000/screen/2",
+    "http://api.nlib.cc/nx/0100B11027658000/screen/3",
+    "http://api.nlib.cc/nx/0100B11027658000/screen/4",
+    "http://api.nlib.cc/nx/0100B11027658000/screen/5",
+    "http://api.nlib.cc/nx/0100B11027658000/screen/6"
+  ],
+  "version": 0,
+  "size": 569160799
+}

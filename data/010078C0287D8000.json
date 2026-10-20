@@ -1,0 +1,18 @@
+{
+  "name": "Back Driver Simulator",
+  "publisher": "Head A Games",
+  "releaseDate": "20260814",
+  "description": "Get ready for a wild ride in Back Driver Simulator, where you’re not behind the wheel—but your decisions still control the chaos. Sit in the back seat of a speeding taxi, direct the driver, and navigate unpredictable roads from a first-person perspective. Every choice matters, and one wrong command can turn a smooth run into total disaster. Fast, absurd, and full of surprises, this is a driving experience unlike any other.\n\nFeatures:\n• Indirect Driving Gameplay: Command the driver instead of steering yourself, creating tense, unpredictable racing scenarios.\n• Challenging Routes: Master focus, timing, and nerves across multiple routes and environments.\n• Stylized Chaotic World: Navigate vibrant, exaggerated streets filled with hazards, humor, and visual gags.\n• First-Person Passenger View: Experience every near-miss, crash, and triumph up close.\n• Multiple Maps & Tracks: Fifteen unique tracks across five distinct maps, each with its own challenges.\n• Varied Drivers & Vehicles: Interact with different taxi drivers, each with unique personalities, dialogue, and reactions.\n• Playful Level Design: Discover hidden easter eggs, clever blockages, and surprises on every road.\n\nTake control from the back seat, survive the madness, and master indirect driving in Back Driver Simulator. It’s a fast-paced, hilarious, and unpredictable journey where every decision can make or break the ride. Are you ready to direct the chaos?",
+  "bannerUrl": "http://api.nlib.cc/nx/010078C0287D8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010078C0287D8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010078C0287D8000/screen/1",
+    "http://api.nlib.cc/nx/010078C0287D8000/screen/2",
+    "http://api.nlib.cc/nx/010078C0287D8000/screen/3",
+    "http://api.nlib.cc/nx/010078C0287D8000/screen/4",
+    "http://api.nlib.cc/nx/010078C0287D8000/screen/5",
+    "http://api.nlib.cc/nx/010078C0287D8000/screen/6"
+  ],
+  "version": 0,
+  "size": 277881325
+}

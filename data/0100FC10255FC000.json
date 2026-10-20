@@ -1,5 +1,5 @@
 {
-  "name": "トライアルズオブオーリンパス",
+  "name": "Trials of Olympus",
   "publisher": "EpiXR Games",
   "releaseDate": "20260226",
   "description": "The gods of Olympus seek a mortal champion to fight against a rising darkness. Only those who endure their trials may be chosen.\nIn Trials of Olympus, you journey through the realms of Ares, Artemis, Hades, Poseidon, and Zeus. Each god’s domain holds three great trials — vast platforming levels filled with traps, enemies, and divine essences to recover.\nYou cannot fight, for no weapon is yet yours. Instead, rely on agility and wit:\n•\tDash forward, upward, or downward to escape danger.\n•\tDouble jump and float across perilous gaps.\n•\tDodge fearsome enemies you cannot yet strike.\n•\tCollect ambrosia to restore your mana and keep moving.\n•\tExplore expansive worlds inspired by each god’s power.\nGather all divine essences and earn the gods’ favor to ascend Olympus. Male or female hero — switch freely and face your destiny.\nWill you be the mortal chosen to stand with the gods?\n",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100FC10255FC000/screen/4",
     "http://api.nlib.cc/nx/0100FC10255FC000/screen/5",
     "http://api.nlib.cc/nx/0100FC10255FC000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 2111342515
 }

@@ -1,0 +1,18 @@
+{
+  "name": "Mina the Hollower",
+  "publisher": "Yacht Club Games",
+  "releaseDate": "20260529",
+  "description": "Descend into a frightful world of action-adventure in Mina the Hollower. Take control of Mina, a renowned Hollower hurtled into a desperate mission to rescue a cursed island. Burrow beneath hazards and monsters, whip foes into oblivion, and gear up with an arsenal of sidearms and trinkets. Explore a vast world filled with pixel-perfect graphics, masterful gameplay, beastly bosses, and infectious music. Encounter a cast of bizarre characters, search out secrets in an array of exotic locales, and illuminate the omnipresent darkness in Mina the Hollower, a brand new game from the developers who brought you Shovel Knight!\n\nFeatures:\n- Hauntingly authentic 8-bit visuals, refined for the modern era.\n\n- Modern touches abound: detailed animation, widescreen visuals, and rock-solid controls!\n\n- Leap, dodge, and burrow through the ground to battle monsters or navigate the world.\n\n- Lash at foes with your trusty whip, Nightstar- or choose from an arsenal of weapons, each with a totally different move set.\n\n- Discover and utilize a reliquary's worth of unusual Sidearms to gain the advantage in combat.\n\n- Collect and equip Trinkets to acquire a variety of exotic effects. Level Mina up to suit your unique playstyle.\n\n- Electrifying 8-bit inspired soundtrack by chiptune virtuoso, Jake Kaufman.\n\n- Descend into the depths of madness with a bone-chilling, yet heartwarming tale inspired by Victorian Gothic horror.\n\n- Explore a huge, dark world brimming with secrets, challenging battles, and interconnected level design.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100DCD01F306000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100DCD01F306000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100DCD01F306000/screen/1",
+    "http://api.nlib.cc/nx/0100DCD01F306000/screen/2",
+    "http://api.nlib.cc/nx/0100DCD01F306000/screen/3",
+    "http://api.nlib.cc/nx/0100DCD01F306000/screen/4",
+    "http://api.nlib.cc/nx/0100DCD01F306000/screen/5",
+    "http://api.nlib.cc/nx/0100DCD01F306000/screen/6"
+  ],
+  "version": 0,
+  "size": 772768462
+}

@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Depixtion Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 48939805
 }

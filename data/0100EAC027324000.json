@@ -1,0 +1,18 @@
+{
+  "name": "Aerea",
+  "publisher": "Soedesco",
+  "releaseDate": "20260903",
+  "description": "The world needs you!\nAereA is a music-themed Action RPG in which you play as one of Great Maestro Guido’s disciples and explore Aezir; a floating island that was broken into pieces. Your mission is to find and return the nine primordial instruments to restore balance and peace to the world. You have to find your way through all parts of the scattered islands; complete quests, solve puzzles, defeat bosses and discover the truth behind the islands. Will you be able to return the nine primordial instruments?\n\nFeatures\nEnjoy the beautifully hand-drawn music themed graphic style\nPlay as 4 different characters, each with their own unique set of abilities\nFight 9 unique bosses, inspired by a specific musical instruments \nSwitch to local co-op to form a team with up to 4 friends at any time",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EAC027324000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EAC027324000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EAC027324000/screen/1",
+    "http://api.nlib.cc/nx/0100EAC027324000/screen/2",
+    "http://api.nlib.cc/nx/0100EAC027324000/screen/3",
+    "http://api.nlib.cc/nx/0100EAC027324000/screen/4",
+    "http://api.nlib.cc/nx/0100EAC027324000/screen/5",
+    "http://api.nlib.cc/nx/0100EAC027324000/screen/6"
+  ],
+  "version": 0,
+  "size": 1548112951
+}

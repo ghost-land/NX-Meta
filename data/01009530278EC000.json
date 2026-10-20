@@ -1,0 +1,18 @@
+{
+  "name": "Barbarous: Survivor's Quest",
+  "publisher": "QubicGames",
+  "releaseDate": "20260509",
+  "description": "The land is overrun by hungry orcs, skeletons, ghosts, rats, and other dangerous creatures, and only the strongest will last! Fight through wave after wave of enemies, face powerful bosses, and upgrade your hero to become unstoppable.\n\nEvery run is a new challenge! Choose your upgrades wisely and shape your build as you progress. Open treasure chests, gather experience, and stay in the fight as the enemy waves grow stronger.\n\nImprove your stats, unlock powerful weapons, and collect valuable rewards as you carve your way through the chaos!\n\nFeatures:\n- Fight waves of orcs, skeletons, ghosts, rats, and more\n- Face powerful bosses and earn valuable rewards\n- Shape your build with many weapons and items\n- Upgrade and evolve your gear!\n- Power up and become the ultimate hero\n\nHow long can you survive before the horde overwhelms you?",
+  "bannerUrl": "http://api.nlib.cc/nx/01009530278EC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009530278EC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009530278EC000/screen/1",
+    "http://api.nlib.cc/nx/01009530278EC000/screen/2",
+    "http://api.nlib.cc/nx/01009530278EC000/screen/3",
+    "http://api.nlib.cc/nx/01009530278EC000/screen/4",
+    "http://api.nlib.cc/nx/01009530278EC000/screen/5",
+    "http://api.nlib.cc/nx/01009530278EC000/screen/6"
+  ],
+  "version": 0,
+  "size": 96547428
+}

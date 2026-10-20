@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "No Man's Sky Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 3246641799
 }

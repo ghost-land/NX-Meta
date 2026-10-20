@@ -1,0 +1,15 @@
+{
+  "name": "Paranormal Watcher",
+  "publisher": "SURPRISED HOTDOG",
+  "releaseDate": "20260910",
+  "description": "Paranormal Watcher invites you into the eerie world of paranormal hunting from a safe distance but don’t let the safety of the screen fool you. As a remote paranormal investigator, you’re tasked with monitoring haunted locations through surveillance cameras. Your mission: detect and report every unsettling anomaly that creeps into view, from flickering lights to ghostly apparitions.\n\nparanormal activity you capture isn’t always obvious objects might move, shadows could shift, and figures may emerge from the darkness. Only your sharp eye and quick reflexes can catch the disturbances in real time and fix the scene by filing accurate anomaly reports. But beware: the ghosts might be watching you, too.\n\n5 levels to complete.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BCC024304000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BCC024304000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BCC024304000/screen/1",
+    "http://api.nlib.cc/nx/0100BCC024304000/screen/2",
+    "http://api.nlib.cc/nx/0100BCC024304000/screen/3"
+  ],
+  "version": 0,
+  "size": 3205132293
+}

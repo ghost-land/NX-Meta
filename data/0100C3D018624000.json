@@ -1,0 +1,18 @@
+{
+  "name": "Quartet",
+  "publisher": "Something Classic",
+  "releaseDate": "20260512",
+  "description": "A series of unlikely train robberies. A mysterious deck of cards. A fleet of deadly airships. An accidental mage. Choose from four stories, in any order, and discover how they intertwine in this turn-based RPG. ",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C3D018624000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C3D018624000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C3D018624000/screen/1",
+    "http://api.nlib.cc/nx/0100C3D018624000/screen/2",
+    "http://api.nlib.cc/nx/0100C3D018624000/screen/3",
+    "http://api.nlib.cc/nx/0100C3D018624000/screen/4",
+    "http://api.nlib.cc/nx/0100C3D018624000/screen/5",
+    "http://api.nlib.cc/nx/0100C3D018624000/screen/6"
+  ],
+  "version": 0,
+  "size": 616489423
+}

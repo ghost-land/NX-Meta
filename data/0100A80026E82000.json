@@ -1,7 +1,7 @@
 {
   "name": "FUR Squadron Phoenix",
   "publisher": "Raptor Claw",
-  "releaseDate": "20260218",
+  "releaseDate": "20260225",
   "description": "A roguelite campaign where every run reshuffles the levels, keeping the action fresh and unpredictable.\n\nUpgradeable ships, unlockable weapons, and skill trees that let you craft your own path to becoming an ace pilot.\n\nMassive bosses, dynamic environments, and intense battles across space, air, and sea.\n\nA dazzling arsenal: unleash power beams, multi-missile barrages, and even a nuke strike.\n\nTrain with a renegade crew of elite pilots using cutting-edge VR tech. Complete their missions, boost your Overdrive, and unlock story-rich conversations that reveal their pasts—and yours.",
   "bannerUrl": "http://api.nlib.cc/nx/0100A80026E82000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100A80026E82000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100A80026E82000/screen/4",
     "http://api.nlib.cc/nx/0100A80026E82000/screen/5",
     "http://api.nlib.cc/nx/0100A80026E82000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 1141227259
 }

@@ -1,0 +1,18 @@
+{
+  "name": "Talespinner",
+  "publisher": "Kwalee",
+  "releaseDate": "20260806",
+  "description": "Enter a captivating realm steeped in the exotic and bizarre tapestry of Japanese mythology with Talespinner, a deck-building roguelike adventure. As the storyteller, you will guide your chosen hero through an ever-changing narrative shaped by your decisions and deck construction.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100E1F02727C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100E1F02727C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100E1F02727C000/screen/1",
+    "http://api.nlib.cc/nx/0100E1F02727C000/screen/2",
+    "http://api.nlib.cc/nx/0100E1F02727C000/screen/3",
+    "http://api.nlib.cc/nx/0100E1F02727C000/screen/4",
+    "http://api.nlib.cc/nx/0100E1F02727C000/screen/5",
+    "http://api.nlib.cc/nx/0100E1F02727C000/screen/6"
+  ],
+  "version": 0,
+  "size": 460702258
+}

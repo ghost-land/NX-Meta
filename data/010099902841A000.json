@@ -1,0 +1,18 @@
+{
+  "name": "BOMCAT",
+  "publisher": "Regista",
+  "releaseDate": "20260723",
+  "description": "Throw bombs and blast your way forward!\n\nIn this stage-clearing action game filled with love for ’80s arcade classics, your mission is to rescue a lady trapped inside a dangerous factory!\n\nThe hero is a cute yet tough bipedal cat.\n\nRide the sounds of the 1980s as you infiltrate a perilous bomb factory.\n\nEach stage is packed with unique gimmicks designed to test both your reflexes and action skills.\n\nDestroy the four computer terminals with strategically placed bombs to disable the barrier, then finish off the boss once and for all!\n\nDon’t worry ? the controls and pacing are built for the 21st century.\n\nEnjoy a fresh new bomb-action experience that blends retro visuals with modern gameplay feel.\n\n\nIncludes an Easy Mode that anyone can aim to clear, a Hard Mode for advanced players, and an Endless Mode where 10 stages loop infinitely.",
+  "bannerUrl": "http://api.nlib.cc/nx/010099902841A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010099902841A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010099902841A000/screen/1",
+    "http://api.nlib.cc/nx/010099902841A000/screen/2",
+    "http://api.nlib.cc/nx/010099902841A000/screen/3",
+    "http://api.nlib.cc/nx/010099902841A000/screen/4",
+    "http://api.nlib.cc/nx/010099902841A000/screen/5",
+    "http://api.nlib.cc/nx/010099902841A000/screen/6"
+  ],
+  "version": 0,
+  "size": 55975164
+}

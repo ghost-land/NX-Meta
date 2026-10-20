@@ -1,0 +1,18 @@
+{
+  "name": "Afterplace",
+  "publisher": "indie.io",
+  "releaseDate": "20260226",
+  "description": "Afterplace is an adventurous retro game for those who like to get lost. It's a huge open world, full of hidden secrets, treasures, and creatures. Explore the woods, fight monsters, talk to ostensibly shady characters, walk away from those characters mid-conversation (if you want to), and get so lost you fall out of the world entirely (and maybe even into another). You never know what the forest might be hiding, and not all trails are paved. Labyrinths and dungeons are tucked away in the most concealed nooks. There are no waypoints in Afterplace. You'll have to forge your own path.\n\nAfterplace strives to bring an experience that feels both small and immense at the same time. The game has simple, fluid controls, allowing you to focus on exploration and discovery. Characters are happy to chat - or you can run right past them! You get to choose what story to explore, if any at all (we are not responsible for the consequences of ignoring the story, whatever they may be).\n\nFEATURES\n\n-About 10 hours of unique gameplay (and much more if you lose your way)\n-No overworld map\n-An open world that lets you explore any path in any order\n-Tons of friends, enemies, and at least one frenemy\n-The ability to upgrade weapons, purchase armor, and ingest hazardous chemicals to increase your power\n-Okay maybe there is an overworld map\n-Multiple endings, decided by choices you probably don't even know you're making\n-Like 25 unique enemies? That's a lot, right?\n-Wait, no, this overworld map is written on a napkin with crayon. That won't do. \n-Secret paths that will take you to completely normal and fun places\n-A cat that you can pet. With your sword. \n-The 25 unique monsters are really special though. They have sparkling personalities, and aren't like other monsters.\n-At least two overworld maps.",
+  "bannerUrl": "http://api.nlib.cc/nx/01008E7026316000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008E7026316000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008E7026316000/screen/1",
+    "http://api.nlib.cc/nx/01008E7026316000/screen/2",
+    "http://api.nlib.cc/nx/01008E7026316000/screen/3",
+    "http://api.nlib.cc/nx/01008E7026316000/screen/4",
+    "http://api.nlib.cc/nx/01008E7026316000/screen/5",
+    "http://api.nlib.cc/nx/01008E7026316000/screen/6"
+  ],
+  "version": 0,
+  "size": 56285732
+}

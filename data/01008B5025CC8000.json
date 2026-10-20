@@ -2,7 +2,7 @@
   "name": "Softly Placed",
   "publisher": "REDDEER.GAMES",
   "releaseDate": "20251225",
-  "description": "Step into the world, where mundane tasks turn into little adventures and ordinary items provide so much joy. See everything around you in bright, new, vibrant colors and make things even more beautiful by adding fun patterns. Wake up your inner child and find the happiness in little things.\n \nEach level of the game consists of a unique challenge, providing fresh, yet relaxing gameplay, that will make you curious for what’s coming next. \n\nKEY FEATURES: \n-40 unique cozy puzzle levels\n-Gameplay consisting of different types of challenges\n-Beautiful, vibrant visuals, where everyday items turn into something magical\n-Relaxing, cheerful soundtrack \n-Inspiring, nostalgic atmosphere\n-Variety of puzzles exercising different parts of the brain",
+  "description": "Step into the world, where mundane tasks turn into little adventures and ordinary items provide so much joy. See everything around you in bright, new, vibrant colors and make things even more beautiful by adding fun patterns. Wake up your inner child and find the happiness in little things.\n \nEach level of the game consists of a unique challenge, providing fresh, yet relaxing gameplay, that will make you curious for what’s coming next.  \n\nKEY FEATURES: \n-40 unique cozy puzzle levels\n-Gameplay consisting of different types of challenges\n-Beautiful, vibrant visuals, where everyday items turn into something magical\n-Relaxing, cheerful soundtrack \n-Inspiring, nostalgic atmosphere\n-Variety of puzzles exercising different parts of the brain",
   "bannerUrl": "http://api.nlib.cc/nx/01008B5025CC8000/banner",
   "iconUrl": "https://api.nlib.cc/nx/01008B5025CC8000/icon/200",
   "screenshots": [
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/01008B5025CC8000/screen/4",
     "http://api.nlib.cc/nx/01008B5025CC8000/screen/5",
     "http://api.nlib.cc/nx/01008B5025CC8000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 204666450
 }

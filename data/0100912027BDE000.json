@@ -1,0 +1,18 @@
+{
+  "name": "Hako Maze",
+  "publisher": "Hako Maze Workshop",
+  "releaseDate": "20260625",
+  "description": "Your greatest weapons are your ability to guide a ball rolling across a cube's surface, and your skill to decode complex 2D nets.\nUse your intellect to solve the mazes etched onto these geometric structures, bypass the security, and restore the 3D artifacts sealed within.\n\n◆ Overview\nEnter a mysterious cyberspace seemingly left behind by an ancient civilization. Floating within this digital void are mysterious 3D objects, trapped inside cryptic boxes.\n\nAt first glance, they appear to be simple cubes. However, their surfaces are etched with a highly advanced security system: a series of intricate 3D mazes. By freely steering a ball across these shifting faces and guiding it to the goal, you will breach the security matrix and liberate the unknown anomalies slumbering inside.\n\n◆ Key Features\n\nLogic Puzzles That Decode the \"Net\": Test the limits of your spatial awareness. You’ll need to instantly visualize flat, 2D layouts as complex 3D structures to find the path forward.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100912027BDE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100912027BDE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100912027BDE000/screen/1",
+    "http://api.nlib.cc/nx/0100912027BDE000/screen/2",
+    "http://api.nlib.cc/nx/0100912027BDE000/screen/3",
+    "http://api.nlib.cc/nx/0100912027BDE000/screen/4",
+    "http://api.nlib.cc/nx/0100912027BDE000/screen/5",
+    "http://api.nlib.cc/nx/0100912027BDE000/screen/6"
+  ],
+  "version": 0,
+  "size": 92317400
+}

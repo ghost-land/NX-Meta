@@ -1,0 +1,17 @@
+{
+  "name": "Tome of the Damned",
+  "publisher": "Redtower Games",
+  "releaseDate": "20260730",
+  "description": "Become the Nightmare of All Humanity\n\nTome of the Damned is a dark and gripping top-down roguelike that tells the tragic story of a mage whose reckless experiments with forbidden magic ended in disaster. Once a powerful sorcerer, you are now a living corpse doomed to endless cycles of reincarnation, inhabiting the bodies of the dead. Your lair lies deep within the castle’s dungeons, surrounded by former allies and castle guards who are determined to keep you locked away to prevent your dark magic from escaping.\n\nYour journey begins in the deepest, darkest corners of the castle. Step by step, you fight your way toward freedom, facing increasingly powerful foes-seasoned warriors, cunning mages, and relentless guards willing to give their lives to stop you.\n\nAlong the way, you discover ancient altars that serve as sources of power.\n\nThese altars allow you to enhance your weapons, unlock powerful spells, and improve your attributes, offering countless paths to develop your abilities and adapt to the trials ahead.\n\nChoose one of five enchanted weapons and one of four magical grimoires, then grind your enemies to dust. But don’t worry if you happen to die.\n\nAfter all, you still have plenty of bodies left-you can simply take a new one.",
+  "bannerUrl": "http://api.nlib.cc/nx/01009EF0291C6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01009EF0291C6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01009EF0291C6000/screen/1",
+    "http://api.nlib.cc/nx/01009EF0291C6000/screen/2",
+    "http://api.nlib.cc/nx/01009EF0291C6000/screen/3",
+    "http://api.nlib.cc/nx/01009EF0291C6000/screen/4",
+    "http://api.nlib.cc/nx/01009EF0291C6000/screen/5"
+  ],
+  "version": 0,
+  "size": 1509880720
+}

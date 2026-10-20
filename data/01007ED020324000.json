@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Fantasy Sword Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 55519516
 }

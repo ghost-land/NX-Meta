@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Epic Astro Story",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 27312216
 }

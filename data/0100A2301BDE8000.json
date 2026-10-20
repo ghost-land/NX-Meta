@@ -1,0 +1,18 @@
+{
+  "name": "Luxor Evolved",
+  "publisher": "Accelerate Games",
+  "releaseDate": "20240627",
+  "description": "The wildly popular neon-soaked arcade shooter arrives on Nintendo Switch™!\n\nThe intense marble-matching shooter has evolved into a fast-paced arcade experience that’s unlike any you’ve seen before. The Shooters are stealthier, the Power-Ups more awesome and the combo Chains faster.\n\nLUXOR Evolved builds on the instantly engaging, supremely compelling gameplay of the globally beloved LUXOR series, delivering 65 unique, action-packed levels that reimagine the acclaimed classic gameplay. Each level captivates with stunning visual effects and interactive soundtracks. This number one arcade shooter game has tons of action to keep the challenges coming, your Shooter firing and the marbles flying.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A2301BDE8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A2301BDE8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A2301BDE8000/screen/1",
+    "http://api.nlib.cc/nx/0100A2301BDE8000/screen/2",
+    "http://api.nlib.cc/nx/0100A2301BDE8000/screen/3",
+    "http://api.nlib.cc/nx/0100A2301BDE8000/screen/4",
+    "http://api.nlib.cc/nx/0100A2301BDE8000/screen/5",
+    "http://api.nlib.cc/nx/0100A2301BDE8000/screen/6"
+  ],
+  "version": 0,
+  "size": 58613946
+}

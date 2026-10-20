@@ -1,0 +1,18 @@
+{
+  "name": "Dungeon Antiqua",
+  "publisher": "AMATA",
+  "releaseDate": "20260729",
+  "description": "Dungeon Antiqua is a dungeon crawl-type RPG with beautiful dots and nostalgic sounding chiptunes that are reminiscent of the 1980s and 1990s.\n\n- 2D maps that expand to match the character's field of view.\n\n- A game design that can be played over and over again thanks to a wide variety of professions, free party formation and auto-generated maps.\n\n- Game progression focused on hacking and exploration, with no redundant scenarios or direction.\n\n- Fast-paced, modern and comfortable controls.\n\nDungeon Antiqua is a portal to new adventures for players who love retro games. Enjoy new challenges while reminiscing about the good old days of gaming!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100948027FB0000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100948027FB0000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100948027FB0000/screen/1",
+    "http://api.nlib.cc/nx/0100948027FB0000/screen/2",
+    "http://api.nlib.cc/nx/0100948027FB0000/screen/3",
+    "http://api.nlib.cc/nx/0100948027FB0000/screen/4",
+    "http://api.nlib.cc/nx/0100948027FB0000/screen/5",
+    "http://api.nlib.cc/nx/0100948027FB0000/screen/6"
+  ],
+  "version": 0,
+  "size": 71076076
+}

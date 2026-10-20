@@ -1,7 +1,7 @@
 {
   "name": "I Am Future: Cozy Apocalypse Survival",
   "publisher": "tinyBuild Games",
-  "releaseDate": "20260109",
+  "releaseDate": "20260108",
   "description": "BUILD THE COZY ROOFTOP BASE OF YOUR DREAMS\n\nStarting from scratch on an abandoned rooftop, build, decorate and expand the coziest camp ever! Unlock new buildings and furniture, set up electrical grids, and neatly organize your new life. Relax, build, wander around – the world is literally yours! \n\nCUSTOMIZE YOUR CHARACTER\n\nPlay as Robin or Chris, and customize the protagonist to reflect your unique idea of the last person on Earth!\n\nSCAVENGE THE OLD-WORLD RELICS AND CRAFT NEW GADGETS\n\nFind ancient artifacts from a bygone era, such as kettles, TVs, or microwaves, take them apart using a satisfying dismantling mechanic, and gather resources for your next crafting project!\n\nHIRE A TEAM OF CUTE ROBOT-MINIONS\n\nAutomate chores around the camp with the help of cute robots! Build a team of robot-minions, give them commands, and let them chill in a charging bath!\n\nEXPLORE A MYSTERIOS WORLD\n\nSend out scouting drones on expeditions across the sunken megapolis. Discover new locations, bring something valuable back to the base, and, step by step, uncover the mystery behind the end of the world.\n\nMAKE NEW WONDERFUL FRIENDS\n\nThe fact you’re the last human on Earth does not mean you can’t still make new friends! Meet quirky robot inhabitants of this new world, like Earl the Fridge or Bombshell Barbara, and grow your bond with them.\n\nPROTECT YOUR BASE FROM THE PESKY PESTS\n\nYour camp needs love and protection. Keep pesky mutant pests from destroying the crops or the electrical grid!",
   "bannerUrl": "http://api.nlib.cc/nx/0100A10022CC2000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100A10022CC2000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100A10022CC2000/screen/4",
     "http://api.nlib.cc/nx/0100A10022CC2000/screen/5",
     "http://api.nlib.cc/nx/0100A10022CC2000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 482252278
 }

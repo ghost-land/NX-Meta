@@ -1,0 +1,18 @@
+{
+  "name": "Blast'N Bounty",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20260722",
+  "description": "Betrayed by his first mate, former gangster Quad returns years later as a space bounty hunter, setting his sights on the mafia’s 7 generals so he can finally exact his revenge against their now infamous leader! Blast’N Bounty is a vertical scrolling shoot’em up presented in a mix of retro pixel art and low poly 3D.\n\nInspired by genre classics, Blast’N Bounty offers modernized widescreen visuals, slick animations and intuitive controls that are easy to pick up but require a deft hand to really push Quad’s limits. Secure upgrade flasks to increase ship defenses and  acquire a variety of drones, each with unique behavior that works in tandem with your main shot. Master 8 challenging levels! Blast through the 7 generals’ stages in any order before the final showdown!\n\n• Blast off for vertical scrolling shoot’em up action!\n• Enjoy retro pixel art and low poly 3D in modernized widescreen style.\n• Grab upgrade flasks to power up your ship!\n• Acquire various drone types and choose the ones that work best with your playstyle.\n• Take down the mafia’s 7 generals and get revenge on those who betrayed you!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C480286EC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C480286EC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C480286EC000/screen/1",
+    "http://api.nlib.cc/nx/0100C480286EC000/screen/2",
+    "http://api.nlib.cc/nx/0100C480286EC000/screen/3",
+    "http://api.nlib.cc/nx/0100C480286EC000/screen/4",
+    "http://api.nlib.cc/nx/0100C480286EC000/screen/5",
+    "http://api.nlib.cc/nx/0100C480286EC000/screen/6"
+  ],
+  "version": 0,
+  "size": 215900042
+}

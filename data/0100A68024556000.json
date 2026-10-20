@@ -1,0 +1,18 @@
+{
+  "name": "Yomi 2",
+  "publisher": "Sirlin Games",
+  "releaseDate": "20260513",
+  "description": "Yomi 2 is a fighting game in card form. Learn your character, practice combos, and read the opponent's tendencies. Yomi captures the feel of fighting games such as Street Fighter and Fantasy Strike and was created by a lead designer of both.\n\nCards represent your moves: attacks, blocks, throws, dodges, and abilities. For example, throws beat blocks. Manage your hand to keep your options open while also trying to build up the right cards to pull off a big combo.\n\nFighting System:\n\n• Exchange! You can exchange a card in your hand with one in your discard pile each turn as long as both have the exchange symbol. Will you use this to build stronger combos or to cover your weaknesses?\n• Gems. Pick a gem to augment your character. Each gem gives you different special moves and abilities as well as a once-per-game \"gem storm\" that can turn the tides to your favor.\n• High and low attacks. Just like in a fighting game, some attacks must be blocked high while others must be blocked low. These “mixups” are especially effective if your opponent is knocked down.\n• Projectiles. “Zoner” characters can build up their hand size while throwing relatively low risk fireball-type moves.\n• Super moves. Build up super meter that you can spend on powerful super moves. To get super meter, you can discard pairs or you can land \"chain combos\" of consecutive attacks.\n\nFeatures:\n\n• 20 characters.\n• 6 gems to augment characters.\n• Single player career mode where you visit numerous card-playing venues, fight regulars, compete in tournaments, and try to become the best Yomi player in the city. (And the most popular on fake social media!)\n• Single player vs AI with four difficulty levels.\n• Online synchronous play as well as asynchronous play.\n• Pass-and-play mode for local play against a friend.\n• Tutorial to get you started.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A68024556000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A68024556000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A68024556000/screen/1",
+    "http://api.nlib.cc/nx/0100A68024556000/screen/2",
+    "http://api.nlib.cc/nx/0100A68024556000/screen/3",
+    "http://api.nlib.cc/nx/0100A68024556000/screen/4",
+    "http://api.nlib.cc/nx/0100A68024556000/screen/5",
+    "http://api.nlib.cc/nx/0100A68024556000/screen/6"
+  ],
+  "version": 0,
+  "size": 659099241
+}

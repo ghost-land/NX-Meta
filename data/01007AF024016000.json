@@ -1,0 +1,18 @@
+{
+  "name": "Zumba - Jurassic Marble Quest",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20260611",
+  "description": "Zumba – Jurassic Marble Quest blasts you back to the age of dinosaurs! Play as an adventurous baby dino equipped with a marble-firing snout. Select your stage, aim down a winding stone path, and launch colorful marbles to create chains of three or more before they tumble off the cliff. Trigger spectacular combos, clear each wave swiftly, and claim up to three stars by keeping the marbles at bay.\nBetween levels, call upon prehistoric power-ups: Explosive Marbles to blow away clusters, Time Freeze to halt advancing marbles, Repaint to change your next marble’s hue, Slow Motion to decelerate the line, Destruction Shots to remove a single stray marble, and Time Revert to undo a misfire for a second chance.\nEvery ten levels, you stomp into a new Jurassic realm—lush Fern Forest Valleys, sizzling Volcanic Badlands, misty Swamp Marshes, and glittering Crystal Caves—each introducing fresh marble colors, winding paths, moving obstacles, and ever-increasing speeds.\nAddictive and family-friendly, Zumba – Jurassic Marble Quest combines classic marble-shooter thrills with adorable dinos and prehistoric charm.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007AF024016000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007AF024016000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007AF024016000/screen/1",
+    "http://api.nlib.cc/nx/01007AF024016000/screen/2",
+    "http://api.nlib.cc/nx/01007AF024016000/screen/3",
+    "http://api.nlib.cc/nx/01007AF024016000/screen/4",
+    "http://api.nlib.cc/nx/01007AF024016000/screen/5",
+    "http://api.nlib.cc/nx/01007AF024016000/screen/6"
+  ],
+  "version": 0,
+  "size": 200798401
+}

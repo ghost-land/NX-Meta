@@ -1,0 +1,18 @@
+{
+  "name": "GOBBLE",
+  "publisher": "日本一ソフトウェア",
+  "releaseDate": "20260924",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/01008B4026878000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008B4026878000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008B4026878000/screen/1",
+    "http://api.nlib.cc/nx/01008B4026878000/screen/2",
+    "http://api.nlib.cc/nx/01008B4026878000/screen/3",
+    "http://api.nlib.cc/nx/01008B4026878000/screen/4",
+    "http://api.nlib.cc/nx/01008B4026878000/screen/5",
+    "http://api.nlib.cc/nx/01008B4026878000/screen/6"
+  ],
+  "version": 0,
+  "size": 550599535
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Monsters 'til Midnight",
+  "publisher": "Crescent Moon",
+  "releaseDate": "20260319",
+  "description": "Use steampunk weaponry to vanquish the legions of evil and survive until the clock strikes midnight! In this fast-paced horde survival game, each powerful upgrade can help turn the tide. Go it alone, or join another player in your pursuit to outlast the inevitable march of time itself!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100EDE01E870000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100EDE01E870000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100EDE01E870000/screen/1",
+    "http://api.nlib.cc/nx/0100EDE01E870000/screen/2",
+    "http://api.nlib.cc/nx/0100EDE01E870000/screen/3",
+    "http://api.nlib.cc/nx/0100EDE01E870000/screen/4",
+    "http://api.nlib.cc/nx/0100EDE01E870000/screen/5",
+    "http://api.nlib.cc/nx/0100EDE01E870000/screen/6"
+  ],
+  "version": 0,
+  "size": 74523444
+}

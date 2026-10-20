@@ -5,5 +5,7 @@
   "description": "Eager to hit the court in Mario Tennis Aces for Nintendo Switch? Mark your calendars and get warmed up for the Pre-launch Online Tournament, set to serve up good ol’ tennis fun from 15:00 (UK time) on June 1st, right through the weekend until 23:59 (UK time) on June 3rd! \n\nAspiring aces can take to the court as Mario, Peach, Yoshi or Bowser to face off against other tennis hopefuls in online tournament matches, or sharpen your skills by practising against the computer. As a reward for taking part, you’ll receive a special outfit for Mario to use in the full game!",
   "bannerUrl": "http://api.nlib.cc/nx/010078B00B0AC000/banner",
   "iconUrl": "https://api.nlib.cc/nx/010078B00B0AC000/icon/200",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 316442888
 }

@@ -1,0 +1,18 @@
+{
+  "name": "Sacred 2 Remaster",
+  "publisher": "THQ Nordic",
+  "releaseDate": "20260811",
+  "description": "Ancaria stands on the brink. T-Energy, the mysterious power source that once brought prosperity, now fuels corruption, conflict, and chaos. In the midst of war and betrayal, seven heroes rise — each with their own fate, abilities, and path through a living, breathing open world.\n\nIn this remaster of the beloved action RPG Sacred 2: Fallen Angel, players return to a massive fantasy realm filled with hundreds of quests, dangerous dungeons, and unique combat arts to master. Battle monstrous creatures, uncover ancient secrets, and shape your character through loot, leveling, and deep customization.\n\nWith refined combat mechanics, a modern UI, full controller support, and all expansions included, the remaster brings new life to a fan-favorite — whether you’re revisiting Ancaria or setting foot in it for the first time.\n\nForge your legend. The fate of Ancaria awaits.\n\n",
+  "bannerUrl": "http://api.nlib.cc/nx/010074402766A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010074402766A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010074402766A000/screen/1",
+    "http://api.nlib.cc/nx/010074402766A000/screen/2",
+    "http://api.nlib.cc/nx/010074402766A000/screen/3",
+    "http://api.nlib.cc/nx/010074402766A000/screen/4",
+    "http://api.nlib.cc/nx/010074402766A000/screen/5",
+    "http://api.nlib.cc/nx/010074402766A000/screen/6"
+  ],
+  "version": 0,
+  "size": 11005176700
+}

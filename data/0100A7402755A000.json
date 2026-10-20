@@ -1,8 +1,8 @@
 {
   "name": "Hoodbound",
   "publisher": "Gametry",
-  "releaseDate": "20260402",
-  "description": "",
+  "releaseDate": "20260403",
+  "description": "Hoodbound is a charming 2D platformer set in a whimsical yet mysterious fantasy world.\nStep into the role of a small hooded adventurer and journey through forests, caves, snowy lands, and ancient dungeons filled with secrets, treasures, and playful dangers.\n\nJump, explore, and fight your way past quirky enemies, uncover hidden paths, collect coins, and help strange characters you meet along the way. With smooth platforming, hand-crafted levels, and a cozy dark atmosphere, Hoodbound blends lighthearted charm with classic adventure.\n\nWhether you’re exploring at your own pace or chasing every secret, the world of Hoodbound is full of surprises waiting just beyond the next platform.",
   "bannerUrl": "http://api.nlib.cc/nx/0100A7402755A000/banner",
   "iconUrl": "https://api.nlib.cc/nx/0100A7402755A000/icon/200",
   "screenshots": [
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/0100A7402755A000/screen/4",
     "http://api.nlib.cc/nx/0100A7402755A000/screen/5",
     "http://api.nlib.cc/nx/0100A7402755A000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 71243446
 }

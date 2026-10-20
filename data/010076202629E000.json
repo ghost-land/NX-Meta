@@ -1,0 +1,18 @@
+{
+  "name": "Dragon Loop",
+  "publisher": "Happy Player",
+  "releaseDate": "20260611",
+  "description": "Help Xi navigate a five-day time loop and figure out what happened to her memories in a vast hand-drawn world.\n \nTogether with her companion, Ouro, travel through a true metroidvania world where time changes the terrain in subtle ways. Escape the loop through exploration and battle. Change Xi’s fate and learn the truth of the Dragon Loop!\n \n• Turn Bosses into Summonable Spirits\n \nDefeat a wide range of interesting bosses to get exclusive summonable spirits. Destroy your foes with powerful Explosive Spirits, or summon Persistent Spirit companions to follow you around. Upgrade and evolve both types to enhance their combat power!\n \n• Multipurpose Metroidvania Powers\n \nFind rare Pearls to summon powerful tools that help you traverse the world. Spiky pufferfish, magnetic boxes, a vacuuming whale spirit… and more. Each has multiple uses in both combat and traversing the world, unlocking many ways to play!\n \n• Fast-Paced Exciting Battles\n \nCombine Xi’s strength with Ouro’s agility in fast-paced combat. Play well, manage your X-Rating, and boost your speed and combat power even further in this fast-paced combat system with no contact damage.\n \n• Branches in Time\n \nIn Dragon Loop, time is a limited resource. Use your five days wisely and plan your routes through an easily-navigable Time Map. Explore and open up new worldlines to see how things play out differently.But don’t worry: this isn’t a roguelike; you never start from scratch.",
+  "bannerUrl": "http://api.nlib.cc/nx/010076202629E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010076202629E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010076202629E000/screen/1",
+    "http://api.nlib.cc/nx/010076202629E000/screen/2",
+    "http://api.nlib.cc/nx/010076202629E000/screen/3",
+    "http://api.nlib.cc/nx/010076202629E000/screen/4",
+    "http://api.nlib.cc/nx/010076202629E000/screen/5",
+    "http://api.nlib.cc/nx/010076202629E000/screen/6"
+  ],
+  "version": 0,
+  "size": 1021816529
+}

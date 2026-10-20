@@ -1,0 +1,18 @@
+{
+  "name": "Tower Dominion",
+  "publisher": "Forever Entertainment",
+  "releaseDate": "20260813",
+  "description": "Each playthrough begins with a partially generated map that can be further expanded and customized through a modular building system, allowing players to shape the battlefield around their strategy. \n\nExperiment with different combinations of buildings, weapons, perks, and doctrines to create powerful builds capable of surviving increasingly dangerous enemy waves. Unlock new possibilities over time, push your strategies further in Extended Mode, and take on higher difficulties designed to challenge even experienced players. \n\nTower Dominion features:\n\n• Modular map system with partially generated layouts\n• 5 difficulty levels, including additional endgame challenges\n• Extended Mode for testing builds beyond the standard run length\n• 3 playable factions with distinct gameplay styles\n• 30 heroes with unique perks and synergies\n• 22 enemy types, including powerful late-wave units\n• 70+ buildings and 50 weapons for varied defensive setups\n• 180+ doctrines allowing flexible and experimental playstyles\n• Pits system that adds new modifiers and variety to every run",
+  "bannerUrl": "http://api.nlib.cc/nx/0100C7802833C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100C7802833C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100C7802833C000/screen/1",
+    "http://api.nlib.cc/nx/0100C7802833C000/screen/2",
+    "http://api.nlib.cc/nx/0100C7802833C000/screen/3",
+    "http://api.nlib.cc/nx/0100C7802833C000/screen/4",
+    "http://api.nlib.cc/nx/0100C7802833C000/screen/5",
+    "http://api.nlib.cc/nx/0100C7802833C000/screen/6"
+  ],
+  "version": 0,
+  "size": 254085790
+}

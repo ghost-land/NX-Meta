@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "My Universe Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 249179498
 }

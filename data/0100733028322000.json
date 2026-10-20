@@ -1,0 +1,18 @@
+{
+  "name": "Monster Slingshot Smash",
+  "publisher": "Gametry",
+  "releaseDate": "20260904",
+  "description": "Monster Slingshot Smash is a fast-paced arcade puzzle game where players launch quirky monsters from a slingshot and smash enemy towers in bright, colorful worlds. Aim carefully, trigger satisfying chain reactions, destroy crazy structures, and defeat hilarious blue monsters across fun and challenging levels. Easy to pick up and hard to put down, the game combines simple controls, explosive action, and playful visuals into a highly addictive mobile experience.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100733028322000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100733028322000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100733028322000/screen/1",
+    "http://api.nlib.cc/nx/0100733028322000/screen/2",
+    "http://api.nlib.cc/nx/0100733028322000/screen/3",
+    "http://api.nlib.cc/nx/0100733028322000/screen/4",
+    "http://api.nlib.cc/nx/0100733028322000/screen/5",
+    "http://api.nlib.cc/nx/0100733028322000/screen/6"
+  ],
+  "version": 0,
+  "size": 83170283
+}

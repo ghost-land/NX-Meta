@@ -1,7 +1,7 @@
 {
   "name": "Blablublas Battle Royale Shooter",
   "publisher": "CGI LAB GAMES",
-  "releaseDate": "20251211",
+  "releaseDate": "20260105",
   "description": "Step into a chaotic battlefield where survival is everything — and the fiercest foes are armed… cats! In this wild shooter, you face off against cunning, weapon-wielding felines across a dynamic map. Every encounter is unpredictable, every corner could hide a new adversary, and only the sharpest aim and quickest reflexes will keep you alive.\nOutsmart, outgun, and outlast these armed cats to claim victory and become the ultimate champion of the arena. Are you ready to take on the purr-fect challenge?",
   "bannerUrl": "http://api.nlib.cc/nx/01002AA025B3A000/banner",
   "iconUrl": "https://api.nlib.cc/nx/01002AA025B3A000/icon/200",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/01002AA025B3A000/screen/4",
     "http://api.nlib.cc/nx/01002AA025B3A000/screen/5",
     "http://api.nlib.cc/nx/01002AA025B3A000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 350132456
 }

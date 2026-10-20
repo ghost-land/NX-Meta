@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Pokémon Let's Go, Pikachu! Demo for KIOSK",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 619654241
 }

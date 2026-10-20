@@ -1,0 +1,18 @@
+{
+  "name": "Love, Internet, and Murder Magic",
+  "publisher": "Renka",
+  "releaseDate": "20260813",
+  "description": "Love, Internet, and Murder Magic is a Roguelike game. You will role-play an agent of a streamer who died because of a murder. You are trying to \"bring her back\" through AI technology on the Internet, making her the unique creation of the Internet.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007D2027CBA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007D2027CBA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007D2027CBA000/screen/1",
+    "http://api.nlib.cc/nx/01007D2027CBA000/screen/2",
+    "http://api.nlib.cc/nx/01007D2027CBA000/screen/3",
+    "http://api.nlib.cc/nx/01007D2027CBA000/screen/4",
+    "http://api.nlib.cc/nx/01007D2027CBA000/screen/5",
+    "http://api.nlib.cc/nx/01007D2027CBA000/screen/6"
+  ],
+  "version": 0,
+  "size": 550541194
+}

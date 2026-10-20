@@ -1,0 +1,18 @@
+{
+  "name": "Lootbag Tactics",
+  "publisher": "UMURO",
+  "releaseDate": "20260716",
+  "description": "Lootbag Tactics is a fantasy strategy game that brings together deep inventory management and thrilling auto-battler mechanics. Collect the right items, build your unbeatable setup, and outsmart your rivals!\n\nSurviving the arena requires more than just raw power; it requires a sharp mind. You must efficiently manage your limited bag space and choose the right weapons, shields, and accessories from the shop. Open chests to find Epic gear, combine items to multiply your strength, and step onto the battlefield.\n\nDiscover the unique advantages of different classes! Play as a Knight to strengthen your shields or unlock new strategies with specialized perks like Shield Doctrine and Frontline Training. Once your grid is set, sit back and watch your warriors automatically battle it out in a flawless display of your tactics!\n\n\nKey Features:\n* Deep Inventory Management: Place your items strategically on your grid-based bag. Create powerful synergies by positioning the right items together and maximizing your space.\n* Tactical Auto-Battler Combat: After the preparation phase, send your warriors into the arena. Analyze rival setups and develop the perfect counter-tactics.\n* Unique Classes & Perks: Choose a hero class that fits your playstyle. Each class features unique passive abilities that interact dynamically with your items.\n* Epic Loot: Start with a simple wooden sword, upgrade the shop as you win, and discover Legendary weapons, magical codexes, and rare charms.\n* Battle Against Rivals: Face off against the unique builds of different competitors and climb the Master Levels.\n* Play Anywhere, Anytime: Fully optimized for Nintendo Switch™! Play on the big screen in TV Mode, or strategize on the go in Tabletop and Handheld Modes.\n",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F8C028CCA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F8C028CCA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F8C028CCA000/screen/1",
+    "http://api.nlib.cc/nx/0100F8C028CCA000/screen/2",
+    "http://api.nlib.cc/nx/0100F8C028CCA000/screen/3",
+    "http://api.nlib.cc/nx/0100F8C028CCA000/screen/4",
+    "http://api.nlib.cc/nx/0100F8C028CCA000/screen/5",
+    "http://api.nlib.cc/nx/0100F8C028CCA000/screen/6"
+  ],
+  "version": 0,
+  "size": 125247010
+}

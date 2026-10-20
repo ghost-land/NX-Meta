@@ -1,0 +1,18 @@
+{
+  "name": "Missed Class: Horror",
+  "publisher": "Downmeadowstreet",
+  "releaseDate": "20260926",
+  "description": "You enter an abandoned school hoping to uncover the truth behind its mysterious closure. Empty classrooms, silent hallways, and forgotten lockers hide clues to what really happened.\n\nBut before you can leave, the doors lock behind you.\n\nNow your only goal is to escape. Explore the school, collect keys and uncover the dark secrets hidden within its walls. Just don't ignore the feeling that you're being watched.\n\nFeatures:\n>Explore a creepy abandoned school.\n>Uncover the mystery behind the school's past.\n>Experience atmospheric first-person horror.\n>Evade the spirits that haunt the halls.",
+  "bannerUrl": "http://api.nlib.cc/nx/010076302964C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010076302964C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010076302964C000/screen/1",
+    "http://api.nlib.cc/nx/010076302964C000/screen/2",
+    "http://api.nlib.cc/nx/010076302964C000/screen/3",
+    "http://api.nlib.cc/nx/010076302964C000/screen/4",
+    "http://api.nlib.cc/nx/010076302964C000/screen/5",
+    "http://api.nlib.cc/nx/010076302964C000/screen/6"
+  ],
+  "version": 0,
+  "size": 291522189
+}

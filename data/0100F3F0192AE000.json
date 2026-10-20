@@ -1,9 +1,11 @@
 {
-  "name": "",
+  "name": "Overrogue Demo",
   "publisher": "",
   "releaseDate": "",
   "description": "",
   "bannerUrl": "",
   "iconUrl": "",
-  "screenshots": []
+  "screenshots": [],
+  "version": 0,
+  "size": 219544643
 }

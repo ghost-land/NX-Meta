@@ -1,0 +1,16 @@
+{
+  "name": "Sands and Relics",
+  "publisher": "Afil Games",
+  "releaseDate": "20260625",
+  "description": "Prepare yourself to challenge your logic in an adventure deep in the heart of the desert, where every movement could be your last. In Sands and Relics, walking is just as dangerous as it is necessary, and every step changes the world beneath your feet.\n\nCross ancient ruins, explore fragile pathways, and uncover hidden relics in clever puzzles that blend strategy, planning, and that satisfying feeling of discovering the perfect solution. Here, the ground waits for no one. Sand tiles crack, collapse, and disappear as you move forward, turning the environment into a living puzzle.\n\nEach level is a compact logic challenge where you must think before acting, calculate routes, and carefully decide where to step. Some surfaces can withstand more than one step, while others collapse immediately, and a single mistake can leave you trapped in the void.\n\nAs the journey continues, new mechanics make the puzzles even more creative, including teleporters, narrow paths, and combinations that demand full awareness of the environment. All of this comes wrapped in charming pixel art visuals that create a cozy atmosphere while keeping your mind engaged.\n\nWith 30 carefully crafted levels, simple controls, and the freedom to undo moves or restart whenever you want, Sands and Relics delivers an accessible, smart, and deeply satisfying experience for players who love strategic puzzles without time pressure.\n\nObserve the terrain, plan your route, and discover whether your footsteps will be enough to reach the lost relic.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100D5902842A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D5902842A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D5902842A000/screen/1",
+    "http://api.nlib.cc/nx/0100D5902842A000/screen/2",
+    "http://api.nlib.cc/nx/0100D5902842A000/screen/3",
+    "http://api.nlib.cc/nx/0100D5902842A000/screen/4"
+  ],
+  "version": 0,
+  "size": 74303398
+}

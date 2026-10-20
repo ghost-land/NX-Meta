@@ -1,6 +1,6 @@
 {
-  "name": "樹海迷路",
-  "publisher": "致意",
+  "name": "Jukai Maze",
+  "publisher": "Zhiyi",
   "releaseDate": "20260312",
   "description": "Do you believe in the existence of an afterlife?\n\n■About\nJukai Maze is a sci-fi suspense visual novel where every choice sends the story down a completely different path. Branching routes twist and diverge with each decision you make. Explore multiple endings, piece together scattered clues, and uncover the deeper truth that lies beneath them all.\n\n■Story\n“They say there’s a research institute at the foot of Mount Fuji studying the afterlife.”\nIntrigued by the half-believable rumor, Shiu invites the protagonist, Haryu Ryoushi, to explore the depths of Aokigahara. What was supposed to be a simple vlog shoot shifts the moment they step into the forest.\nAs night falls and the mist thickens, they lose their sense of direction. Shiu vanishes without a trace, and Ryoushi is pulled into another “reality,” awakening inside a strange psychiatric hospital.\n\nEveryone inside mutters things that border on madness:\n“This place is a dream.”\n“This place is another planet.”\n“This place is the afterlife.”\n\nAs the boundary between truth and illusion collapses, Ryoushi sinks deeper into the maze, and is soon entangled in a baffling murder case……\n\n■Features\n- Fully voiced in Japanese\n- Clear, elegantly structured storytelling\n- Expressive and nuanced character portraits\n- Retro filters & pixel fonts included.\n- Immersive HD Rumble integration.",
   "bannerUrl": "http://api.nlib.cc/nx/010052302666A000/banner",
@@ -12,5 +12,7 @@
     "http://api.nlib.cc/nx/010052302666A000/screen/4",
     "http://api.nlib.cc/nx/010052302666A000/screen/5",
     "http://api.nlib.cc/nx/010052302666A000/screen/6"
-  ]
+  ],
+  "version": 0,
+  "size": 1337423595
 }

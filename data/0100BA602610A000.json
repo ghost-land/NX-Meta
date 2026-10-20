@@ -1,0 +1,18 @@
+{
+  "name": "ZPF",
+  "publisher": "Mega Cat Studios",
+  "releaseDate": "20260416",
+  "description": "ZPF is a retro-inspired horizontal shooter for the Sega Genesis/Mega Drive. Blast your way through a cosmic gauntlet of epic boss battles, addictive scoring, and hidden secrets in a thrilling arcade-style adventure through fantasy, sci-fi, and alien-themed worlds.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BA602610A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BA602610A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BA602610A000/screen/1",
+    "http://api.nlib.cc/nx/0100BA602610A000/screen/2",
+    "http://api.nlib.cc/nx/0100BA602610A000/screen/3",
+    "http://api.nlib.cc/nx/0100BA602610A000/screen/4",
+    "http://api.nlib.cc/nx/0100BA602610A000/screen/5",
+    "http://api.nlib.cc/nx/0100BA602610A000/screen/6"
+  ],
+  "version": 0,
+  "size": 32608656
+}
