@@ -1,0 +1,18 @@
+{
+  "name": "FINAL FANTASY RESONANCE",
+  "publisher": "SQUARE ENIX",
+  "releaseDate": "20261022",
+  "description": "Return to the pixel‑art world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin. \n\n◆ Cinematic pixel art\nWhat if FINAL FANTASY had continued to push the limits of pixel art? The first FINAL FANTASY to join the HD‑2D lineup, FINAL FANTASY RESONANCE delivers a visually striking experience that feels both nostalgic and new, enhanced by dynamic camera angles and pixelized 3D models that make every moment more dramatic and immersive.\n\n◆ A return to the familiar\nA classic RPG adventure unfolds in a world filled with beloved FINAL FANTASY elements—airships, crystals, espers and moogles woven into the fabric of the story, and so much more.\n\n◆ Strategic turn-based battles\nExploit enemy weaknesses to stagger them—breaking their defenses to seize extra turns and gain the upper hand with powerful Resonance attacks in cinematic battles shaped by smart choices.\n\n◆ FINAL FANTASY legends\nBolster your team with Visions, echoes of beloved FINAL FANTASY characters, who fight alongside you with unique skills and abilities for deep party customization.\n\n◆ Hours of side content to discover\nThe world is full of secrets, including the wandering swordmaster Gilgamesh, a Colosseum with deadly monsters and rewards to match, the Chamber of Arms with formidable foes sealed within legendary weapons, and a showdown with Ultima Weapon.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100606026F12000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100606026F12000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100606026F12000/screen/1",
+    "http://api.nlib.cc/nx/0100606026F12000/screen/2",
+    "http://api.nlib.cc/nx/0100606026F12000/screen/3",
+    "http://api.nlib.cc/nx/0100606026F12000/screen/4",
+    "http://api.nlib.cc/nx/0100606026F12000/screen/5",
+    "http://api.nlib.cc/nx/0100606026F12000/screen/6"
+  ],
+  "version": 0,
+  "size": 8493409496
+}

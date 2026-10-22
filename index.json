@@ -53,6 +53,18 @@
             "version": 0,
             "size": 23206
         },
+        "0100E04026DFC800": {
+            "id": "0100E04026DFC800",
+            "name": "SoulQuest",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 26435748
+        },
         "01006C300E9F1015": {
             "id": "01006C300E9F1015",
             "name": "DRAGON QUEST® XI S꞉ Echoes of an Elusive Age – Definitive Edition - Baby Boar Set",
@@ -46352,6 +46364,23 @@
             "version": 65536,
             "size": 1262727
         },
+        "0100F4601CBA6000": {
+            "id": "0100F4601CBA6000",
+            "name": "Farlands",
+            "publisher": "JanduSoft",
+            "releaseDate": "20260716",
+            "description": "Seeking a change in your life, you saw an offer you couldn't refuse; an entire planet at a bargain price! An old agrarian rock that's been abandoned for years in an outlying solar system. So with little more than your worn out ship and your personal assistance droid, you decide to embark on a new phase of your life in a lost corner of the galaxy.\n\nRestore your planet! Cut weeds, clear paths, reclaim fields and fix what the passing of time has destroyed, turn an old agrarian rock into a thriving homestead.\n\nExplore the solar system! Although your ship has seen better days, it will help you to move between the different planets in the system, explore them, collect resources and use them to improve your farm, your tools and your ship.\n\nBe part of the community! Engage with the handful of people who still live on the planets of the solar system, learn their stories and the reasons why they still live in such a remote part of the galaxy.\n\nSave and restore the old glory of the solar system! A whole planet at a bargain price? Maybe things won't be as simple as they seemed, and that planet's low price had a reason to be...",
+            "bannerUrl": "https://api.nlib.cc/nx/0100F4601CBA6000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100F4601CBA6000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100F4601CBA6000/screen/1",
+                "https://api.nlib.cc/nx/0100F4601CBA6000/screen/2",
+                "https://api.nlib.cc/nx/0100F4601CBA6000/screen/3",
+                "https://api.nlib.cc/nx/0100F4601CBA6000/screen/4"
+            ],
+            "version": 0,
+            "size": 222617584
+        },
         "010035E01A403001": {
             "id": "010035E01A403001",
             "name": "HUNTER×HUNTER NEN×IMPACT 予約特典",
@@ -58135,15 +58164,15 @@
         },
         "010081D01E246800": {
             "id": "010081D01E246800",
-            "name": "Ticket To Ride",
+            "name": "Ticket to Ride®",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 720896,
-            "size": 938220843
+            "version": 786432,
+            "size": 1037673290
         },
         "010082500350F001": {
             "id": "010082500350F001",
@@ -98736,6 +98765,18 @@
             "screenshots": [],
             "version": 0,
             "size": 23136
+        },
+        "0100AF802049C800": {
+            "id": "0100AF802049C800",
+            "name": "릴 피싱 데이즈 오브 서머",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 25151068
         },
         "010051C0134F9011": {
             "id": "010051C0134F9011",
@@ -294577,8 +294618,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 40310275
+            "version": 131072,
+            "size": 169191485
         },
         "010051B0190E2000": {
             "id": "010051B0190E2000",
@@ -339617,6 +339658,18 @@
             ],
             "version": 0,
             "size": 421397243
+        },
+        "0100F4601CBA6800": {
+            "id": "0100F4601CBA6800",
+            "name": "Farlands",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 262144,
+            "size": 172085917
         },
         "010090101899C800": {
             "id": "010090101899C800",
@@ -408893,8 +408946,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 8585216,
-            "size": 18844926582
+            "version": 8650752,
+            "size": 18986001843
         },
         "01005FF00C7CD01A": {
             "id": "01005FF00C7CD01A",
@@ -422552,6 +422605,18 @@
             ],
             "version": 65536,
             "size": 2820836639
+        },
+        "01002DD0237BC800": {
+            "id": "01002DD0237BC800",
+            "name": "Tamashika",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 327680,
+            "size": 369487538
         },
         "0100218011E7F023": {
             "id": "0100218011E7F023",
@@ -460970,6 +461035,18 @@
                 "https://api.nlib.cc/nx/010011401A2D2000/screen/4"
             ]
         },
+        "010062A0178A8800": {
+            "id": "010062A0178A8800",
+            "name": "LOOPERS",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 70576442
+        },
         "010027501B1BE800": {
             "id": "010027501B1BE800",
             "name": "Hidden Cats in London",
@@ -474871,8 +474948,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 458752,
-            "size": 388736353
+            "version": 524288,
+            "size": 388739157
         },
         "0100E7201DCE4000": {
             "id": "0100E7201DCE4000",
@@ -512655,8 +512732,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 786432,
-            "size": 45674915
+            "version": 851968,
+            "size": 46089367
         },
         "010035C00A4BC000": {
             "id": "010035C00A4BC000",
@@ -572450,8 +572527,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 458752,
-            "size": 23324759
+            "version": 524288,
+            "size": 27219275
         },
         "0100AAF01D9E0000": {
             "id": "0100AAF01D9E0000",
@@ -587978,6 +588055,23 @@
             "version": 0,
             "size": 2219237450
         },
+        "0100606026F12000": {
+            "id": "0100606026F12000",
+            "name": "FINAL FANTASY RESONANCE",
+            "publisher": "SQUARE ENIX",
+            "releaseDate": "20261022",
+            "description": "Return to the pixel‑art world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin. \n\n◆ Cinematic pixel art\nWhat if FINAL FANTASY had continued to push the limits of pixel art? The first FINAL FANTASY to join the HD‑2D lineup, FINAL FANTASY RESONANCE delivers a visually striking experience that feels both nostalgic and new, enhanced by dynamic camera angles and pixelized 3D models that make every moment more dramatic and immersive.\n\n◆ A return to the familiar\nA classic RPG adventure unfolds in a world filled with beloved FINAL FANTASY elements—airships, crystals, espers and moogles woven into the fabric of the story, and so much more.\n\n◆ Strategic turn-based battles\nExploit enemy weaknesses to stagger them—breaking their defenses to seize extra turns and gain the upper hand with powerful Resonance attacks in cinematic battles shaped by smart choices.\n\n◆ FINAL FANTASY legends\nBolster your team with Visions, echoes of beloved FINAL FANTASY characters, who fight alongside you with unique skills and abilities for deep party customization.\n\n◆ Hours of side content to discover\nThe world is full of secrets, including the wandering swordmaster Gilgamesh, a Colosseum with deadly monsters and rewards to match, the Chamber of Arms with formidable foes sealed within legendary weapons, and a showdown with Ultima Weapon.",
+            "bannerUrl": "https://api.nlib.cc/nx/0100606026F12000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100606026F12000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100606026F12000/screen/1",
+                "https://api.nlib.cc/nx/0100606026F12000/screen/2",
+                "https://api.nlib.cc/nx/0100606026F12000/screen/3",
+                "https://api.nlib.cc/nx/0100606026F12000/screen/4"
+            ],
+            "version": 0,
+            "size": 8493409496
+        },
         "0100FD40102A6000": {
             "id": "0100FD40102A6000",
             "name": "Stay Safe",
@@ -589137,6 +589231,23 @@
             "screenshots": [],
             "version": 0,
             "size": 23193
+        },
+        "01002DD0237BC000": {
+            "id": "01002DD0237BC000",
+            "name": "Tamashika",
+            "publisher": "EDGLRD",
+            "releaseDate": "20260410",
+            "description": "TAMASHIKA is a fast-paced arcade-style corridor shooter focused on flow, precision, and survival.\n\nMove through shifting environments, react quickly, and stay locked in. Each run is about control, timing, and keeping your mind in one place.\n\nPatterns in the world create a sense of continuity, but everything is in motion. Focus is what keeps you alive.\n\nFeatures:\nTAMASHIKA is a fast-paced arcade-style corridor shooter with hand-drawn animations, precision sound effects, and upbeat background music.\n\nYou get:\nOne weapon: a semi-automatic pistol\nOne side-arm: a tanto blade",
+            "bannerUrl": "https://api.nlib.cc/nx/01002DD0237BC000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/01002DD0237BC000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/01002DD0237BC000/screen/1",
+                "https://api.nlib.cc/nx/01002DD0237BC000/screen/2",
+                "https://api.nlib.cc/nx/01002DD0237BC000/screen/3",
+                "https://api.nlib.cc/nx/01002DD0237BC000/screen/4"
+            ],
+            "version": 0,
+            "size": 156001704
         },
         "0100B4D01303C800": {
             "id": "0100B4D01303C800",
@@ -617844,6 +617955,18 @@
             "screenshots": [],
             "version": 393216,
             "size": 31923141
+        },
+        "0100606026F12800": {
+            "id": "0100606026F12800",
+            "name": "FINAL FANTASY RESONANCE",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 96873968
         },
         "0100E1A01D2F0800": {
             "id": "0100E1A01D2F0800",

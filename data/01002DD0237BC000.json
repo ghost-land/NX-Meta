@@ -1,0 +1,18 @@
+{
+  "name": "Tamashika",
+  "publisher": "EDGLRD",
+  "releaseDate": "20260410",
+  "description": "TAMASHIKA is a fast-paced arcade-style corridor shooter focused on flow, precision, and survival.\n\nMove through shifting environments, react quickly, and stay locked in. Each run is about control, timing, and keeping your mind in one place.\n\nPatterns in the world create a sense of continuity, but everything is in motion. Focus is what keeps you alive.\n\nFeatures:\nTAMASHIKA is a fast-paced arcade-style corridor shooter with hand-drawn animations, precision sound effects, and upbeat background music.\n\nYou get:\nOne weapon: a semi-automatic pistol\nOne side-arm: a tanto blade",
+  "bannerUrl": "http://api.nlib.cc/nx/01002DD0237BC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01002DD0237BC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01002DD0237BC000/screen/1",
+    "http://api.nlib.cc/nx/01002DD0237BC000/screen/2",
+    "http://api.nlib.cc/nx/01002DD0237BC000/screen/3",
+    "http://api.nlib.cc/nx/01002DD0237BC000/screen/4",
+    "http://api.nlib.cc/nx/01002DD0237BC000/screen/5",
+    "http://api.nlib.cc/nx/01002DD0237BC000/screen/6"
+  ],
+  "version": 0,
+  "size": 156001704
+}

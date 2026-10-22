@@ -1,0 +1,18 @@
+{
+  "name": "Farlands",
+  "publisher": "JanduSoft",
+  "releaseDate": "20260716",
+  "description": "Seeking a change in your life, you saw an offer you couldn't refuse; an entire planet at a bargain price! An old agrarian rock that's been abandoned for years in an outlying solar system. So with little more than your worn out ship and your personal assistance droid, you decide to embark on a new phase of your life in a lost corner of the galaxy.\n\nRestore your planet! Cut weeds, clear paths, reclaim fields and fix what the passing of time has destroyed, turn an old agrarian rock into a thriving homestead.\n\nExplore the solar system! Although your ship has seen better days, it will help you to move between the different planets in the system, explore them, collect resources and use them to improve your farm, your tools and your ship.\n\nBe part of the community! Engage with the handful of people who still live on the planets of the solar system, learn their stories and the reasons why they still live in such a remote part of the galaxy.\n\nSave and restore the old glory of the solar system! A whole planet at a bargain price? Maybe things won't be as simple as they seemed, and that planet's low price had a reason to be...",
+  "bannerUrl": "http://api.nlib.cc/nx/0100F4601CBA6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F4601CBA6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F4601CBA6000/screen/1",
+    "http://api.nlib.cc/nx/0100F4601CBA6000/screen/2",
+    "http://api.nlib.cc/nx/0100F4601CBA6000/screen/3",
+    "http://api.nlib.cc/nx/0100F4601CBA6000/screen/4",
+    "http://api.nlib.cc/nx/0100F4601CBA6000/screen/5",
+    "http://api.nlib.cc/nx/0100F4601CBA6000/screen/6"
+  ],
+  "version": 0,
+  "size": 222617584
+}
