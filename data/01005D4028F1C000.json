@@ -1,0 +1,18 @@
+{
+  "name": "Warrior Cats: Clans of the Forest",
+  "publisher": "Trailmark Games",
+  "releaseDate": "20261023",
+  "description": "Warrior Cats: Clans of the Forest is an immersive action-adventure game set in the Lake Territories of the beloved Warrior Cats book series.\n\nEmbark on a variety of quests to gain favor with your Clan and battle others in turn-based combat to strengthen your cat and grow your legend. Learn new combat moves to take down your rivals. Encounter a wide range of enemies, including mice, squirrels, badgers and more, all leading to epic battles. Forage the land and find materials that can be used to craft items in your den. Travel across iconic territories including ThunderClan’s dense forests, RiverClan’s marshlands, ShadowClan’s dark pine swamps, and WindClan’s open moors. Your adventure will also take you to the famed sacred locations The Moonpool and The Island. Climb trees, pounce through undergrowth, track scents, solve environmental puzzles, and uncover the mysteries of StarClan itself.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005D4028F1C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005D4028F1C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005D4028F1C000/screen/1",
+    "http://api.nlib.cc/nx/01005D4028F1C000/screen/2",
+    "http://api.nlib.cc/nx/01005D4028F1C000/screen/3",
+    "http://api.nlib.cc/nx/01005D4028F1C000/screen/4",
+    "http://api.nlib.cc/nx/01005D4028F1C000/screen/5",
+    "http://api.nlib.cc/nx/01005D4028F1C000/screen/6"
+  ],
+  "version": 0,
+  "size": 1479651307
+}

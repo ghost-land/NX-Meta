@@ -2981,6 +2981,18 @@
             "version": 0,
             "size": 1262537457
         },
+        "0100842008EC4800": {
+            "id": "0100842008EC4800",
+            "name": "Mega Man Legacy Collection 2",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 13880053
+        },
         "0100B4601500E000": {
             "id": "0100B4601500E000",
             "name": "Titan Chaser",
@@ -15774,15 +15786,15 @@
         },
         "010028F01B940800": {
             "id": "010028F01B940800",
-            "name": "Pinball FX Midnight",
+            "name": "Pinball M",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 720896,
-            "size": 1872122339
+            "version": 786432,
+            "size": 2518237456
         },
         "01007E4013A08000": {
             "id": "01007E4013A08000",
@@ -73445,6 +73457,18 @@
             "version": 0,
             "size": 1298307823
         },
+        "0100CD7028862800": {
+            "id": "0100CD7028862800",
+            "name": "Tenebris Sominia",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 9577695584
+        },
         "0100217014266800": {
             "id": "0100217014266800",
             "name": "ドラゴンクエスト トレジャーズ　蒼き瞳と大空の羅針盤",
@@ -82656,6 +82680,18 @@
             "screenshots": [],
             "version": 0,
             "size": 6218670416
+        },
+        "010075B0206D6800": {
+            "id": "010075B0206D6800",
+            "name": "Two Strikes",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 458752,
+            "size": 498422446
         },
         "010052301F29A800": {
             "id": "010052301F29A800",
@@ -112160,8 +112196,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 5970339481
+            "version": 327680,
+            "size": 5971741273
         },
         "010031601300900D": {
             "id": "010031601300900D",
@@ -119960,6 +119996,18 @@
             "screenshots": [],
             "version": 262144,
             "size": 144135943
+        },
+        "01005D4028F1C800": {
+            "id": "01005D4028F1C800",
+            "name": "Warrior Cats: Clans of the Forest",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 169311591
         },
         "01002C000E35E000": {
             "id": "01002C000E35E000",
@@ -138233,6 +138281,23 @@
             "version": 65536,
             "size": 88535733
         },
+        "01009D6022DC2000": {
+            "id": "01009D6022DC2000",
+            "name": "Reus 2",
+            "publisher": "Firesquid",
+            "releaseDate": "20251023",
+            "description": "Become a God once again in Reus 2 by taking control of mighty giants whose command over their elements allows you to shape worlds, create an ecosystem of resources and enable human civilizations to thrive. Your choices will determine the fates of these fragile human beings, whose autonomy may lead them to great heights.\n\nShape worlds with Giants\nUtilize a roster of 6 powerful Giants, each with their own unique abilities over plants, animals and minerals that will allow you to create new biomes for humans to settle their villages. As you progress, gain inspiration to unlock more skills for your Giants, providing you with a diversity of choices.\n\nRelationships and disasters\nWith the !New Cataclysm update!, you can choose to take on more optional challenges. Leaders can now form relationships with Giants and each other based on their personality, become allies through trade or go to war. Humanity can also turn against your giants, sending out Giant Hunters to destroy them! Punish them with disastrous new powers, using the elements to teach them to respect the gods.\n\nCreate thriving ecosystems\nTerraform a variety of biomes, strategically build up different combinations of flora, fauna and materials specific to those environments. By experimenting, discover which combinations create the best synergies for the inhabitants' needs and goals, leading you into exciting new eras of their existence.\n\nLead humanity into the future\nShape the development of humanity with your choices as they evolve from early human societies to modern civilizations. Whether it's travelling to the stars as space explorers, starting a cult or wishing to cultivate nature, they will all have their goals. No matter the outcome, remember, you can always start a new humanity.\n\nFill a galaxy with life\nEach playthrough leaves a lasting legacy in the stars by generating a new planet for you to experiment with. Fill the galaxy with endless variations of life and be inspired to take a new path with your next creation.",
+            "bannerUrl": "https://api.nlib.cc/nx/01009D6022DC2000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/01009D6022DC2000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/01009D6022DC2000/screen/1",
+                "https://api.nlib.cc/nx/01009D6022DC2000/screen/2",
+                "https://api.nlib.cc/nx/01009D6022DC2000/screen/3",
+                "https://api.nlib.cc/nx/01009D6022DC2000/screen/4"
+            ],
+            "version": 0,
+            "size": 670491780
+        },
         "0100F6C00641D05B": {
             "id": "0100F6C00641D05B",
             "name": "A.O.T. 2 - Playable Character ꞉Eren (Long Hair)꞉ Early Unlock",
@@ -151909,6 +151974,23 @@
             "screenshots": [],
             "version": 393216,
             "size": 116516813
+        },
+        "01005D4028F1C000": {
+            "id": "01005D4028F1C000",
+            "name": "Warrior Cats: Clans of the Forest",
+            "publisher": "Trailmark Games",
+            "releaseDate": "20261023",
+            "description": "Warrior Cats: Clans of the Forest is an immersive action-adventure game set in the Lake Territories of the beloved Warrior Cats book series.\n\nEmbark on a variety of quests to gain favor with your Clan and battle others in turn-based combat to strengthen your cat and grow your legend. Learn new combat moves to take down your rivals. Encounter a wide range of enemies, including mice, squirrels, badgers and more, all leading to epic battles. Forage the land and find materials that can be used to craft items in your den. Travel across iconic territories including ThunderClan’s dense forests, RiverClan’s marshlands, ShadowClan’s dark pine swamps, and WindClan’s open moors. Your adventure will also take you to the famed sacred locations The Moonpool and The Island. Climb trees, pounce through undergrowth, track scents, solve environmental puzzles, and uncover the mysteries of StarClan itself.",
+            "bannerUrl": "https://api.nlib.cc/nx/01005D4028F1C000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/01005D4028F1C000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/01005D4028F1C000/screen/1",
+                "https://api.nlib.cc/nx/01005D4028F1C000/screen/2",
+                "https://api.nlib.cc/nx/01005D4028F1C000/screen/3",
+                "https://api.nlib.cc/nx/01005D4028F1C000/screen/4"
+            ],
+            "version": 0,
+            "size": 1479651307
         },
         "0100EBF0129E4800": {
             "id": "0100EBF0129E4800",
@@ -226437,8 +226519,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 13576276
+            "version": 196608,
+            "size": 13493839
         },
         "01005B10132B2000": {
             "id": "01005B10132B2000",
@@ -285217,6 +285299,18 @@
             "version": 0,
             "size": 24156
         },
+        "01005250086C4800": {
+            "id": "01005250086C4800",
+            "name": "Mega Man X Legacy Collection 2",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 27162365
+        },
         "01005CB01F4AC800": {
             "id": "01005CB01F4AC800",
             "name": "Last Ninja Collection",
@@ -286394,8 +286488,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 589824,
-            "size": 2404695150
+            "version": 655360,
+            "size": 2403010527
         },
         "0100BFD019242000": {
             "id": "0100BFD019242000",
@@ -349976,6 +350070,23 @@
             "version": 0,
             "size": 30340034
         },
+        "0100D1B02250A000": {
+            "id": "0100D1B02250A000",
+            "name": "Tales of Autumn",
+            "publisher": "REDDEER.GAMES",
+            "releaseDate": "20250320",
+            "description": "Tales of Autumn is a wild farming RPG with an emphasis on animals and terrain management. Develop the abandoned ranch, befriend the wildlife, build relationships and earn the trust of the town.\n\nTERRA-FARMING\nOn your ranch, you can befriend and tame wild creatures while raising farm animals, each with their own unique needs. Shape the land to create different biomes, influencing the crops you can grow and the animals that will be drawn to your farm. Traditional livestock can be raised in barns and coops, providing valuable resources and cutesy companionship\n\n\nYOU WON’T BE LONELY\nYour choices impact the town—good deeds will earn you rewards, discounts, friendship, and helping hands while neglecting the community will result in your neighbours becoming distant. Build relationships with the townsfolk, learn their stories, and let them become part of your adventure - and what a fantastic journey it can be!\n\n\nUNIQUE EVENTS FOR EVERY SEASON\nRelax by casting your fishing rod at the docks or lake, complete with fun minigames and a variety of lures. Discover a lively festival calendar, along with unique character and creature events that unfold as you progress.\n\n\nKEY FEATURES\n- Creature Taming – Befriend and care for wild and farm animals, each with specific needs.\n- Karma System – The town reacts to your behavior, offering rewards for kindness or keeping their distance if ignored.\n- Relationships – Get to know the townsfolk, hear their stories, and invite them into your journey.\n- Fishing – Engage in a fishing minigame with different lures.\n- Festivals & Events – Take part in town celebrations and creature events.",
+            "bannerUrl": "https://api.nlib.cc/nx/0100D1B02250A000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100D1B02250A000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100D1B02250A000/screen/1",
+                "https://api.nlib.cc/nx/0100D1B02250A000/screen/2",
+                "https://api.nlib.cc/nx/0100D1B02250A000/screen/3",
+                "https://api.nlib.cc/nx/0100D1B02250A000/screen/4"
+            ],
+            "version": 0,
+            "size": 318838958
+        },
         "0100459009A2A000": {
             "id": "0100459009A2A000",
             "name": "GRIP",
@@ -369796,8 +369907,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 655360,
-            "size": 1202076888
+            "version": 720896,
+            "size": 1088597177
         },
         "0100CA900B6BA800": {
             "id": "0100CA900B6BA800",
@@ -386453,8 +386564,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 589824,
-            "size": 4583471605
+            "version": 655360,
+            "size": 6170868076
         },
         "0100B8100C54A000": {
             "id": "0100B8100C54A000",
@@ -440058,6 +440169,18 @@
             "version": 0,
             "size": 27344489
         },
+        "01009D6022DC2800": {
+            "id": "01009D6022DC2800",
+            "name": "Reus 2",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 113841064
+        },
         "0100B9400654E000": {
             "id": "0100B9400654E000",
             "name": "プラチナ・トレイン～日本縦断てつどうの旅～",
@@ -445771,6 +445894,18 @@
             ],
             "version": 0,
             "size": 4737261390
+        },
+        "0100B8E026374800": {
+            "id": "0100B8E026374800",
+            "name": "DEMONS' NIGHT FEVER",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 54227591
         },
         "01007A2027549017": {
             "id": "01007A2027549017",
@@ -481989,8 +482124,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1441792,
-            "size": 2385939345
+            "version": 1507328,
+            "size": 2394901025
         },
         "010032901C65A000": {
             "id": "010032901C65A000",
@@ -485015,8 +485150,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 228607811
+            "version": 393216,
+            "size": 227433179
         },
         "0100CB900B498000": {
             "id": "0100CB900B498000",
@@ -543713,6 +543848,23 @@
             "version": 0,
             "size": 130097746
         },
+        "010075B0206D6000": {
+            "id": "010075B0206D6000",
+            "name": "Two Strikes",
+            "publisher": "Entalto Publishing",
+            "releaseDate": "20250523",
+            "description": "Experience the electrifying rush of life-or-death duels in a heartbeat!\nDive into Two Strikes, a casual 2D fighting saga adorned with mesmerizing hand-drawn animations, whisking you away to a fierce epoch in Japan, where every stroke of the blade could spell doom or glory.\nPosition yourself wisely; every move could be your last.\nDart around to close in or evade assaults, seizing the opportunity when foes are within your weapon's grasp!\n\nStriking decisively is your path to triumph, yet tread carefully as predictable moves are easily thwarted.\nOutwit adversaries by masking your intentions, feigning attacks with nimble dashes.\nAnd when victory is within sight, unleash devastating strikes to claim your honor!",
+            "bannerUrl": "https://api.nlib.cc/nx/010075B0206D6000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/010075B0206D6000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/010075B0206D6000/screen/1",
+                "https://api.nlib.cc/nx/010075B0206D6000/screen/2",
+                "https://api.nlib.cc/nx/010075B0206D6000/screen/3",
+                "https://api.nlib.cc/nx/010075B0206D6000/screen/4"
+            ],
+            "version": 0,
+            "size": 607242479
+        },
         "01008F0022CD2000": {
             "id": "01008F0022CD2000",
             "name": "Kentum",
@@ -546612,8 +546764,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 761535393
+            "version": 131072,
+            "size": 764481349
         },
         "0100EE501EE58000": {
             "id": "0100EE501EE58000",
@@ -562683,8 +562835,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1900544,
-            "size": 1355864960
+            "version": 1966080,
+            "size": 1357631365
         },
         "010026B01D710800": {
             "id": "010026B01D710800",
@@ -602701,8 +602853,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1376256,
-            "size": 2346669999
+            "version": 1441792,
+            "size": 2347671732
         },
         "01003ED0099B0000": {
             "id": "01003ED0099B0000",
@@ -608635,6 +608787,18 @@
             "screenshots": [],
             "version": 131072,
             "size": 341686195
+        },
+        "0100F08026D0C000": {
+            "id": "0100F08026D0C000",
+            "name": "DRAGON QUEST MONSTERS: The Withered World DEMO",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 2543194382
         },
         "01001ED0075EF003": {
             "id": "01001ED0075EF003",

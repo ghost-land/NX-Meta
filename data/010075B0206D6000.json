@@ -1,0 +1,16 @@
+{
+  "name": "Two Strikes",
+  "publisher": "Entalto Publishing",
+  "releaseDate": "20250523",
+  "description": "Experience the electrifying rush of life-or-death duels in a heartbeat!\nDive into Two Strikes, a casual 2D fighting saga adorned with mesmerizing hand-drawn animations, whisking you away to a fierce epoch in Japan, where every stroke of the blade could spell doom or glory.\nPosition yourself wisely; every move could be your last.\nDart around to close in or evade assaults, seizing the opportunity when foes are within your weapon's grasp!\n\nStriking decisively is your path to triumph, yet tread carefully as predictable moves are easily thwarted.\nOutwit adversaries by masking your intentions, feigning attacks with nimble dashes.\nAnd when victory is within sight, unleash devastating strikes to claim your honor!",
+  "bannerUrl": "http://api.nlib.cc/nx/010075B0206D6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010075B0206D6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010075B0206D6000/screen/1",
+    "http://api.nlib.cc/nx/010075B0206D6000/screen/2",
+    "http://api.nlib.cc/nx/010075B0206D6000/screen/3",
+    "http://api.nlib.cc/nx/010075B0206D6000/screen/4"
+  ],
+  "version": 0,
+  "size": 607242479
+}
