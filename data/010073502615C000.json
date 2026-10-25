@@ -1,0 +1,18 @@
+{
+  "name": "ZenWash",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20251227",
+  "description": "Keep everything spotless with your high-pressure washer — no rush, no stress, just pure peace of mind.\n\nAs you progress, you’ll unlock valuable upgrades and take on larger, more satisfying homes to clean, making every step of your journey feel even more rewarding.\n\nEnjoy a unique, original soundtrack designed to enhance your Zen experience.\n\nBe ZenWash.",
+  "bannerUrl": "http://api.nlib.cc/nx/010073502615C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010073502615C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010073502615C000/screen/1",
+    "http://api.nlib.cc/nx/010073502615C000/screen/2",
+    "http://api.nlib.cc/nx/010073502615C000/screen/3",
+    "http://api.nlib.cc/nx/010073502615C000/screen/4",
+    "http://api.nlib.cc/nx/010073502615C000/screen/5",
+    "http://api.nlib.cc/nx/010073502615C000/screen/6"
+  ],
+  "version": 0,
+  "size": 246201989
+}

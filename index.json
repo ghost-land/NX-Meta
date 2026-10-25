@@ -701,6 +701,18 @@
             "version": 393216,
             "size": 1058507003
         },
+        "0100D830204E0800": {
+            "id": "0100D830204E0800",
+            "name": "Tape to Tape",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 622313482
+        },
         "0100D8E010B1B001": {
             "id": "0100D8E010B1B001",
             "name": "インディヴィジブル 闇を祓う魂たち - 行くよ、ロティ！",
@@ -36750,6 +36762,18 @@
             ],
             "version": 0,
             "size": 1125803210
+        },
+        "010091502A9F8000": {
+            "id": "010091502A9F8000",
+            "name": "Devil & Angel Sky Battle",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 336270218
         },
         "0100A5D01AA2C000": {
             "id": "0100A5D01AA2C000",
@@ -107943,6 +107967,23 @@
             "version": 0,
             "size": 57443408
         },
+        "01006B90254DE000": {
+            "id": "01006B90254DE000",
+            "name": "Dunkirk - The Forgotten Soldier",
+            "publisher": "GAME NACIONAL",
+            "releaseDate": "20260110",
+            "description": "Dunkirk - The Forgotten Soldier is an action rogue-lite set in a war zone. Each run puts the player against increasingly dangerous waves of enemies. With every new attempt, you must grow stronger and more skilled, using everything at your disposal to endure and push forward against the enemy’s rising force.",
+            "bannerUrl": "https://api.nlib.cc/nx/01006B90254DE000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/01006B90254DE000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/01006B90254DE000/screen/1",
+                "https://api.nlib.cc/nx/01006B90254DE000/screen/2",
+                "https://api.nlib.cc/nx/01006B90254DE000/screen/3",
+                "https://api.nlib.cc/nx/01006B90254DE000/screen/4"
+            ],
+            "version": 0,
+            "size": 45603722
+        },
         "01008CB0156BC800": {
             "id": "01008CB0156BC800",
             "name": "The Legend of Heroes Trails into Reverie",
@@ -157466,6 +157507,23 @@
             "screenshots": [],
             "version": 0,
             "size": 39155757
+        },
+        "010073502615C000": {
+            "id": "010073502615C000",
+            "name": "ZenWash",
+            "publisher": "GAME NACIONAL",
+            "releaseDate": "20251227",
+            "description": "Keep everything spotless with your high-pressure washer — no rush, no stress, just pure peace of mind.\n\nAs you progress, you’ll unlock valuable upgrades and take on larger, more satisfying homes to clean, making every step of your journey feel even more rewarding.\n\nEnjoy a unique, original soundtrack designed to enhance your Zen experience.\n\nBe ZenWash.",
+            "bannerUrl": "https://api.nlib.cc/nx/010073502615C000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/010073502615C000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/010073502615C000/screen/1",
+                "https://api.nlib.cc/nx/010073502615C000/screen/2",
+                "https://api.nlib.cc/nx/010073502615C000/screen/3",
+                "https://api.nlib.cc/nx/010073502615C000/screen/4"
+            ],
+            "version": 0,
+            "size": 246201989
         },
         "0100EF00134F5009": {
             "id": "0100EF00134F5009",
@@ -289722,6 +289780,18 @@
             "version": 0,
             "size": 125420611
         },
+        "0100D830204E0000": {
+            "id": "0100D830204E0000",
+            "name": "Tape to Tape",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 618994974
+        },
         "010070D009FED001": {
             "id": "010070D009FED001",
             "name": "LEGO® DC Super-Villains - LEGO® DC TV Series Super Heroes Character Pack",
@@ -379861,6 +379931,18 @@
             "version": 0,
             "size": 602620435
         },
+        "0100CC3026180000": {
+            "id": "0100CC3026180000",
+            "name": "十鬼之絆 for Nintendo Switch",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 4960697080
+        },
         "0100CD500E706000": {
             "id": "0100CD500E706000",
             "name": "Ziggurat",
@@ -430140,6 +430222,18 @@
             ],
             "version": 0,
             "size": 387109716
+        },
+        "01000C3021F74800": {
+            "id": "01000C3021F74800",
+            "name": "Mortal Glory 2",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 45113015
         },
         "01002CC003FE7007": {
             "id": "01002CC003FE7007",
@@ -538252,6 +538346,23 @@
             "version": 0,
             "size": 51345361
         },
+        "0100197026CFE000": {
+            "id": "0100197026CFE000",
+            "name": "Viking Farm",
+            "publisher": "GAME NACIONAL",
+            "releaseDate": "20260411",
+            "description": "\n\nChoose a character and manage the daily life of a Viking. Plant and harvest a variety of crops, feed your animals, and sell livestock or loot to expand and improve your farm.\n\nGather resources to grow. Mine gold, chop trees for wood, and use a pickaxe to collect stone. Manage your production carefully and keep your character well-fed to stay strong on your journey.\n\nIn addition to raising and caring for animals such as chickens, horses, sheep, pigs, and cows, you will also encounter creatures from Norse mythology, including the horse Sleipnir, the stag Eikthyrnir, the wolf Fenrir, and the world serpent Jörmungandr. In your fields, grow carrots, mushrooms, corn, turnips, cabbage, and wheat to keep your farm productive.",
+            "bannerUrl": "https://api.nlib.cc/nx/0100197026CFE000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100197026CFE000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100197026CFE000/screen/1",
+                "https://api.nlib.cc/nx/0100197026CFE000/screen/2",
+                "https://api.nlib.cc/nx/0100197026CFE000/screen/3",
+                "https://api.nlib.cc/nx/0100197026CFE000/screen/4"
+            ],
+            "version": 0,
+            "size": 69693925
+        },
         "0100F200178F4000": {
             "id": "0100F200178F4000",
             "name": "FRONT MISSION 1st: Remake",
@@ -555717,6 +555828,18 @@
             "screenshots": [],
             "version": 0,
             "size": 56544
+        },
+        "0100D7A029930000": {
+            "id": "0100D7A029930000",
+            "name": "Subliminal Backrooms Horror",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 1323225323
         },
         "01008F1008DA6800": {
             "id": "01008F1008DA6800",
@@ -575679,17 +575802,12 @@
         "01001560266E6000": {
             "id": "01001560266E6000",
             "name": "Ultra Bonk Survivors",
-            "publisher": "NOSTRA GAMES",
-            "releaseDate": "20260312",
-            "description": "Step into the chaotic world of Ultra Bonk Survivors, where every swing, spell, and explosion decides your fate!\n\nChoose your hero, dive into monster-filled arenas, and unleash devastating attacks in this fast-paced survivor-style action roguelite designed for quick, addictive sessions of pure fun.\n\nGame features:\n- Bonk, Slash, and Survive!\n- Face endless waves of goblins, skeletons, and demons in vibrant fantasy arenas that crumble and glow with magical energy.\n- Every run is a fight to last just a little longer—and bonk a little harder.\n- Unlock Heroes & Legends\n- Begin your adventure with humble warriors and unlock mighty heroes as you progress, including the legendary Lion Knight, masters of sword and shield.\n- Each character brings unique stats and attack styles to discover.\n- Grow Stronger Every Run\n- Collect glowing orbs, relics, and mystical books that grant random power-ups. Experiment with different builds and create unstoppable synergies.\n- Explore and Interact\n- Find shrines, treasure chests, and mysterious power-ups scattered across the battlefield.\n  \nWill you risk everything to open a chest in the middle of a horde?\nOne More Bonk...\nFast-paced, endlessly replayable, and dangerously addictive. Every defeat brings you closer to your next unlock and new surprises.\n\nCheck out this fun new game from the NOSTRA.GAMES team.\n\nUltra Bonk Survivors is your ticket to the ultimate fantasy survival experience.\n\nChoose your hero, charge into the temple ruins, and see how long you can survive the bonkocalypse.",
-            "bannerUrl": "https://api.nlib.cc/nx/01001560266E6000/banner",
-            "iconUrl": "https://api.nlib.cc/nx/01001560266E6000/icon/200",
-            "screenshots": [
-                "https://api.nlib.cc/nx/01001560266E6000/screen/1",
-                "https://api.nlib.cc/nx/01001560266E6000/screen/2",
-                "https://api.nlib.cc/nx/01001560266E6000/screen/3",
-                "https://api.nlib.cc/nx/01001560266E6000/screen/4"
-            ],
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
             "version": 0,
             "size": 225527057
         },
@@ -597939,8 +598057,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 44906063
+            "version": 131072,
+            "size": 48320502
         },
         "0100EB500D92F022": {
             "id": "0100EB500D92F022",
@@ -601349,6 +601467,23 @@
             "screenshots": [],
             "version": 131072,
             "size": 34708508
+        },
+        "0100047013378000": {
+            "id": "0100047013378000",
+            "name": "ぎゃる☆がん りたーんず",
+            "publisher": "インティ・クリエイツ",
+            "releaseDate": "20210128",
+            "description": "",
+            "bannerUrl": "https://api.nlib.cc/nx/0100047013378000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100047013378000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100047013378000/screen/1",
+                "https://api.nlib.cc/nx/0100047013378000/screen/2",
+                "https://api.nlib.cc/nx/0100047013378000/screen/3",
+                "https://api.nlib.cc/nx/0100047013378000/screen/4"
+            ],
+            "version": 0,
+            "size": 2601958949
         },
         "0100C6E021BF2800": {
             "id": "0100C6E021BF2800",
@@ -624249,6 +624384,23 @@
             "screenshots": [],
             "version": 0,
             "size": 24081
+        },
+        "01000C3021F74000": {
+            "id": "01000C3021F74000",
+            "name": "Mortal Glory 2",
+            "publisher": "Redbeak Games",
+            "releaseDate": "20250808",
+            "description": "Find the best recruits, discover powerful item combinations and come up with clever tactics on the battlefield. The tournament awaits those who desire MORTAL GLORY!\n\nQUICK TURN-BASED COMBAT\nRoll an explosive barrel at your enemy, throw them into a pit or take out two enemies by knocking them into each other. With a wide variety of tools available to you, your creativity will determine how you deal with the competition. Unique arenas, randomized environments and occasional special rules ensure that each fight offers new tactical opportunities.\n\nRECRUIT A TEAM\nA wide variety of fantasy races are seeking glory, each with their own unique racial strengths. Whatever your tactics are, finding the best recruits is essential!\n\nUNIQUE LOOT\nThere is a vast collection of unique relics, character perks and more to discover. Finding clever combos and deadly synergies will unlock new strategies and occasionally turn your gladiators into unfairly strong demons.\n\nSKILLED AI\nVarious difficulty settings will accommodate your preferred playstyle and there are increasingly harder challenges to master. But beware... The AI is brutally talented at the highest levels.\n\nCHOOSE YOUR PATH\nWith every step comes a new challenge or perhaps... an opportunity? It is up to you to guide where your team should travel next... and suffer the consequences.\n\nREPLAYABILITY\nEach playthrough is different! With various tactics to try and additional increasingly harder challenges to master, the arena will keep welcoming you back again and again. Thanks to conveniently paced combat, Mortal Glory 2 is also great to play if you only have a moment to spare.",
+            "bannerUrl": "https://api.nlib.cc/nx/01000C3021F74000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/01000C3021F74000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/01000C3021F74000/screen/1",
+                "https://api.nlib.cc/nx/01000C3021F74000/screen/2",
+                "https://api.nlib.cc/nx/01000C3021F74000/screen/3",
+                "https://api.nlib.cc/nx/01000C3021F74000/screen/4"
+            ],
+            "version": 0,
+            "size": 398995153
         },
         "0100FAA020246800": {
             "id": "0100FAA020246800",

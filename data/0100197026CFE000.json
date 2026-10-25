@@ -1,0 +1,18 @@
+{
+  "name": "Viking Farm",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20260411",
+  "description": "\n\nChoose a character and manage the daily life of a Viking. Plant and harvest a variety of crops, feed your animals, and sell livestock or loot to expand and improve your farm.\n\nGather resources to grow. Mine gold, chop trees for wood, and use a pickaxe to collect stone. Manage your production carefully and keep your character well-fed to stay strong on your journey.\n\nIn addition to raising and caring for animals such as chickens, horses, sheep, pigs, and cows, you will also encounter creatures from Norse mythology, including the horse Sleipnir, the stag Eikthyrnir, the wolf Fenrir, and the world serpent Jörmungandr. In your fields, grow carrots, mushrooms, corn, turnips, cabbage, and wheat to keep your farm productive.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100197026CFE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100197026CFE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100197026CFE000/screen/1",
+    "http://api.nlib.cc/nx/0100197026CFE000/screen/2",
+    "http://api.nlib.cc/nx/0100197026CFE000/screen/3",
+    "http://api.nlib.cc/nx/0100197026CFE000/screen/4",
+    "http://api.nlib.cc/nx/0100197026CFE000/screen/5",
+    "http://api.nlib.cc/nx/0100197026CFE000/screen/6"
+  ],
+  "version": 0,
+  "size": 69693925
+}

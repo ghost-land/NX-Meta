@@ -1,0 +1,17 @@
+{
+  "name": "Dunkirk - The Forgotten Soldier",
+  "publisher": "GAME NACIONAL",
+  "releaseDate": "20260110",
+  "description": "Dunkirk - The Forgotten Soldier is an action rogue-lite set in a war zone. Each run puts the player against increasingly dangerous waves of enemies. With every new attempt, you must grow stronger and more skilled, using everything at your disposal to endure and push forward against the enemy’s rising force.",
+  "bannerUrl": "http://api.nlib.cc/nx/01006B90254DE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006B90254DE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006B90254DE000/screen/1",
+    "http://api.nlib.cc/nx/01006B90254DE000/screen/2",
+    "http://api.nlib.cc/nx/01006B90254DE000/screen/3",
+    "http://api.nlib.cc/nx/01006B90254DE000/screen/4",
+    "http://api.nlib.cc/nx/01006B90254DE000/screen/5"
+  ],
+  "version": 0,
+  "size": 45603722
+}
