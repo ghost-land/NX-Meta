@@ -18061,6 +18061,18 @@
             "version": 196608,
             "size": 73169064
         },
+        "010064B0172A7001": {
+            "id": "010064B0172A7001",
+            "name": "Cop Car Police Simulator Chase Car Games Simulator And Driving Cop Car Police Simulator Chase Starter Cash",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100F910200DA000": {
             "id": "0100F910200DA000",
             "name": "Arcade Archives VIPER PHASE 1",
@@ -26566,15 +26578,15 @@
         },
         "01002B2025D9E800": {
             "id": "01002B2025D9E800",
-            "name": "Neopets - Mega Mini Games Collection",
+            "name": "Neopets - Mega Mini Games Collection - The Neopian Arcade Odyssey",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 244706772
+            "version": 458752,
+            "size": 342507607
         },
         "0100879019212000": {
             "id": "0100879019212000",
@@ -29853,6 +29865,18 @@
             "screenshots": [],
             "version": 0,
             "size": 55599
+        },
+        "01008A10250CD002": {
+            "id": "01008A10250CD002",
+            "name": "Storm Chasing Sim 2025 Tornado Hunter",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "01009F70203E6800": {
             "id": "01009F70203E6800",
@@ -42631,6 +42655,18 @@
             "version": 0,
             "size": 189699129
         },
+        "010087A021031001": {
+            "id": "010087A021031001",
+            "name": "Neko Bento New Levels 1",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25230
+        },
         "0100A7900B936000": {
             "id": "0100A7900B936000",
             "name": "Shut Eye",
@@ -43216,7 +43252,9 @@
                 "https://api.nlib.cc/nx/0100BE40138B8000/screen/2",
                 "https://api.nlib.cc/nx/0100BE40138B8000/screen/3",
                 "https://api.nlib.cc/nx/0100BE40138B8000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 3213310946
         },
         "0100B69012EC6000": {
             "id": "0100B69012EC6000",
@@ -46606,6 +46644,18 @@
             "screenshots": [],
             "version": 131072,
             "size": 288189229
+        },
+        "010075B0206D7001": {
+            "id": "010075B0206D7001",
+            "name": "Tstr Baki Hanma",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 23113
         },
         "0100D210177C6000": {
             "id": "0100D210177C6000",
@@ -69436,6 +69486,18 @@
             "version": 0,
             "size": 58060164
         },
+        "0100DF90282A1002": {
+            "id": "0100DF90282A1002",
+            "name": "Lamp Clicker Spooky Background Dlc",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010079200E85D008": {
             "id": "010079200E85D008",
             "name": "Omega Labyrinth Life - Vox Bluriades",
@@ -73947,8 +74009,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 100581742
+            "version": 327680,
+            "size": 100817192
         },
         "01008A401F736000": {
             "id": "01008A401F736000",
@@ -74826,6 +74888,18 @@
             "screenshots": [],
             "version": 0,
             "size": 60331270
+        },
+        "010075B0206D7002": {
+            "id": "010075B0206D7002",
+            "name": "Tstr Shinigami",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 23110
         },
         "01008FE00E2F702C": {
             "id": "01008FE00E2F702C",
@@ -76645,6 +76719,18 @@
             "version": 393216,
             "size": 666035001
         },
+        "0100DF90282A1001": {
+            "id": "0100DF90282A1001",
+            "name": "Lamp Clicker Spooky Lamps Dlc",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "01007E30176E6000": {
             "id": "01007E30176E6000",
             "name": "Samurai Bringer",
@@ -77811,6 +77897,18 @@
             "screenshots": [],
             "version": 65536,
             "size": 64499643
+        },
+        "01004B9025337001": {
+            "id": "01004B9025337001",
+            "name": "Tralalero Tralala Escape Backrooms Survival Boost",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "010063D01560A800": {
             "id": "010063D01560A800",
@@ -86550,6 +86648,18 @@
             "version": 0,
             "size": 762197410
         },
+        "010087A021031007": {
+            "id": "010087A021031007",
+            "name": "Neko Bento Homes Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25232
+        },
         "0100EE701494A000": {
             "id": "0100EE701494A000",
             "name": "Tomb of the Mask",
@@ -86871,6 +86981,18 @@
             "screenshots": [],
             "version": 196608,
             "size": 522069716
+        },
+        "01009D6022DC3001": {
+            "id": "01009D6022DC3001",
+            "name": "Reu2 Ice Age",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 23105
         },
         "010055901174102E": {
             "id": "010055901174102E",
@@ -92200,6 +92322,18 @@
             "screenshots": [],
             "version": 0,
             "size": 82198
+        },
+        "0100A7C01B793001": {
+            "id": "0100A7C01B793001",
+            "name": "Minecraft Dungeons Ii Hero Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 24130
         },
         "010035100F23E000": {
             "id": "010035100F23E000",
@@ -98730,6 +98864,18 @@
             "screenshots": [],
             "version": 0,
             "size": 492685576
+        },
+        "0100A0902789B004": {
+            "id": "0100A0902789B004",
+            "name": "Spongebob Squarepants Titans Of The Tide Search For Squarepants Costume Pack Dlc",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100B02019866000": {
             "id": "0100B02019866000",
@@ -110739,6 +110885,18 @@
             "version": 0,
             "size": 55837
         },
+        "010045B01FAF9002": {
+            "id": "010045B01FAF9002",
+            "name": "Ketsu Battler Additional Character T Rex And Wombat",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100DF8013304800": {
             "id": "0100DF8013304800",
             "name": "Sokobond",
@@ -114163,15 +114321,15 @@
         },
         "0100958018A16800": {
             "id": "0100958018A16800",
-            "name": "Ultimate 4x4 Offroad Trucks ꞉Car Racing Driving Simulator 2022",
+            "name": "Ultimate 4x4 Offroad Trucks :Car Racing Driving Simulator 2022",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 431209464
+            "version": 131072,
+            "size": 395545718
         },
         "010082C015ABC800": {
             "id": "010082C015ABC800",
@@ -114518,6 +114676,18 @@
             ],
             "version": 0,
             "size": 527247163
+        },
+        "010087A021031002": {
+            "id": "010087A021031002",
+            "name": "Neko Bento New Levels 2",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25231
         },
         "0100605008269001": {
             "id": "0100605008269001",
@@ -118147,6 +118317,18 @@
             "version": 0,
             "size": 6031765821
         },
+        "01008E20257E1001": {
+            "id": "01008E20257E1001",
+            "name": "Qliphah In Providences Shadow Bonus Skins For Rena And Soma",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010002800B818800": {
             "id": "010002800B818800",
             "name": "Velocity®2X",
@@ -120136,6 +120318,23 @@
             "screenshots": [],
             "version": 0,
             "size": 56619
+        },
+        "0100B8A026F14000": {
+            "id": "0100B8A026F14000",
+            "name": "FINAL FANTASY RESONANCE",
+            "publisher": "Square Enix",
+            "releaseDate": "20261022",
+            "description": "",
+            "bannerUrl": "https://api.nlib.cc/nx/0100B8A026F14000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100B8A026F14000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100B8A026F14000/screen/1",
+                "https://api.nlib.cc/nx/0100B8A026F14000/screen/2",
+                "https://api.nlib.cc/nx/0100B8A026F14000/screen/3",
+                "https://api.nlib.cc/nx/0100B8A026F14000/screen/4"
+            ],
+            "version": 0,
+            "size": 8767913020
         },
         "0100AE7012B5F029": {
             "id": "0100AE7012B5F029",
@@ -156505,6 +156704,18 @@
             "version": 0,
             "size": 32058787
         },
+        "01006230250D7001": {
+            "id": "01006230250D7001",
+            "name": "Candyland Sweet Survival Ammo Boost",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "01007D7001D0E800": {
             "id": "01007D7001D0E800",
             "name": "Oceanhorn - Monster of Uncharted Seas",
@@ -157340,6 +157551,18 @@
             "screenshots": [],
             "version": 65536,
             "size": 25971813
+        },
+        "0100C0702115D002": {
+            "id": "0100C0702115D002",
+            "name": "Warfront Tactics Battlefield Chronicles Battle Simulator War Funds",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100559011741109": {
             "id": "0100559011741109",
@@ -162167,6 +162390,18 @@
             "version": 65536,
             "size": 15259657
         },
+        "0100EC50239F1001": {
+            "id": "0100EC50239F1001",
+            "name": "Hole Digging Master Solar Panels",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010089A0117D5047": {
             "id": "010089A0117D5047",
             "name": "戦国無双５ - 追加軍馬「麒麟」",
@@ -165915,6 +166150,18 @@
             "version": 0,
             "size": 56549
         },
+        "0100D8F0281B7001": {
+            "id": "0100D8F0281B7001",
+            "name": "Exstetra Runes Set",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 24091
+        },
         "01006D90165A2000": {
             "id": "01006D90165A2000",
             "name": "閃乱忍忍忍者大戦ネプテューヌ -少女達の響艶-",
@@ -166213,6 +166460,23 @@
             "screenshots": [],
             "version": 131072,
             "size": 82661177
+        },
+        "010017B012AFC000": {
+            "id": "010017B012AFC000",
+            "name": "サッカークラブライフ　プレイングマネージャー",
+            "publisher": "レイニーフロッグ",
+            "releaseDate": "20210210",
+            "description": "",
+            "bannerUrl": "https://api.nlib.cc/nx/010017B012AFC000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/010017B012AFC000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/010017B012AFC000/screen/1",
+                "https://api.nlib.cc/nx/010017B012AFC000/screen/2",
+                "https://api.nlib.cc/nx/010017B012AFC000/screen/3",
+                "https://api.nlib.cc/nx/010017B012AFC000/screen/4"
+            ],
+            "version": 0,
+            "size": 573453476
         },
         "0100E67012924000": {
             "id": "0100E67012924000",
@@ -176609,6 +176873,18 @@
             ],
             "version": 0,
             "size": 323009723
+        },
+        "0100C0702115D001": {
+            "id": "0100C0702115D001",
+            "name": "Warfront Tactics Battlefield Chronicles Battle Simulator Military Capital",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "01000F9020CD50D2": {
             "id": "01000F9020CD50D2",
@@ -192711,8 +192987,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 121751246
+            "version": 327680,
+            "size": 121738817
         },
         "01009AB013EE2000": {
             "id": "01009AB013EE2000",
@@ -201797,6 +202073,18 @@
             "screenshots": [],
             "version": 196608,
             "size": 62604208
+        },
+        "0100B2D0249B3003": {
+            "id": "0100B2D0249B3003",
+            "name": "Bodycam Shooter 2025 Shadow Vision",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "01009CC00BD6E000": {
             "id": "01009CC00BD6E000",
@@ -211429,15 +211717,15 @@
         },
         "010052E01F8FC800": {
             "id": "010052E01F8FC800",
-            "name": "BANG! BANG! BANDITS Nintendo Switch 2 Edition",
+            "name": "BANG! BANG! BANDITS",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 1861403987
+            "version": 393216,
+            "size": 2049491671
         },
         "010018700A14A800": {
             "id": "010018700A14A800",
@@ -212412,8 +212700,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 475735050
+            "version": 458752,
+            "size": 478906055
         },
         "010008C01010A000": {
             "id": "010008C01010A000",
@@ -246720,6 +247008,18 @@
             "version": 0,
             "size": 79209610
         },
+        "0100B8A026F14800": {
+            "id": "0100B8A026F14800",
+            "name": "FINAL FANTASY RESONANCE",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 97049821
+        },
         "010080D002CC6000": {
             "id": "010080D002CC6000",
             "name": "Johnny Turbo's Arcade: Two Crude Dudes",
@@ -246893,6 +247193,18 @@
             "screenshots": [],
             "version": 0,
             "size": 55603
+        },
+        "0100ABA02501A800": {
+            "id": "0100ABA02501A800",
+            "name": "CloverPit",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 131072,
+            "size": 87578078
         },
         "01002C9022771075": {
             "id": "01002C9022771075",
@@ -254938,7 +255250,9 @@
                 "https://api.nlib.cc/nx/0100E94014792000/screen/2",
                 "https://api.nlib.cc/nx/0100E94014792000/screen/3",
                 "https://api.nlib.cc/nx/0100E94014792000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 3370982813
         },
         "01007E700DBF702E": {
             "id": "01007E700DBF702E",
@@ -268680,6 +268994,18 @@
             "version": 0,
             "size": 1125036210
         },
+        "0100A0902789B001": {
+            "id": "0100A0902789B001",
+            "name": "Spongebob Squarepants Titans Of The Tide Natural Costume Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "01007250089F9075": {
             "id": "01007250089F9075",
             "name": "LoveR Kiss（ラヴアール キス） - 【LoveR KissコスチュームDLC】スプリンターセパレート３色セット",
@@ -271633,6 +271959,18 @@
             ],
             "version": 0,
             "size": 1309688963
+        },
+        "0100304027593001": {
+            "id": "0100304027593001",
+            "name": "Urbj",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 23230
         },
         "0100A4B015380000": {
             "id": "0100A4B015380000",
@@ -278232,6 +278570,18 @@
             "screenshots": [],
             "version": 0,
             "size": 24503
+        },
+        "010087A021031005": {
+            "id": "010087A021031005",
+            "name": "Neko Bento Boxes Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25236
         },
         "01006D5019960000": {
             "id": "01006D5019960000",
@@ -286056,6 +286406,18 @@
             ],
             "version": 0,
             "size": 62314884
+        },
+        "0100A0902789B002": {
+            "id": "0100A0902789B002",
+            "name": "Spongebob Squarepants Titans Of The Tide Plankton's Portal Challenge Dlc",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100E66006406800": {
             "id": "0100E66006406800",
@@ -306520,6 +306882,18 @@
             "screenshots": [],
             "version": 131072,
             "size": 70789496
+        },
+        "010087A021031006": {
+            "id": "010087A021031006",
+            "name": "Neko Bento Food Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25221
         },
         "010006C0204FA800": {
             "id": "010006C0204FA800",
@@ -346677,8 +347051,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 99016007
+            "version": 262144,
+            "size": 88434869
         },
         "01008CA01D460000": {
             "id": "01008CA01D460000",
@@ -347154,6 +347528,18 @@
             "screenshots": [],
             "version": 131072,
             "size": 146141170
+        },
+        "0100BA4026E95001": {
+            "id": "0100BA4026E95001",
+            "name": "Castlevania Belmonts Curse Alucard Style Costume",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "010037401A374000": {
             "id": "010037401A374000",
@@ -379321,6 +379707,18 @@
             "version": 0,
             "size": 861485171
         },
+        "0100606026F13001": {
+            "id": "0100606026F13001",
+            "name": "Final Fantasy Resonance Magitek Airship And Squire Starter Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "01003280209A6000": {
             "id": "01003280209A6000",
             "name": "Hot&Hentai",
@@ -389339,6 +389737,18 @@
             "version": 0,
             "size": 248503807
         },
+        "01000C3021F75001": {
+            "id": "01000C3021F75001",
+            "name": "Mgl2 Reign Of Tyrants",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 23100
+        },
         "01008BA02525B003": {
             "id": "01008BA02525B003",
             "name": "Dispatch Hr Violations Pack",
@@ -389410,6 +389820,18 @@
             "screenshots": [],
             "version": 0,
             "size": 55621
+        },
+        "010026F0153C3005": {
+            "id": "010026F0153C3005",
+            "name": "Easy Red 2 Blood On The Danube",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100CB0027CEE000": {
             "id": "0100CB0027CEE000",
@@ -389557,6 +389979,18 @@
             "screenshots": [],
             "version": 0,
             "size": 93155419
+        },
+        "0100B1C0249B5001": {
+            "id": "0100B1C0249B5001",
+            "name": "Frostpunk All Expansions Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100D5A01A09E800": {
             "id": "0100D5A01A09E800",
@@ -393097,6 +393531,18 @@
             ],
             "version": 0,
             "size": 436557755
+        },
+        "010087A021031003": {
+            "id": "010087A021031003",
+            "name": "Neko Bento New Levels 3",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25219
         },
         "0100833014F3A800": {
             "id": "0100833014F3A800",
@@ -407201,6 +407647,23 @@
             ],
             "version": 0,
             "size": 225148891
+        },
+        "0100ABA02501A000": {
+            "id": "0100ABA02501A000",
+            "name": "CloverPit",
+            "publisher": "Future Friends Games",
+            "releaseDate": "20260813",
+            "description": "Clover Pit is a rogue-lite that traps players in a hell of their own creation. Locked in a rusty cell with a slot machine and an ATM, you must pay off your debt at the end of each round, or fall to ruin – literally!\n\nManipulate the slot machine to earn extra coins. Turn the odds in your favor with various prizes and charms that trigger big big combos, snowballing into a dazzling lucky run. Bend the rules, break the game, and pay off your captor long enough to earn a shot at freedom.\n\nFeatures:\n- A gripping rogue-lite where every round could be your last!\n- Meta-progression, multiple endings and unlockable power-ups!\n- Push your score to new heights in Endless Mode!\n- A hellish escape room atmosphere!\n- 150 + items and synergies to boost your luck!\n- A sinister tale of addiction and escape!",
+            "bannerUrl": "https://api.nlib.cc/nx/0100ABA02501A000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100ABA02501A000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100ABA02501A000/screen/1",
+                "https://api.nlib.cc/nx/0100ABA02501A000/screen/2",
+                "https://api.nlib.cc/nx/0100ABA02501A000/screen/3",
+                "https://api.nlib.cc/nx/0100ABA02501A000/screen/4"
+            ],
+            "version": 0,
+            "size": 126739579
         },
         "01008F600F2D0800": {
             "id": "01008F600F2D0800",
@@ -422893,8 +423356,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 102495745
+            "version": 327680,
+            "size": 401617810
         },
         "0100ECD01A4E0000": {
             "id": "0100ECD01A4E0000",
@@ -429519,6 +429982,18 @@
             "version": 131072,
             "size": 50211086
         },
+        "0100A0902789B005": {
+            "id": "0100A0902789B005",
+            "name": "Spongebob Squarepants Titans Of The Tide Double Deluxe Costume Pack Dlc",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "010009701702A000": {
             "id": "010009701702A000",
             "name": "Minepull",
@@ -430697,6 +431172,18 @@
             ],
             "version": 0,
             "size": 398281551
+        },
+        "01001E5025059003": {
+            "id": "01001E5025059003",
+            "name": "Bigfoot Hunting Endurance Boost",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "01004B100AF18800": {
             "id": "01004B100AF18800",
@@ -443626,6 +444113,18 @@
             "version": 0,
             "size": 55614
         },
+        "0100A1002A5B3001": {
+            "id": "0100A1002A5B3001",
+            "name": "Somewhere Small Nature Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010039301B7E100A": {
             "id": "010039301B7E100A",
             "name": "ACE COMBAT™7꞉ SKIES UNKNOWN DELUXE EDITION - ACE COMBAT™7꞉ SKIES UNKNOWN – F-2A -Super Kai- セット",
@@ -443878,6 +444377,18 @@
             ],
             "version": 0,
             "size": 1930430349
+        },
+        "010064B0172A7002": {
+            "id": "010064B0172A7002",
+            "name": "Cop Car Police Simulator Chase Car Games Simulator And Driving Cop Car Police Simulator Chase Capital Boost",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25548
         },
         "01006CC01182C000": {
             "id": "01006CC01182C000",
@@ -447204,6 +447715,18 @@
             "screenshots": [],
             "version": 0,
             "size": 96354423
+        },
+        "0100C430202CB003": {
+            "id": "0100C430202CB003",
+            "name": "Infinite Seek And Find Move It",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100DBA01570E800": {
             "id": "0100DBA01570E800",
@@ -452949,6 +453472,18 @@
             ],
             "version": 0,
             "size": 54470176
+        },
+        "0100415020915004": {
+            "id": "0100415020915004",
+            "name": "Flight Simulator Delivery Cargo Business Money Grant",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100B9E017F07005": {
             "id": "0100B9E017F07005",
@@ -464941,6 +465476,18 @@
             ],
             "version": 0,
             "size": 2052258881
+        },
+        "010081D01E24700C": {
+            "id": "010081D01E24700C",
+            "name": "Ticket To Ride The Spooktacular Bundle",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100EE501D328000": {
             "id": "0100EE501D328000",
@@ -485824,6 +486371,18 @@
             "version": 0,
             "size": 55617
         },
+        "010087A021031004": {
+            "id": "010087A021031004",
+            "name": "Neko Bento Backgrounds Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25224
+        },
         "01009CA01652D00B": {
             "id": "01009CA01652D00B",
             "name": "クライマキナ／CRYMACHINA - 水着「シャイニングマーメイド」（ミコト）",
@@ -487778,8 +488337,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 148745907
+            "version": 196608,
+            "size": 83165419
         },
         "0100E0C00ADAD012": {
             "id": "0100E0C00ADAD012",
@@ -495301,6 +495860,18 @@
             "screenshots": [],
             "version": 131072,
             "size": 101352042
+        },
+        "0100606026F13002": {
+            "id": "0100606026F13002",
+            "name": "Final Fantasy Resonance Squire Kickstart Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "010054E01D879003": {
             "id": "010054E01D879003",
@@ -519954,6 +520525,18 @@
             "version": 0,
             "size": 55636
         },
+        "0100BA4026E95002": {
+            "id": "0100BA4026E95002",
+            "name": "Castlevania Belmonts Curse Bonus Contents Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "0100559011741113": {
             "id": "0100559011741113",
             "name": "モンスターハンターライズ - 追加髪型「みやびスタイル」",
@@ -526171,6 +526754,18 @@
             "screenshots": [],
             "version": 0,
             "size": 311716556
+        },
+        "0100606026F13003": {
+            "id": "0100606026F13003",
+            "name": "Final Fantasy Resonance Digital Deluxe Upgrade",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "01003E500F962800": {
             "id": "01003E500F962800",
@@ -575802,12 +576397,17 @@
         "01001560266E6000": {
             "id": "01001560266E6000",
             "name": "Ultra Bonk Survivors",
-            "publisher": "",
-            "releaseDate": "",
-            "description": "",
-            "bannerUrl": "",
-            "iconUrl": "",
-            "screenshots": [],
+            "publisher": "NOSTRA GAMES",
+            "releaseDate": "20260312",
+            "description": "Step into the chaotic world of Ultra Bonk Survivors, where every swing, spell, and explosion decides your fate!\n\nChoose your hero, dive into monster-filled arenas, and unleash devastating attacks in this fast-paced survivor-style action roguelite designed for quick, addictive sessions of pure fun.\n\nGame features:\n- Bonk, Slash, and Survive!\n- Face endless waves of goblins, skeletons, and demons in vibrant fantasy arenas that crumble and glow with magical energy.\n- Every run is a fight to last just a little longer—and bonk a little harder.\n- Unlock Heroes & Legends\n- Begin your adventure with humble warriors and unlock mighty heroes as you progress, including the legendary Lion Knight, masters of sword and shield.\n- Each character brings unique stats and attack styles to discover.\n- Grow Stronger Every Run\n- Collect glowing orbs, relics, and mystical books that grant random power-ups. Experiment with different builds and create unstoppable synergies.\n- Explore and Interact\n- Find shrines, treasure chests, and mysterious power-ups scattered across the battlefield.\n  \nWill you risk everything to open a chest in the middle of a horde?\nOne More Bonk...\nFast-paced, endlessly replayable, and dangerously addictive. Every defeat brings you closer to your next unlock and new surprises.\n\nCheck out this fun new game from the NOSTRA.GAMES team.\n\nUltra Bonk Survivors is your ticket to the ultimate fantasy survival experience.\n\nChoose your hero, charge into the temple ruins, and see how long you can survive the bonkocalypse.",
+            "bannerUrl": "https://api.nlib.cc/nx/01001560266E6000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/01001560266E6000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/01001560266E6000/screen/1",
+                "https://api.nlib.cc/nx/01001560266E6000/screen/2",
+                "https://api.nlib.cc/nx/01001560266E6000/screen/3",
+                "https://api.nlib.cc/nx/01001560266E6000/screen/4"
+            ],
             "version": 0,
             "size": 225527057
         },
@@ -588151,6 +588751,18 @@
             "version": 0,
             "size": 6055604552
         },
+        "010075B0206D7003": {
+            "id": "010075B0206D7003",
+            "name": "Tstr Musashi Miyamoto",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 23111
+        },
         "010047000E9AA800": {
             "id": "010047000E9AA800",
             "name": "AO Tennis 2",
@@ -596938,6 +597550,18 @@
             "version": 0,
             "size": 162265760
         },
+        "0100A0902789B003": {
+            "id": "0100A0902789B003",
+            "name": "Spongebob Squarepants Titans Of The Tide Search For Squarepants Dlc",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "0100D3C010DE907C": {
             "id": "0100D3C010DE907C",
             "name": "The Legend of Heroes꞉ Trails of Cold Steel IV - Trails of Cold Steel IV꞉ Zeram Capsule Set 1",
@@ -600521,6 +601145,18 @@
             "screenshots": [],
             "version": 0,
             "size": 55597
+        },
+        "0100BD401D18B00E": {
+            "id": "0100BD401D18B00E",
+            "name": "Under Night In Birth Ii Sys Celes Character Unlock Zohar",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100BC5014FD0800": {
             "id": "0100BC5014FD0800",
@@ -615824,6 +616460,18 @@
             "version": 0,
             "size": 391639286
         },
+        "01008E20257E1002": {
+            "id": "01008E20257E1002",
+            "name": "Qliphah In Providences Shadow Extra Battle Voidfall",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010010A00A95E800": {
             "id": "010010A00A95E800",
             "name": "Sayonara Wild Hearts – Nintendo Switch 2 Edition",
@@ -618278,8 +618926,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 655360,
-            "size": 324815653
+            "version": 720896,
+            "size": 259892974
         },
         "0100AE7012B5F021": {
             "id": "0100AE7012B5F021",
@@ -620116,6 +620764,18 @@
             "screenshots": [],
             "version": 0,
             "size": 295933668
+        },
+        "0100B2D0249B3002": {
+            "id": "0100B2D0249B3002",
+            "name": "Bodycam Shooter 2025 Tactical Skin",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "010035901701B002": {
             "id": "010035901701B002",
@@ -628136,6 +628796,18 @@
             "screenshots": [],
             "version": 65536,
             "size": 17503931
+        },
+        "0100B6E012EBF00E": {
+            "id": "0100B6E012EBF00E",
+            "name": "Uno Flex",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "01006DD00FE16800": {
             "id": "01006DD00FE16800",
@@ -636959,6 +637631,18 @@
             "version": 917504,
             "size": 1917375648
         },
+        "010084E0215FD001": {
+            "id": "010084E0215FD001",
+            "name": "Meow Delivery Fish Frenzy Cute Cat",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010055A0189B8800": {
             "id": "010055A0189B8800",
             "name": "Orebody꞉ Binder's Tale",
@@ -638302,6 +638986,18 @@
             "screenshots": [],
             "version": 0,
             "size": 23139
+        },
+        "0100D8F0281B7002": {
+            "id": "0100D8F0281B7002",
+            "name": "Exstetra Item Set",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 24090
         },
         "0100D63016060800": {
             "id": "0100D63016060800",

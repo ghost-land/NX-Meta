@@ -1,0 +1,17 @@
+{
+  "name": "CloverPit",
+  "publisher": "Future Friends Games",
+  "releaseDate": "20260813",
+  "description": "Clover Pit is a rogue-lite that traps players in a hell of their own creation. Locked in a rusty cell with a slot machine and an ATM, you must pay off your debt at the end of each round, or fall to ruin – literally!\n\nManipulate the slot machine to earn extra coins. Turn the odds in your favor with various prizes and charms that trigger big big combos, snowballing into a dazzling lucky run. Bend the rules, break the game, and pay off your captor long enough to earn a shot at freedom.\n\nFeatures:\n- A gripping rogue-lite where every round could be your last!\n- Meta-progression, multiple endings and unlockable power-ups!\n- Push your score to new heights in Endless Mode!\n- A hellish escape room atmosphere!\n- 150 + items and synergies to boost your luck!\n- A sinister tale of addiction and escape!",
+  "bannerUrl": "http://api.nlib.cc/nx/0100ABA02501A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100ABA02501A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100ABA02501A000/screen/1",
+    "http://api.nlib.cc/nx/0100ABA02501A000/screen/2",
+    "http://api.nlib.cc/nx/0100ABA02501A000/screen/3",
+    "http://api.nlib.cc/nx/0100ABA02501A000/screen/4",
+    "http://api.nlib.cc/nx/0100ABA02501A000/screen/5"
+  ],
+  "version": 0,
+  "size": 126739579
+}

@@ -1,0 +1,18 @@
+{
+  "name": "サッカークラブライフ　プレイングマネージャー",
+  "publisher": "レイニーフロッグ",
+  "releaseDate": "20210210",
+  "description": "",
+  "bannerUrl": "http://api.nlib.cc/nx/010017B012AFC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010017B012AFC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010017B012AFC000/screen/1",
+    "http://api.nlib.cc/nx/010017B012AFC000/screen/2",
+    "http://api.nlib.cc/nx/010017B012AFC000/screen/3",
+    "http://api.nlib.cc/nx/010017B012AFC000/screen/4",
+    "http://api.nlib.cc/nx/010017B012AFC000/screen/5",
+    "http://api.nlib.cc/nx/010017B012AFC000/screen/6"
+  ],
+  "version": 0,
+  "size": 573453476
+}
