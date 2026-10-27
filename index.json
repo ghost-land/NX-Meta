@@ -13248,13 +13248,15 @@
         },
         "010019D01ABF6000": {
             "id": "010019D01ABF6000",
-            "name": "",
+            "name": "伊蘇回憶錄 -菲爾迦納的誓約-",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
-            "screenshots": []
+            "screenshots": [],
+            "version": 0,
+            "size": 2241627264
         },
         "0100072024AD2000": {
             "id": "0100072024AD2000",
@@ -15819,6 +15821,18 @@
             "screenshots": [],
             "version": 0,
             "size": 202277587
+        },
+        "01009720213B1004": {
+            "id": "01009720213B1004",
+            "name": "Captain Tsubasa 2 World Fighters Season Pass Bonus",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100CC401A16D0B2": {
             "id": "0100CC401A16D0B2",
@@ -42686,15 +42700,15 @@
         },
         "0100E48020DFE800": {
             "id": "0100E48020DFE800",
-            "name": "Grand Rush꞉ Highway Car Traffic Racing Simulator",
+            "name": "Grand Rush: Highway Car Traffic Racing Simulator",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 67728742
+            "version": 131072,
+            "size": 405552409
         },
         "0100FB001C3D0000": {
             "id": "0100FB001C3D0000",
@@ -58470,8 +58484,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 589824,
-            "size": 1676350026
+            "version": 720896,
+            "size": 1675521963
         },
         "0100084016206800": {
             "id": "0100084016206800",
@@ -61646,8 +61660,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 183733646
+            "version": 131072,
+            "size": 207234304
         },
         "0100EE3025676000": {
             "id": "0100EE3025676000",
@@ -66083,7 +66097,9 @@
                 "https://api.nlib.cc/nx/0100F5E0177AC000/screen/2",
                 "https://api.nlib.cc/nx/0100F5E0177AC000/screen/3",
                 "https://api.nlib.cc/nx/0100F5E0177AC000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 2251570923
         },
         "010040900F032800": {
             "id": "010040900F032800",
@@ -67130,8 +67146,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 1199588873
+            "version": 458752,
+            "size": 1896343019
         },
         "010095600AA37001": {
             "id": "010095600AA37001",
@@ -76490,7 +76506,9 @@
                 "https://api.nlib.cc/nx/0100B0C0185C0000/screen/2",
                 "https://api.nlib.cc/nx/0100B0C0185C0000/screen/3",
                 "https://api.nlib.cc/nx/0100B0C0185C0000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 3376123056
         },
         "01008560110C6000": {
             "id": "01008560110C6000",
@@ -92880,6 +92898,18 @@
             "screenshots": [],
             "version": 0,
             "size": 7761680
+        },
+        "01004E002617F002": {
+            "id": "01004E002617F002",
+            "name": "Dinosaur Survival Simulator Prehistoric Rpg Jurassic Style",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100F75016A72800": {
             "id": "0100F75016A72800",
@@ -123777,6 +123807,18 @@
             "version": 131072,
             "size": 210303114
         },
+        "010026C024B44800": {
+            "id": "010026C024B44800",
+            "name": "My Cozy Aquarium",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 56097506
+        },
         "010015F005C8E800": {
             "id": "010015F005C8E800",
             "name": "Tricky Towers",
@@ -125092,7 +125134,9 @@
                 "https://api.nlib.cc/nx/0100BD4014D8C000/screen/2",
                 "https://api.nlib.cc/nx/0100BD4014D8C000/screen/3",
                 "https://api.nlib.cc/nx/0100BD4014D8C000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 10155832767
         },
         "0100FF401640C000": {
             "id": "0100FF401640C000",
@@ -145813,6 +145857,18 @@
             "version": 0,
             "size": 55609
         },
+        "0100C6F01C4F9002": {
+            "id": "0100C6F01C4F9002",
+            "name": "Metal Gear Solid Peace Walker Master Collection Version Pre Order Bonus",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "0100B04011743054": {
             "id": "0100B04011743054",
             "name": "Monster Hunter Rise - ꞉Canyne Mask꞉ Hunter layered armor piece",
@@ -158362,15 +158418,15 @@
         },
         "01006BE029808800": {
             "id": "01006BE029808800",
-            "name": "v-zenonia_v65536",
+            "name": "v-zenonia_v131072",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 118196415
+            "version": 131072,
+            "size": 119773900
         },
         "0100B9E017F07003": {
             "id": "0100B9E017F07003",
@@ -160565,8 +160621,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 655360,
-            "size": 1220007093
+            "version": 720896,
+            "size": 1223786276
         },
         "01001B6010D5900F": {
             "id": "01001B6010D5900F",
@@ -168672,8 +168728,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1835008,
-            "size": 1651451303
+            "version": 2228224,
+            "size": 2092369744
         },
         "01002B200F93E000": {
             "id": "01002B200F93E000",
@@ -169699,6 +169755,18 @@
             "screenshots": [],
             "version": 262144,
             "size": 1356551149
+        },
+        "0100B0A0215FB003": {
+            "id": "0100B0A0215FB003",
+            "name": "Zombie Blocks Pixel Shooter Gun – Coin Boost",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "010063B02412E000": {
             "id": "010063B02412E000",
@@ -172622,6 +172690,18 @@
             ],
             "version": 0,
             "size": 637773025
+        },
+        "01009720213B1007": {
+            "id": "01009720213B1007",
+            "name": "Captain Tsubasa 2 World Fighters Save Data Bonus Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "010060D01AC00000": {
             "id": "010060D01AC00000",
@@ -184517,6 +184597,18 @@
             "version": 131072,
             "size": 667643373
         },
+        "01009720213B1005": {
+            "id": "01009720213B1005",
+            "name": "Captain Tsubasa 2 World Fighters Ultimate Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100ADA00AD2F003": {
             "id": "0100ADA00AD2F003",
             "name": "Pandemic - Pandemic꞉ On the Brink - Mutation",
@@ -186211,8 +186303,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 800675030
+            "version": 262144,
+            "size": 802474703
         },
         "01001E900EC04000": {
             "id": "01001E900EC04000",
@@ -187444,15 +187536,15 @@
         },
         "0100B4E00444C800": {
             "id": "0100B4E00444C800",
-            "name": "ファミリーコンピュータ Nintendo Classics",
+            "name": "ファミリーコンピュータ Nintendo Switch Online",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 2490368,
-            "size": 67948697
+            "version": 2621440,
+            "size": 71084760
         },
         "010064701F24F01F": {
             "id": "010064701F24F01F",
@@ -188700,6 +188792,18 @@
             "version": 0,
             "size": 24063
         },
+        "010020901D47E800": {
+            "id": "010020901D47E800",
+            "name": "LUNARiA -Virtualized Moonchild-",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 76478943
+        },
         "0100A64014D78800": {
             "id": "0100A64014D78800",
             "name": "Wicce",
@@ -189677,8 +189781,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 132455849
+            "version": 327680,
+            "size": 260922801
         },
         "01006DB00FBF6800": {
             "id": "01006DB00FBF6800",
@@ -218801,6 +218905,18 @@
             "version": 0,
             "size": 2283217709
         },
+        "0100914025115001": {
+            "id": "0100914025115001",
+            "name": "Truck Simulator 2025 City Work Delivery Urban Makeover",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010007B012514000": {
             "id": "010007B012514000",
             "name": "The Great Perhaps",
@@ -235799,15 +235915,15 @@
         },
         "0100D9702286C800": {
             "id": "0100D9702286C800",
-            "name": "BEYBLADE X EVOBATTLE Nintendo Switch™ 2 Edition",
+            "name": "ベイブレードエックス エボバトル",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 655360,
-            "size": 311535244
+            "version": 917504,
+            "size": 331856244
         },
         "0100D7801281A000": {
             "id": "0100D7801281A000",
@@ -239337,7 +239453,9 @@
                 "https://api.nlib.cc/nx/0100075018D24000/screen/2",
                 "https://api.nlib.cc/nx/0100075018D24000/screen/3",
                 "https://api.nlib.cc/nx/0100075018D24000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 3010235461
         },
         "0100B04011743046": {
             "id": "0100B04011743046",
@@ -239833,8 +239951,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 524288,
-            "size": 1247065845
+            "version": 589824,
+            "size": 1122215653
         },
         "0100E5A00DF60000": {
             "id": "0100E5A00DF60000",
@@ -247577,6 +247695,18 @@
             "version": 0,
             "size": 104607662
         },
+        "01009720213B1006": {
+            "id": "01009720213B1006",
+            "name": "Captain Tsubasa 2 World Fighters Pre Order Bonus Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100ED70186FC000": {
             "id": "0100ED70186FC000",
             "name": "Dino Tales",
@@ -248639,8 +248769,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 152620878
+            "version": 327680,
+            "size": 152596902
         },
         "0100FA501AFFE800": {
             "id": "0100FA501AFFE800",
@@ -266000,8 +266130,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 66107159
+            "version": 196608,
+            "size": 112375496
         },
         "0100E45014338000": {
             "id": "0100E45014338000",
@@ -276074,6 +276204,18 @@
             ],
             "version": 0,
             "size": 230116028
+        },
+        "0100D59022591001": {
+            "id": "0100D59022591001",
+            "name": "Scott Pilgrim Ex Back In The Band",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100CC401A16D04A": {
             "id": "0100CC401A16D04A",
@@ -288253,15 +288395,15 @@
         },
         "01003BF01E940800": {
             "id": "01003BF01E940800",
-            "name": "The Exit 8 Nintendo Switch 2 Edition",
+            "name": "The Exit 8",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 589824,
-            "size": 610152575
+            "version": 655360,
+            "size": 597297145
         },
         "01009CE0169DC800": {
             "id": "01009CE0169DC800",
@@ -289681,7 +289823,9 @@
                 "https://api.nlib.cc/nx/0100EB60159E4000/screen/2",
                 "https://api.nlib.cc/nx/0100EB60159E4000/screen/3",
                 "https://api.nlib.cc/nx/0100EB60159E4000/screen/4"
-            ]
+            ],
+            "version": 65536,
+            "size": 530837840
         },
         "010064300CFD4800": {
             "id": "010064300CFD4800",
@@ -302863,8 +303007,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 869594530
+            "version": 262144,
+            "size": 950923921
         },
         "010088200EFE8000": {
             "id": "010088200EFE8000",
@@ -311535,15 +311679,15 @@
         },
         "010008301AA96800": {
             "id": "010008301AA96800",
-            "name": "Tiebreak+ Official Game of the ATP and WTA",
+            "name": "TIEBREAK+ - Ace Edition",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 1023366269
+            "version": 327680,
+            "size": 3299735794
         },
         "0100A2A01B4EC800": {
             "id": "0100A2A01B4EC800",
@@ -322268,7 +322412,9 @@
                 "https://api.nlib.cc/nx/0100CA4015E90000/screen/2",
                 "https://api.nlib.cc/nx/0100CA4015E90000/screen/3",
                 "https://api.nlib.cc/nx/0100CA4015E90000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 4891230125
         },
         "010044500C183007": {
             "id": "010044500C183007",
@@ -336174,7 +336320,9 @@
                 "https://api.nlib.cc/nx/01005FD017E60000/screen/2",
                 "https://api.nlib.cc/nx/01005FD017E60000/screen/3",
                 "https://api.nlib.cc/nx/01005FD017E60000/screen/4"
-            ]
+            ],
+            "version": 65536,
+            "size": 2206379920
         },
         "0100A2201787E000": {
             "id": "0100A2201787E000",
@@ -349483,8 +349631,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 428660156
+            "version": 458752,
+            "size": 347310779
         },
         "01001B2017C28000": {
             "id": "01001B2017C28000",
@@ -361463,7 +361611,9 @@
                 "https://api.nlib.cc/nx/01008D501A326000/screen/2",
                 "https://api.nlib.cc/nx/01008D501A326000/screen/3",
                 "https://api.nlib.cc/nx/01008D501A326000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 4367311229
         },
         "010006200949E000": {
             "id": "010006200949E000",
@@ -383599,8 +383749,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 670862267
+            "version": 131072,
+            "size": 693458124
         },
         "0100A7501C15A000": {
             "id": "0100A7501C15A000",
@@ -392496,8 +392646,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 91121835
+            "version": 131072,
+            "size": 119143006
         },
         "01003CD01299F006": {
             "id": "01003CD01299F006",
@@ -399817,15 +399967,15 @@
         },
         "010089E024E40800": {
             "id": "010089E024E40800",
-            "name": "Bubble Symphony",
+            "name": "BUBBLE SYMPHONY",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 18813387
+            "version": 196608,
+            "size": 28400181
         },
         "010037400C7DA800": {
             "id": "010037400C7DA800",
@@ -422327,7 +422477,9 @@
                 "https://api.nlib.cc/nx/0100A91018632000/screen/2",
                 "https://api.nlib.cc/nx/0100A91018632000/screen/3",
                 "https://api.nlib.cc/nx/0100A91018632000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 2360442360
         },
         "010060D00AE36000": {
             "id": "010060D00AE36000",
@@ -424047,7 +424199,9 @@
                 "https://api.nlib.cc/nx/010049901D704000/screen/2",
                 "https://api.nlib.cc/nx/010049901D704000/screen/3",
                 "https://api.nlib.cc/nx/010049901D704000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 2931249200
         },
         "010052000A574000": {
             "id": "010052000A574000",
@@ -435382,7 +435536,9 @@
                 "https://api.nlib.cc/nx/0100938017E5C000/screen/2",
                 "https://api.nlib.cc/nx/0100938017E5C000/screen/3",
                 "https://api.nlib.cc/nx/0100938017E5C000/screen/4"
-            ]
+            ],
+            "version": 65536,
+            "size": 419392075
         },
         "0100F1501985A000": {
             "id": "0100F1501985A000",
@@ -448614,6 +448770,18 @@
             "version": 0,
             "size": 592356604
         },
+        "0100ABA02501B001": {
+            "id": "0100ABA02501B001",
+            "name": "Cpit Unholy Fusion",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 23324
+        },
         "0100C7E0134BE800": {
             "id": "0100C7E0134BE800",
             "name": "Five Dates",
@@ -450948,15 +451116,15 @@
         },
         "01002A701DB9E800": {
             "id": "01002A701DB9E800",
-            "name": "Tails of Iron 2꞉ Whiskers of Winter",
+            "name": "Tails of Iron 2: Whiskers of Winter",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 426529563
+            "version": 393216,
+            "size": 710611186
         },
         "01006B4017982000": {
             "id": "01006B4017982000",
@@ -459869,8 +460037,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 37139212
+            "version": 196608,
+            "size": 41572484
         },
         "01005D2011EA8800": {
             "id": "01005D2011EA8800",
@@ -480879,7 +481047,9 @@
                 "https://api.nlib.cc/nx/01004F9017EAA000/screen/2",
                 "https://api.nlib.cc/nx/01004F9017EAA000/screen/3",
                 "https://api.nlib.cc/nx/01004F9017EAA000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 1921503794
         },
         "01007600115CE000": {
             "id": "01007600115CE000",
@@ -486837,6 +487007,18 @@
             "screenshots": [],
             "version": 65536,
             "size": 201656185
+        },
+        "0100D0B01C4F5002": {
+            "id": "0100D0B01C4F5002",
+            "name": "Metal Gear Solid 4 Guns Of The Patriots Master Collection Version Pre Order Bonus",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100097016B05001": {
             "id": "0100097016B05001",
@@ -511095,8 +511277,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 221000920
+            "version": 393216,
+            "size": 326372447
         },
         "010038400C2FE800": {
             "id": "010038400C2FE800",
@@ -523138,6 +523320,18 @@
             ],
             "version": 0,
             "size": 606264943
+        },
+        "01009670252BC000": {
+            "id": "01009670252BC000",
+            "name": "BEYBLADE X XONE",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 1748771316
         },
         "01008B901403C800": {
             "id": "01008B901403C800",
@@ -535713,8 +535907,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 86136400
+            "version": 131072,
+            "size": 403045579
         },
         "01006C40086EB007": {
             "id": "01006C40086EB007",
@@ -537576,6 +537770,18 @@
             "screenshots": [],
             "version": 0,
             "size": 55854
+        },
+        "01004E902554D001": {
+            "id": "01004E902554D001",
+            "name": "Police Border Contraband Patrol Simulator Border Horizon",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100B6E012EBF00A": {
             "id": "0100B6E012EBF00A",
@@ -540079,6 +540285,18 @@
             "version": 0,
             "size": 167563785
         },
+        "01009720213B1008": {
+            "id": "01009720213B1008",
+            "name": "Captain Tsubasa 2 World Fighters 2026 Japan National Team And World Youth Jersey Set",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010052002641E800": {
             "id": "010052002641E800",
             "name": "brw-nab2_v65536",
@@ -541958,8 +542176,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 2681415173
+            "version": 131072,
+            "size": 2687274397
         },
         "01004B1001D22000": {
             "id": "01004B1001D22000",
@@ -545751,8 +545969,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 2224688864
+            "version": 131072,
+            "size": 2224684465
         },
         "010055901174110B": {
             "id": "010055901174110B",
@@ -556515,8 +556733,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 159122780
+            "version": 196608,
+            "size": 753786708
         },
         "01005CA01C674800": {
             "id": "01005CA01C674800",
@@ -557342,15 +557560,15 @@
         },
         "0100AA6025436800": {
             "id": "0100AA6025436800",
-            "name": "BROK The Brawl Bar",
+            "name": "BROK: The Brawl Bar",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 77149148
+            "version": 196608,
+            "size": 160566624
         },
         "010077601A926800": {
             "id": "010077601A926800",
@@ -570283,6 +570501,18 @@
             "version": 0,
             "size": 55605
         },
+        "01004E002617F001": {
+            "id": "01004E002617F001",
+            "name": "Dinosaur Survival Simulator Prehistoric Rpg Hunter Balance",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100A3A00E302000": {
             "id": "0100A3A00E302000",
             "name": "スーパーロボット大戦Ｖ プレミアムアニメソング＆サウンドエディション",
@@ -582432,8 +582662,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 474560666
+            "version": 262144,
+            "size": 488518866
         },
         "010027B01D4EA800": {
             "id": "010027B01D4EA800",
@@ -583854,8 +584084,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 57968871
+            "version": 131072,
+            "size": 356210872
         },
         "01002C400E526800": {
             "id": "01002C400E526800",
@@ -587869,8 +588099,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 435142526
+            "version": 262144,
+            "size": 511965088
         },
         "0100630011A01009": {
             "id": "0100630011A01009",
@@ -588599,7 +588829,9 @@
                 "https://api.nlib.cc/nx/01007FE016940000/screen/2",
                 "https://api.nlib.cc/nx/01007FE016940000/screen/3",
                 "https://api.nlib.cc/nx/01007FE016940000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 7512148773
         },
         "01007EA01D604000": {
             "id": "01007EA01D604000",
@@ -594633,15 +594865,15 @@
         },
         "0100E16022612800": {
             "id": "0100E16022612800",
-            "name": "Let's Sing 2026 mit Deutschen Hits",
+            "name": "Let's Sing 2026 mit deutschen Hits",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 70656431
+            "version": 131072,
+            "size": 76189564
         },
         "010061900F896800": {
             "id": "010061900F896800",
@@ -604746,8 +604978,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 121389897
+            "version": 262144,
+            "size": 121835082
         },
         "0100AD400BBE0800": {
             "id": "0100AD400BBE0800",
@@ -614387,8 +614619,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 458752,
-            "size": 149981459
+            "version": 589824,
+            "size": 198237246
         },
         "01004F4014C62800": {
             "id": "01004F4014C62800",
@@ -616788,6 +617020,18 @@
             "screenshots": [],
             "version": 0,
             "size": 181047
+        },
+        "01004E902554D002": {
+            "id": "01004E902554D002",
+            "name": "Police Border Contraband Patrol Simulator Officer Rush",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "010031500F6BC800": {
             "id": "010031500F6BC800",
@@ -630970,6 +631214,18 @@
             "version": 0,
             "size": 293704735
         },
+        "010026301785B00D": {
+            "id": "010026301785B00D",
+            "name": "Goonya Monster Additional Custom：dx Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "01000A8017B9C000": {
             "id": "01000A8017B9C000",
             "name": "9 Clues: The Secret of Serpent Creek",
@@ -635052,7 +635308,9 @@
                 "https://api.nlib.cc/nx/01001F0019804000/screen/2",
                 "https://api.nlib.cc/nx/01001F0019804000/screen/3",
                 "https://api.nlib.cc/nx/01001F0019804000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 942907421
         },
         "0100DED01920A000": {
             "id": "0100DED01920A000",
@@ -637000,8 +637258,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 528109802
+            "version": 458752,
+            "size": 694089635
         },
         "0100ED201D378000": {
             "id": "0100ED201D378000",
@@ -644159,15 +644417,15 @@
         },
         "010068D023A9E800": {
             "id": "010068D023A9E800",
-            "name": "Veil of the Witch",
+            "name": "Lost Eidolons: Veil of the Witch",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 458752,
-            "size": 747994386
+            "version": 524288,
+            "size": 741946100
         },
         "01008D201CBE4800": {
             "id": "01008D201CBE4800",
