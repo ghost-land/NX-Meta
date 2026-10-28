@@ -1,0 +1,18 @@
+{
+  "name": "Zumba - Treasure of the Marble Sea",
+  "publisher": "EpiXR Games",
+  "releaseDate": "20250814",
+  "description": "Zumba – Treasure of the Marble Sea throws you into a fast-paced marble shooter set in a colorful pirate world! Help your cheeky pirate survive the marble madness by shooting, matching, and destroying endless waves of rolling marbles.\nChoose a level, aim carefully, and fire your marbles to create chains of three or more matching colors. Time is against you—don’t let the marbles reach the end of the path! Master explosive combos, clear levels quickly, and earn high scores and star ratings.\nUnlock powerful upgrades like Explosive Marbles, Time Freeze, Repaint, Slow Motion, and Destruction Shots to stay ahead of the madness. Each world brings a new theme—Island Beaches, Pirate Ships, Underwater Ruins, and Treasure Caves—with new challenges and surprises every ten levels.\nEasy to play, hard to master, and endlessly fun—can you conquer the Marble Sea?\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01006AB023FAC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01006AB023FAC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01006AB023FAC000/screen/1",
+    "http://api.nlib.cc/nx/01006AB023FAC000/screen/2",
+    "http://api.nlib.cc/nx/01006AB023FAC000/screen/3",
+    "http://api.nlib.cc/nx/01006AB023FAC000/screen/4",
+    "http://api.nlib.cc/nx/01006AB023FAC000/screen/5",
+    "http://api.nlib.cc/nx/01006AB023FAC000/screen/6"
+  ],
+  "version": 0,
+  "size": 180484159
+}
