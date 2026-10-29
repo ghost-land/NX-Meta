@@ -1,0 +1,16 @@
+{
+  "name": "Ys vs. Trails in the Sky: Alternative Saga",
+  "publisher": "refint/games",
+  "releaseDate": "20251010",
+  "description": "Finally, the walls between Falcom's legendary RPG series, Ys and Trails, are broken for the ultimate dream match up! Fan-favorite heroes and rivals clash in battles once thought impossible, with support from beloved characters across Falcom's classic titles to aid you in the fight!",
+  "bannerUrl": "http://api.nlib.cc/nx/010033001F050000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010033001F050000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010033001F050000/screen/1",
+    "http://api.nlib.cc/nx/010033001F050000/screen/2",
+    "http://api.nlib.cc/nx/010033001F050000/screen/3",
+    "http://api.nlib.cc/nx/010033001F050000/screen/4"
+  ],
+  "version": 0,
+  "size": 2857032518
+}
