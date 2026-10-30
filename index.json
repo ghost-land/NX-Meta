@@ -19125,8 +19125,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 105461725
+            "version": 262144,
+            "size": 331626010
         },
         "01008010118CC000": {
             "id": "01008010118CC000",
@@ -66162,6 +66162,18 @@
             "version": 0,
             "size": 940129005
         },
+        "010070002695C800": {
+            "id": "010070002695C800",
+            "name": "MAMIYA - A Shared Illusion of the World's End -",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 41074077
+        },
         "010072000BD32800": {
             "id": "010072000BD32800",
             "name": "WORLD OF FINAL FANTASY MAXIMA",
@@ -104569,6 +104581,18 @@
             "version": 131072,
             "size": 165290925
         },
+        "0100CCA00DAE700B": {
+            "id": "0100CCA00DAE700B",
+            "name": "Captain Tsubasa Rise Of New Champions Ronc Gamestopzing Collaboration Uniform Set",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39594
+        },
         "010044400E99C800": {
             "id": "010044400E99C800",
             "name": "BATTLE & CRASH",
@@ -122045,6 +122069,18 @@
             "version": 0,
             "size": 643896711
         },
+        "0100CCA00DAE700A": {
+            "id": "0100CCA00DAE700A",
+            "name": "Captain Tsubasa Rise Of New Champions Ronc Virgin Megastore Uniform Set",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39594
+        },
         "010055A00A300000": {
             "id": "010055A00A300000",
             "name": "ACA NEOGEO SUPER SIDEKICKS 2",
@@ -130168,8 +130204,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 655360,
-            "size": 6170868076
+            "version": 720896,
+            "size": 6155430166
         },
         "010032D019D4C800": {
             "id": "010032D019D4C800",
@@ -146755,6 +146791,18 @@
             ],
             "version": 0,
             "size": 65583122
+        },
+        "0100F5D028B2E800": {
+            "id": "0100F5D028B2E800",
+            "name": "鉄道にっぽん！ RealPro 立体都市交通！XROSS OVER 名古屋 編",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 358500205
         },
         "01006C900CC6113F": {
             "id": "01006C900CC6113F",
@@ -168322,8 +168370,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 121835082
+            "version": 327680,
+            "size": 183400214
         },
         "0100BB400B276800": {
             "id": "0100BB400B276800",
@@ -172084,8 +172132,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 263264831
+            "version": 327680,
+            "size": 282905497
         },
         "01005D301E34E000": {
             "id": "01005D301E34E000",
@@ -197103,8 +197151,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 589824,
-            "size": 1175724014
+            "version": 720896,
+            "size": 1507427574
         },
         "0100F9701D9B4000": {
             "id": "0100F9701D9B4000",
@@ -224266,6 +224314,23 @@
             "version": 0,
             "size": 111064446
         },
+        "0100BD0021B3A000": {
+            "id": "0100BD0021B3A000",
+            "name": "サンリオ パーティランド",
+            "publisher": "サンリオ",
+            "releaseDate": "20261029",
+            "description": "",
+            "bannerUrl": "https://api.nlib.cc/nx/0100BD0021B3A000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100BD0021B3A000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100BD0021B3A000/screen/1",
+                "https://api.nlib.cc/nx/0100BD0021B3A000/screen/2",
+                "https://api.nlib.cc/nx/0100BD0021B3A000/screen/3",
+                "https://api.nlib.cc/nx/0100BD0021B3A000/screen/4"
+            ],
+            "version": 0,
+            "size": 2527286856
+        },
         "01003B900ED8C000": {
             "id": "01003B900ED8C000",
             "name": "Mars Power Industries",
@@ -237979,6 +238044,18 @@
             "screenshots": [],
             "version": 0,
             "size": 75351
+        },
+        "010066C025B41002": {
+            "id": "010066C025B41002",
+            "name": "Ship Simulator Ocean Fishing Sea Fortune",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100522020894800": {
             "id": "0100522020894800",
@@ -268504,6 +268581,18 @@
             "version": 0,
             "size": 227207288
         },
+        "01006E6017792000": {
+            "id": "01006E6017792000",
+            "name": "Fire Emblem Warriors: Three Hopes Demo",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 7001281753
+        },
         "01000A701FBB2000": {
             "id": "01000A701FBB2000",
             "name": "Pocket Puzzle",
@@ -285174,6 +285263,18 @@
             "screenshots": [],
             "version": 327680,
             "size": 1311862671
+        },
+        "0100D9601A995002": {
+            "id": "0100D9601A995002",
+            "name": "One Piece Odyssey Deluxe Edition Drop Rate Up Petite Jewelry",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "01002A800C06525C": {
             "id": "01002A800C06525C",
@@ -305750,8 +305851,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1179648,
-            "size": 722971628
+            "version": 1245184,
+            "size": 722960750
         },
         "010049601C5A0000": {
             "id": "010049601C5A0000",
@@ -368111,6 +368212,18 @@
             "version": 65536,
             "size": 56529
         },
+        "0100F5D028B2E000": {
+            "id": "0100F5D028B2E000",
+            "name": "鉄道にっぽん！ RealPro 立体都市交通！XROSS OVER 名古屋 編",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 11733458178
+        },
         "010056401AED4800": {
             "id": "010056401AED4800",
             "name": "Dead End City",
@@ -384018,6 +384131,18 @@
             "version": 0,
             "size": 566137720
         },
+        "0100D2B024A4D001": {
+            "id": "0100D2B024A4D001",
+            "name": "Wrap Shop Simulator Business Boost",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "01000F401A218000": {
             "id": "01000F401A218000",
             "name": "Animal Puzzle World",
@@ -397701,8 +397826,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1703936,
-            "size": 2167170545
+            "version": 1835008,
+            "size": 2228442528
         },
         "010065A00213C000": {
             "id": "010065A00213C000",
@@ -412744,6 +412869,23 @@
             "screenshots": [],
             "version": 131072,
             "size": 113779817
+        },
+        "0100D440269E8000": {
+            "id": "0100D440269E8000",
+            "name": "Farming Simulator 26: Nintendo Switch™ Edition",
+            "publisher": "GIANTS Software",
+            "releaseDate": "20260519",
+            "description": "Choose what kind of farmer you want to be! Operate realistic tractors, harvesters, field sprayers, and other machines. Start logging with heavy forestry equipment, or tend to adorable farm animals like cows, sheep, chickens, goats, and their offspring.\n\n• Tons of possibilities on two new maps\n• 15 different field crops, plus trees\n• 120+ authentic, GPS-enabled machines\n• Farm challenges that keep you on your toes\n• Production chains, logistics, and more\n\nOperate more than 120 authentic machines by Case IH, CLAAS, DEUTZ-FAHR, Fendt, John Deere, KRONE, Massey Ferguson, New Holland, Valtra & many other acclaimed manufacturers from around the world.\n\nThere’s a lot more to do after plowing, removing weeds, harvesting crops, or collecting eggs from chicken coops: Produce valuable goods made from your harvest to expand your flourishing business with new factories and production chains! \n\nDon’t worry, there is always time to relax and walk around your vast arable land while visuals change through the atmospheric seasons. New and improved in-game tutorials show you the ways of the farm if you’re new to country life. ",
+            "bannerUrl": "https://api.nlib.cc/nx/0100D440269E8000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100D440269E8000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100D440269E8000/screen/1",
+                "https://api.nlib.cc/nx/0100D440269E8000/screen/2",
+                "https://api.nlib.cc/nx/0100D440269E8000/screen/3",
+                "https://api.nlib.cc/nx/0100D440269E8000/screen/4"
+            ],
+            "version": 0,
+            "size": 1086334338
         },
         "01000D1020758800": {
             "id": "01000D1020758800",
@@ -464835,8 +464977,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 1369076829
+            "version": 262144,
+            "size": 1931180315
         },
         "01005440205730CF": {
             "id": "01005440205730CF",
@@ -511874,8 +512016,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 2883584,
-            "size": 761848387
+            "version": 2949120,
+            "size": 740044899
         },
         "0100E5A017E5E800": {
             "id": "0100E5A017E5E800",
@@ -516033,8 +516175,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 43724527
+            "version": 196608,
+            "size": 229900948
         },
         "0100927019330000": {
             "id": "0100927019330000",
@@ -520976,8 +521118,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 458752,
-            "size": 301191608
+            "version": 655360,
+            "size": 307938053
         },
         "01000D5005974000": {
             "id": "01000D5005974000",
@@ -565335,6 +565477,18 @@
             "version": 65536,
             "size": 7110146
         },
+        "0100BD10190C102A": {
+            "id": "0100BD10190C102A",
+            "name": "Aew Fight Forever Rated Gold Superstar Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "01009F6013218000": {
             "id": "01009F6013218000",
             "name": "Niche - a genetics survival game",
@@ -605587,6 +605741,18 @@
             "version": 65536,
             "size": 4694921
         },
+        "010099C01D642800": {
+            "id": "010099C01D642800",
+            "name": "Revue Starlight El Dorado",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 57406485
+        },
         "010007300C482800": {
             "id": "010007300C482800",
             "name": "Sydney Hunter and the Curse of the Mayan",
@@ -642174,6 +642340,18 @@
             "screenshots": [],
             "version": 262144,
             "size": 401933500
+        },
+        "0100BD0021B3A800": {
+            "id": "0100BD0021B3A800",
+            "name": "サンリオ パーティランド",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 131072,
+            "size": 274959496
         },
         "010035E01A403066": {
             "id": "010035E01A403066",
