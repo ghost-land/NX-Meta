@@ -1,0 +1,18 @@
+{
+  "name": "Hello Kitty Party Land",
+  "publisher": "Bandai Namco Entertainment",
+  "releaseDate": "20261029",
+  "description": "Join the party at Party Land and team up with beloved Sanrio characters to play together in a variety of exciting mini games.\n\n• Immerse Yourself in the Sanrio Universe\nMeet over 145 beloved characters and collect their stickers! Team up with one of 16 playable Sanrio characters and play as your own avatar or your favorite teammate. \n\n• Partner Up and Enjoy Exciting Mini Games\nJump into 45+ mini games with friends, either offline or online. Take on Board Game Mode and keep the action going by playing quick Petit Games while you wait for your turn.\n\n• Customize Your Avatar\nDesign a character that's uniquely yours. Adjust everything from hairstyle to outfits. Unlock even more items as you progress through the game!",
+  "bannerUrl": "http://api.nlib.cc/nx/01001340271EC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001340271EC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001340271EC000/screen/1",
+    "http://api.nlib.cc/nx/01001340271EC000/screen/2",
+    "http://api.nlib.cc/nx/01001340271EC000/screen/3",
+    "http://api.nlib.cc/nx/01001340271EC000/screen/4",
+    "http://api.nlib.cc/nx/01001340271EC000/screen/5",
+    "http://api.nlib.cc/nx/01001340271EC000/screen/6"
+  ],
+  "version": 0,
+  "size": 2528901395
+}

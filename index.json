@@ -39551,8 +39551,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 27734534
+            "version": 131072,
+            "size": 27489083
         },
         "010098000D647027": {
             "id": "010098000D647027",
@@ -50896,8 +50896,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 1227182408
+            "version": 262144,
+            "size": 1227301952
         },
         "01005FD017E60800": {
             "id": "01005FD017E60800",
@@ -56253,8 +56253,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 31198959
+            "version": 196608,
+            "size": 220077318
         },
         "01005590117410DF": {
             "id": "01005590117410DF",
@@ -61467,6 +61467,18 @@
             "screenshots": [],
             "version": 0,
             "size": 56520
+        },
+        "010033601B175004": {
+            "id": "010033601B175004",
+            "name": "Subway Simulator Underground Train Ride Station Ultimate Driving Games Fresh Station",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100C7E015BF9001": {
             "id": "0100C7E015BF9001",
@@ -73337,8 +73349,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 516933828
+            "version": 196608,
+            "size": 604037403
         },
         "01002E3018270800": {
             "id": "01002E3018270800",
@@ -170867,8 +170879,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 359841250
+            "version": 262144,
+            "size": 555342225
         },
         "010076E020614000": {
             "id": "010076E020614000",
@@ -254903,8 +254915,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 212834686
+            "version": 327680,
+            "size": 212971648
         },
         "01007BB00A0A0000": {
             "id": "01007BB00A0A0000",
@@ -279744,6 +279756,18 @@
             "version": 65536,
             "size": 184097915
         },
+        "010006C025543001": {
+            "id": "010006C025543001",
+            "name": "Chernobyl Escape From Pripyat Hands Style",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010027E0158A6000": {
             "id": "010027E0158A6000",
             "name": "Dininho Space Adventure",
@@ -280829,8 +280853,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 216793113
+            "version": 262144,
+            "size": 223678976
         },
         "0100EEA0174EC000": {
             "id": "0100EEA0174EC000",
@@ -287599,6 +287623,18 @@
             "screenshots": [],
             "version": 0,
             "size": 602022759
+        },
+        "01006D9026E1E000": {
+            "id": "01006D9026E1E000",
+            "name": "Croc 2 Kingdom of Gobbos",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 7663970620
         },
         "01003E7021414000": {
             "id": "01003E7021414000",
@@ -298707,6 +298743,18 @@
             "version": 0,
             "size": 723605000
         },
+        "01003E5021640000": {
+            "id": "01003E5021640000",
+            "name": "ACA NEOGEO SELECTION Vol.3",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 1009326540
+        },
         "0100A760232D2000": {
             "id": "0100A760232D2000",
             "name": "LEGO® Party!",
@@ -300352,6 +300400,18 @@
             "screenshots": [],
             "version": 131072,
             "size": 35834547
+        },
+        "0100CB7019FAE000": {
+            "id": "0100CB7019FAE000",
+            "name": "マクロス -Shooting Insight-",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 1748670935
         },
         "01007570160E3005": {
             "id": "01007570160E3005",
@@ -306869,6 +306929,18 @@
             "version": 65536,
             "size": 76949689
         },
+        "0100F65027B88000": {
+            "id": "0100F65027B88000",
+            "name": "Meiji Tokyo Renka Twilight Kiss",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 2472526567
+        },
         "01002C700C326000": {
             "id": "01002C700C326000",
             "name": "Riddled Corpses EX",
@@ -311903,6 +311975,18 @@
             ],
             "version": 0,
             "size": 1101319955
+        },
+        "0100FA1024AE8800": {
+            "id": "0100FA1024AE8800",
+            "name": "WEB FISHING – Relax and Fish",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 40464064
         },
         "0100DC400CC5C800": {
             "id": "0100DC400CC5C800",
@@ -334851,6 +334935,18 @@
             "version": 65536,
             "size": 55606
         },
+        "0100B17019356800": {
+            "id": "0100B17019356800",
+            "name": "Fear or Evil : Nightmare Horror Scary Game Phobia 2023 Simulator Hunter Games",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 196608,
+            "size": 394382312
+        },
         "0100811017B49005": {
             "id": "0100811017B49005",
             "name": "Labyrinth of Zangetsu - Labyrinth of Zangetsu - MIND=.0 Collaboration - Additional Characters Pack",
@@ -349087,15 +349183,15 @@
         },
         "010089702146C800": {
             "id": "010089702146C800",
-            "name": "Hunter Simulator ꞉ Wild Hunting",
+            "name": "Hunter Simulator : Wild Hunting",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 72436528
+            "version": 131072,
+            "size": 67097023
         },
         "01005EC01E6A4800": {
             "id": "01005EC01E6A4800",
@@ -361602,6 +361698,18 @@
             "version": 0,
             "size": 3193172992
         },
+        "01001E102569700A": {
+            "id": "01001E102569700A",
+            "name": "Ghost Master Resurrection Relics Of The Past",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "0100F1F021746000": {
             "id": "0100F1F021746000",
             "name": "Vaulting Champions",
@@ -366901,6 +367009,23 @@
             "screenshots": [],
             "version": 327680,
             "size": 973136319
+        },
+        "01004D6024C26000": {
+            "id": "01004D6024C26000",
+            "name": "エルドラド®クリーチャーズ・シャドウフォール",
+            "publisher": "Mastiff",
+            "releaseDate": "20251120",
+            "description": "",
+            "bannerUrl": "https://api.nlib.cc/nx/01004D6024C26000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/01004D6024C26000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/01004D6024C26000/screen/1",
+                "https://api.nlib.cc/nx/01004D6024C26000/screen/2",
+                "https://api.nlib.cc/nx/01004D6024C26000/screen/3",
+                "https://api.nlib.cc/nx/01004D6024C26000/screen/4"
+            ],
+            "version": 0,
+            "size": 1487803936
         },
         "0100D1900EC810D1": {
             "id": "0100D1900EC810D1",
@@ -375375,8 +375500,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 64337111
+            "version": 196608,
+            "size": 64370068
         },
         "0100103011894000": {
             "id": "0100103011894000",
@@ -381891,8 +382016,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 258003280
+            "version": 131072,
+            "size": 324679507
         },
         "01008AE019615002": {
             "id": "01008AE019615002",
@@ -383654,6 +383779,18 @@
             "screenshots": [],
             "version": 0,
             "size": 55854
+        },
+        "0100B17019357001": {
+            "id": "0100B17019357001",
+            "name": "Fear Or Evil Nightmare Horror Scary Game Phobia 2023 Simulator Hunter Games Fear Or Evil Nightmare Horror Scary Game Phobia Simulator Hunter Games Extra Life",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25558
         },
         "01002F600C684000": {
             "id": "01002F600C684000",
@@ -389153,6 +389290,18 @@
             ],
             "version": 0,
             "size": 8643738624
+        },
+        "0100B6E012EBF00F": {
+            "id": "0100B6E012EBF00F",
+            "name": "Uno X The Entitys Realm Cosmetic Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "010085201F027005": {
             "id": "010085201F027005",
@@ -401642,6 +401791,18 @@
             "version": 393216,
             "size": 1260723888
         },
+        "0100E4C01CE9F001": {
+            "id": "0100E4C01CE9F001",
+            "name": "Wwdt",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 20974
+        },
         "01009CC00BD6E000": {
             "id": "01009CC00BD6E000",
             "name": "Tangrams Deluxe",
@@ -402904,6 +403065,18 @@
             "screenshots": [],
             "version": 65536,
             "size": 266931173
+        },
+        "010058102783B001": {
+            "id": "010058102783B001",
+            "name": "Serious Carnage Adrenaline Shooter Special Weapon Edition",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100CD40192AC800": {
             "id": "0100CD40192AC800",
@@ -428013,8 +428186,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 393216,
-            "size": 549720507
+            "version": 458752,
+            "size": 566791252
         },
         "0100B43015796000": {
             "id": "0100B43015796000",
@@ -440477,8 +440650,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 233502063
+            "version": 196608,
+            "size": 253836610
         },
         "010079000B56C000": {
             "id": "010079000B56C000",
@@ -469834,8 +470007,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 216937408
+            "version": 131072,
+            "size": 233066383
         },
         "01009CC00C97D016": {
             "id": "01009CC00C97D016",
@@ -598429,6 +598602,23 @@
             "version": 0,
             "size": 4745297168
         },
+        "01001340271EC000": {
+            "id": "01001340271EC000",
+            "name": "Hello Kitty Party Land",
+            "publisher": "Bandai Namco Entertainment",
+            "releaseDate": "20261029",
+            "description": "Join the party at Party Land and team up with beloved Sanrio characters to play together in a variety of exciting mini games.\n\n• Immerse Yourself in the Sanrio Universe\nMeet over 145 beloved characters and collect their stickers! Team up with one of 16 playable Sanrio characters and play as your own avatar or your favorite teammate. \n\n• Partner Up and Enjoy Exciting Mini Games\nJump into 45+ mini games with friends, either offline or online. Take on Board Game Mode and keep the action going by playing quick Petit Games while you wait for your turn.\n\n• Customize Your Avatar\nDesign a character that's uniquely yours. Adjust everything from hairstyle to outfits. Unlock even more items as you progress through the game!",
+            "bannerUrl": "https://api.nlib.cc/nx/01001340271EC000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/01001340271EC000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/01001340271EC000/screen/1",
+                "https://api.nlib.cc/nx/01001340271EC000/screen/2",
+                "https://api.nlib.cc/nx/01001340271EC000/screen/3",
+                "https://api.nlib.cc/nx/01001340271EC000/screen/4"
+            ],
+            "version": 0,
+            "size": 2528901395
+        },
         "01004A60190DE800": {
             "id": "01004A60190DE800",
             "name": "Chenso Club (チェンソークラブ)",
@@ -611251,8 +611441,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 151891991
+            "version": 327680,
+            "size": 151918650
         },
         "0100F3A00F4CB00D": {
             "id": "0100F3A00F4CB00D",
@@ -622176,6 +622366,18 @@
             "version": 0,
             "size": 128541523
         },
+        "01001340271EC800": {
+            "id": "01001340271EC800",
+            "name": "Hello Kitty Party Land",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 131072,
+            "size": 275746775
+        },
         "0100CC401A16D09C": {
             "id": "0100CC401A16D09C",
             "name": "Ys X Nordics [DLC156]",
@@ -630051,8 +630253,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 37293525
+            "version": 262144,
+            "size": 424777071
         },
         "010088801B324800": {
             "id": "010088801B324800",
@@ -637820,7 +638022,9 @@
                 "https://api.nlib.cc/nx/0100DE2015522000/screen/2",
                 "https://api.nlib.cc/nx/0100DE2015522000/screen/3",
                 "https://api.nlib.cc/nx/0100DE2015522000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 4391486329
         },
         "01002EF00BCB0800": {
             "id": "01002EF00BCB0800",
@@ -642135,6 +642339,18 @@
             ],
             "version": 0,
             "size": 133693696
+        },
+        "0100839022643003": {
+            "id": "0100839022643003",
+            "name": "Harvest Moon Echoes Of Teradea Meruss Dilemma",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "01002C000B5530EA": {
             "id": "01002C000B5530EA",
