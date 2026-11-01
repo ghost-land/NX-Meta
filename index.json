@@ -1101,6 +1101,18 @@
             "version": 0,
             "size": 71227
         },
+        "010083A01D45706C": {
+            "id": "010083A01D45706C",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d45706c",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "0100D2A01855D004": {
             "id": "0100D2A01855D004",
             "name": "ビビッター for Nintendo Switch - 追加ミニゲーム「空飛ぶジュリエット」",
@@ -24083,6 +24095,18 @@
             "version": 0,
             "size": 23083
         },
+        "010030B0289BD001": {
+            "id": "010030B0289BD001",
+            "name": "Gods With Guns Children Of Loki",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "01004800176A2000": {
             "id": "01004800176A2000",
             "name": "Retro Pixel Racers",
@@ -28839,6 +28863,23 @@
             "version": 262144,
             "size": 1226941772
         },
+        "0100DFA027504000": {
+            "id": "0100DFA027504000",
+            "name": "Grizzy and the Lemmings - Crazy Party",
+            "publisher": "Balio Studio",
+            "releaseDate": "20260807",
+            "description": "Grizzy just wanted a little peace and quiet... but the Lemmings had other plans! Take control of these unstoppable little troublemakers and turn your living room into a total madhouse: unpredictable mini-games, boards full of surprises, and dirty tricks between friends, every round can flip in seconds. One goal: grab as much Yummy as you can before everyone else, and drive Grizzy up the wall.\n\n50 Wild Mini-Games\nPrecision, speed, reflexes, memory, observation, or pure survival instinct: every challenge is varied, absurd, and full of twists. A race can come down to the very last second, and a friend can always steal your win at the worst possible moment.\n\n6 Game Modes for Every Mood\nA quick round, a full game night, a duel between die-hards, or pure button-mashing mayhem, there's always a reason for one more game.\n\n5 Boards Inspired by the Series\nFrom the Ranger's Cabin to the Yummy factory and the mountain trail, plus 2 secret boards to unlock, each one has its own setting, pace, and surprises.\n\nOn the Couch, Up to 4 Players\nA 100% local experience, in the same room, built for game nights with friends and family alike. Instantly fun, easy to pick up, and playable with up to 4 players on a single screen, one controller each.\n\nUnlock, Collect, Replay\nWith the rewards machine, unlock 40 Lemmings and complete your collection of 150 stickers as you play.\n\nKey Features\n- Family party game for 1-4 players, local\n- 50 mini-games, 6 game modes, 5 boards\n- 40 Lemmings to unlock, 150 stickers to collect\n- 100% faithful to the Grizzy and the Lemmings animated series\n- Chaos, dirty tricks, and big laughs, for everyone\n\nEverything's ready: pick your Lemming, keep an eye on your friends, and never leave a jar of Yummy unattended.",
+            "bannerUrl": "https://api.nlib.cc/nx/0100DFA027504000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100DFA027504000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100DFA027504000/screen/1",
+                "https://api.nlib.cc/nx/0100DFA027504000/screen/2",
+                "https://api.nlib.cc/nx/0100DFA027504000/screen/3",
+                "https://api.nlib.cc/nx/0100DFA027504000/screen/4"
+            ],
+            "version": 0,
+            "size": 1150093298
+        },
         "010035901701B005": {
             "id": "010035901701B005",
             "name": "Hamster Playground Hamster Playground - Kawaii DLC",
@@ -29059,6 +29100,18 @@
             ],
             "version": 0,
             "size": 191311409
+        },
+        "0100A4202810B002": {
+            "id": "0100A4202810B002",
+            "name": "Street Racing Simulator Evo Car And Moto Street Racing Simulator Evo Car And Moto Dlc Premium Car Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100E7C0190AE800": {
             "id": "0100E7C0190AE800",
@@ -31365,6 +31418,18 @@
             "screenshots": [],
             "version": 131072,
             "size": 42798587
+        },
+        "0100D9001BAE9001": {
+            "id": "0100D9001BAE9001",
+            "name": "Raccoon Adventure Animal City Simulator 3d Farm Super Deluxe New Species",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 14074161
         },
         "01001E600AF08000": {
             "id": "01001E600AF08000",
@@ -39283,6 +39348,18 @@
             "screenshots": [],
             "version": 65536,
             "size": 28802384
+        },
+        "010083A01D457074": {
+            "id": "010083A01D457074",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d457074",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100618013D62000": {
             "id": "0100618013D62000",
@@ -57024,6 +57101,18 @@
             ],
             "version": 0,
             "size": 1164308554
+        },
+        "010083A01D457068": {
+            "id": "010083A01D457068",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d457068",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100665017A3A000": {
             "id": "0100665017A3A000",
@@ -97262,6 +97351,18 @@
             "version": 0,
             "size": 55846
         },
+        "0100E50024F33385": {
+            "id": "0100E50024F33385",
+            "name": "Blue Reflection Quartet 特製相框「quartet」 Cht",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100559011741011": {
             "id": "0100559011741011",
             "name": "モンスターハンターライズ - 追加ボイス「ヒノエ」",
@@ -103435,6 +103536,18 @@
             ],
             "version": 0,
             "size": 217084562
+        },
+        "01003F1021C27002": {
+            "id": "01003F1021C27002",
+            "name": "Dragons Legacy Monsters Lair Dragons Blessing",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "010067901B8E4000": {
             "id": "010067901B8E4000",
@@ -141166,6 +141279,18 @@
             "version": 0,
             "size": 7326448186
         },
+        "01008E3025222000": {
+            "id": "01008E3025222000",
+            "name": "ACA NEOGEO SELECTION Vol.9",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 1049056488
+        },
         "010082501F9B4000": {
             "id": "010082501F9B4000",
             "name": "Taito Milestones 3",
@@ -142409,6 +142534,18 @@
             "screenshots": [],
             "version": 0,
             "size": 56572
+        },
+        "0100BAA01ED8F001": {
+            "id": "0100BAA01ED8F001",
+            "name": "Speedway Turbo Car Racing Challenge Racing Capital",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "010087E014832000": {
             "id": "010087E014832000",
@@ -168127,6 +168264,18 @@
             "version": 0,
             "size": 637825098
         },
+        "010046D024090800": {
+            "id": "010046D024090800",
+            "name": "Duck Side of the Moon",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 131072,
+            "size": 148497239
+        },
         "0100DF100B97D003": {
             "id": "0100DF100B97D003",
             "name": "X-Morph꞉ Defense - X-Morph꞉ Defense Last Bastion",
@@ -182364,6 +182513,18 @@
             "version": 131072,
             "size": 53479376
         },
+        "0100A4202810B003": {
+            "id": "0100A4202810B003",
+            "name": "Street Racing Simulator Evo Car And Moto Street Racing Simulator Evo Car And Moto Dlc Ultimate Vehicle Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "01005BA020790000": {
             "id": "01005BA020790000",
             "name": "Pretty Girls Pop Match",
@@ -191263,6 +191424,23 @@
             ],
             "version": 0,
             "size": 1066625470
+        },
+        "0100C4A027536000": {
+            "id": "0100C4A027536000",
+            "name": "Reptilian Rising",
+            "publisher": "Numskull Games",
+            "releaseDate": "20260423",
+            "description": "Reptilian Rising is a retro-style, turn-based strategy RPG where history’s greatest heroes take on the most ridiculous crisis time has ever seen. Assemble a squad of legends – from Cleopatra and Robin Hood to Einstein – and fight across randomly generated battlefields, from prehistoric jungles to dystopian futures.\n\nHarness time-based powers to clone your troops, summon reinforcements, or open time gates for rapid deployment. Face bizarre Reptilian foes including dino-cyborgs, Manborgs, and the ultimate villain: the Dictatorsaur.\n\nWith reactive combat, over 20 playable heroes, and branching missions, no two runs are ever the same. Save humanity in style. Open the door, get on the floor… and shoot the dinosaur!\n\nKey Features\n- Turn-based squad tactics with reactive combat twists\n- 20+ iconic heroes to recruit from history, myth, and beyond\n- Dozens of outrageous reptilian enemies and 9 unique boss fights\n- Strategic upgrade system including artifacts, cloning, time gates and more\n- High replayability through mission branching and bonus objectives\n- Digitally realized ‘80s tabletop-inspired aesthetic",
+            "bannerUrl": "https://api.nlib.cc/nx/0100C4A027536000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100C4A027536000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100C4A027536000/screen/1",
+                "https://api.nlib.cc/nx/0100C4A027536000/screen/2",
+                "https://api.nlib.cc/nx/0100C4A027536000/screen/3",
+                "https://api.nlib.cc/nx/0100C4A027536000/screen/4"
+            ],
+            "version": 0,
+            "size": 873897406
         },
         "0100D16019902000": {
             "id": "0100D16019902000",
@@ -205358,6 +205536,23 @@
             "version": 0,
             "size": 327379427
         },
+        "010012B020FDA000": {
+            "id": "010012B020FDA000",
+            "name": "the Game of LIFE for Nintendo Switch",
+            "publisher": "Gravity",
+            "releaseDate": "20251218",
+            "description": "",
+            "bannerUrl": "https://api.nlib.cc/nx/010012B020FDA000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/010012B020FDA000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/010012B020FDA000/screen/1",
+                "https://api.nlib.cc/nx/010012B020FDA000/screen/2",
+                "https://api.nlib.cc/nx/010012B020FDA000/screen/3",
+                "https://api.nlib.cc/nx/010012B020FDA000/screen/4"
+            ],
+            "version": 0,
+            "size": 841475104
+        },
         "0100A2500EB92800": {
             "id": "0100A2500EB92800",
             "name": "Urban Trial Tricky",
@@ -211615,6 +211810,18 @@
             "version": 0,
             "size": 20847141
         },
+        "0100DFA027504800": {
+            "id": "0100DFA027504800",
+            "name": "Grizzy and the Lemmings - Crazy Party",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 262144,
+            "size": 332147546
+        },
         "010066801DFB903B": {
             "id": "010066801DFB903B",
             "name": "Jigsaw Masterpieces 2 - World’s Finest Art꞉ The World of Mythological Paintings",
@@ -211955,15 +212162,15 @@
         },
         "010064C01A9BA800": {
             "id": "010064C01A9BA800",
-            "name": "Tamagotchi Plaza – Nintendo Switch 2 Edition",
+            "name": "Tamagotchi Plaza",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 458752,
-            "size": 398903153
+            "version": 589824,
+            "size": 582273586
         },
         "010091700F76E800": {
             "id": "010091700F76E800",
@@ -222603,6 +222810,18 @@
             "version": 0,
             "size": 55610
         },
+        "010083A01D457064": {
+            "id": "010083A01D457064",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d457064",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "01005420101DB06A": {
             "id": "01005420101DB06A",
             "name": "The Legend of Heroes꞉ Trails of Cold Steel III - Trails of Cold Steel III꞉ ARCUS Cover Set B",
@@ -228012,8 +228231,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 917247994
+            "version": 393216,
+            "size": 1039002740
         },
         "010040601FFDE800": {
             "id": "010040601FFDE800",
@@ -232102,6 +232321,18 @@
             "version": 65536,
             "size": 20357204
         },
+        "010083A02515A800": {
+            "id": "010083A02515A800",
+            "name": "Primal Planet",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 45277458
+        },
         "0100F200178F4000": {
             "id": "0100F200178F4000",
             "name": "FRONT MISSION 1st: Remake",
@@ -232253,6 +232484,18 @@
             "screenshots": [],
             "version": 786432,
             "size": 1065632850
+        },
+        "0100DBD024EF7385": {
+            "id": "0100DBD024EF7385",
+            "name": "Blue Reflection Quartet Special Photo Frame Quartet",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "01006C901754A000": {
             "id": "01006C901754A000",
@@ -235176,6 +235419,18 @@
             ],
             "version": 0,
             "size": 3593683092
+        },
+        "0100C4A027536800": {
+            "id": "0100C4A027536800",
+            "name": "Reptilian Rising",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 54992333
         },
         "0100D6400C152000": {
             "id": "0100D6400C152000",
@@ -242393,6 +242648,18 @@
             ],
             "version": 0,
             "size": 5373681436
+        },
+        "0100E50024F330EF": {
+            "id": "0100E50024F330EF",
+            "name": "Blue Reflection Quartet 制服（搭檔的世界ver.） Cht",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "010001B01B679092": {
             "id": "010001B01B679092",
@@ -254145,6 +254412,18 @@
             "version": 0,
             "size": 23123
         },
+        "0100970023160800": {
+            "id": "0100970023160800",
+            "name": "ROAD59　-A Yakuza’s Last Stand-",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 51209984
+        },
         "0100060011109027": {
             "id": "0100060011109027",
             "name": "Fit Boxing 2 -リズム＆エクササイズ- - 刀剣乱舞-花丸-パック",
@@ -261125,6 +261404,18 @@
             "screenshots": [],
             "version": 131072,
             "size": 374412913
+        },
+        "0100DBD024EF7386": {
+            "id": "0100DBD024EF7386",
+            "name": "Blue Reflection Quartet Set Of 4 Special Photo Frames",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100868020BFA000": {
             "id": "0100868020BFA000",
@@ -298248,6 +298539,18 @@
             "version": 65536,
             "size": 155323172
         },
+        "010083A01D45706F": {
+            "id": "010083A01D45706F",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d45706f",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "0100CE30142D6000": {
             "id": "0100CE30142D6000",
             "name": "Palindrome Syndrome: Escape Room",
@@ -299393,8 +299696,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 4117634764
+            "version": 131072,
+            "size": 4117718922
         },
         "01009FA01FF6C800": {
             "id": "01009FA01FF6C800",
@@ -307291,6 +307594,18 @@
             "version": 0,
             "size": 2651122806
         },
+        "010083A01D45706E": {
+            "id": "010083A01D45706E",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d45706e",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "010003900350D002": {
             "id": "010003900350D002",
             "name": "シノビリフレ -SENRAN KAGURA- - 新作衣装セット",
@@ -309383,6 +309698,18 @@
             "screenshots": [],
             "version": 393216,
             "size": 784263942
+        },
+        "010083A01D4570C8": {
+            "id": "010083A01D4570C8",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d4570c8",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "010038D0133C3008": {
             "id": "010038D0133C3008",
@@ -330293,6 +330620,18 @@
             "version": 131072,
             "size": 32643948
         },
+        "010083A01D4570CE": {
+            "id": "010083A01D4570CE",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d4570ce",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "0100AE0006475004": {
             "id": "0100AE0006475004",
             "name": "Stern Pinball Arcade - Stern Pinball Arcade꞉ Mustang® Premium ꞉Boss꞉",
@@ -330701,6 +331040,18 @@
                 "https://api.nlib.cc/nx/0100A5A00918C000/screen/3",
                 "https://api.nlib.cc/nx/0100A5A00918C000/screen/4"
             ]
+        },
+        "010083A01D457065": {
+            "id": "010083A01D457065",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d457065",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "010011D0142B0000": {
             "id": "010011D0142B0000",
@@ -341961,6 +342312,18 @@
             "version": 0,
             "size": 451796045
         },
+        "010045B01FAF9001": {
+            "id": "010045B01FAF9001",
+            "name": "Ketsu Battler Additional Character Kiden",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100ABE00DB4E000": {
             "id": "0100ABE00DB4E000",
             "name": "Edna & Harvey: Harvey's New Eyes",
@@ -343235,6 +343598,23 @@
             "screenshots": [],
             "version": 131072,
             "size": 97275894
+        },
+        "0100AAD01DFF8000": {
+            "id": "0100AAD01DFF8000",
+            "name": "Gobliiins Collection",
+            "publisher": "RED ART GAMES",
+            "releaseDate": "20260527",
+            "description": "The Gobliiins Collection has arrived!\n\nA wave of nostalgia is in the air! One of the most memorable and delightfully zany point-and-click adventures of its time is back.\nDiscover – or rediscover – the origins of this legendary saga, from the creative genius of Pierre Gilhodes, in this exceptional collection. From its pixelated beginnings in the 1990s to today, this compilation brings together the first five iconic titles that captivated a whole generation.\n\nGobliiins (1991)\nOur three heroes, Oups, Asgard and Ignatius, are thrust into a quest to save King Angoulafre, who has inexplicably gone insane.\n\nGobliins 2 (1992)\nPrince Buffoon has vanished: Goblins Fingus and Winkle are teleported to a faraway land to track him down.\n\nGoblins 3 (1993)\nBlount, an eccentric reporter, finds himself at the heart of a war between kings over the conquest of a mysterious Labyrinth.\n\nGobliiins 4 (2009)\nIn this first 3D instalment, King Badigoince sends Tchoup, Stucco and Perluis off on a quest to recover his missing aardvark, Riri, in an adventure packed with danger and surprises.\n\nGobliiins 5 (2023)\nThe Morgloton Invasion: A triumphant return to 2D for a brand-new saga! Help Oups, Asgard and Ignatius save the kingdom and King Angoulafre from a dreadful fate of being turned into potatoes, and go head to head with Morglott, the mad scientist!\n\nYou'll also gain access to the full range of exclusive content to immerse yourself even further into this cult classic series.\n\nMini-Series and Gallery\nMeet Pierre Gilhodes, the genius behind the series and discover the exclusive illustrations that shaped this world.\n\nInterview with the Creator\nAccess an exclusive interview discussing the origins of Gobliiins, the secrets of its creation and his intentions for the future of the series.\n\nMusic Player\nListen to music from every version of the Gobliiins games, including tracks you might not have heard before!",
+            "bannerUrl": "https://api.nlib.cc/nx/0100AAD01DFF8000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100AAD01DFF8000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100AAD01DFF8000/screen/1",
+                "https://api.nlib.cc/nx/0100AAD01DFF8000/screen/2",
+                "https://api.nlib.cc/nx/0100AAD01DFF8000/screen/3",
+                "https://api.nlib.cc/nx/0100AAD01DFF8000/screen/4"
+            ],
+            "version": 0,
+            "size": 2137729383
         },
         "0100E570051F1002": {
             "id": "0100E570051F1002",
@@ -351043,15 +351423,15 @@
         },
         "01008E9007064800": {
             "id": "01008E9007064800",
-            "name": "WorldNeverland-ElneaKingdom-",
+            "name": "WorldNeverland - Elnea Kingdom",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 2031616,
-            "size": 441769753
+            "version": 2162688,
+            "size": 396831646
         },
         "0100DCF013741002": {
             "id": "0100DCF013741002",
@@ -387036,8 +387416,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 70678993
+            "version": 393216,
+            "size": 83166931
         },
         "0100A0C00E0DF001": {
             "id": "0100A0C00E0DF001",
@@ -436736,6 +437116,18 @@
             "version": 0,
             "size": 60819152
         },
+        "010030B0289BD003": {
+            "id": "010030B0289BD003",
+            "name": "Gods With Guns Samurai Spirit",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100B5B016C80800": {
             "id": "0100B5B016C80800",
             "name": "G-MODEアーカイブス+ 探偵・癸生川凌介事件譚 Vol.8「仮面幻影殺人事件」",
@@ -436906,6 +437298,18 @@
             "screenshots": [],
             "version": 0,
             "size": 55583
+        },
+        "010088001AA52800": {
+            "id": "010088001AA52800",
+            "name": "Fireside",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 196608,
+            "size": 68171702
         },
         "01009AC011810800": {
             "id": "01009AC011810800",
@@ -440532,15 +440936,15 @@
         },
         "010097F01D67A800": {
             "id": "010097F01D67A800",
-            "name": "Gradius origins",
+            "name": "GRADIUS ORIGINS",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 425728581
+            "version": 262144,
+            "size": 425742845
         },
         "01009AE00C750000": {
             "id": "01009AE00C750000",
@@ -441945,6 +442349,18 @@
             "screenshots": [],
             "version": 1572864,
             "size": 220169865
+        },
+        "0100A4202810B001": {
+            "id": "0100A4202810B001",
+            "name": "Street Racing Simulator Evo Car And Moto Street Racing Simulator Evo Car And Moto Dlc Chopper Bike Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "010041C00D086800": {
             "id": "010041C00D086800",
@@ -445310,6 +445726,23 @@
             "version": 0,
             "size": 55704
         },
+        "0100FF10230A4000": {
+            "id": "0100FF10230A4000",
+            "name": "As I Began to Dream",
+            "publisher": "SOFT SOURCE",
+            "releaseDate": "20251120",
+            "description": "After awakening to find herself trapped in a mysterious dream world, Lily is forced to face her past traumas and experiences. Harnessing a unique ability to swap, rotate, and move the environment around her, Lily progresses through the various worlds in a journey of navigating grief and finding herself.\n\nFeatures:\nAccompanied by her flying turtle friend, take on the challenges of the mysterious dream worlds together\n\nSwap, rotate, and move the environment around you to solve puzzles to progress through the world\n\nImmerse yourself in the stunning, hand-drawn visuals that span various, visually distinct worlds\n\nWhile exploring the worlds of As I Began to Dream, you are accompanied by peaceful, almost melancholy music.",
+            "bannerUrl": "https://api.nlib.cc/nx/0100FF10230A4000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100FF10230A4000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100FF10230A4000/screen/1",
+                "https://api.nlib.cc/nx/0100FF10230A4000/screen/2",
+                "https://api.nlib.cc/nx/0100FF10230A4000/screen/3",
+                "https://api.nlib.cc/nx/0100FF10230A4000/screen/4"
+            ],
+            "version": 0,
+            "size": 1048331137
+        },
         "010078D000F89450": {
             "id": "010078D000F89450",
             "name": "DRAGON BALL XENOVERSE 2 for Nintendo Switch - DRAGON BALL XENOVERSE 2 TP Medal (x2000) #9",
@@ -447058,6 +447491,18 @@
             "screenshots": [],
             "version": 458752,
             "size": 122121900
+        },
+        "010083A01D4570CF": {
+            "id": "010083A01D4570CF",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d4570cf",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100AFB01AAF0000": {
             "id": "0100AFB01AAF0000",
@@ -450997,6 +451442,18 @@
             "screenshots": [],
             "version": 262144,
             "size": 286733099
+        },
+        "0100E05011351016": {
+            "id": "0100E05011351016",
+            "name": "Wingspan Bird Pack Additional Asian Avians",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100E12013D74800": {
             "id": "0100E12013D74800",
@@ -466888,6 +467345,18 @@
             ],
             "version": 0,
             "size": 81890222
+        },
+        "0100B0A0215FA800": {
+            "id": "0100B0A0215FA800",
+            "name": "Zombie Blocks: Pixel Shooter Gun",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 37608284
         },
         "0100EAE010561004": {
             "id": "0100EAE010561004",
@@ -485130,6 +485599,18 @@
             "version": 0,
             "size": 24351
         },
+        "0100B1F00660E000": {
+            "id": "0100B1F00660E000",
+            "name": "Axiom Verge",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 343495304
+        },
         "0100713016CCD001": {
             "id": "0100713016CCD001",
             "name": "AI꞉ THE SOMNIUM FILES - nirvanA Initiative - AI꞉ THE SOMNIUM FILES - nirvanA Initiative DLC Kimono Set",
@@ -492617,6 +493098,18 @@
             "version": 0,
             "size": 140041023
         },
+        "010083A01D4570CD": {
+            "id": "010083A01D4570CD",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d4570cd",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "0100A9C010246000": {
             "id": "0100A9C010246000",
             "name": "Wide Ocean Big Jacket",
@@ -494257,6 +494750,18 @@
             ],
             "version": 0,
             "size": 1809051419
+        },
+        "0100DBD024EF70EF": {
+            "id": "0100DBD024EF70EF",
+            "name": "Blue Reflection Quartet 制服（バディな世界ver）",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100D9D011E3C800": {
             "id": "0100D9D011E3C800",
@@ -498123,6 +498628,18 @@
             "screenshots": [],
             "version": 131072,
             "size": 241444357
+        },
+        "0100BDA01AABD018": {
+            "id": "0100BDA01AABD018",
+            "name": "Rift Of The Necrodancer Undertale Spider Dance Toby Fox",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 13956714
         },
         "01009D801D6E4800": {
             "id": "01009D801D6E4800",
@@ -519777,6 +520294,18 @@
             "version": 0,
             "size": 23133
         },
+        "010030B0289BD002": {
+            "id": "010030B0289BD002",
+            "name": "Gods With Guns Primordial Giants",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "01003D80117F0800": {
             "id": "01003D80117F0800",
             "name": "ベア・ナックルIV（Bare Knuckle IV）",
@@ -532340,6 +532869,18 @@
             "version": 0,
             "size": 322621516
         },
+        "010083A01D457067": {
+            "id": "010083A01D457067",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d457067",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "0100D9B00DB5F001": {
             "id": "0100D9B00DB5F001",
             "name": "Super Cane Magic ZERO - Super Cane Magic ZERO꞉ Secret Bonus Content",
@@ -533656,15 +534197,15 @@
         },
         "0100544020572800": {
             "id": "0100544020572800",
-            "name": "Atelier Yumia The Alchemist of Memories & the Envisioned Land",
+            "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 720896,
-            "size": 417042913
+            "version": 917504,
+            "size": 364094659
         },
         "010049901D4D6000": {
             "id": "010049901D4D6000",
@@ -538940,8 +539481,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 59103738
+            "version": 262144,
+            "size": 101496697
         },
         "0100F7C01B644000": {
             "id": "0100F7C01B644000",
@@ -541841,6 +542382,18 @@
             "screenshots": [],
             "version": 0,
             "size": 39629
+        },
+        "0100E50024F33386": {
+            "id": "0100E50024F33386",
+            "name": "Blue Reflection Quartet 特製相框4種組合 Cht",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100AB90129CA000": {
             "id": "0100AB90129CA000",
@@ -568305,6 +568858,18 @@
             "version": 0,
             "size": 23305
         },
+        "0100D9001BAE8800": {
+            "id": "0100D9001BAE8800",
+            "name": "Raccoon Adventure: Animal City Simulator 3D Farm Super Deluxe",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 577285723
+        },
         "0100B1900F0B6000": {
             "id": "0100B1900F0B6000",
             "name": "The Legend of Dark Witch",
@@ -568463,6 +569028,18 @@
             "screenshots": [],
             "version": 65536,
             "size": 15784485
+        },
+        "010083A01D4570CA": {
+            "id": "010083A01D4570CA",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d4570ca",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "010068C01EA47001": {
             "id": "010068C01EA47001",
@@ -569678,8 +570255,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 32859914
+            "version": 131072,
+            "size": 35966423
         },
         "01007800122C8800": {
             "id": "01007800122C8800",
@@ -585144,15 +585721,15 @@
         },
         "0100C3E00ACAA800": {
             "id": "0100C3E00ACAA800",
-            "name": "Mutant Football League Dynasty Edition",
+            "name": "Mutant Football League: Dynasty Edition",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1114112,
-            "size": 958840707
+            "version": 1179648,
+            "size": 833936467
         },
         "01004F000B716800": {
             "id": "01004F000B716800",
@@ -589794,6 +590371,18 @@
             ],
             "version": 0,
             "size": 3150389610
+        },
+        "010083A01D457075": {
+            "id": "010083A01D457075",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d457075",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "01004C100A04C800": {
             "id": "01004C100A04C800",
@@ -595007,6 +595596,18 @@
             "version": 0,
             "size": 97458974
         },
+        "010083A01D4570C9": {
+            "id": "010083A01D4570C9",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d4570c9",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "01009AE012636800": {
             "id": "01009AE012636800",
             "name": "チルドレン・オブ・モルタ ～家族の絆の物語～",
@@ -599253,6 +599854,18 @@
             ],
             "version": 0,
             "size": 275957603
+        },
+        "010083A01D457066": {
+            "id": "010083A01D457066",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d457066",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "01009F201CFBC000": {
             "id": "01009F201CFBC000",
@@ -607507,8 +608120,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 458752,
-            "size": 858493231
+            "version": 524288,
+            "size": 990215424
         },
         "0100AA7024094000": {
             "id": "0100AA7024094000",
@@ -612184,6 +612797,18 @@
             "screenshots": [],
             "version": 0,
             "size": 55613
+        },
+        "0100BDA01AABD017": {
+            "id": "0100BDA01AABD017",
+            "name": "Rift Of The Necrodancer Spin Rhythm Xd The Magician",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 18070915
         },
         "01002C9022771069": {
             "id": "01002C9022771069",
@@ -632495,17 +633120,12 @@
         "010046501D4C4000": {
             "id": "010046501D4C4000",
             "name": "G-MODEアーカイブス49 グレゴリーホラーショー",
-            "publisher": "ジー・モード",
-            "releaseDate": "20231026",
+            "publisher": "",
+            "releaseDate": "",
             "description": "",
-            "bannerUrl": "https://api.nlib.cc/nx/010046501D4C4000/banner",
-            "iconUrl": "https://api.nlib.cc/nx/010046501D4C4000/icon/200",
-            "screenshots": [
-                "https://api.nlib.cc/nx/010046501D4C4000/screen/1",
-                "https://api.nlib.cc/nx/010046501D4C4000/screen/2",
-                "https://api.nlib.cc/nx/010046501D4C4000/screen/3",
-                "https://api.nlib.cc/nx/010046501D4C4000/screen/4"
-            ],
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
             "version": 0,
             "size": 48207012
         },
@@ -632892,6 +633512,18 @@
             ],
             "version": 0,
             "size": 3258616491
+        },
+        "010083A01D45706D": {
+            "id": "010083A01D45706D",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d45706d",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100753018100800": {
             "id": "0100753018100800",
@@ -634315,6 +634947,18 @@
             ],
             "version": 0,
             "size": 955826012
+        },
+        "010083A01D457073": {
+            "id": "010083A01D457073",
+            "name": "v-earth_defense_force_world_brothers_2_dlc_010083a01d457073",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100A89018C2C000": {
             "id": "0100A89018C2C000",
