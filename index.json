@@ -59287,6 +59287,23 @@
             "version": 0,
             "size": 75167
         },
+        "0100C29024138000": {
+            "id": "0100C29024138000",
+            "name": "Content Warning",
+            "publisher": "Landfall Publishing",
+            "releaseDate": "20260401",
+            "description": "Film your friends do scary things to become SpookTube famous! (strongly advised to not go alone)\n\nHERE’S THE PLAN!\nGet famous or die trying! Content Warning is a co-op horror game where you film spooky stuff with your friends to try and go viral.\n\nStep One: Go Down to the Old World\nSquad up, customize your face with the ASCII face customizer, buy some gear and use the diving bell to go down to the Old World!\n\nDown there you’ll encounter scary physics-animated monsters, cursed relics and other artefacts!\n\nStep Two: Film something scary\nFilm as many scary things as possible before you run out of oxygen, or friends…\n\nStep Three: Upload to SpöökTube\nIf you survive, you need to get back in the diving bell to transport you and the remaining members of your team to the surface.\n\nUpload your chaotic footage to SpöökTube, settle in for a watch party, and wait for the views to tick up!\n\nAnd… Profit!!\nEvery run goes on for 3 days, the more scary stuff you film, the more you go viral. The ad revenue from your SpöökTube videos enables you to upgrade your gear to film better videos and survive more easily in the Old World.\n\nIf your team accumulates enough views in three days - you get to keep going with your SpöökTube Career and live a life of fame and fortune!\n\nYou can also sign up for sponsorship deals to earn MC to purchase island upgrades and hats!\n\nWHAT COULD POSSIBLY GO WRONG!\n\nGame Features\nIn-game handheld working video camera\n2-4 player online coop\nVoice chat\nASCII face customisation\nMake and save in-game recordings\nYour friends looking and acting silly\nScary animated physics monsters\nCursed artefacts\nFlashlights (many)\nFame (maybe)\n\nStore: Use your Ad revenue to buy fun and useful stuff\nFor every video you upload to SpöökTube you get ad revenue to spend on fun and useful items in the store, like upgraded gear, emotes, props and medical equipment!\nASCII Face Customiser: Pick your best facial expression\nCustomize your face using your keyboard and with the game's ASCII-face-customizer!\nHave fun!",
+            "bannerUrl": "https://api.nlib.cc/nx/0100C29024138000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100C29024138000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100C29024138000/screen/1",
+                "https://api.nlib.cc/nx/0100C29024138000/screen/2",
+                "https://api.nlib.cc/nx/0100C29024138000/screen/3",
+                "https://api.nlib.cc/nx/0100C29024138000/screen/4"
+            ],
+            "version": 0,
+            "size": 166179011
+        },
         "01009120119B4000": {
             "id": "01009120119B4000",
             "name": "Deathsmiles I･II",
@@ -92235,8 +92252,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 3014656,
-            "size": 8872137543
+            "version": 3080192,
+            "size": 9015768816
         },
         "010035B00412A800": {
             "id": "010035B00412A800",
@@ -137499,6 +137516,18 @@
             "version": 0,
             "size": 1403549804
         },
+        "0100C29024138800": {
+            "id": "0100C29024138800",
+            "name": "Content Warning",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 196608,
+            "size": 62429735
+        },
         "0100C11012C68800": {
             "id": "0100C11012C68800",
             "name": "Sniper Elite 4",
@@ -167629,8 +167658,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 81970132
+            "version": 262144,
+            "size": 97865030
         },
         "010046F012A04000": {
             "id": "010046F012A04000",
@@ -450789,8 +450818,8 @@
                 "https://api.nlib.cc/nx/010095500D9F4000/screen/3",
                 "https://api.nlib.cc/nx/010095500D9F4000/screen/4"
             ],
-            "version": 0,
-            "size": 362653432
+            "version": 851968,
+            "size": 245192991
         },
         "0100EC600C994800": {
             "id": "0100EC600C994800",
@@ -507373,8 +507402,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 393216,
-            "size": 18880334294
+            "version": 458752,
+            "size": 19241914431
         },
         "01008FE0119F4000": {
             "id": "01008FE0119F4000",
@@ -633120,12 +633149,17 @@
         "010046501D4C4000": {
             "id": "010046501D4C4000",
             "name": "G-MODEアーカイブス49 グレゴリーホラーショー",
-            "publisher": "",
-            "releaseDate": "",
+            "publisher": "ジー・モード",
+            "releaseDate": "20231026",
             "description": "",
-            "bannerUrl": "",
-            "iconUrl": "",
-            "screenshots": [],
+            "bannerUrl": "https://api.nlib.cc/nx/010046501D4C4000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/010046501D4C4000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/010046501D4C4000/screen/1",
+                "https://api.nlib.cc/nx/010046501D4C4000/screen/2",
+                "https://api.nlib.cc/nx/010046501D4C4000/screen/3",
+                "https://api.nlib.cc/nx/010046501D4C4000/screen/4"
+            ],
             "version": 0,
             "size": 48207012
         },
