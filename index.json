@@ -1617,6 +1617,18 @@
             "version": 0,
             "size": 55613
         },
+        "0100D63027927001": {
+            "id": "0100D63027927001",
+            "name": "Truck Simulator Driver 2026 Heavy Duty Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010051B019EE6800": {
             "id": "010051B019EE6800",
             "name": "No Umbrellas Allowed",
@@ -2645,15 +2657,15 @@
         },
         "0100B08023EB8800": {
             "id": "0100B08023EB8800",
-            "name": "The NameLess Slay Dragon",
+            "name": "The Nameless: Slay Dragon",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 86252736
+            "version": 131072,
+            "size": 87668939
         },
         "01000E800CC26800": {
             "id": "01000E800CC26800",
@@ -11991,6 +12003,18 @@
             "version": 0,
             "size": 156525
         },
+        "010082B023167001": {
+            "id": "010082B023167001",
+            "name": "Monopoly Star Wars Heroes Vs Villains Roll In Style Pre Order Bonus Dice Skins",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "01000B901D9C4000": {
             "id": "01000B901D9C4000",
             "name": "3D Printer - PrintMaster Simulator",
@@ -12748,6 +12772,18 @@
             "screenshots": [],
             "version": 0,
             "size": 819142
+        },
+        "0100D1501ABAF008": {
+            "id": "0100D1501ABAF008",
+            "name": "South Park Snow Day Asspen Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100FD70134FA000": {
             "id": "0100FD70134FA000",
@@ -17293,6 +17329,18 @@
             "screenshots": [],
             "version": 65536,
             "size": 55663
+        },
+        "01002CA0254D9001": {
+            "id": "01002CA0254D9001",
+            "name": "Sniper Warrior Elite Ready To Fire",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25560
         },
         "0100B0401174309D": {
             "id": "0100B0401174309D",
@@ -57880,6 +57928,18 @@
             "version": 65536,
             "size": 1348095745
         },
+        "010017B0240F2800": {
+            "id": "010017B0240F2800",
+            "name": "シニガミ姫と異書館ノ怪物",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 20258917
+        },
         "010075001CDAA000": {
             "id": "010075001CDAA000",
             "name": "Tools Up! Ultimate Edition",
@@ -58188,6 +58248,18 @@
             ],
             "version": 0,
             "size": 71138206
+        },
+        "010083802449A800": {
+            "id": "010083802449A800",
+            "name": "#DRIVE Rally",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 361397324
         },
         "0100DF000A188000": {
             "id": "0100DF000A188000",
@@ -59824,6 +59896,23 @@
             ],
             "version": 0,
             "size": 2252428098
+        },
+        "010062702802C000": {
+            "id": "010062702802C000",
+            "name": "Farm Pro 26 Simulator",
+            "publisher": "Night Shift Games",
+            "releaseDate": "20260710",
+            "description": "Step into the world of modern agriculture and build your farming legacy from the ground up. Experience the rewarding life of a farmer as you manage every stage of production, from preparing the soil to harvesting valuable crops. Start with a small piece of land and gradually transform it into a thriving agricultural enterprise through hard work, smart investments, and efficient farm management.\n\nDrive a variety of realistic farming vehicles, including powerful tractors, trailers, and combine harvesters. Cultivate your fields, plant different crops, monitor their growth, and protect them throughout the season. Sell your harvest, earn profits, and invest in new equipment to increase productivity and expand your operations.\n\nGrow your farm, unlock better machinery, and take on larger agricultural challenges as you build a successful farming business. Every harvest brings new opportunities to develop your land and become a true master of modern farming.\n\nFeatures:\n• Drive realistic tractors, harvesters, and farming vehicles.\n• Cultivate fields, plant crops, and manage their growth.\n• Harvest and sell produce to earn profits.\n• Upgrade equipment and unlock new machinery.\n• Expand your farmland and grow your agricultural business.\n\nTurn a small farm into a thriving agricultural empire and enjoy the complete farming experience.",
+            "bannerUrl": "https://api.nlib.cc/nx/010062702802C000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/010062702802C000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/010062702802C000/screen/1",
+                "https://api.nlib.cc/nx/010062702802C000/screen/2",
+                "https://api.nlib.cc/nx/010062702802C000/screen/3",
+                "https://api.nlib.cc/nx/010062702802C000/screen/4"
+            ],
+            "version": 0,
+            "size": 435102508
         },
         "01002D400B0F6000": {
             "id": "01002D400B0F6000",
@@ -63039,6 +63128,18 @@
             ],
             "version": 0,
             "size": 9204729392
+        },
+        "0100DAE01E4C93F6": {
+            "id": "0100DAE01E4C93F6",
+            "name": "Story Of Seasons Grand Bazaar Bachelor Sweetheart Set",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100D110169D6000": {
             "id": "0100D110169D6000",
@@ -90110,8 +90211,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 48909577
+            "version": 393216,
+            "size": 57438251
         },
         "0100E48020DFE000": {
             "id": "0100E48020DFE000",
@@ -108088,8 +108189,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1048576,
-            "size": 1155995955
+            "version": 1179648,
+            "size": 1297155968
         },
         "0100FF501CE6A800": {
             "id": "0100FF501CE6A800",
@@ -108194,8 +108295,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 155422523
+            "version": 131072,
+            "size": 156166174
         },
         "0100216014473006": {
             "id": "0100216014473006",
@@ -110230,6 +110331,23 @@
             "screenshots": [],
             "version": 0,
             "size": 292919260
+        },
+        "0100D590272CC000": {
+            "id": "0100D590272CC000",
+            "name": "My Merry May with be",
+            "publisher": "MAGES.",
+            "releaseDate": "20260625",
+            "description": "",
+            "bannerUrl": "https://api.nlib.cc/nx/0100D590272CC000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100D590272CC000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100D590272CC000/screen/1",
+                "https://api.nlib.cc/nx/0100D590272CC000/screen/2",
+                "https://api.nlib.cc/nx/0100D590272CC000/screen/3",
+                "https://api.nlib.cc/nx/0100D590272CC000/screen/4"
+            ],
+            "version": 0,
+            "size": 3549649969
         },
         "0100957016B90000": {
             "id": "0100957016B90000",
@@ -122346,8 +122464,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 493610105
+            "version": 393216,
+            "size": 493639948
         },
         "01001620143BC800": {
             "id": "01001620143BC800",
@@ -134419,8 +134537,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1114112,
-            "size": 705055429
+            "version": 1245184,
+            "size": 766042826
         },
         "0100BB5015AA8000": {
             "id": "0100BB5015AA8000",
@@ -141360,6 +141478,18 @@
             "screenshots": [],
             "version": 0,
             "size": 24362
+        },
+        "0100FC20214B3002": {
+            "id": "0100FC20214B3002",
+            "name": "Rooftops And Alleys The Parkour Game Hat Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100F49020508000": {
             "id": "0100F49020508000",
@@ -151025,8 +151155,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 48067668
+            "version": 131072,
+            "size": 65520186
         },
         "01005FF00C7CC000": {
             "id": "01005FF00C7CC000",
@@ -151174,6 +151304,18 @@
             "screenshots": [],
             "version": 0,
             "size": 21083
+        },
+        "01004E60278F7001": {
+            "id": "01004E60278F7001",
+            "name": "Pawbay Cool Shades",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "01000AE02545300C": {
             "id": "01000AE02545300C",
@@ -153290,15 +153432,15 @@
         },
         "01000ED0214D0800": {
             "id": "01000ED0214D0800",
-            "name": "StafferCase",
+            "name": "Staffer Case: A Supernatural Mystery Adventure",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 918576483
+            "version": 196608,
+            "size": 1115593763
         },
         "010082A01538F0D4": {
             "id": "010082A01538F0D4",
@@ -156914,6 +157056,18 @@
             "screenshots": [],
             "version": 0,
             "size": 56549
+        },
+        "01003A8019D75004": {
+            "id": "01003A8019D75004",
+            "name": "R Type Tactics I Ii Cosmos Unit Color Variation Fighter Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25063
         },
         "0100D5B017C82000": {
             "id": "0100D5B017C82000",
@@ -162100,6 +162254,18 @@
             "version": 65536,
             "size": 2458993
         },
+        "010018E027FF2800": {
+            "id": "010018E027FF2800",
+            "name": "Escape from Umbra",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 131072,
+            "size": 1305290752
+        },
         "01009D70198CF004": {
             "id": "01009D70198CF004",
             "name": "Little Kong꞉ Jungle Fun - Purple Fur",
@@ -165880,8 +166046,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 917504,
-            "size": 715897838
+            "version": 1048576,
+            "size": 861518165
         },
         "0100A2F020E34000": {
             "id": "0100A2F020E34000",
@@ -167235,6 +167401,18 @@
             ],
             "version": 0,
             "size": 961878599
+        },
+        "0100CEA007D09003": {
+            "id": "0100CEA007D09003",
+            "name": "Crypt Of The Necrodancer Shovel Knight Character",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 46580397
         },
         "0100ECB0129BF013": {
             "id": "0100ECB0129BF013",
@@ -181494,6 +181672,18 @@
             "version": 0,
             "size": 831432449
         },
+        "01001B00277591C2": {
+            "id": "01001B00277591C2",
+            "name": "Disgaea Mayhem Na Color Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "0100AB600ACB4800": {
             "id": "0100AB600ACB4800",
             "name": "Demetrios - The BIG Cynical Adventure",
@@ -181674,6 +181864,18 @@
             "screenshots": [],
             "version": 262144,
             "size": 643330076
+        },
+        "0100C1B01872B003": {
+            "id": "0100C1B01872B003",
+            "name": "Terraformers Independence",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "0100E18028352000": {
             "id": "0100E18028352000",
@@ -197561,6 +197763,18 @@
             ],
             "version": 0,
             "size": 3268835092
+        },
+        "01005440205730C8": {
+            "id": "01005440205730C8",
+            "name": "Atelier Yumia The Alchemist Of Memories And The Envisioned Land T Shirt Costume For Yumia Set Of Three",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 24058
         },
         "010037601A38B01D": {
             "id": "010037601A38B01D",
@@ -215485,8 +215699,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 207830674
+            "version": 393216,
+            "size": 1152805092
         },
         "0100BBD0184C8000": {
             "id": "0100BBD0184C8000",
@@ -225939,6 +226153,18 @@
             "version": 0,
             "size": 23197
         },
+        "010064E020A77001": {
+            "id": "010064E020A77001",
+            "name": "Car Heist Simulator Thief Mechanic Cash Boost",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010029600EAE4000": {
             "id": "010029600EAE4000",
             "name": "Arcade Archives VS. CASTLEVANIA",
@@ -229459,6 +229685,23 @@
             "version": 0,
             "size": 55674
         },
+        "01000B1027F92000": {
+            "id": "01000B1027F92000",
+            "name": "Golfish",
+            "publisher": "Revulo Games",
+            "releaseDate": "20260711",
+            "description": "Spit water to move as a round fish in this cute minigolf puzzle adventure! Use clever movement, smart timing, and the help of adorable sea creatures to overcome obstacles and explore a charming world full of personality.\n\nSea Creatures That Lend a Fin!\nBounce on jellyfish, get carried by crabs, and let mighty whales blast you across the water. These adorable marine animals are not just part of the world, they are part of the puzzle. Learn how each creature works and use them to reach new places!\n\nOver 100 Levels of Watery Challenges!\nTake on a growing journey of handcrafted puzzles testing your problem-solving ability. Earn stars for optimal playthroughs, just watch out for the water not to run out!\n\nCustomize Your Fishy Hero!\nUnlock different looks and make your little fish truly your own with 25 unique skins and 8 effects to choose from! Whether you want your fish to look cute, silly or stylish, we have that in stock!\n\nConvenient gameplay\nEnjoy dynamic camera support and a wide range of gameplay settings!",
+            "bannerUrl": "https://api.nlib.cc/nx/01000B1027F92000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/01000B1027F92000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/01000B1027F92000/screen/1",
+                "https://api.nlib.cc/nx/01000B1027F92000/screen/2",
+                "https://api.nlib.cc/nx/01000B1027F92000/screen/3",
+                "https://api.nlib.cc/nx/01000B1027F92000/screen/4"
+            ],
+            "version": 0,
+            "size": 159435390
+        },
         "0100D6001D18C000": {
             "id": "0100D6001D18C000",
             "name": "Arcade Archives NINJA EMAKI",
@@ -231119,8 +231362,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 458752,
-            "size": 312009243
+            "version": 655360,
+            "size": 338860924
         },
         "010028F010644000": {
             "id": "010028F010644000",
@@ -237393,6 +237636,18 @@
             "screenshots": [],
             "version": 131072,
             "size": 43069708
+        },
+        "01005680207BF001": {
+            "id": "01005680207BF001",
+            "name": "Platform 9 No Way Out Survival Surge",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25551
         },
         "0100465013578800": {
             "id": "0100465013578800",
@@ -257841,6 +258096,18 @@
             "version": 0,
             "size": 54694139
         },
+        "01002A401DB63001": {
+            "id": "01002A401DB63001",
+            "name": "Scream And Steel Horror Story Shooter Light The Way",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010050D01D648000": {
             "id": "010050D01D648000",
             "name": "脱出の部屋ー頭脳で攻略ひらめき脳トレ謎解き推理ゲームー",
@@ -264134,8 +264401,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 60813343
+            "version": 131072,
+            "size": 65315925
         },
         "010056F0134AC000": {
             "id": "010056F0134AC000",
@@ -264618,8 +264885,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 126509609
+            "version": 131072,
+            "size": 22088426
         },
         "010078A017FE6000": {
             "id": "010078A017FE6000",
@@ -264739,8 +265006,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 20280482
+            "version": 196608,
+            "size": 105969482
         },
         "010082C01FA66000": {
             "id": "010082C01FA66000",
@@ -266227,8 +266494,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 257741270
+            "version": 262144,
+            "size": 276806838
         },
         "01000C501A15E000": {
             "id": "01000C501A15E000",
@@ -276329,6 +276596,18 @@
             "version": 0,
             "size": 29590586
         },
+        "010079C02352B001": {
+            "id": "010079C02352B001",
+            "name": "Werewolf Hunter Survive The Howl Damage Barrier",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010015B01CAF0000": {
             "id": "010015B01CAF0000",
             "name": "Uzzuzzu My Pet - Golf Dash",
@@ -280654,6 +280933,18 @@
             "screenshots": [],
             "version": 0,
             "size": 7523230332
+        },
+        "0100020023EB7001": {
+            "id": "0100020023EB7001",
+            "name": "hr-bqnla-dlc",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 23099
         },
         "0100A2201787E000": {
             "id": "0100A2201787E000",
@@ -297951,6 +298242,18 @@
             "version": 983040,
             "size": 782686932
         },
+        "010063D024009001": {
+            "id": "010063D024009001",
+            "name": "Ltmt Deluxe",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 23135
+        },
         "01007730159FC000": {
             "id": "01007730159FC000",
             "name": "JUMANJI: The Curse Returns",
@@ -309547,6 +309850,18 @@
             "version": 0,
             "size": 56739
         },
+        "01000D302374D001": {
+            "id": "01000D302374D001",
+            "name": "Tavern Owner Simulator Elite Workers",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 320031
+        },
         "01004B5019FA0000": {
             "id": "01004B5019FA0000",
             "name": "Dungeons of Aether",
@@ -313088,8 +313403,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 589824,
-            "size": 403843675
+            "version": 655360,
+            "size": 359863914
         },
         "01004C400CF9701C": {
             "id": "01004C400CF9701C",
@@ -319067,6 +319382,18 @@
             "version": 2228224,
             "size": 665626928
         },
+        "0100EC1020F87001": {
+            "id": "0100EC1020F87001",
+            "name": "Mounted Knights Battle Medieval Warrior Honor Simulator Elite Gear",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25543
+        },
         "010026301785B02A": {
             "id": "010026301785B02A",
             "name": "Goonya Monster - Additional Character (Buster) ꞉ Mari Tomari꞉All Guys",
@@ -319554,8 +319881,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 116909744
+            "version": 131072,
+            "size": 165246457
         },
         "0100AAD01DFF8800": {
             "id": "0100AAD01DFF8800",
@@ -344004,15 +344331,15 @@
         },
         "0100F1B026B30800": {
             "id": "0100F1B026B30800",
-            "name": "brw-moww_v196608",
+            "name": "Moomintroll: Winter's Warmth",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 348450421
+            "version": 327680,
+            "size": 352994395
         },
         "010042D00D901008": {
             "id": "010042D00D901008",
@@ -358865,8 +359192,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 917504,
-            "size": 208687629
+            "version": 1048576,
+            "size": 194415474
         },
         "0100ED7012DB3009": {
             "id": "0100ED7012DB3009",
@@ -363079,6 +363406,18 @@
             ],
             "version": 0,
             "size": 731230416
+        },
+        "0100208026194000": {
+            "id": "0100208026194000",
+            "name": "悠久的鋼刃列騎 for Nintendo Switch",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 6511804651
         },
         "010094B01CF88000": {
             "id": "010094B01CF88000",
@@ -375218,6 +375557,18 @@
             "version": 0,
             "size": 1408923691
         },
+        "0100FA2024C11001": {
+            "id": "0100FA2024C11001",
+            "name": "Saeko Giantess Dating Sim Soundtrack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100A8A0174A5002": {
             "id": "0100A8A0174A5002",
             "name": "Clumsy Rush꞉ Ultimate Guys - Decorations Pack 2",
@@ -387221,8 +387572,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 70833994
+            "version": 131072,
+            "size": 78660481
         },
         "010001B01B67906B": {
             "id": "010001B01B67906B",
@@ -408948,8 +409299,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 58432391
+            "version": 131072,
+            "size": 58556706
         },
         "0100BBF013D6E000": {
             "id": "0100BBF013D6E000",
@@ -415346,6 +415697,18 @@
             "version": 0,
             "size": 118728882
         },
+        "010031F01929501F": {
+            "id": "010031F01929501F",
+            "name": "Super Monkey Ball Banana Rumble Pac Man",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100D9A005ED704E": {
             "id": "0100D9A005ED704E",
             "name": "太鼓の達人 Nintendo Switchば～じょん！ - スタジオジブリパックVol.2",
@@ -418222,6 +418585,18 @@
             "screenshots": [],
             "version": 65536,
             "size": 22022324
+        },
+        "0100E18028352800": {
+            "id": "0100E18028352800",
+            "name": "Axel Quest",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 19631231
         },
         "0100111004461003": {
             "id": "0100111004461003",
@@ -423798,8 +424173,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 170180128
+            "version": 131072,
+            "size": 170452509
         },
         "01001A700C83302D": {
             "id": "01001A700C83302D",
@@ -426301,6 +426676,18 @@
             ],
             "version": 0,
             "size": 538975369
+        },
+        "0100FA8022FE8800": {
+            "id": "0100FA8022FE8800",
+            "name": "がんばれゴエモン大集合！",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 29305571
         },
         "0100A0902140E000": {
             "id": "0100A0902140E000",
@@ -432024,6 +432411,18 @@
             "screenshots": [],
             "version": 0,
             "size": 39613
+        },
+        "01001B00277591F4": {
+            "id": "01001B00277591F4",
+            "name": "Disgaea Mayhem Bonus Story Catastrophe Flan Arc",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "010037600B61C000": {
             "id": "010037600B61C000",
@@ -438739,15 +439138,15 @@
         },
         "010052A01E9C0800": {
             "id": "010052A01E9C0800",
-            "name": "ASTLIBRA Gaiden꞉ The Cave of Phantom Mist",
+            "name": "ASTLIBRA Gaiden: The Cave of Phantom Mist",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 21217258
+            "version": 262144,
+            "size": 27301367
         },
         "010050E020506000": {
             "id": "010050E020506000",
@@ -449346,6 +449745,18 @@
             "version": 0,
             "size": 39629
         },
+        "0100B860271C9003": {
+            "id": "0100B860271C9003",
+            "name": "Soapy Tales Teddy Bear And Honey",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25294
+        },
         "01007EC0171B6000": {
             "id": "01007EC0171B6000",
             "name": "Air Hockey Puzzles",
@@ -456963,6 +457374,18 @@
             ],
             "version": 0,
             "size": 1362675977
+        },
+        "0100DCC027F36800": {
+            "id": "0100DCC027F36800",
+            "name": "사신 공주와 이서관의 괴물",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 27185705
         },
         "01006010193D9068": {
             "id": "01006010193D9068",
@@ -466165,6 +466588,18 @@
             "screenshots": [],
             "version": 0,
             "size": 56564
+        },
+        "0100C1B01872B002": {
+            "id": "0100C1B01872B002",
+            "name": "Terraformers Megastructures",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "01003C100655A800": {
             "id": "01003C100655A800",
@@ -476024,8 +476459,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1245184,
-            "size": 214531442
+            "version": 1310720,
+            "size": 214102577
         },
         "010030D010D66800": {
             "id": "010030D010D66800",
@@ -476580,8 +477015,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 45568937
+            "version": 327680,
+            "size": 258770592
         },
         "010048801D68C000": {
             "id": "010048801D68C000",
@@ -477074,6 +477509,18 @@
             "screenshots": [],
             "version": 0,
             "size": 55604
+        },
+        "0100EC1020F86800": {
+            "id": "0100EC1020F86800",
+            "name": "Mounted Knights Battle : Medieval Warrior Honor Simulator",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 48125517
         },
         "0100FE201680A000": {
             "id": "0100FE201680A000",
@@ -494883,8 +495330,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 658584618
+            "version": 327680,
+            "size": 566754843
         },
         "01004C4026206800": {
             "id": "01004C4026206800",
@@ -513885,6 +514332,18 @@
             "version": 0,
             "size": 499224744
         },
+        "0100C1401CEDD009": {
+            "id": "0100C1401CEDD009",
+            "name": "Clue Sherlock Suspect Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "010050000705F008": {
             "id": "010050000705F008",
             "name": "ドラゴンクエストビルダーズ２　破壊神シドーとからっぽの島 - 「紋章ブロック・水」のレシピ",
@@ -514224,6 +514683,18 @@
             ],
             "version": 0,
             "size": 497697217
+        },
+        "0100FE801E51B001": {
+            "id": "0100FE801E51B001",
+            "name": "Animal Buddies Party Beasts Vintage Overhaul",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100B0701AA79008": {
             "id": "0100B0701AA79008",
@@ -518188,8 +518659,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 1072721599
+            "version": 458752,
+            "size": 1102559218
         },
         "01001AD01C2AA000": {
             "id": "01001AD01C2AA000",
@@ -523650,6 +524121,18 @@
             "version": 0,
             "size": 39619
         },
+        "0100FC20214B3001": {
+            "id": "0100FC20214B3001",
+            "name": "Rooftops And Alleys The Parkour Game Bird Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "0100BE80097FA000": {
             "id": "0100BE80097FA000",
             "name": "Arcade Archives 10-Yard Fight",
@@ -526823,8 +527306,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 215538328
+            "version": 196608,
+            "size": 272531021
         },
         "0100B450130FC800": {
             "id": "0100B450130FC800",
@@ -542537,15 +543020,15 @@
         },
         "0100CAB0250C2800": {
             "id": "0100CAB0250C2800",
-            "name": "I am an Air Traffic Controller AIRPORT HERO Centrair ALLSTARS",
+            "name": "ぼくは航空管制官 エアポートヒーロー セントレア ALLSTARS",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 117649599
+            "version": 262144,
+            "size": 171483132
         },
         "0100872017A0C000": {
             "id": "0100872017A0C000",
@@ -558847,6 +559330,18 @@
             "version": 0,
             "size": 55637
         },
+        "01001B00277591D7": {
+            "id": "01001B00277591D7",
+            "name": "Disgaea Mayhem Fun Weapons Pack",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "0100EDC01990E800": {
             "id": "0100EDC01990E800",
             "name": "Football Manager 2023 Touch",
@@ -566031,6 +566526,23 @@
             ],
             "version": 0,
             "size": 1341618925
+        },
+        "010018E027FF2000": {
+            "id": "010018E027FF2000",
+            "name": "Escape from Umbra",
+            "publisher": "Wild Sphere",
+            "releaseDate": "20260710",
+            "description": "Umbra is hunting you. She has eyes lurking everywhere within the shadows, and she will not stop until she finds you and locks your soul away forever.\n\nTrapped in a mysterious village ruled by darkness, your only tools to escape her curse are a small flashlight and a secret book of clues. Move unseen, follow the cats' hints, and solve the enigmas to find your path to freedom.\n\n•\tThe Secret Book: An enigmatic journal filled with information and clues that will help you solve the various puzzles and riddles you must face to escape.\n\n•\tExploration & Interaction: Investigate your surroundings, pick up items, examine them, and combine them. Discover how to use and manipulate the environment to escape from each area.\n\n•\tThe Flashlight: More than just lighting your way in a world of near-total darkness, it serves as a crucial tool with a powerful flash function. But use it wisely and keep a close eye on your battery.\n\n•\tThe Cats: When you see them, trust them. They will guide you and help you through key moments of your adventure.\n\n•\tA Village in Darkness: Inspired by mountain witch legends, this labyrinthine village is open for exploration, yet remains a world drenched in shadows and darkness.\n\n•\tThe Witch: She roams the streets of the village, relentlessly hunting you. If you hear roots creaking, turn off your flashlight and hide quickly where she cannot see you.\n\n•\tThe Specters: Summoned by the witch to watch every corner, they are alert to any trace of light. Avoid being seen, as they are fast and precise. But if they find you, your flashlight's flash function will give you a chance to shake them off.\n\n•\tTraces of Black Magic & Mirrors: Clouds of shadows and mirrors frozen in time. Find a way to discover what they hide.\n\n•\tVibration Mechanics: Feel your heartbeat—light when you seem safe, but intense and rapid when danger is near.\n\nDo you dare to face your fears and unveil the secrets of Umbra’s domain?\n",
+            "bannerUrl": "https://api.nlib.cc/nx/010018E027FF2000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/010018E027FF2000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/010018E027FF2000/screen/1",
+                "https://api.nlib.cc/nx/010018E027FF2000/screen/2",
+                "https://api.nlib.cc/nx/010018E027FF2000/screen/3",
+                "https://api.nlib.cc/nx/010018E027FF2000/screen/4"
+            ],
+            "version": 0,
+            "size": 8160138995
         },
         "01005A5016428000": {
             "id": "01005A5016428000",
@@ -573342,8 +573854,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 70789496
+            "version": 196608,
+            "size": 70871350
         },
         "010042C011737002": {
             "id": "010042C011737002",
@@ -579659,6 +580171,18 @@
             "version": 0,
             "size": 123279534
         },
+        "01008080205B9001": {
+            "id": "01008080205B9001",
+            "name": "Skater Bunny Simulator Skate Capital",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100E98006F22000": {
             "id": "0100E98006F22000",
             "name": "Bad North",
@@ -581336,8 +581860,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 157060695
+            "version": 327680,
+            "size": 159488408
         },
         "01009F8015E94000": {
             "id": "01009F8015E94000",
@@ -585196,15 +585720,15 @@
         },
         "0100A0E023952800": {
             "id": "0100A0E023952800",
-            "name": "Castle of Heart Retold",
+            "name": "Castle of Heart: Retold",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 616842431
+            "version": 262144,
+            "size": 566059733
         },
         "010020700E2A3017": {
             "id": "010020700E2A3017",
@@ -597184,6 +597708,23 @@
             "version": 0,
             "size": 55929
         },
+        "010017B0240F2000": {
+            "id": "010017B0240F2000",
+            "name": "シニガミ姫と異書館ノ怪物",
+            "publisher": "日本一ソフトウェア",
+            "releaseDate": "20260430",
+            "description": "",
+            "bannerUrl": "https://api.nlib.cc/nx/010017B0240F2000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/010017B0240F2000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/010017B0240F2000/screen/1",
+                "https://api.nlib.cc/nx/010017B0240F2000/screen/2",
+                "https://api.nlib.cc/nx/010017B0240F2000/screen/3",
+                "https://api.nlib.cc/nx/010017B0240F2000/screen/4"
+            ],
+            "version": 0,
+            "size": 1346849870
+        },
         "0100383013FAE000": {
             "id": "0100383013FAE000",
             "name": "マルくんの旅　～出会いと別れの物語～",
@@ -599058,8 +599599,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1048576,
-            "size": 344287728
+            "version": 1114112,
+            "size": 345305285
         },
         "01002CC003FE7013": {
             "id": "01002CC003FE7013",
@@ -610020,8 +610561,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1245184,
-            "size": 24470034135
+            "version": 1310720,
+            "size": 24536814103
         },
         "01006010193D90C9": {
             "id": "01006010193D90C9",
@@ -611524,6 +612065,23 @@
             "version": 0,
             "size": 409496146
         },
+        "0100DCC027F36000": {
+            "id": "0100DCC027F36000",
+            "name": "사신 공주와 이서관의 괴물",
+            "publisher": "Clouded Leopard Entertainment",
+            "releaseDate": "20260702",
+            "description": "",
+            "bannerUrl": "https://api.nlib.cc/nx/0100DCC027F36000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100DCC027F36000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100DCC027F36000/screen/1",
+                "https://api.nlib.cc/nx/0100DCC027F36000/screen/2",
+                "https://api.nlib.cc/nx/0100DCC027F36000/screen/3",
+                "https://api.nlib.cc/nx/0100DCC027F36000/screen/4"
+            ],
+            "version": 0,
+            "size": 1949923585
+        },
         "0100B2B00BDEF005": {
             "id": "0100B2B00BDEF005",
             "name": "ルルアのアトリエ ～アーランドの錬金術士４～ - ご新規さん支援アイテムパック",
@@ -612025,8 +612583,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 325258318
+            "version": 327680,
+            "size": 357714046
         },
         "01001200160DC000": {
             "id": "01001200160DC000",
@@ -612886,6 +613444,23 @@
             "screenshots": [],
             "version": 0,
             "size": 23577
+        },
+        "010056A02822A000": {
+            "id": "010056A02822A000",
+            "name": "Color Snake",
+            "publisher": "NOSTRA GAMES",
+            "releaseDate": "20260709",
+            "description": "New gameplay of the classic snake game. Collect the color you need to complete the levels. Pick up boosts to make things easier. Change skins to make your snake look stylish and unique!",
+            "bannerUrl": "https://api.nlib.cc/nx/010056A02822A000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/010056A02822A000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/010056A02822A000/screen/1",
+                "https://api.nlib.cc/nx/010056A02822A000/screen/2",
+                "https://api.nlib.cc/nx/010056A02822A000/screen/3",
+                "https://api.nlib.cc/nx/010056A02822A000/screen/4"
+            ],
+            "version": 0,
+            "size": 63682176
         },
         "0100A2801FAB4000": {
             "id": "0100A2801FAB4000",
@@ -617387,8 +617962,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 299428599
+            "version": 327680,
+            "size": 299427375
         },
         "0100AAE0100C5002": {
             "id": "0100AAE0100C5002",
@@ -631026,8 +631601,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 240163537
+            "version": 458752,
+            "size": 272668298
         },
         "0100D3C010DE8800": {
             "id": "0100D3C010DE8800",
@@ -637488,6 +638063,18 @@
             "version": 0,
             "size": 55800
         },
+        "0100DAE01E4C93F7": {
+            "id": "0100DAE01E4C93F7",
+            "name": "Story Of Seasons Grand Bazaar Bachelorette Sweetheart Set",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010022B00AD18000": {
             "id": "010022B00AD18000",
             "name": "シークレットゲーム KILLER QUEEN for Nintendo Switch",
@@ -638019,6 +638606,18 @@
             "screenshots": [],
             "version": 0,
             "size": 55602
+        },
+        "0100D1501ABAF005": {
+            "id": "0100D1501ABAF005",
+            "name": "South Park Snow Day Snowball",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "01009EA00C792000": {
             "id": "01009EA00C792000",
@@ -640673,6 +641272,18 @@
             "screenshots": [],
             "version": 0,
             "size": 23204
+        },
+        "0100ABC02450C800": {
+            "id": "0100ABC02450C800",
+            "name": "BEFORE I GO",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 131072,
+            "size": 44278483
         },
         "0100DC400CC5D141": {
             "id": "0100DC400CC5D141",
@@ -644835,6 +645446,23 @@
             "screenshots": [],
             "version": 0,
             "size": 1820599
+        },
+        "01008C8025C8E000": {
+            "id": "01008C8025C8E000",
+            "name": "Moonlight Peaks",
+            "publisher": "Marvelous (XSEED)",
+            "releaseDate": "20260707",
+            "description": "Experience life as a vampire in a magical town full of werewolves, witches, mermaids, and more! In this heart-warming, supernatural life-sim, you will raise mystical crops, learn spell-casting and potion-making, and befriend – or even romance – the locals. And at the same time, show your skeptical father that a life of compassion is possible – even for the undead.\n\nSettle down in your family’s abandoned homestead and make it your own. Build your farm with magic crops and livestock, customize your cottage with gothic style, and make friends with other creatures of the night. Embrace immortality and unlock ancient abilities, all in the name of a more bountiful harvest. Unravel the mysteries of the seven families that inhabit Moonlight Peaks and bring a bit of light back to this spooky settlement. Just remember to be back in your coffin before the sun comes up!\n\nKey Features\n■Uncover a Sweet and Spooky Journey\nCustomize your perfect vampire persona and build relationships with the people of Moonlight Peaks to learn more about the town’s history. Uncover the secrets of the seven families who dwell there – and maybe even find your “tomb” love from any of the two dozen romanceable characters in the process.\n\n■Build Your Dream Gothic Farmstead\nDesign your cozy gothic homestead, turning a forgotten farm into the ideal sanctuary. Obtain new tools and develop your property to grow even more enchanted crops and raise magical livestock.\n\n■Harness Magical Powers\nEmbrace your supernatural lineage! Shapeshift into other forms to explore all the town has to offer, and study witchcraft to learn spells that will help you on the farm or when gathering resources. \n\n■Delight in Dark Diversions\nBeyond the farm, you’ll be able to enjoy fishing, foraging, and potion-crafting, along with activities like embroidering, flower arranging, and more. You can even collect cards for the town’s favorite game, Nokturna, to play against other residents.",
+            "bannerUrl": "https://api.nlib.cc/nx/01008C8025C8E000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/01008C8025C8E000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/01008C8025C8E000/screen/1",
+                "https://api.nlib.cc/nx/01008C8025C8E000/screen/2",
+                "https://api.nlib.cc/nx/01008C8025C8E000/screen/3",
+                "https://api.nlib.cc/nx/01008C8025C8E000/screen/4"
+            ],
+            "version": 0,
+            "size": 967138651
         },
         "010048F00CC7C000": {
             "id": "010048F00CC7C000",
