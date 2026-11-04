@@ -11945,6 +11945,18 @@
             "version": 0,
             "size": 55642
         },
+        "010011202065100B": {
+            "id": "010011202065100B",
+            "name": "Ecchi Memories Emi And Marina And Nadia",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100BAE006FEE800": {
             "id": "0100BAE006FEE800",
             "name": "シンプル麻雀オンライン",
@@ -13327,8 +13339,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 458752,
-            "size": 897038315
+            "version": 524288,
+            "size": 1156962055
         },
         "010031601300900A": {
             "id": "010031601300900A",
@@ -60568,15 +60580,15 @@
         },
         "0100E8600C504800": {
             "id": "0100E8600C504800",
-            "name": "Su-pa-famikon Nintendo Classics",
+            "name": "スーパーファミコン Nintendo Classics",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1769472,
-            "size": 119311087
+            "version": 1835008,
+            "size": 111113041
         },
         "010097C01336A000": {
             "id": "010097C01336A000",
@@ -74515,6 +74527,18 @@
                 "https://api.nlib.cc/nx/0100E9D00BDEA000/screen/3",
                 "https://api.nlib.cc/nx/0100E9D00BDEA000/screen/4"
             ]
+        },
+        "0100FDF025201001": {
+            "id": "0100FDF025201001",
+            "name": "Firefighters Simulator 2026 Emergency Budget",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 25559
         },
         "01002460135A5106": {
             "id": "01002460135A5106",
@@ -150185,6 +150209,18 @@
             "version": 65536,
             "size": 55977
         },
+        "0100112020651006": {
+            "id": "0100112020651006",
+            "name": "Ecchi Memories Vanessa And Nia And Blair",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100A8400471B00D": {
             "id": "0100A8400471B00D",
             "name": "MUJO - 20 Lightnings",
@@ -187237,8 +187273,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 8494293
+            "version": 262144,
+            "size": 17207867
         },
         "0100CEF008048000": {
             "id": "0100CEF008048000",
@@ -244471,7 +244507,9 @@
                 "https://api.nlib.cc/nx/01002AF009470000/screen/2",
                 "https://api.nlib.cc/nx/01002AF009470000/screen/3",
                 "https://api.nlib.cc/nx/01002AF009470000/screen/4"
-            ]
+            ],
+            "version": 0,
+            "size": 1231861296
         },
         "0100F3400332C000": {
             "id": "0100F3400332C000",
@@ -247973,6 +248011,18 @@
             ],
             "version": 0,
             "size": 303692799
+        },
+        "0100112020651007": {
+            "id": "0100112020651007",
+            "name": "Ecchi Memories Chloe And Roxy And Reina",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "010043700EB68000": {
             "id": "010043700EB68000",
@@ -272182,8 +272232,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 28857799
+            "version": 131072,
+            "size": 29071867
         },
         "01000B402175E000": {
             "id": "01000B402175E000",
@@ -315313,8 +315363,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1441792,
-            "size": 181034555
+            "version": 1507328,
+            "size": 198691176
         },
         "0100B040117430D5": {
             "id": "0100B040117430D5",
@@ -350836,6 +350886,18 @@
             "version": 0,
             "size": 519171528
         },
+        "0100112020651008": {
+            "id": "0100112020651008",
+            "name": "Ecchi Memories Brooke And Selene And Simone",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100D9A005ED70EA": {
             "id": "0100D9A005ED70EA",
             "name": "太鼓の達人 Nintendo Switchば～じょん！ - 東方ProjectアレンジパックVol.4",
@@ -361243,6 +361305,18 @@
             "version": 0,
             "size": 37545863
         },
+        "0100112020651009": {
+            "id": "0100112020651009",
+            "name": "Ecchi Memories Imani And Celeste And Fiona",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "01003620068EB002": {
             "id": "01003620068EB002",
             "name": "Hand of Fate 2 - Hand of Fate 2꞉ The Servant and the Beast",
@@ -364467,8 +364541,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 762119894
+            "version": 524288,
+            "size": 1111662154
         },
         "01003A00188D0800": {
             "id": "01003A00188D0800",
@@ -403532,6 +403606,18 @@
             "version": 0,
             "size": 141348647
         },
+        "010011202065100C": {
+            "id": "010011202065100C",
+            "name": "Ecchi Memories Roxanne And Trixie And Sienna",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010046F022B3A800": {
             "id": "010046F022B3A800",
             "name": "Arcade Archives RIDGE RACER",
@@ -416669,15 +416755,15 @@
         },
         "0100D4A023450800": {
             "id": "0100D4A023450800",
-            "name": "FM26 Touch",
+            "name": "Football Manager 26 Touch",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 1671968813
+            "version": 393216,
+            "size": 1719270782
         },
         "0100AD9010596800": {
             "id": "0100AD9010596800",
@@ -444269,8 +444355,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 383019682
+            "version": 393216,
+            "size": 384156734
         },
         "01008E9007065064": {
             "id": "01008E9007065064",
@@ -462219,6 +462305,18 @@
             "version": 0,
             "size": 62350
         },
+        "0100BDD02A9CE000": {
+            "id": "0100BDD02A9CE000",
+            "name": "MECCHA Hide And Seek",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 411190918
+        },
         "0100CD300880F00C": {
             "id": "0100CD300880F00C",
             "name": "The Pinball Arcade - Stern Table Pack 1",
@@ -478577,6 +478675,18 @@
             "version": 0,
             "size": 368255601
         },
+        "010011202065100A": {
+            "id": "010011202065100A",
+            "name": "Ecchi Memories Raven And Alessa And Sabrina",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "0100F16022AA6000": {
             "id": "0100F16022AA6000",
             "name": "God Wars",
@@ -486756,6 +486866,18 @@
             "screenshots": [],
             "version": 0,
             "size": 39588
+        },
+        "010011202065100D": {
+            "id": "010011202065100D",
+            "name": "Ecchi Memories Airi And Hana And Isla",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "010066401CC45001": {
             "id": "010066401CC45001",
@@ -497356,6 +497478,18 @@
             "version": 0,
             "size": 464703308
         },
+        "01005EF0271CA800": {
+            "id": "01005EF0271CA800",
+            "name": "Mech Robot: Battle Shooter Warrior",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 39616501
+        },
         "0100F88012E34800": {
             "id": "0100F88012E34800",
             "name": "eBASEBALLプロ野球スピリッツ2021 グランドスラム",
@@ -506392,8 +506526,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 115274727
+            "version": 458752,
+            "size": 262383934
         },
         "010061F010C3B001": {
             "id": "010061F010C3B001",
@@ -518227,6 +518361,18 @@
             ],
             "version": 0,
             "size": 1715606746
+        },
+        "0100B19026484000": {
+            "id": "0100B19026484000",
+            "name": "We Are Eva",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 1119179082
         },
         "0100DFC00E472800": {
             "id": "0100DFC00E472800",
@@ -566560,6 +566706,23 @@
             ],
             "version": 0,
             "size": 1143459040
+        },
+        "01005EF0271CA000": {
+            "id": "01005EF0271CA000",
+            "name": "Mech Robot: Battle Shooter Warrior",
+            "publisher": "STG SOFTWARE SRL",
+            "releaseDate": "20260420",
+            "description": "Steel meets chaos on every battlefield.\n\nYou control a powerful combat mech sent into hostile arenas where danger comes from every direction. Surrounded by enemies, traps, and constant pressure, you must react fast, think smart, and make every move count.\n\nEach run brings a new challenge. Arena layouts change, enemies behave differently, and your strategy must adapt. Collect resources during battles, upgrade your mech, and shape your own fighting style, whether focused on speed, firepower, or defense.\n\nThere is no fixed path to victory. Every attempt is a chance to improve, experiment, and push further than before.\n\nKey Features:\n- Dynamic Combat: Fast-paced battles with constant action\n- Upgradeable Mech: Improve weapons, armor, and systems\n- Weapon Variety: Use different combat styles and loadouts\n- Challenging Enemies: Face waves of enemies and powerful bosses\n- Progression System: Unlock new upgrades and possibilities\n\nIn a battlefield that never repeats itself, only those who adapt can move forward.\n\nMech Robot: Battle Shooter Warrior offers a fast and engaging experience where each fight builds toward something stronger.",
+            "bannerUrl": "https://api.nlib.cc/nx/01005EF0271CA000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/01005EF0271CA000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/01005EF0271CA000/screen/1",
+                "https://api.nlib.cc/nx/01005EF0271CA000/screen/2",
+                "https://api.nlib.cc/nx/01005EF0271CA000/screen/3",
+                "https://api.nlib.cc/nx/01005EF0271CA000/screen/4"
+            ],
+            "version": 0,
+            "size": 640968448
         },
         "0100543017FF2000": {
             "id": "0100543017FF2000",
@@ -631174,8 +631337,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 393216,
-            "size": 303121035
+            "version": 458752,
+            "size": 277187395
         },
         "010064800F66A800": {
             "id": "010064800F66A800",

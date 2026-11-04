@@ -1,0 +1,18 @@
+{
+  "name": "Mech Robot: Battle Shooter Warrior",
+  "publisher": "STG SOFTWARE SRL",
+  "releaseDate": "20260420",
+  "description": "Steel meets chaos on every battlefield.\n\nYou control a powerful combat mech sent into hostile arenas where danger comes from every direction. Surrounded by enemies, traps, and constant pressure, you must react fast, think smart, and make every move count.\n\nEach run brings a new challenge. Arena layouts change, enemies behave differently, and your strategy must adapt. Collect resources during battles, upgrade your mech, and shape your own fighting style, whether focused on speed, firepower, or defense.\n\nThere is no fixed path to victory. Every attempt is a chance to improve, experiment, and push further than before.\n\nKey Features:\n- Dynamic Combat: Fast-paced battles with constant action\n- Upgradeable Mech: Improve weapons, armor, and systems\n- Weapon Variety: Use different combat styles and loadouts\n- Challenging Enemies: Face waves of enemies and powerful bosses\n- Progression System: Unlock new upgrades and possibilities\n\nIn a battlefield that never repeats itself, only those who adapt can move forward.\n\nMech Robot: Battle Shooter Warrior offers a fast and engaging experience where each fight builds toward something stronger.",
+  "bannerUrl": "http://api.nlib.cc/nx/01005EF0271CA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005EF0271CA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005EF0271CA000/screen/1",
+    "http://api.nlib.cc/nx/01005EF0271CA000/screen/2",
+    "http://api.nlib.cc/nx/01005EF0271CA000/screen/3",
+    "http://api.nlib.cc/nx/01005EF0271CA000/screen/4",
+    "http://api.nlib.cc/nx/01005EF0271CA000/screen/5",
+    "http://api.nlib.cc/nx/01005EF0271CA000/screen/6"
+  ],
+  "version": 0,
+  "size": 640968448
+}
