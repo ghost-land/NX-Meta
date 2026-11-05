@@ -31723,6 +31723,18 @@
             "version": 0,
             "size": 39582
         },
+        "01001BB028E98800": {
+            "id": "01001BB028E98800",
+            "name": "Cat-Astrophy",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 165055701
+        },
         "01003F500E658000": {
             "id": "01003F500E658000",
             "name": "Lost Artifacts",
@@ -101975,6 +101987,18 @@
             "version": 131072,
             "size": 367582464
         },
+        "0100BC402704C000": {
+            "id": "0100BC402704C000",
+            "name": "Eternal Palace Sakura",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 813235149
+        },
         "0100ED7012DB3004": {
             "id": "0100ED7012DB3004",
             "name": "ROMANCE OF THE THREE KINGDOMS XIV꞉ Diplomacy and Strategy Expansion Pack Bundle - Editor - 4th Wave",
@@ -159285,6 +159309,18 @@
             "screenshots": [],
             "version": 65536,
             "size": 4694924
+        },
+        "0100A00026D70800": {
+            "id": "0100A00026D70800",
+            "name": "Godzilla: Destroy All Monsters Melee Remastered",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 562314819
         },
         "01001AD01BCEA000": {
             "id": "01001AD01BCEA000",
@@ -233702,6 +233738,18 @@
             "version": 0,
             "size": 24355
         },
+        "010048D02624E000": {
+            "id": "010048D02624E000",
+            "name": "Dungeon Of Dragon Knight Remake",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 892707823
+        },
         "01007A9017A2A000": {
             "id": "01007A9017A2A000",
             "name": "Wally and the FANTASTIC PREDATORS",
@@ -287562,6 +287610,18 @@
             "version": 0,
             "size": 331276796
         },
+        "010081A00EE63003": {
+            "id": "010081A00EE63003",
+            "name": "Boomerang Fu Street Food",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
+        },
         "010060A0138FC800": {
             "id": "010060A0138FC800",
             "name": "S.U.M. - Slay Uncool Monsters",
@@ -323663,6 +323723,18 @@
             "version": 0,
             "size": 692442938
         },
+        "0100A00026D70000": {
+            "id": "0100A00026D70000",
+            "name": "Godzilla: Destroy All Monsters Melee Remastered",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 3601318967
+        },
         "0100ABC009708000": {
             "id": "0100ABC009708000",
             "name": "A Gummy's Life",
@@ -324420,8 +324492,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1507328,
-            "size": 675751444
+            "version": 1572864,
+            "size": 666027256
         },
         "01003BB017944000": {
             "id": "01003BB017944000",
@@ -402052,6 +402124,18 @@
             ],
             "version": 0,
             "size": 144190071
+        },
+        "01009A702639C000": {
+            "id": "01009A702639C000",
+            "name": "VALKYRIE TUNE：Synthesis of Souls",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 3989444154
         },
         "0100DB100BBCE800": {
             "id": "0100DB100BBCE800",
@@ -504727,6 +504811,23 @@
             "version": 65536,
             "size": 4445799
         },
+        "0100BA301B186000": {
+            "id": "0100BA301B186000",
+            "name": "Fast Striker EX",
+            "publisher": "NGDEV",
+            "releaseDate": "20250626",
+            "description": "Short facts:\n\n- 6 Stages\n- 4 Game modes: Novice/Original/Maniac/Omake\n- Elaborate scoring systems\n- 40+ Fully animated CGI enemies\n- 7+ Huge fully animated boss enemies\n- 3D scrolling CGI backgrounds\n- Constant 60 fps\n- Difficulty rank system\n\nEX Version specific changes:\n\n- First port based on the arcade original with all graphics and animations intact.\n- Added stage and boss select for training\n- Added full autofire\n- Normalized diagonal player movement\n- Improved button priority between shot modes (FRONT,LASER,BACK,AUTO)\n- Increased player fast strike shield endurance\n- Improved background contrasts\n- Added additional background layer graphics\n- 32 bit like graphic updates\n- hundreds of small fixes",
+            "bannerUrl": "https://api.nlib.cc/nx/0100BA301B186000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100BA301B186000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100BA301B186000/screen/1",
+                "https://api.nlib.cc/nx/0100BA301B186000/screen/2",
+                "https://api.nlib.cc/nx/0100BA301B186000/screen/3",
+                "https://api.nlib.cc/nx/0100BA301B186000/screen/4"
+            ],
+            "version": 0,
+            "size": 126338243
+        },
         "010001F00D9B8000": {
             "id": "010001F00D9B8000",
             "name": "Riddled Corpses EX Demo",
@@ -575661,6 +575762,18 @@
             "version": 131072,
             "size": 166155454
         },
+        "01001BB028E98000": {
+            "id": "01001BB028E98000",
+            "name": "Cat-Astrophy",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 426696625
+        },
         "010097701FCE2800": {
             "id": "010097701FCE2800",
             "name": "Kanna Maze",
@@ -601479,6 +601592,18 @@
             "screenshots": [],
             "version": 131072,
             "size": 118365561
+        },
+        "01004C80299B6000": {
+            "id": "01004C80299B6000",
+            "name": "Look Outside",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 606578822
         },
         "0100EDC00AAAA000": {
             "id": "0100EDC00AAAA000",
