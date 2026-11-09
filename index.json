@@ -102209,6 +102209,18 @@
             "version": 65536,
             "size": 14842974
         },
+        "0100C9302832C000": {
+            "id": "0100C9302832C000",
+            "name": "K-Pop Rising - Dream to Shine",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 1036154646
+        },
         "0100F9502369F001": {
             "id": "0100F9502369F001",
             "name": "Bodycam Stray Kitty Bodycam Stray Kitty Music 2025",
@@ -106849,6 +106861,23 @@
             "screenshots": [],
             "version": 0,
             "size": 55658
+        },
+        "0100DF8027CF6000": {
+            "id": "0100DF8027CF6000",
+            "name": "Crafty Survivors",
+            "publisher": "Flannel Bear Games",
+            "releaseDate": "20260515",
+            "description": "All heroes got corrupted! Unlock a diverse cast of crafty professionals, use their unique skills, create your own builds and defend your home by eliminating hordes of monsters. Gather materials, rebuild your village and craft your way to the origin of this malignous curse!\n\nUNIQUE BUILDS EVERY STAGE!\nSelect from a variety of upgrades in this Action Roguelite, to create unique builds catered to each character on each run. Are you going to be a Chef focused on serving deserts or roasting your foes? A Seamstress that will patch your enemies together or massacre them with yarn balls? Which material would you choose for your statues: wood or marble? Find your own crafty way to SURVIVE! \n\nSELECT YOUR CRAFTER\nChoose from a variety of crafters and artisans with their own unique set of skills and mechanics, for different gameplay experiences. Between cooking your enemies, sewing them together or building statues that will crush your foes, there will always be a crafty way to defend your home! \n\nUPGRADE YOUR VILLAGE AND GET MORE POWERFUL\nGather materials from enemies and use them to upgrade your village, unlocking new characters, extra buffs and grow your power even further. \n\nCRAFT YOUR OWN WAY TO PLAY\nToggle skills between manual and auto casting individually! Find the ones that work best in each mode, mixing and matching to fit your own playstyle! Everything on manual? All Skills on auto? Or a mix of both? It is up to you! \n\n• Fight in a diverse set of different biomes, with their own challenges, added through updates; \n• A wide variety of crafters and artisans, with more being added through updates; \n• Different skill trees on each character for you to discover, with over 300 skills available in total; \n• Quick play sessions for busy gamers; \n• Food System allows you to customize your play even further; \n• Smithing and Weaving System bringing over 80 new passive skills to customize each character's playstyle.",
+            "bannerUrl": "https://api.nlib.cc/nx/0100DF8027CF6000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100DF8027CF6000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100DF8027CF6000/screen/1",
+                "https://api.nlib.cc/nx/0100DF8027CF6000/screen/2",
+                "https://api.nlib.cc/nx/0100DF8027CF6000/screen/3",
+                "https://api.nlib.cc/nx/0100DF8027CF6000/screen/4"
+            ],
+            "version": 0,
+            "size": 179549179
         },
         "0100CC401A16D005": {
             "id": "0100CC401A16D005",
@@ -217336,6 +217365,18 @@
             "version": 0,
             "size": 1509820990
         },
+        "0100778022442800": {
+            "id": "0100778022442800",
+            "name": "The Cat in the Hat: Rainy Day Mayhem",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 212721012
+        },
         "01005C9002B42000": {
             "id": "01005C9002B42000",
             "name": "ACA NEOGEO SAMURAI SHODOWN",
@@ -232633,8 +232674,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 720896,
-            "size": 247435237
+            "version": 786432,
+            "size": 249871568
         },
         "010002A00CD68000": {
             "id": "010002A00CD68000",
@@ -400888,6 +400929,23 @@
             "version": 0,
             "size": 349554466
         },
+        "0100778022442000": {
+            "id": "0100778022442000",
+            "name": "The Cat in the Hat: Rainy Day Mayhem",
+            "publisher": "Outright Games",
+            "releaseDate": "20261030",
+            "description": "The Cat in the Hat once said, “It is fun to have fun, but you have to know how.” \n\nEveryone from the mischievous Dr. Seuss classic is here. Become smart and steady Sally, energetic wild card Johnny, cause double the trouble as Thing 1 & Thing 2 or be cheerful Little Cat A. And of course, the chaos conductor, The Cat in the Hat and anxiously wise Fish will be there to help, on this zany ride. \n\nPlay solo or go against your friends, choosing from two trick-filled game modes. Fancy a game of chase? Then ‘Find the Cat’ will have you turning the house upside down looking for The Cat in the Hat. Or maybe you prefer getting into chaotic challenges? See how quickly you can capture penguins, decorate a cake, and who knows what else in the 18 minigames you can choose from.  \n\nBut the fun doesn’t stop there, just like The Cat’s hat, it’ll be full of tricks. With varying difficulty levels, long challenges and short, there’s something for everyone. \n\nGet ready for your house to be filled with giggles, groans, and glorious mayhem.  \n\nELEVATE YOUR GAME NIGHT: Dive into the mayhem solo or race to the end with up to 4 players.  \n\nCLASSIC DR. SEUSS CHARACTERS: Play as Sally, Johnny, Thing 1 & Thing 2 and Little Cat. \n\nCHOOSE YOUR MODE FOR NON-STOP FUN: Pick from 18 entertaining minigames or find The Cat across 14 rooms. \n\nBOUNCE, CHASE & PAINT TO WIN: Compete for rewards. Will you find all the stickers for your book? \n\nA PARTY FOR ALL AGES: Re-play in different ways, with easy controls and varying difficulties.\n",
+            "bannerUrl": "https://api.nlib.cc/nx/0100778022442000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100778022442000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100778022442000/screen/1",
+                "https://api.nlib.cc/nx/0100778022442000/screen/2",
+                "https://api.nlib.cc/nx/0100778022442000/screen/3",
+                "https://api.nlib.cc/nx/0100778022442000/screen/4"
+            ],
+            "version": 0,
+            "size": 977505639
+        },
         "010006F01B909003": {
             "id": "010006F01B909003",
             "name": "Hentai Girls - Playful Etsuko",
@@ -466285,6 +466343,18 @@
             "version": 0,
             "size": 274514138
         },
+        "0100DF8027CF6800": {
+            "id": "0100DF8027CF6800",
+            "name": "Crafty Survivors",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 51720251
+        },
         "010088501BCF4000": {
             "id": "010088501BCF4000",
             "name": "Uncle Chop's Rocket Shop",
@@ -522108,6 +522178,18 @@
             "screenshots": [],
             "version": 0,
             "size": 55603
+        },
+        "0100C9302832C800": {
+            "id": "0100C9302832C800",
+            "name": "K-Pop Rising - Dream to Shine",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 191721838
         },
         "0100D7701692F00A": {
             "id": "0100D7701692F00A",
