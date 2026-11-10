@@ -1,18 +1,11 @@
 {
-  "name": "탐정 진구지 사부로 프리퀄 스토리 다이달로스 : 디 어웨이크닝 오브 골든 재즈",
-  "publisher": "ARC SYSTEM WORKS",
-  "releaseDate": "20190523",
+  "name": "偵探 神宮寺三郎 前傳 DAEDALUS ꞉ The Awakening of Golden Jazz",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/010054F00D2E2000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/010054F00D2E2000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/010054F00D2E2000/screen/1",
-    "http://api.nlib.cc/nx/010054F00D2E2000/screen/2",
-    "http://api.nlib.cc/nx/010054F00D2E2000/screen/3",
-    "http://api.nlib.cc/nx/010054F00D2E2000/screen/4",
-    "http://api.nlib.cc/nx/010054F00D2E2000/screen/5",
-    "http://api.nlib.cc/nx/010054F00D2E2000/screen/6"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 1401882538
 }

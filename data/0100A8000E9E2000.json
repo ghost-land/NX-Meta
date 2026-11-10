@@ -1,18 +1,11 @@
 {
-  "name": "スプラッシュ・ブラスト・パニック\nSplash Blast Panic",
-  "publisher": "CIRCLE Ent.",
-  "releaseDate": "20191024",
+  "name": "スプラッシュ・ブラスト・パニック꞉Splash Blast Panic",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/0100A8000E9E2000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/0100A8000E9E2000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/0100A8000E9E2000/screen/1",
-    "http://api.nlib.cc/nx/0100A8000E9E2000/screen/2",
-    "http://api.nlib.cc/nx/0100A8000E9E2000/screen/3",
-    "http://api.nlib.cc/nx/0100A8000E9E2000/screen/4",
-    "http://api.nlib.cc/nx/0100A8000E9E2000/screen/5",
-    "http://api.nlib.cc/nx/0100A8000E9E2000/screen/6"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 157754097
 }

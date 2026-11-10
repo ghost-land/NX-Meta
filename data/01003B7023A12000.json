@@ -1,18 +1,11 @@
 {
-  "name": "ライザのアトリエ ～常闇の女王と秘密の隠れ家～ DX",
-  "publisher": "コーエーテクモゲームス",
-  "releaseDate": "20251113",
+  "name": "Raiza no atorie tsune yami no joou to himitsu no kakure ie DX",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/01003B7023A12000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/01003B7023A12000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/01003B7023A12000/screen/1",
-    "http://api.nlib.cc/nx/01003B7023A12000/screen/2",
-    "http://api.nlib.cc/nx/01003B7023A12000/screen/3",
-    "http://api.nlib.cc/nx/01003B7023A12000/screen/4",
-    "http://api.nlib.cc/nx/01003B7023A12000/screen/5",
-    "http://api.nlib.cc/nx/01003B7023A12000/screen/6"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 8383724935
 }

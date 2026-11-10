@@ -1,15 +1,11 @@
 {
   "name": "마계전기 디스가이아5",
-  "publisher": "Intragames",
-  "releaseDate": "20180620",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/0100876007C2C000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/0100876007C2C000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/0100876007C2C000/screen/1",
-    "http://api.nlib.cc/nx/0100876007C2C000/screen/2",
-    "http://api.nlib.cc/nx/0100876007C2C000/screen/3"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 4226130703
 }

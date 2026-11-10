@@ -1,16 +1,11 @@
 {
   "name": "ものしりクイズ 世界の昆虫ー学べる雑学教養豆知識学習ゲームー",
-  "publisher": "MASK",
-  "releaseDate": "20231116",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/010047B01D44A000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/010047B01D44A000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/010047B01D44A000/screen/1",
-    "http://api.nlib.cc/nx/010047B01D44A000/screen/2",
-    "http://api.nlib.cc/nx/010047B01D44A000/screen/3",
-    "http://api.nlib.cc/nx/010047B01D44A000/screen/4"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 56445365
 }

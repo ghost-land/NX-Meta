@@ -1,16 +1,11 @@
 {
   "name": "脱走中ー逃走した犯人を探せ！絵探しクイズゲームー",
-  "publisher": "TT",
-  "releaseDate": "20230316",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/010063801AB6A000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/010063801AB6A000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/010063801AB6A000/screen/1",
-    "http://api.nlib.cc/nx/010063801AB6A000/screen/2",
-    "http://api.nlib.cc/nx/010063801AB6A000/screen/3",
-    "http://api.nlib.cc/nx/010063801AB6A000/screen/4"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 63122837
 }

@@ -1,18 +1,11 @@
 {
-  "name": "동~그란 지구가 네모가 됐다고!? 디지복셀 지구방위군 EARTH DEFENSE FORCE: WORLD BROTHERS",
-  "publisher": "Clouded Leopard Entertainment",
-  "releaseDate": "20210527",
+  "name": "圓滾地球變四方!꞉ 數位方塊地球防衛軍 EARTH DEFENSE FORCE꞉ WORLD BROTHERS",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/0100298014030000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/0100298014030000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/0100298014030000/screen/1",
-    "http://api.nlib.cc/nx/0100298014030000/screen/2",
-    "http://api.nlib.cc/nx/0100298014030000/screen/3",
-    "http://api.nlib.cc/nx/0100298014030000/screen/4",
-    "http://api.nlib.cc/nx/0100298014030000/screen/5",
-    "http://api.nlib.cc/nx/0100298014030000/screen/6"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 6047373807
 }

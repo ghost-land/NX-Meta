@@ -1,15 +1,11 @@
 {
-  "name": "CAD pretend",
-  "publisher": "Dev sunada",
-  "releaseDate": "20241010",
-  "description": "Joy-Con™ can be operated with just one hand.\n(This work is not a game)",
-  "bannerUrl": "http://api.nlib.cc/nx/01003D001D77E000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/01003D001D77E000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/01003D001D77E000/screen/1",
-    "http://api.nlib.cc/nx/01003D001D77E000/screen/2",
-    "http://api.nlib.cc/nx/01003D001D77E000/screen/3"
-  ],
+  "name": "CADごっこ",
+  "publisher": "",
+  "releaseDate": "",
+  "description": "",
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 26377013
 }

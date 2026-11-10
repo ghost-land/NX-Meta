@@ -1,18 +1,11 @@
 {
-  "name": "連呪",
-  "publisher": "日本一ソフトウェア",
-  "releaseDate": "20250828",
+  "name": "Ren ju",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/01007FD0211DA000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/01007FD0211DA000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/01007FD0211DA000/screen/1",
-    "http://api.nlib.cc/nx/01007FD0211DA000/screen/2",
-    "http://api.nlib.cc/nx/01007FD0211DA000/screen/3",
-    "http://api.nlib.cc/nx/01007FD0211DA000/screen/4",
-    "http://api.nlib.cc/nx/01007FD0211DA000/screen/5",
-    "http://api.nlib.cc/nx/01007FD0211DA000/screen/6"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 1271453821
 }

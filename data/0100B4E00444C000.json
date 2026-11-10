@@ -1,15 +1,11 @@
 {
   "name": "ファミリーコンピュータ Nintendo Switch Online",
-  "publisher": "任天堂",
-  "releaseDate": "20180919",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/0100B4E00444C000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/0100B4E00444C000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/0100B4E00444C000/screen/1",
-    "http://api.nlib.cc/nx/0100B4E00444C000/screen/2",
-    "http://api.nlib.cc/nx/0100B4E00444C000/screen/3"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 35782695
 }

@@ -1,15 +1,11 @@
 {
   "name": "となりに彼女のいる幸せ～Winter Guest～",
-  "publisher": "エンターグラム",
-  "releaseDate": "20210527",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/01003460150F2000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/01003460150F2000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/01003460150F2000/screen/1",
-    "http://api.nlib.cc/nx/01003460150F2000/screen/2",
-    "http://api.nlib.cc/nx/01003460150F2000/screen/3"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 1128097296
 }

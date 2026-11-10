@@ -1,18 +1,11 @@
 {
-  "name": "ラディアンテイル ～ファンファーレ！～",
-  "publisher": "アイディアファクトリー",
-  "releaseDate": "20230831",
+  "name": "Radiant Tail ~Fanfare! [010088B01A8FC000][v0][JP].nsz",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/010088B01A8FC000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/010088B01A8FC000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/010088B01A8FC000/screen/1",
-    "http://api.nlib.cc/nx/010088B01A8FC000/screen/2",
-    "http://api.nlib.cc/nx/010088B01A8FC000/screen/3",
-    "http://api.nlib.cc/nx/010088B01A8FC000/screen/4",
-    "http://api.nlib.cc/nx/010088B01A8FC000/screen/5",
-    "http://api.nlib.cc/nx/010088B01A8FC000/screen/6"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 4883682867
 }

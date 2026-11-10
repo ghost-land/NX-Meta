@@ -1,18 +1,11 @@
 {
   "name": "Chronos: Before the Ashes（クロノス：ビフォー ジ アッシュ）",
-  "publisher": "THQ Nordic ジャパン",
-  "releaseDate": "20201201",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/010076B01196C000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/010076B01196C000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/010076B01196C000/screen/1",
-    "http://api.nlib.cc/nx/010076B01196C000/screen/2",
-    "http://api.nlib.cc/nx/010076B01196C000/screen/3",
-    "http://api.nlib.cc/nx/010076B01196C000/screen/4",
-    "http://api.nlib.cc/nx/010076B01196C000/screen/5",
-    "http://api.nlib.cc/nx/010076B01196C000/screen/6"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 2684337243
 }

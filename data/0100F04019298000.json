@@ -1,18 +1,11 @@
 {
-  "name": "LOOP8 루프 에이트",
-  "publisher": "SEGA",
-  "releaseDate": "20230601",
+  "name": "LOOP8 降神",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/0100F04019298000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/0100F04019298000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/0100F04019298000/screen/1",
-    "http://api.nlib.cc/nx/0100F04019298000/screen/2",
-    "http://api.nlib.cc/nx/0100F04019298000/screen/3",
-    "http://api.nlib.cc/nx/0100F04019298000/screen/4",
-    "http://api.nlib.cc/nx/0100F04019298000/screen/5",
-    "http://api.nlib.cc/nx/0100F04019298000/screen/6"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 2739726455
 }

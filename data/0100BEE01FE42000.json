@@ -1,18 +1,11 @@
 {
-  "name": "その日の獣には、",
-  "publisher": "エンターグラム",
-  "releaseDate": "20250529",
+  "name": "Sono nichi no kemono niha,",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/0100BEE01FE42000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/0100BEE01FE42000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/0100BEE01FE42000/screen/1",
-    "http://api.nlib.cc/nx/0100BEE01FE42000/screen/2",
-    "http://api.nlib.cc/nx/0100BEE01FE42000/screen/3",
-    "http://api.nlib.cc/nx/0100BEE01FE42000/screen/4",
-    "http://api.nlib.cc/nx/0100BEE01FE42000/screen/5",
-    "http://api.nlib.cc/nx/0100BEE01FE42000/screen/6"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 3780964748
 }

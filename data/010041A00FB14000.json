@@ -1,18 +1,11 @@
 {
-  "name": "도라에몽 진구의 달 탐사기",
-  "publisher": "ARC SYSTEM WORKS",
-  "releaseDate": "20200409",
+  "name": "哆啦A夢：大雄的月球探測記",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/010041A00FB14000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/010041A00FB14000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/010041A00FB14000/screen/1",
-    "http://api.nlib.cc/nx/010041A00FB14000/screen/2",
-    "http://api.nlib.cc/nx/010041A00FB14000/screen/3",
-    "http://api.nlib.cc/nx/010041A00FB14000/screen/4",
-    "http://api.nlib.cc/nx/010041A00FB14000/screen/5",
-    "http://api.nlib.cc/nx/010041A00FB14000/screen/6"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 876450134
 }

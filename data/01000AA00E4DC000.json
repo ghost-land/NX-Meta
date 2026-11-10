@@ -1,18 +1,11 @@
 {
   "name": "スチームワールドクエスト",
-  "publisher": "Thunderful",
-  "releaseDate": "20190627",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/01000AA00E4DC000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/01000AA00E4DC000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/01000AA00E4DC000/screen/1",
-    "http://api.nlib.cc/nx/01000AA00E4DC000/screen/2",
-    "http://api.nlib.cc/nx/01000AA00E4DC000/screen/3",
-    "http://api.nlib.cc/nx/01000AA00E4DC000/screen/4",
-    "http://api.nlib.cc/nx/01000AA00E4DC000/screen/5",
-    "http://api.nlib.cc/nx/01000AA00E4DC000/screen/6"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 643896711
 }

@@ -1,15 +1,11 @@
 {
   "name": "一般人格付けチェック ー全国一斉教養雑学常識バラエティークイズー",
-  "publisher": "TT",
-  "releaseDate": "20221215",
+  "publisher": "",
+  "releaseDate": "",
   "description": "",
-  "bannerUrl": "http://api.nlib.cc/nx/0100B7D019FFC000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/0100B7D019FFC000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/0100B7D019FFC000/screen/1",
-    "http://api.nlib.cc/nx/0100B7D019FFC000/screen/2",
-    "http://api.nlib.cc/nx/0100B7D019FFC000/screen/3"
-  ],
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 265611883
 }

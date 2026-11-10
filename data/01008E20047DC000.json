@@ -1,18 +1,11 @@
 {
-  "name": "Snipperclips Plus: Cut It Out, Together!",
-  "publisher": "任天堂",
-  "releaseDate": "20171110",
-  "description": "Snipperclips Plus: Cut It Out, Together!",
-  "bannerUrl": "http://api.nlib.cc/nx/01008E20047DC000/banner",
-  "iconUrl": "https://api.nlib.cc/nx/01008E20047DC000/icon/200",
-  "screenshots": [
-    "http://api.nlib.cc/nx/01008E20047DC000/screen/1",
-    "http://api.nlib.cc/nx/01008E20047DC000/screen/2",
-    "http://api.nlib.cc/nx/01008E20047DC000/screen/3",
-    "http://api.nlib.cc/nx/01008E20047DC000/screen/4",
-    "http://api.nlib.cc/nx/01008E20047DC000/screen/5",
-    "http://api.nlib.cc/nx/01008E20047DC000/screen/6"
-  ],
+  "name": "Snipperclips Plus꞉ Cut It Out, Together!",
+  "publisher": "",
+  "releaseDate": "",
+  "description": "",
+  "bannerUrl": "",
+  "iconUrl": "",
+  "screenshots": [],
   "version": 0,
   "size": 205669932
 }
