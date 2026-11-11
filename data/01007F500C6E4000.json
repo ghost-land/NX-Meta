@@ -1,11 +1,18 @@
 {
   "name": "Shadow of Loot Box (シャドウ・オブ・ルートボックス)",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "eastasiasoft",
+  "releaseDate": "20190627",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/01007F500C6E4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007F500C6E4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007F500C6E4000/screen/1",
+    "http://api.nlib.cc/nx/01007F500C6E4000/screen/2",
+    "http://api.nlib.cc/nx/01007F500C6E4000/screen/3",
+    "http://api.nlib.cc/nx/01007F500C6E4000/screen/4",
+    "http://api.nlib.cc/nx/01007F500C6E4000/screen/5",
+    "http://api.nlib.cc/nx/01007F500C6E4000/screen/6"
+  ],
   "version": 0,
   "size": 159852955
 }

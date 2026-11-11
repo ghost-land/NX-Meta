@@ -1,11 +1,16 @@
 {
   "name": "Hero Wheels",
-  "publisher": "",
-  "releaseDate": "",
-  "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "publisher": "Entity3",
+  "releaseDate": "20220812",
+  "description": "Drive at high speeds and take out the Boss!\nDodge Enemies and bombs \nTake on new worlds\nUnlock different characters",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BDA019166000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BDA019166000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BDA019166000/screen/1",
+    "http://api.nlib.cc/nx/0100BDA019166000/screen/2",
+    "http://api.nlib.cc/nx/0100BDA019166000/screen/3",
+    "http://api.nlib.cc/nx/0100BDA019166000/screen/4"
+  ],
   "version": 0,
   "size": 38330146
 }

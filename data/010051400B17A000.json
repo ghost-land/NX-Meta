@@ -1,11 +1,16 @@
 {
-  "name": "Fate꞉EXTELLA LINK",
-  "publisher": "",
-  "releaseDate": "",
+  "name": "Fate/EXTELLA LINK",
+  "publisher": "マーベラス",
+  "releaseDate": "20190131",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/010051400B17A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010051400B17A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010051400B17A000/screen/1",
+    "http://api.nlib.cc/nx/010051400B17A000/screen/2",
+    "http://api.nlib.cc/nx/010051400B17A000/screen/3",
+    "http://api.nlib.cc/nx/010051400B17A000/screen/4"
+  ],
   "version": 0,
   "size": 4844429419
 }

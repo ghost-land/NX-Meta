@@ -1,11 +1,18 @@
 {
   "name": "雷電NOVA",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "モス",
+  "releaseDate": "20241031",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/010095001D1E8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010095001D1E8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010095001D1E8000/screen/1",
+    "http://api.nlib.cc/nx/010095001D1E8000/screen/2",
+    "http://api.nlib.cc/nx/010095001D1E8000/screen/3",
+    "http://api.nlib.cc/nx/010095001D1E8000/screen/4",
+    "http://api.nlib.cc/nx/010095001D1E8000/screen/5",
+    "http://api.nlib.cc/nx/010095001D1E8000/screen/6"
+  ],
   "version": 0,
   "size": 1996488704
 }

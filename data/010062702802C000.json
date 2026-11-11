@@ -1,11 +1,18 @@
 {
   "name": "Farm Pro 26 Simulator",
-  "publisher": "",
-  "releaseDate": "",
-  "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "publisher": "Night Shift Games",
+  "releaseDate": "20260710",
+  "description": "Step into the world of modern agriculture and build your farming legacy from the ground up. Experience the rewarding life of a farmer as you manage every stage of production, from preparing the soil to harvesting valuable crops. Start with a small piece of land and gradually transform it into a thriving agricultural enterprise through hard work, smart investments, and efficient farm management.\n\nDrive a variety of realistic farming vehicles, including powerful tractors, trailers, and combine harvesters. Cultivate your fields, plant different crops, monitor their growth, and protect them throughout the season. Sell your harvest, earn profits, and invest in new equipment to increase productivity and expand your operations.\n\nGrow your farm, unlock better machinery, and take on larger agricultural challenges as you build a successful farming business. Every harvest brings new opportunities to develop your land and become a true master of modern farming.\n\nFeatures:\n• Drive realistic tractors, harvesters, and farming vehicles.\n• Cultivate fields, plant crops, and manage their growth.\n• Harvest and sell produce to earn profits.\n• Upgrade equipment and unlock new machinery.\n• Expand your farmland and grow your agricultural business.\n\nTurn a small farm into a thriving agricultural empire and enjoy the complete farming experience.",
+  "bannerUrl": "http://api.nlib.cc/nx/010062702802C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010062702802C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010062702802C000/screen/1",
+    "http://api.nlib.cc/nx/010062702802C000/screen/2",
+    "http://api.nlib.cc/nx/010062702802C000/screen/3",
+    "http://api.nlib.cc/nx/010062702802C000/screen/4",
+    "http://api.nlib.cc/nx/010062702802C000/screen/5",
+    "http://api.nlib.cc/nx/010062702802C000/screen/6"
+  ],
   "version": 0,
   "size": 435102508
 }

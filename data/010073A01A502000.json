@@ -1,11 +1,18 @@
 {
   "name": "猫様のしもべ",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "レジスタ",
+  "releaseDate": "20230427",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/010073A01A502000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010073A01A502000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010073A01A502000/screen/1",
+    "http://api.nlib.cc/nx/010073A01A502000/screen/2",
+    "http://api.nlib.cc/nx/010073A01A502000/screen/3",
+    "http://api.nlib.cc/nx/010073A01A502000/screen/4",
+    "http://api.nlib.cc/nx/010073A01A502000/screen/5",
+    "http://api.nlib.cc/nx/010073A01A502000/screen/6"
+  ],
   "version": 0,
   "size": 90219638
 }

@@ -1,11 +1,18 @@
 {
-  "name": "魔農傳記 FARMAGIA",
-  "publisher": "",
-  "releaseDate": "",
+  "name": "파마기아 (FARMAGIA)",
+  "publisher": "SEGA",
+  "releaseDate": "20241101",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/01003DF01E600000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01003DF01E600000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01003DF01E600000/screen/1",
+    "http://api.nlib.cc/nx/01003DF01E600000/screen/2",
+    "http://api.nlib.cc/nx/01003DF01E600000/screen/3",
+    "http://api.nlib.cc/nx/01003DF01E600000/screen/4",
+    "http://api.nlib.cc/nx/01003DF01E600000/screen/5",
+    "http://api.nlib.cc/nx/01003DF01E600000/screen/6"
+  ],
   "version": 0,
   "size": 3038386606
 }

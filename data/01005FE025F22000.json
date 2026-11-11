@@ -1,11 +1,18 @@
 {
-  "name": "Apathy 鳴神学園 霊怪記",
-  "publisher": "",
-  "releaseDate": "",
+  "name": "アパシー 鳴神学園霊怪記～旧校舎の怪異～",
+  "publisher": "メビウス",
+  "releaseDate": "20251225",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/01005FE025F22000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005FE025F22000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01005FE025F22000/screen/1",
+    "http://api.nlib.cc/nx/01005FE025F22000/screen/2",
+    "http://api.nlib.cc/nx/01005FE025F22000/screen/3",
+    "http://api.nlib.cc/nx/01005FE025F22000/screen/4",
+    "http://api.nlib.cc/nx/01005FE025F22000/screen/5",
+    "http://api.nlib.cc/nx/01005FE025F22000/screen/6"
+  ],
   "version": 0,
   "size": 499118002
 }

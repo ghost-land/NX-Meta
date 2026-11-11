@@ -1,11 +1,16 @@
 {
   "name": "Tachyon Project",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "賈船",
+  "releaseDate": "20180524",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/0100F900097EC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100F900097EC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100F900097EC000/screen/1",
+    "http://api.nlib.cc/nx/0100F900097EC000/screen/2",
+    "http://api.nlib.cc/nx/0100F900097EC000/screen/3",
+    "http://api.nlib.cc/nx/0100F900097EC000/screen/4"
+  ],
   "version": 0,
   "size": 135076817
 }

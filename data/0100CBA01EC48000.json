@@ -1,11 +1,18 @@
 {
   "name": "トリガーハート　エグゼリカ　エンハンスド",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "コスモマキアー",
+  "releaseDate": "20250424",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/0100CBA01EC48000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100CBA01EC48000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100CBA01EC48000/screen/1",
+    "http://api.nlib.cc/nx/0100CBA01EC48000/screen/2",
+    "http://api.nlib.cc/nx/0100CBA01EC48000/screen/3",
+    "http://api.nlib.cc/nx/0100CBA01EC48000/screen/4",
+    "http://api.nlib.cc/nx/0100CBA01EC48000/screen/5",
+    "http://api.nlib.cc/nx/0100CBA01EC48000/screen/6"
+  ],
   "version": 0,
   "size": 929985427
 }

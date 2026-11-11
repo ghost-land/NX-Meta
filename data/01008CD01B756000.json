@@ -1,11 +1,15 @@
 {
   "name": "早押しクイズアカデミアー1人でめざせハイスコア!2人で対決4択クイズバトルー",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "TT",
+  "releaseDate": "20230713",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/01008CD01B756000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01008CD01B756000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01008CD01B756000/screen/1",
+    "http://api.nlib.cc/nx/01008CD01B756000/screen/2",
+    "http://api.nlib.cc/nx/01008CD01B756000/screen/3"
+  ],
   "version": 0,
   "size": 42913721
 }

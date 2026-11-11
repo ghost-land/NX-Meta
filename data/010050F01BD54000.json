@@ -1,10 +1,10 @@
 {
   "name": "デジタルアートブック＆デジタルミニサウンドトラック",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "セガ",
+  "releaseDate": "20231017",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
+  "bannerUrl": "http://api.nlib.cc/nx/010050F01BD54000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010050F01BD54000/icon/200",
   "screenshots": [],
   "version": 0,
   "size": 255862729

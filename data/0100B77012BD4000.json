@@ -1,11 +1,14 @@
 {
   "name": "NINJA GAIDEN Σ",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "コーエーテクモゲームス",
+  "releaseDate": "20210610",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/0100B77012BD4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B77012BD4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B77012BD4000/screen/1",
+    "http://api.nlib.cc/nx/0100B77012BD4000/screen/2"
+  ],
   "version": 0,
   "size": 3361597683
 }

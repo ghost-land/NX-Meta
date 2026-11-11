@@ -1,11 +1,13 @@
 {
   "name": "パズルボブル(スーパーファミコン版)",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "タイトー",
+  "releaseDate": "20230524",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/010032001AB88000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010032001AB88000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010032001AB88000/screen/1"
+  ],
   "version": 0,
   "size": 34208941
 }

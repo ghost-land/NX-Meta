@@ -1,11 +1,18 @@
 {
-  "name": "關於我轉生變成史萊姆這檔事 坦派斯特開拓譚",
-  "publisher": "",
-  "releaseDate": "",
+  "name": "전생했더니 슬라임이었던 건에 대하여 템페스트 스토리즈",
+  "publisher": "BANDAI NAMCO Entertainment",
+  "releaseDate": "20240808",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/010086E01A3C6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010086E01A3C6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010086E01A3C6000/screen/1",
+    "http://api.nlib.cc/nx/010086E01A3C6000/screen/2",
+    "http://api.nlib.cc/nx/010086E01A3C6000/screen/3",
+    "http://api.nlib.cc/nx/010086E01A3C6000/screen/4",
+    "http://api.nlib.cc/nx/010086E01A3C6000/screen/5",
+    "http://api.nlib.cc/nx/010086E01A3C6000/screen/6"
+  ],
   "version": 0,
   "size": 5117431401
 }

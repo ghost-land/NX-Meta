@@ -1,11 +1,18 @@
 {
-  "name": "Sanriokiyarakuta-zu mirakurumatchi majikaru onigokko",
-  "publisher": "",
-  "releaseDate": "",
+  "name": "산리오캐릭터즈 마법 술래잡기",
+  "publisher": "Imagineer",
+  "releaseDate": "20251204",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/0100B71025148000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B71025148000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B71025148000/screen/1",
+    "http://api.nlib.cc/nx/0100B71025148000/screen/2",
+    "http://api.nlib.cc/nx/0100B71025148000/screen/3",
+    "http://api.nlib.cc/nx/0100B71025148000/screen/4",
+    "http://api.nlib.cc/nx/0100B71025148000/screen/5",
+    "http://api.nlib.cc/nx/0100B71025148000/screen/6"
+  ],
   "version": 0,
   "size": 420152198
 }

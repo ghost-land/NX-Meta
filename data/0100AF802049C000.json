@@ -1,11 +1,18 @@
 {
-  "name": "戶外釣魚：夏日時光",
-  "publisher": "",
-  "releaseDate": "",
+  "name": "릴 피싱 데이즈 오브 서머",
+  "publisher": "ARC SYSTEM WORKS",
+  "releaseDate": "20241031",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/0100AF802049C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AF802049C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AF802049C000/screen/1",
+    "http://api.nlib.cc/nx/0100AF802049C000/screen/2",
+    "http://api.nlib.cc/nx/0100AF802049C000/screen/3",
+    "http://api.nlib.cc/nx/0100AF802049C000/screen/4",
+    "http://api.nlib.cc/nx/0100AF802049C000/screen/5",
+    "http://api.nlib.cc/nx/0100AF802049C000/screen/6"
+  ],
   "version": 0,
   "size": 2272758596
 }

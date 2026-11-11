@@ -1,11 +1,18 @@
 {
-  "name": "アイズ꞉ホラーゲーム",
-  "publisher": "",
-  "releaseDate": "",
+  "name": "アイズ:ホラーゲーム",
+  "publisher": "QubicGames",
+  "releaseDate": "20211209",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/0100B43016046000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100B43016046000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100B43016046000/screen/1",
+    "http://api.nlib.cc/nx/0100B43016046000/screen/2",
+    "http://api.nlib.cc/nx/0100B43016046000/screen/3",
+    "http://api.nlib.cc/nx/0100B43016046000/screen/4",
+    "http://api.nlib.cc/nx/0100B43016046000/screen/5",
+    "http://api.nlib.cc/nx/0100B43016046000/screen/6"
+  ],
   "version": 0,
   "size": 311327421
 }

@@ -1,11 +1,18 @@
 {
   "name": "Pelican and Medjed",
-  "publisher": "",
-  "releaseDate": "",
-  "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "publisher": "PLiCy",
+  "releaseDate": "20190801",
+  "description": "Go to the exciting 8-bit-Exotic worlds!\nTo reach to the goal,break blocks and take bananas!\nTry speedrun, and get the best rank!\n\nEnjoy the Action puzzle from 16 stages, and more SPECIAL stage!\nCan you reach Final boss?",
+  "bannerUrl": "http://api.nlib.cc/nx/010056900E89C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010056900E89C000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010056900E89C000/screen/1",
+    "http://api.nlib.cc/nx/010056900E89C000/screen/2",
+    "http://api.nlib.cc/nx/010056900E89C000/screen/3",
+    "http://api.nlib.cc/nx/010056900E89C000/screen/4",
+    "http://api.nlib.cc/nx/010056900E89C000/screen/5",
+    "http://api.nlib.cc/nx/010056900E89C000/screen/6"
+  ],
   "version": 0,
   "size": 55661242
 }

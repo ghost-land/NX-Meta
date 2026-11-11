@@ -1,11 +1,18 @@
 {
-  "name": "Ostwind꞉ Beginn einer wunderbaren Freundschaft",
-  "publisher": "",
-  "releaseDate": "",
+  "name": "Ostwind: Beginn einer wunderbaren Freundschaft",
+  "publisher": "Mindscape",
+  "releaseDate": "20171214",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/010034C007610000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010034C007610000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010034C007610000/screen/1",
+    "http://api.nlib.cc/nx/010034C007610000/screen/2",
+    "http://api.nlib.cc/nx/010034C007610000/screen/3",
+    "http://api.nlib.cc/nx/010034C007610000/screen/4",
+    "http://api.nlib.cc/nx/010034C007610000/screen/5",
+    "http://api.nlib.cc/nx/010034C007610000/screen/6"
+  ],
   "version": 0,
   "size": 1289410634
 }

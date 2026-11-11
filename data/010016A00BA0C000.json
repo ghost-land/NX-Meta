@@ -1,10 +1,10 @@
 {
   "name": "わくわくどうぶつランド　体験版",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "NIPPON COLUMBIA",
+  "releaseDate": "20180726",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
+  "bannerUrl": "http://api.nlib.cc/nx/010016A00BA0C000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010016A00BA0C000/icon/200",
   "screenshots": [],
   "version": 0,
   "size": 400654103

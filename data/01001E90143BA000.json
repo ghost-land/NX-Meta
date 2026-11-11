@@ -1,11 +1,18 @@
 {
   "name": "LIBERATED",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "DMM GAMES",
+  "releaseDate": "20210527",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/01001E90143BA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001E90143BA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001E90143BA000/screen/1",
+    "http://api.nlib.cc/nx/01001E90143BA000/screen/2",
+    "http://api.nlib.cc/nx/01001E90143BA000/screen/3",
+    "http://api.nlib.cc/nx/01001E90143BA000/screen/4",
+    "http://api.nlib.cc/nx/01001E90143BA000/screen/5",
+    "http://api.nlib.cc/nx/01001E90143BA000/screen/6"
+  ],
   "version": 0,
   "size": 1054631653
 }

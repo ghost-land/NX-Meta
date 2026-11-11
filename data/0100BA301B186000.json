@@ -1,11 +1,18 @@
 {
   "name": "Fast Striker EX",
-  "publisher": "",
-  "releaseDate": "",
-  "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "publisher": "NGDEV",
+  "releaseDate": "20250626",
+  "description": "Short facts:\n\n- 6 Stages\n- 4 Game modes: Novice/Original/Maniac/Omake\n- Elaborate scoring systems\n- 40+ Fully animated CGI enemies\n- 7+ Huge fully animated boss enemies\n- 3D scrolling CGI backgrounds\n- Constant 60 fps\n- Difficulty rank system\n\nEX Version specific changes:\n\n- First port based on the arcade original with all graphics and animations intact.\n- Added stage and boss select for training\n- Added full autofire\n- Normalized diagonal player movement\n- Improved button priority between shot modes (FRONT,LASER,BACK,AUTO)\n- Increased player fast strike shield endurance\n- Improved background contrasts\n- Added additional background layer graphics\n- 32 bit like graphic updates\n- hundreds of small fixes",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BA301B186000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BA301B186000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BA301B186000/screen/1",
+    "http://api.nlib.cc/nx/0100BA301B186000/screen/2",
+    "http://api.nlib.cc/nx/0100BA301B186000/screen/3",
+    "http://api.nlib.cc/nx/0100BA301B186000/screen/4",
+    "http://api.nlib.cc/nx/0100BA301B186000/screen/5",
+    "http://api.nlib.cc/nx/0100BA301B186000/screen/6"
+  ],
   "version": 0,
   "size": 126338243
 }

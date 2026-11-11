@@ -1,11 +1,18 @@
 {
   "name": "Ultra Bonk Survivors",
-  "publisher": "",
-  "releaseDate": "",
-  "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "publisher": "NOSTRA GAMES",
+  "releaseDate": "20260312",
+  "description": "Step into the chaotic world of Ultra Bonk Survivors, where every swing, spell, and explosion decides your fate!\n\nChoose your hero, dive into monster-filled arenas, and unleash devastating attacks in this fast-paced survivor-style action roguelite designed for quick, addictive sessions of pure fun.\n\nGame features:\n- Bonk, Slash, and Survive!\n- Face endless waves of goblins, skeletons, and demons in vibrant fantasy arenas that crumble and glow with magical energy.\n- Every run is a fight to last just a little longer—and bonk a little harder.\n- Unlock Heroes & Legends\n- Begin your adventure with humble warriors and unlock mighty heroes as you progress, including the legendary Lion Knight, masters of sword and shield.\n- Each character brings unique stats and attack styles to discover.\n- Grow Stronger Every Run\n- Collect glowing orbs, relics, and mystical books that grant random power-ups. Experiment with different builds and create unstoppable synergies.\n- Explore and Interact\n- Find shrines, treasure chests, and mysterious power-ups scattered across the battlefield.\n  \nWill you risk everything to open a chest in the middle of a horde?\nOne More Bonk...\nFast-paced, endlessly replayable, and dangerously addictive. Every defeat brings you closer to your next unlock and new surprises.\n\nCheck out this fun new game from the NOSTRA.GAMES team.\n\nUltra Bonk Survivors is your ticket to the ultimate fantasy survival experience.\n\nChoose your hero, charge into the temple ruins, and see how long you can survive the bonkocalypse.",
+  "bannerUrl": "http://api.nlib.cc/nx/01001560266E6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01001560266E6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01001560266E6000/screen/1",
+    "http://api.nlib.cc/nx/01001560266E6000/screen/2",
+    "http://api.nlib.cc/nx/01001560266E6000/screen/3",
+    "http://api.nlib.cc/nx/01001560266E6000/screen/4",
+    "http://api.nlib.cc/nx/01001560266E6000/screen/5",
+    "http://api.nlib.cc/nx/01001560266E6000/screen/6"
+  ],
   "version": 0,
   "size": 225527057
 }

@@ -1,11 +1,18 @@
 {
   "name": "すみっコぐらし　学校生活はじめるんです",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "日本コロムビア",
+  "releaseDate": "20190718",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/010070800D3E2000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010070800D3E2000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010070800D3E2000/screen/1",
+    "http://api.nlib.cc/nx/010070800D3E2000/screen/2",
+    "http://api.nlib.cc/nx/010070800D3E2000/screen/3",
+    "http://api.nlib.cc/nx/010070800D3E2000/screen/4",
+    "http://api.nlib.cc/nx/010070800D3E2000/screen/5",
+    "http://api.nlib.cc/nx/010070800D3E2000/screen/6"
+  ],
   "version": 0,
   "size": 227192734
 }

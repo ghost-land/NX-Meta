@@ -1,11 +1,18 @@
 {
-  "name": "哆啦A夢 大雄的新恐龍",
-  "publisher": "",
-  "releaseDate": "",
+  "name": "도라에몽 진구의 신공룡",
+  "publisher": "ARC SYSTEM WORKS",
+  "releaseDate": "20210805",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/01007D60128A4000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007D60128A4000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007D60128A4000/screen/1",
+    "http://api.nlib.cc/nx/01007D60128A4000/screen/2",
+    "http://api.nlib.cc/nx/01007D60128A4000/screen/3",
+    "http://api.nlib.cc/nx/01007D60128A4000/screen/4",
+    "http://api.nlib.cc/nx/01007D60128A4000/screen/5",
+    "http://api.nlib.cc/nx/01007D60128A4000/screen/6"
+  ],
   "version": 0,
   "size": 1985633194
 }

@@ -1,11 +1,18 @@
 {
   "name": "NARUTO－ナルト－ 疾風伝　ナルティメットストームトリロジー for Nintendo Switch",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "バンダイナムコエンターテインメント",
+  "releaseDate": "20180426",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/0100086005EDC000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100086005EDC000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100086005EDC000/screen/1",
+    "http://api.nlib.cc/nx/0100086005EDC000/screen/2",
+    "http://api.nlib.cc/nx/0100086005EDC000/screen/3",
+    "http://api.nlib.cc/nx/0100086005EDC000/screen/4",
+    "http://api.nlib.cc/nx/0100086005EDC000/screen/5",
+    "http://api.nlib.cc/nx/0100086005EDC000/screen/6"
+  ],
   "version": 0,
   "size": 12364265352
 }

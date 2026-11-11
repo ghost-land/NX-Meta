@@ -1,11 +1,18 @@
 {
-  "name": "NARUTO X BORUTO 火影忍者 終極風暴羈絆",
-  "publisher": "",
-  "releaseDate": "",
+  "name": "나루토 X 보루토 나루티밋 스톰 커넥션즈",
+  "publisher": "BANDAI NAMCO Entertainment",
+  "releaseDate": "20231116",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/0100D010190A8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100D010190A8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100D010190A8000/screen/1",
+    "http://api.nlib.cc/nx/0100D010190A8000/screen/2",
+    "http://api.nlib.cc/nx/0100D010190A8000/screen/3",
+    "http://api.nlib.cc/nx/0100D010190A8000/screen/4",
+    "http://api.nlib.cc/nx/0100D010190A8000/screen/5",
+    "http://api.nlib.cc/nx/0100D010190A8000/screen/6"
+  ],
   "version": 0,
   "size": 12284044027
 }

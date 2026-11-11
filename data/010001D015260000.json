@@ -1,11 +1,18 @@
 {
   "name": "Death end re;Quest2",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "アイディアファクトリー",
+  "releaseDate": "20210819",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/010001D015260000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010001D015260000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010001D015260000/screen/1",
+    "http://api.nlib.cc/nx/010001D015260000/screen/2",
+    "http://api.nlib.cc/nx/010001D015260000/screen/3",
+    "http://api.nlib.cc/nx/010001D015260000/screen/4",
+    "http://api.nlib.cc/nx/010001D015260000/screen/5",
+    "http://api.nlib.cc/nx/010001D015260000/screen/6"
+  ],
   "version": 0,
   "size": 6129674162
 }

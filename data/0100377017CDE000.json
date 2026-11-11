@@ -1,11 +1,15 @@
 {
-  "name": "THE DARK PICTURES꞉ LITTLE HOPE (リトル・ホープ)",
-  "publisher": "",
-  "releaseDate": "",
+  "name": "THE DARK PICTURES: LITTLE HOPE (リトル・ホープ)",
+  "publisher": "バンダイナムコエンターテインメント",
+  "releaseDate": "20231005",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/0100377017CDE000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100377017CDE000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100377017CDE000/screen/1",
+    "http://api.nlib.cc/nx/0100377017CDE000/screen/2",
+    "http://api.nlib.cc/nx/0100377017CDE000/screen/3"
+  ],
   "version": 0,
   "size": 12649196436
 }

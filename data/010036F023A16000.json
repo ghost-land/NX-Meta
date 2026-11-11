@@ -1,11 +1,18 @@
 {
   "name": "DYNAMIC CHORD feat.KYOHSO Remaster edition",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "ヒューネックス",
+  "releaseDate": "20251127",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
-  "screenshots": [],
+  "bannerUrl": "http://api.nlib.cc/nx/010036F023A16000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/010036F023A16000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/010036F023A16000/screen/1",
+    "http://api.nlib.cc/nx/010036F023A16000/screen/2",
+    "http://api.nlib.cc/nx/010036F023A16000/screen/3",
+    "http://api.nlib.cc/nx/010036F023A16000/screen/4",
+    "http://api.nlib.cc/nx/010036F023A16000/screen/5",
+    "http://api.nlib.cc/nx/010036F023A16000/screen/6"
+  ],
   "version": 0,
   "size": 5059364606
 }

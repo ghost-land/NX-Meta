@@ -1,10 +1,10 @@
 {
   "name": "Kirby™ Star Allies Demo",
-  "publisher": "",
-  "releaseDate": "",
+  "publisher": "Nintendo",
+  "releaseDate": "20180406",
   "description": "",
-  "bannerUrl": "",
-  "iconUrl": "",
+  "bannerUrl": "http://api.nlib.cc/nx/01005A70096FA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01005A70096FA000/icon/200",
   "screenshots": [],
   "version": 0,
   "size": 566960159
