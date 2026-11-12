@@ -1,0 +1,18 @@
+{
+  "name": "Scurge: Hive",
+  "publisher": "Ratalaika Games",
+  "releaseDate": "20251010",
+  "description": "Take on the role of acclaimed bounty hunter Jenosa Arma on a shocking and dangerous mission. Our heroine has been contracted by the Military to recover a top-secret science laboratory on an obscure distant planet. \n\nTo her surprise, the cause of the disaster is a notorious virus known as “Scurge”, which has the ability to enslave all things to its destructive will. Powered by bio-protective armor, Jenosa is able to resist but not destroy “Scurge”. \n\nShe must use her agility, her weapons, and her wits to contain and ultimately defeat the cruel virus before it spreads. \n\n\nFeatures:\n* Iconic hardware action-adventure classic\n* Isometric platforming, combat and puzzles\n* Epic science-fiction narrative\n* Upgrade your arsenal\n* Unique “infection meter” mechanic\n* Rewind/Turbo function: repeat something until you achieve perfection, or speed things up \n* Save state function: save wherever you want to in the game, and restart from that exact point \n* Screen filters: select from several filters to modify how the game looks (retro-style monitor, black-and-white, etc.) \n* Gallery: view images from the original game’s manual and box design \n* Cheats function: activate cheats that will make your mission a lot easier (infinite lives, invulnerability, etc.)",
+  "bannerUrl": "http://api.nlib.cc/nx/0100AB302115A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100AB302115A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100AB302115A000/screen/1",
+    "http://api.nlib.cc/nx/0100AB302115A000/screen/2",
+    "http://api.nlib.cc/nx/0100AB302115A000/screen/3",
+    "http://api.nlib.cc/nx/0100AB302115A000/screen/4",
+    "http://api.nlib.cc/nx/0100AB302115A000/screen/5",
+    "http://api.nlib.cc/nx/0100AB302115A000/screen/6"
+  ],
+  "version": 0,
+  "size": 55537057
+}
