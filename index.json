@@ -18675,8 +18675,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 6282288522
+            "version": 327680,
+            "size": 6290276499
         },
         "0100BC2004FF4800": {
             "id": "0100BC2004FF4800",
@@ -46173,12 +46173,17 @@
         "0100F62013DAE000": {
             "id": "0100F62013DAE000",
             "name": "FINALSWORD DefinitiveEdition",
-            "publisher": "",
-            "releaseDate": "",
-            "description": "",
-            "bannerUrl": "",
-            "iconUrl": "",
-            "screenshots": [],
+            "publisher": "HUP Games",
+            "releaseDate": "20210204",
+            "description": "The source of evil, it has brought numerous monster corps.\nDefeat the source of evil by acquiring various skills and magics through the adventure.\nYou will experience breathtaking battles with real fantasy monsters.",
+            "bannerUrl": "https://api.nlib.cc/nx/0100F62013DAE000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100F62013DAE000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100F62013DAE000/screen/1",
+                "https://api.nlib.cc/nx/0100F62013DAE000/screen/2",
+                "https://api.nlib.cc/nx/0100F62013DAE000/screen/3",
+                "https://api.nlib.cc/nx/0100F62013DAE000/screen/4"
+            ],
             "version": 0,
             "size": 1088800431
         },
@@ -47122,6 +47127,18 @@
             ],
             "version": 0,
             "size": 194802401
+        },
+        "010066801DFB9067": {
+            "id": "010066801DFB9067",
+            "name": "Jigsaw Masterpieces 2 Exotic Street Corners",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100B6F01DAF7021": {
             "id": "0100B6F01DAF7021",
@@ -56430,8 +56447,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 5242880,
-            "size": 3778194649
+            "version": 5308416,
+            "size": 3783120851
         },
         "010037700C9F2000": {
             "id": "010037700C9F2000",
@@ -60584,8 +60601,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 917504,
-            "size": 331856244
+            "version": 1114112,
+            "size": 513049601
         },
         "0100B1400CD5100B": {
             "id": "0100B1400CD5100B",
@@ -88413,12 +88430,17 @@
         "0100F640129A8000": {
             "id": "0100F640129A8000",
             "name": "アイドル麻雀 ファイナルロマンス4 Remaster",
-            "publisher": "",
-            "releaseDate": "",
+            "publisher": "シティコネクション",
+            "releaseDate": "20231026",
             "description": "",
-            "bannerUrl": "",
-            "iconUrl": "",
-            "screenshots": [],
+            "bannerUrl": "https://api.nlib.cc/nx/0100F640129A8000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100F640129A8000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100F640129A8000/screen/1",
+                "https://api.nlib.cc/nx/0100F640129A8000/screen/2",
+                "https://api.nlib.cc/nx/0100F640129A8000/screen/3",
+                "https://api.nlib.cc/nx/0100F640129A8000/screen/4"
+            ],
             "version": 0,
             "size": 1764238696
         },
@@ -93124,6 +93146,18 @@
             "screenshots": [],
             "version": 0,
             "size": 23204
+        },
+        "010066801DFB906A": {
+            "id": "010066801DFB906A",
+            "name": "Jigsaw Masterpieces 2 Stairway Journeys",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100BEB015604800": {
             "id": "0100BEB015604800",
@@ -102369,8 +102403,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 458752,
-            "size": 131875193
+            "version": 524288,
+            "size": 77646572
         },
         "010056201862C800": {
             "id": "010056201862C800",
@@ -137547,15 +137581,15 @@
         },
         "0100BB902537E800": {
             "id": "0100BB902537E800",
-            "name": "z",
+            "name": "HORSE CLUB Ride West",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 132048013
+            "version": 131072,
+            "size": 132881070
         },
         "010087C00E31C800": {
             "id": "010087C00E31C800",
@@ -170171,8 +170205,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 2228224,
-            "size": 665626928
+            "version": 2293760,
+            "size": 665806478
         },
         "01005EE0036ED016": {
             "id": "01005EE0036ED016",
@@ -179172,8 +179206,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 4194304,
-            "size": 3920047364
+            "version": 4259840,
+            "size": 3946405414
         },
         "0100D06018D151A4": {
             "id": "0100D06018D151A4",
@@ -181820,15 +181854,15 @@
         },
         "0100D71004694800": {
             "id": "0100D71004694800",
-            "name": "Minecraft for Nintendo Switch",
+            "name": "Minecraft",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 10682368,
-            "size": 899265674
+            "version": 10747904,
+            "size": 898769516
         },
         "01008BA01C5E8000": {
             "id": "01008BA01C5E8000",
@@ -187385,8 +187419,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 458752,
-            "size": 736807828
+            "version": 524288,
+            "size": 736690416
         },
         "0100DFB00D808000": {
             "id": "0100DFB00D808000",
@@ -187927,6 +187961,23 @@
             "screenshots": [],
             "version": 131072,
             "size": 33035999
+        },
+        "010067C0217FA000": {
+            "id": "010067C0217FA000",
+            "name": "Escape From Mystwood Mansion",
+            "publisher": "Lost Sock Studio",
+            "releaseDate": "20250319",
+            "description": "EXPLORE THE MANSION\nYou find yourself trapped inside the mysterious Mystwood Mansion. The door behind you is locked and the only way forward is to delve deeper into the mansion. As you explore the mansion's many rooms you discover that someone has orchestrated a series of puzzles and challenges to keep you from escaping.\n\nSOLVE PUZZLES AND DECIPHER CODES\nEach room of the mansion is filled with puzzles to solve and codes to decipher. As you take on the mansion's many challenges someone seems to be watching your every move...\n\nINTERACT WITH THE ENVIRONMENT\nPoke around to find clues to help you solve the puzzles. Interact and study 3D objects to find important details.\n\nESCAPE!\nWill you escape the mansion's grasp or are you up to the challenge to access the final room?\n\nFEATURES\n• Five puzzle-filled rooms with hidden sub-areas\n• Dynamic hint system\n• Beautiful and immersive environments to explore\n• Many objects and secrets to find\n• Multiple endings",
+            "bannerUrl": "https://api.nlib.cc/nx/010067C0217FA000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/010067C0217FA000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/010067C0217FA000/screen/1",
+                "https://api.nlib.cc/nx/010067C0217FA000/screen/2",
+                "https://api.nlib.cc/nx/010067C0217FA000/screen/3",
+                "https://api.nlib.cc/nx/010067C0217FA000/screen/4"
+            ],
+            "version": 0,
+            "size": 1098831627
         },
         "01006FD019A36800": {
             "id": "01006FD019A36800",
@@ -194453,8 +194504,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 132790105
+            "version": 393216,
+            "size": 137918725
         },
         "0100A280180D4000": {
             "id": "0100A280180D4000",
@@ -210429,8 +210480,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 15331558729
+            "version": 393216,
+            "size": 15331655167
         },
         "010082A01538F0D3": {
             "id": "010082A01538F0D3",
@@ -222112,8 +222163,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 67132808
+            "version": 327680,
+            "size": 78194819
         },
         "0100AE5014848000": {
             "id": "0100AE5014848000",
@@ -255257,15 +255308,15 @@
         },
         "0100B7C00933A800": {
             "id": "0100B7C00933A800",
-            "name": "Pikmin 4",
+            "name": "Pikmin™ 4",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 733199979
+            "version": 327680,
+            "size": 697486033
         },
         "0100E1800EFCE000": {
             "id": "0100E1800EFCE000",
@@ -256526,8 +256577,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 395154662
+            "version": 393216,
+            "size": 469456733
         },
         "01002EA01945D004": {
             "id": "01002EA01945D004",
@@ -320424,8 +320475,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 469045100
+            "version": 262144,
+            "size": 355786719
         },
         "0100EDC00FC5C000": {
             "id": "0100EDC00FC5C000",
@@ -320530,8 +320581,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 146789212
+            "version": 196608,
+            "size": 192263765
         },
         "010058600E531002": {
             "id": "010058600E531002",
@@ -361710,6 +361761,18 @@
             ],
             "version": 0,
             "size": 329870474
+        },
+        "010066801DFB9068": {
+            "id": "010066801DFB9068",
+            "name": "Jigsaw Masterpieces 2 Cats Met Along The Way",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "0100553015B5A000": {
             "id": "0100553015B5A000",
@@ -416143,8 +416206,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 393216,
-            "size": 1037776644
+            "version": 458752,
+            "size": 1038950780
         },
         "01009AE012636000": {
             "id": "01009AE012636000",
@@ -423537,8 +423600,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 776611321
+            "version": 393216,
+            "size": 776600458
         },
         "0100C2C0150D2800": {
             "id": "0100C2C0150D2800",
@@ -454341,8 +454404,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1572864,
-            "size": 220169865
+            "version": 1638400,
+            "size": 222800132
         },
         "0100B77012BD4800": {
             "id": "0100B77012BD4800",
@@ -496584,8 +496647,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 562314819
+            "version": 131072,
+            "size": 563528150
         },
         "010018800C7D2000": {
             "id": "010018800C7D2000",
@@ -498545,8 +498608,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 720896,
-            "size": 3395557230
+            "version": 786432,
+            "size": 4722795825
         },
         "0100AC000DF4E800": {
             "id": "0100AC000DF4E800",
@@ -549537,8 +549600,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 123137912
+            "version": 196608,
+            "size": 129234294
         },
         "010008F023F67001": {
             "id": "010008F023F67001",
@@ -567762,15 +567825,15 @@
         },
         "0100C6D0205D6800": {
             "id": "0100C6D0205D6800",
-            "name": "Fuga Melodies of Steel 3",
+            "name": "Fuga: Melodies of Steel 3",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 262144,
-            "size": 230450511
+            "version": 393216,
+            "size": 200945638
         },
         "010000B0196AA800": {
             "id": "010000B0196AA800",
@@ -568290,15 +568353,15 @@
         },
         "010071F0228CA800": {
             "id": "010071F0228CA800",
-            "name": "Labyrinth Of The Demon King",
+            "name": "LABYRINTH OF THE DEMON KING",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 1606629816
+            "version": 196608,
+            "size": 1922476995
         },
         "01008B200FC6C000": {
             "id": "01008B200FC6C000",
@@ -568582,15 +568645,15 @@
         },
         "01009D100EA28800": {
             "id": "01009D100EA28800",
-            "name": "AeternoBlade II꞉ Infinity",
+            "name": "AeternoBlade II: Infinity",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 524288,
-            "size": 2963609509
+            "version": 655360,
+            "size": 2853818958
         },
         "010010D011ED0800": {
             "id": "010010D011ED0800",
@@ -583777,6 +583840,18 @@
             "screenshots": [],
             "version": 0,
             "size": 55615
+        },
+        "010066801DFB9069": {
+            "id": "010066801DFB9069",
+            "name": "Jigsaw Masterpieces 2 A Bird's Eye World",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39582
         },
         "010039301B7E1009": {
             "id": "010039301B7E1009",
@@ -606757,8 +606832,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 52797516
+            "version": 262144,
+            "size": 53529752
         },
         "010025900BE90000": {
             "id": "010025900BE90000",
@@ -608359,8 +608434,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1638400,
-            "size": 3045255334
+            "version": 1703936,
+            "size": 3053639058
         },
         "0100747011890000": {
             "id": "0100747011890000",
@@ -645772,8 +645847,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 786432,
-            "size": 680417501
+            "version": 851968,
+            "size": 689696467
         },
         "010098000D647041": {
             "id": "010098000D647041",
