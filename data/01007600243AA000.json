@@ -1,0 +1,18 @@
+{
+  "name": "Journey to the Void",
+  "publisher": "RuneHeads",
+  "releaseDate": "20260326",
+  "description": "In this hybrid strategy roguelite deck builder, you must protect your hero from hordes of enemies in a grid-based combat system. Prepare to fend off attacks from all directions as you remain stationary at the centre of the battlefield. Use your action cards wisely, strategically combining energy, cards, effects, and knowledge of your enemies to overcome the odds.\n\nStand Your Ground\nWhat do you get when an unstoppable force meets an unmovable object? Chaos, and lots of it. With 100+ different cards, items and weapons with unique effect combinations, you’ll craft the ultimate stalwart against the forces of corruption. Build deck synergies and choose key skills upgrades as you set out to save the world. \n\nDust Yourself Off\nDecide your character’s journey. Trade with merchants, be faced with moral decisions along the way, and shape your hero’s adventure. Unlock unique hero backgrounds that alter your starting deck and can impact the strategy of your run each time you play. \n\nBrave A New World\nThe world, divided into eight elemental regions, will permanently react to the multitude of choices you make. Each time you play, experience completely unique runs within an overarching story, with over 100 enemies, 9 bosses, different starting decks and 25 arenas to discover.",
+  "bannerUrl": "http://api.nlib.cc/nx/01007600243AA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007600243AA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007600243AA000/screen/1",
+    "http://api.nlib.cc/nx/01007600243AA000/screen/2",
+    "http://api.nlib.cc/nx/01007600243AA000/screen/3",
+    "http://api.nlib.cc/nx/01007600243AA000/screen/4",
+    "http://api.nlib.cc/nx/01007600243AA000/screen/5",
+    "http://api.nlib.cc/nx/01007600243AA000/screen/6"
+  ],
+  "version": 0,
+  "size": 729555486
+}
