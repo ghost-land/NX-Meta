@@ -1,0 +1,18 @@
+{
+  "name": "Graveyard Keeper 2",
+  "publisher": "tinyBuild Games",
+  "releaseDate": "20260922",
+  "description": "You are the Grand Inquisitor now! Restore the town and lead your undead army into battle to save the realm from a zombie apocalypse. Welcome to Graveyard Keeper 2 - the sequel to the original, unhinged classic!\n\nManage. Grind. Automate!\nBuild and manage your own medieval graveyard. Harvest as much flora, fauna, and human remains as you can to build extraordinary machinery, automate production, and expand your graveyard for pure profit.\n\nSave the Kingdom!\nBecome the Inquisitor and lead your undead army into battle to save the Kingdom from a zombie apocalypse. Build towers and fortifications, craft powerful armour and weapons, arm and train your not-so-smart troops, and slash your way to victory!\n\nRebuild The Town. For Profits!\nHelp the townsfolk restore their homes and turn their problems into revenue. Complete quests throughout the city, as your undead workers take care of the heavy lifting behind the scenes. With zombie-based automation and structured systems, you can transform local efforts into a scalable and profitable operation.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100005027A18000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100005027A18000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100005027A18000/screen/1",
+    "http://api.nlib.cc/nx/0100005027A18000/screen/2",
+    "http://api.nlib.cc/nx/0100005027A18000/screen/3",
+    "http://api.nlib.cc/nx/0100005027A18000/screen/4",
+    "http://api.nlib.cc/nx/0100005027A18000/screen/5",
+    "http://api.nlib.cc/nx/0100005027A18000/screen/6"
+  ],
+  "version": 0,
+  "size": 548789550
+}
