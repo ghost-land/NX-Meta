@@ -1,0 +1,18 @@
+{
+  "name": "Tearscape",
+  "publisher": "NERDS TAKE OVER",
+  "releaseDate": "20260827",
+  "description": "Discover a Gothic world in this 2D top-down action-adventure, blending fast-paced combat, exploration, and pixel art inspired by retro classics. Fight monstrous foes, unlock new abilities, and explore a non-linear map filled with hidden secrets and dangerous challenges.\n\nCOMBAT\n\nMaster precise combat, where every strike and dodge matters. Manage your stamina  as you face off against grotesque enemies. You have a limited number of healing flasks so use them wisely. Upgrade your character's stats to remain effective in combat.\n\nTOOLS\n\nDiscover powerful new tools hidden in the dungeons that enhance both combat and exploration. Unlock new abilities to defeat enemies more effectively and access hidden paths, uncovering deeper secrets within the world.\n\nDUNGEONS\n\nUncover hidden dungeons throughout Tearscape's dark, interconnected world. Each dungeon holds unique challenges, powerful items, and deadly enemies, pushing your combat and exploration skills to the limit.\n\nBOSS FIGHTS\n\nFace off against  challenging bosses: massive, grotesque creatures born from dark experiments. Each encounter demands precise timing, strategy, and mastery of your abilities to emerge victorious.\n\nEXPLORATION\n\nExplore the vast, interconnected map filled with branching paths, hidden shortcuts, and secret areas. The non-linear design encourages exploration, rewarding you with powerful items and new abilities.\n\nNPCs\n\nEncounter a diverse cast of NPCs, some offering guidance, others seeking your help, and a few with their own hidden agendas. Every interaction adds depth to the story.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FCF0280DA000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FCF0280DA000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FCF0280DA000/screen/1",
+    "http://api.nlib.cc/nx/0100FCF0280DA000/screen/2",
+    "http://api.nlib.cc/nx/0100FCF0280DA000/screen/3",
+    "http://api.nlib.cc/nx/0100FCF0280DA000/screen/4",
+    "http://api.nlib.cc/nx/0100FCF0280DA000/screen/5",
+    "http://api.nlib.cc/nx/0100FCF0280DA000/screen/6"
+  ],
+  "version": 0,
+  "size": 105111750
+}

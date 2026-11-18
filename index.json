@@ -57768,8 +57768,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 458752,
-            "size": 102751866
+            "version": 524288,
+            "size": 151259846
         },
         "0100FE001327C000": {
             "id": "0100FE001327C000",
@@ -58826,6 +58826,18 @@
             "version": 65536,
             "size": 42848735
         },
+        "010009E0263CA800": {
+            "id": "010009E0263CA800",
+            "name": "Moomin : Midsummer Madness",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 196608,
+            "size": 364843989
+        },
         "01004C001B53A000": {
             "id": "01004C001B53A000",
             "name": "Ball laB II",
@@ -59525,17 +59537,12 @@
         "010015E015676000": {
             "id": "010015E015676000",
             "name": "Arcade Archives BLACK HEART",
-            "publisher": "HAMSTER",
-            "releaseDate": "20211104",
-            "description": "\"BLACK HEART\" is a shooter released by UPL in 1991.\nTaranith, absolute ruler of the Dark Forces, has kidnapped Jeanne. Zil must mount his dragon and take to the skies, assaulting the enemy castle to save her.\nIn order to defeat the boss, work together with the fairies that accompany you and the pixies that allow you to fire powerful F・BREATH attacks when you collect them.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n※The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
-            "bannerUrl": "https://api.nlib.cc/nx/010015E015676000/banner",
-            "iconUrl": "https://api.nlib.cc/nx/010015E015676000/icon/200",
-            "screenshots": [
-                "https://api.nlib.cc/nx/010015E015676000/screen/1",
-                "https://api.nlib.cc/nx/010015E015676000/screen/2",
-                "https://api.nlib.cc/nx/010015E015676000/screen/3",
-                "https://api.nlib.cc/nx/010015E015676000/screen/4"
-            ],
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
             "version": 0,
             "size": 30409058
         },
@@ -174174,6 +174181,18 @@
             "version": 0,
             "size": 1219404345
         },
+        "0100FA9028BB8000": {
+            "id": "0100FA9028BB8000",
+            "name": "Titanium Court",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 431280193
+        },
         "01009E702083F001": {
             "id": "01009E702083F001",
             "name": "Evo Pop Hover DLC",
@@ -194176,8 +194195,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1245184,
-            "size": 722960750
+            "version": 1310720,
+            "size": 724398332
         },
         "0100D5801E904000": {
             "id": "0100D5801E904000",
@@ -213141,8 +213160,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 524288,
-            "size": 388739157
+            "version": 589824,
+            "size": 388574042
         },
         "0100C3601518D01D": {
             "id": "0100C3601518D01D",
@@ -221965,8 +221984,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 2162688,
-            "size": 396831646
+            "version": 2228224,
+            "size": 403922705
         },
         "0100C6A019C84800": {
             "id": "0100C6A019C84800",
@@ -234600,8 +234619,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 35966423
+            "version": 196608,
+            "size": 36008653
         },
         "010073401B8DE000": {
             "id": "010073401B8DE000",
@@ -245556,6 +245575,18 @@
             "version": 0,
             "size": 56595
         },
+        "0100FCF0280DA800": {
+            "id": "0100FCF0280DA800",
+            "name": "Tearscape",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 131072,
+            "size": 32814932
+        },
         "0100A0D01CEC2000": {
             "id": "0100A0D01CEC2000",
             "name": "Pinocchio: Interactive Book",
@@ -256326,6 +256357,18 @@
             "screenshots": [],
             "version": 65536,
             "size": 274679449
+        },
+        "0100B76027539001": {
+            "id": "0100B76027539001",
+            "name": "Unicorn Academy Island Of Magic Cosmetics",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
         },
         "010026100A2CA000": {
             "id": "010026100A2CA000",
@@ -283624,6 +283667,23 @@
             "screenshots": [],
             "version": 131072,
             "size": 2760827174
+        },
+        "0100FCF0280DA000": {
+            "id": "0100FCF0280DA000",
+            "name": "Tearscape",
+            "publisher": "NERDS TAKE OVER",
+            "releaseDate": "20260827",
+            "description": "Discover a Gothic world in this 2D top-down action-adventure, blending fast-paced combat, exploration, and pixel art inspired by retro classics. Fight monstrous foes, unlock new abilities, and explore a non-linear map filled with hidden secrets and dangerous challenges.\n\nCOMBAT\n\nMaster precise combat, where every strike and dodge matters. Manage your stamina  as you face off against grotesque enemies. You have a limited number of healing flasks so use them wisely. Upgrade your character's stats to remain effective in combat.\n\nTOOLS\n\nDiscover powerful new tools hidden in the dungeons that enhance both combat and exploration. Unlock new abilities to defeat enemies more effectively and access hidden paths, uncovering deeper secrets within the world.\n\nDUNGEONS\n\nUncover hidden dungeons throughout Tearscape's dark, interconnected world. Each dungeon holds unique challenges, powerful items, and deadly enemies, pushing your combat and exploration skills to the limit.\n\nBOSS FIGHTS\n\nFace off against  challenging bosses: massive, grotesque creatures born from dark experiments. Each encounter demands precise timing, strategy, and mastery of your abilities to emerge victorious.\n\nEXPLORATION\n\nExplore the vast, interconnected map filled with branching paths, hidden shortcuts, and secret areas. The non-linear design encourages exploration, rewarding you with powerful items and new abilities.\n\nNPCs\n\nEncounter a diverse cast of NPCs, some offering guidance, others seeking your help, and a few with their own hidden agendas. Every interaction adds depth to the story.",
+            "bannerUrl": "https://api.nlib.cc/nx/0100FCF0280DA000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100FCF0280DA000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100FCF0280DA000/screen/1",
+                "https://api.nlib.cc/nx/0100FCF0280DA000/screen/2",
+                "https://api.nlib.cc/nx/0100FCF0280DA000/screen/3",
+                "https://api.nlib.cc/nx/0100FCF0280DA000/screen/4"
+            ],
+            "version": 0,
+            "size": 105111750
         },
         "0100D9A0159AE800": {
             "id": "0100D9A0159AE800",
@@ -341271,6 +341331,18 @@
             "screenshots": [],
             "version": 0,
             "size": 56548
+        },
+        "0100B76027538000": {
+            "id": "0100B76027538000",
+            "name": "v-unicorn_academy_island_of_magic",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 2687466118
         },
         "01006F7017102800": {
             "id": "01006F7017102800",
@@ -445623,6 +445695,18 @@
             "version": 0,
             "size": 139997726
         },
+        "0100B76027538800": {
+            "id": "0100B76027538800",
+            "name": "v-unicorn_academy_island_of_magic_v131072",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 131072,
+            "size": 1202009770
+        },
         "0100C7E0134BE800": {
             "id": "0100C7E0134BE800",
             "name": "Five Dates",
@@ -487860,6 +487944,18 @@
             ],
             "version": 0,
             "size": 58780871
+        },
+        "0100FA9028BB8800": {
+            "id": "0100FA9028BB8800",
+            "name": "Titanium Court",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 37815880
         },
         "01002820142C6000": {
             "id": "01002820142C6000",
@@ -574168,8 +574264,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 458752,
-            "size": 19241914431
+            "version": 589824,
+            "size": 23036157788
         },
         "010047600FBFF018": {
             "id": "010047600FBFF018",
@@ -583062,6 +583158,18 @@
             ],
             "version": 0,
             "size": 51700197
+        },
+        "010009E0263CA000": {
+            "id": "010009E0263CA000",
+            "name": "Moomin : Midsummer Madness",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 1598181841
         },
         "0100D1301D9A4000": {
             "id": "0100D1301D9A4000",
@@ -600840,8 +600948,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 2031616,
-            "size": 1051595016
+            "version": 2228224,
+            "size": 1035555032
         },
         "0100CF600FF7A800": {
             "id": "0100CF600FF7A800",
@@ -614292,8 +614400,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 148497239
+            "version": 327680,
+            "size": 478485235
         },
         "0100B0401174305D": {
             "id": "0100B0401174305D",
@@ -639727,8 +639835,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 589824,
-            "size": 29484058
+            "version": 655360,
+            "size": 26726737
         },
         "0100DF9010207001": {
             "id": "0100DF9010207001",
