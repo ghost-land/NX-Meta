@@ -17713,8 +17713,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 2097152,
-            "size": 819202751
+            "version": 2162688,
+            "size": 916138747
         },
         "01002C8018554000": {
             "id": "01002C8018554000",
@@ -53073,8 +53073,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 2031616,
-            "size": 817620026
+            "version": 2097152,
+            "size": 911168292
         },
         "0100FC101B730000": {
             "id": "0100FC101B730000",
@@ -405117,6 +405117,18 @@
             "version": 0,
             "size": 720381181
         },
+        "01009BC028996000": {
+            "id": "01009BC028996000",
+            "name": "Charoite into the Deep",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 229766717
+        },
         "010028D00BA1B001": {
             "id": "010028D00BA1B001",
             "name": "The Sinking City - Investigator Pack",
@@ -428440,8 +428452,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 589824,
-            "size": 367827744
+            "version": 655360,
+            "size": 361833910
         },
         "0100CB700D43900F": {
             "id": "0100CB700D43900F",
@@ -490896,8 +490908,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 589824,
-            "size": 788407175
+            "version": 655360,
+            "size": 788750838
         },
         "01003B001A81E000": {
             "id": "01003B001A81E000",
@@ -517927,6 +517939,18 @@
             "screenshots": [],
             "version": 0,
             "size": 39629
+        },
+        "0100E7A02AEDC000": {
+            "id": "0100E7A02AEDC000",
+            "name": "Relic Looter",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 131255299
         },
         "01008C9014695001": {
             "id": "01008C9014695001",
