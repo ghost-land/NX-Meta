@@ -1,0 +1,18 @@
+{
+  "name": "Apple Knight 2",
+  "publisher": "Limitless",
+  "releaseDate": "20250313",
+  "description": "Dive into intense hack-and-slash action as you battle through hordes of enemies in this exciting platformer! Explore worlds filled with dungeons, get powerful loot, and unlock a vast arsenal of weapons and skins.\n\nGame Features:\n● Extensive Arsenal & Customization\nChoose from a wide variety of weapons, skins, abilities, and pets!\n● Dynamic Dodging & Dashing\nMaster swift dashes to evade enemy melee and ranged attacks.\n● Hidden Secrets\nDiscover multiple secret areas in every level, packed with treasures.\n● Expert Combat Mechanics\nParry melee attacks with precision and deflect projectiles using your trusty sword!\n● Special Abilities\nYour sword is more than a weapon—unleash unique special abilities to take down enemies.\n● Engaging Enemy AI\nEnemies are smart enough to react to your movements but reckless enough to fall into your traps!\n",
+  "bannerUrl": "http://api.nlib.cc/nx/01007A90223D8000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/01007A90223D8000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/01007A90223D8000/screen/1",
+    "http://api.nlib.cc/nx/01007A90223D8000/screen/2",
+    "http://api.nlib.cc/nx/01007A90223D8000/screen/3",
+    "http://api.nlib.cc/nx/01007A90223D8000/screen/4",
+    "http://api.nlib.cc/nx/01007A90223D8000/screen/5",
+    "http://api.nlib.cc/nx/01007A90223D8000/screen/6"
+  ],
+  "version": 0,
+  "size": 50037466
+}

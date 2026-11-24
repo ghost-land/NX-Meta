@@ -1,0 +1,17 @@
+{
+  "name": "Taxi Chaos 2",
+  "publisher": "Current Games",
+  "releaseDate": "20251223",
+  "description": "Vinnie’s back, and the streets are wilder than ever! Pick up crazy passengers, pull off insane stunts, and race against the clock in the ultimate arcade taxi adventure.\n\nSpeed through heavy traffic, fly across rooftops, and find hidden shortcuts to keep the chaos going and the tips rolling. Master each ride’s handling, upgrade powerful abilities, and push your driving to the edge. Every second counts when speed, style, and destruction all collide.\n\nDeliver fares fast, chase high scores, and prove you’re the best driver in San Valeda.\n\nFeatures:\n• Explore a vibrant open city full of secrets and shortcuts\n• Pick up and deliver passengers with speed and flair\n• Unlock and upgrade unique cars and abilities\n• Perform massive jumps and wild stunts\n• Earn five-star ratings and dominate the leaderboards",
+  "bannerUrl": "http://api.nlib.cc/nx/0100FDE0228C6000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100FDE0228C6000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100FDE0228C6000/screen/1",
+    "http://api.nlib.cc/nx/0100FDE0228C6000/screen/2",
+    "http://api.nlib.cc/nx/0100FDE0228C6000/screen/3",
+    "http://api.nlib.cc/nx/0100FDE0228C6000/screen/4",
+    "http://api.nlib.cc/nx/0100FDE0228C6000/screen/5"
+  ],
+  "version": 0,
+  "size": 3267142756
+}

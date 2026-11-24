@@ -1,0 +1,18 @@
+{
+  "name": "Acorn Avengers",
+  "publisher": "Cascadia Games",
+  "releaseDate": "20260626",
+  "description": "The forest is at peace until lizards from space abduct the ranger! Now it’s up to a pair of plucky chipmunks, aka the Acorn Avengers, to make the rescue. Journey from the park all the way into space in a chase to save the beloved forest ranger. Toss boxes, hurl explosive barrels, climb trees, and most of all be sure to gather nuts!\n\nSupports up to 2 player co-op.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100BB8028D10000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100BB8028D10000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100BB8028D10000/screen/1",
+    "http://api.nlib.cc/nx/0100BB8028D10000/screen/2",
+    "http://api.nlib.cc/nx/0100BB8028D10000/screen/3",
+    "http://api.nlib.cc/nx/0100BB8028D10000/screen/4",
+    "http://api.nlib.cc/nx/0100BB8028D10000/screen/5",
+    "http://api.nlib.cc/nx/0100BB8028D10000/screen/6"
+  ],
+  "version": 0,
+  "size": 78690639
+}
