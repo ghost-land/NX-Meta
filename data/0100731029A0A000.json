@@ -1,0 +1,18 @@
+{
+  "name": "Small Saga",
+  "publisher": "Vertical Reach",
+  "releaseDate": "20260814",
+  "description": "Venture below the streets of London, and you will find the medieval kingdom of rats, mice, moles, squirrels, and shrews known as Rodentia.\n\nIf the rodents have a cardinal law, it is this: never attack a god. But Verm never had much respect for the rule of law. His tail was stolen by the Yellow God of Death, and now the mouse will have to fight all manner of beasts and titans on his quest to get it back.\n\nFeatures:\n• Team up with a colorful cast of misfit rodents.\n• Encounter awe-inspiring titans. Clash with a swashbuckling water vole, a pious lab rabbit, a poetry-spewing kraken, and many more.\n• Meet the hideous vermin who run society, then overthrow them.\n• Brandish your tiny weapons in strategic, turn-based combat.\n• There is no grinding. Small Saga is a tightly-focused and boss-oriented adventure.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100731029A0A000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100731029A0A000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100731029A0A000/screen/1",
+    "http://api.nlib.cc/nx/0100731029A0A000/screen/2",
+    "http://api.nlib.cc/nx/0100731029A0A000/screen/3",
+    "http://api.nlib.cc/nx/0100731029A0A000/screen/4",
+    "http://api.nlib.cc/nx/0100731029A0A000/screen/5",
+    "http://api.nlib.cc/nx/0100731029A0A000/screen/6"
+  ],
+  "version": 0,
+  "size": 207434429
+}
