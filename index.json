@@ -76170,8 +76170,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 589824,
-            "size": 23036157788
+            "version": 655360,
+            "size": 23923230640
         },
         "01007B0014300000": {
             "id": "01007B0014300000",
@@ -218626,8 +218626,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 77802618
+            "version": 262144,
+            "size": 78165755
         },
         "01007FD00DB20000": {
             "id": "01007FD00DB20000",
@@ -271654,6 +271654,18 @@
             "version": 131072,
             "size": 111578576
         },
+        "01008EB028D94000": {
+            "id": "01008EB028D94000",
+            "name": "Expelled from Paradise -The Stellar Angel-",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 1211653258
+        },
         "010090B00CA4F010": {
             "id": "010090B00CA4F010",
             "name": "キャプテン翼 RISE OF NEW CHAMPIONS - DLC 追加キャラクター１",
@@ -314954,6 +314966,18 @@
             "version": 0,
             "size": 55607
         },
+        "01001E102569700B": {
+            "id": "01001E102569700B",
+            "name": "Ghost Master Resurrection Sands Of The Damned",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 39588
+        },
         "010019000034A800": {
             "id": "010019000034A800",
             "name": "カラオケJOYSOUND for Nintendo Switch",
@@ -319451,8 +319475,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1966080,
-            "size": 1357631365
+            "version": 2031616,
+            "size": 1386728656
         },
         "0100DA4017FC2000": {
             "id": "0100DA4017FC2000",
@@ -337971,6 +337995,18 @@
             "screenshots": [],
             "version": 65536,
             "size": 769178533
+        },
+        "01008EB028D94800": {
+            "id": "01008EB028D94800",
+            "name": "Expelled from Paradise -The Stellar Angel-",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 65536,
+            "size": 286426562
         },
         "010095E018945190": {
             "id": "010095E018945190",
@@ -461700,6 +461736,18 @@
             "version": 0,
             "size": 42343901
         },
+        "0100CA1015DEC000": {
+            "id": "0100CA1015DEC000",
+            "name": "Hadean Tactics",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 0,
+            "size": 860346444
+        },
         "0100EC40181AC000": {
             "id": "0100EC40181AC000",
             "name": "Glitch Busters: Stuck On You",
@@ -472973,6 +473021,23 @@
             "version": 0,
             "size": 203598924
         },
+        "0100A0A0204A4000": {
+            "id": "0100A0A0204A4000",
+            "name": "Telebbit",
+            "publisher": "HYPER REAL",
+            "releaseDate": "20241023",
+            "description": "Take the teleporter and escape the lab!\nA simple device, it teleports the user to the location at which it's fired, but the possibilities become endless when combined with in-stage gimmicks! At the end of each stage, a boss stands ready to fight.\n\nThe year is 3023.\n\nConstant war, environmental destruction, and deadly pandemics have forced humanity underground, where they have been working hard to develop a new personal transportation known as a \"Teleporter\" to provide a safer and cheaper means of transportation that minimizes contact with the polluted ground and atmosphere.\n\nTo ensure the safety of the teleporter, tests were conducted using animals. During one such test, a glitch in the teleporter resulted in a rabbit's head being fitted with a high-performance CPU. With its new-found intelligence, the rabbit vowed to take revenge on the humans who subjected it to painful experimentation.\n\n- A fast-paced platformer utilizing teleportation\n- A game that is easy to learn but hard to master, requiring lots of effort and determination\n- Eight different underground areas presented in charming pixel art\n- Complete time trial in the Speedrun Mode",
+            "bannerUrl": "https://api.nlib.cc/nx/0100A0A0204A4000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100A0A0204A4000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100A0A0204A4000/screen/1",
+                "https://api.nlib.cc/nx/0100A0A0204A4000/screen/2",
+                "https://api.nlib.cc/nx/0100A0A0204A4000/screen/3",
+                "https://api.nlib.cc/nx/0100A0A0204A4000/screen/4"
+            ],
+            "version": 0,
+            "size": 115251060
+        },
         "010046600CCA4000": {
             "id": "010046600CCA4000",
             "name": "Kotodama: The 7 Mysteries of Fujisawa",
@@ -473560,15 +473625,15 @@
         },
         "0100CD7028862800": {
             "id": "0100CD7028862800",
-            "name": "Tenebris Sominia",
+            "name": "Tenebris Somnia",
             "publisher": "",
             "releaseDate": "",
             "description": "",
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 9577695584
+            "version": 131072,
+            "size": 9602306452
         },
         "0100CF80118C9006": {
             "id": "0100CF80118C9006",
@@ -488572,8 +488637,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 62588041
+            "version": 131072,
+            "size": 65449275
         },
         "01000FD00DB55038": {
             "id": "01000FD00DB55038",
@@ -508757,8 +508822,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 83039637
+            "version": 196608,
+            "size": 94188742
         },
         "010019500E642800": {
             "id": "010019500E642800",
@@ -527394,6 +527459,23 @@
             ],
             "version": 0,
             "size": 27558710
+        },
+        "0100A0A025F1E000": {
+            "id": "0100A0A025F1E000",
+            "name": "Changeable Guardian ESTIQUE",
+            "publisher": "AMATA",
+            "releaseDate": "20260805",
+            "description": "The ultimate brand-new 8-bit shmup \"Changeable Guardian ESTIQUE,\" born in the 21st century, has arrived!\n\nWhat is \"Changeable Guardian ESTIQUE\"?\nA faithful port of \"Changeable Guardian ESTIQUE,\" meticulously crafted to capture a truly nostalgic 8-bit feel.\n\nIt features both the Japanese and North American versions, each offering a distinct storyline. You can also explore and enjoy printed materials and various visual artworks in the Gallery Mode.\n\nSimple yet deep game system\nThis title is a side-scrolling shmup consisting of 6 stages based on cities around the world.\nThe super-variable mech \"ESTIQUE\" can transform at any time between \"Fighter Form\", which has a smaller vertical hitbox, and \"Robot Form\", which nullifies terrain damage and excels in health recovery. The key to clearing the game lies in how you switch between these two forms and two types of equipment depending on the situation. Furthermore, the scoring system driven by the special attack \"Super Weapon\", activated by mashing the shot button, adds depth to the gameplay.\nWith a game design focused on playability—such as a time-based regenerating life system and the removal of power-ups—a strategic shooting experience awaits everyone, from beginners to experts.",
+            "bannerUrl": "https://api.nlib.cc/nx/0100A0A025F1E000/banner",
+            "iconUrl": "https://api.nlib.cc/nx/0100A0A025F1E000/icon/200",
+            "screenshots": [
+                "https://api.nlib.cc/nx/0100A0A025F1E000/screen/1",
+                "https://api.nlib.cc/nx/0100A0A025F1E000/screen/2",
+                "https://api.nlib.cc/nx/0100A0A025F1E000/screen/3",
+                "https://api.nlib.cc/nx/0100A0A025F1E000/screen/4"
+            ],
+            "version": 0,
+            "size": 531455090
         },
         "0100F7E00C70F001": {
             "id": "0100F7E00C70F001",
@@ -596677,6 +596759,18 @@
             "version": 65536,
             "size": 23444
         },
+        "0100A0A0204A4800": {
+            "id": "0100A0A0204A4800",
+            "name": "Telebbit",
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
+            "version": 327680,
+            "size": 47518122
+        },
         "01006B0016BC0000": {
             "id": "01006B0016BC0000",
             "name": "Arcade Archives SPACE SEEKER",
@@ -598756,8 +598850,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 589824,
-            "size": 2971214957
+            "version": 655360,
+            "size": 3540722321
         },
         "01001CC00FA1B012": {
             "id": "01001CC00FA1B012",

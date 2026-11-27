@@ -1,0 +1,18 @@
+{
+  "name": "Changeable Guardian ESTIQUE",
+  "publisher": "AMATA",
+  "releaseDate": "20260805",
+  "description": "The ultimate brand-new 8-bit shmup \"Changeable Guardian ESTIQUE,\" born in the 21st century, has arrived!\n\nWhat is \"Changeable Guardian ESTIQUE\"?\nA faithful port of \"Changeable Guardian ESTIQUE,\" meticulously crafted to capture a truly nostalgic 8-bit feel.\n\nIt features both the Japanese and North American versions, each offering a distinct storyline. You can also explore and enjoy printed materials and various visual artworks in the Gallery Mode.\n\nSimple yet deep game system\nThis title is a side-scrolling shmup consisting of 6 stages based on cities around the world.\nThe super-variable mech \"ESTIQUE\" can transform at any time between \"Fighter Form\", which has a smaller vertical hitbox, and \"Robot Form\", which nullifies terrain damage and excels in health recovery. The key to clearing the game lies in how you switch between these two forms and two types of equipment depending on the situation. Furthermore, the scoring system driven by the special attack \"Super Weapon\", activated by mashing the shot button, adds depth to the gameplay.\nWith a game design focused on playability—such as a time-based regenerating life system and the removal of power-ups—a strategic shooting experience awaits everyone, from beginners to experts.",
+  "bannerUrl": "http://api.nlib.cc/nx/0100A0A025F1E000/banner",
+  "iconUrl": "https://api.nlib.cc/nx/0100A0A025F1E000/icon/200",
+  "screenshots": [
+    "http://api.nlib.cc/nx/0100A0A025F1E000/screen/1",
+    "http://api.nlib.cc/nx/0100A0A025F1E000/screen/2",
+    "http://api.nlib.cc/nx/0100A0A025F1E000/screen/3",
+    "http://api.nlib.cc/nx/0100A0A025F1E000/screen/4",
+    "http://api.nlib.cc/nx/0100A0A025F1E000/screen/5",
+    "http://api.nlib.cc/nx/0100A0A025F1E000/screen/6"
+  ],
+  "version": 0,
+  "size": 531455090
+}
