@@ -44935,8 +44935,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 5308416,
-            "size": 3783120851
+            "version": 5373952,
+            "size": 3782621668
         },
         "01009B4012FC6800": {
             "id": "01009B4012FC6800",
@@ -107898,8 +107898,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 327680,
-            "size": 6290276499
+            "version": 393216,
+            "size": 6348701476
         },
         "01009F3011004000": {
             "id": "01009F3011004000",
@@ -440904,8 +440904,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 1245184,
-            "size": 2319668283
+            "version": 1310720,
+            "size": 2319680285
         },
         "01004C3025908000": {
             "id": "01004C3025908000",
@@ -470947,8 +470947,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 2818048,
-            "size": 6953721283
+            "version": 2883584,
+            "size": 6953717525
         },
         "01009FF0198DA000": {
             "id": "01009FF0198DA000",
@@ -504174,8 +504174,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 131072,
-            "size": 372141614
+            "version": 262144,
+            "size": 374168120
         },
         "010025C0145D4000": {
             "id": "010025C0145D4000",
@@ -543115,8 +543115,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 4259840,
-            "size": 3946405414
+            "version": 4325376,
+            "size": 3977079840
         },
         "0100A720148A0000": {
             "id": "0100A720148A0000",
@@ -577059,8 +577059,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 65536,
-            "size": 37868425
+            "version": 131072,
+            "size": 49541251
         },
         "01005A8015436000": {
             "id": "01005A8015436000",
@@ -615079,8 +615079,8 @@
             "bannerUrl": "",
             "iconUrl": "",
             "screenshots": [],
-            "version": 196608,
-            "size": 138907755
+            "version": 262144,
+            "size": 161655044
         },
         "0100DE600FDFE800": {
             "id": "0100DE600FDFE800",
@@ -642672,17 +642672,12 @@
         "0100DCF013740000": {
             "id": "0100DCF013740000",
             "name": "Nickelodeon All-Star Brawl",
-            "publisher": "Game Mill",
-            "releaseDate": "20211005",
-            "description": "Brawl it out as your favorite Nickelodeon characters in bombastic platform battles! With a power-packed cast of heroes from the Nickelodeon universe, face-off with all-stars from SpongeBob Squarepants, Teenage Mutant Ninja Turtles, The Loud House, Danny Phantom, Aaahh!!! Real Monsters, The Wild Thornberrys, Hey Arnold!, Rugrats, and more to determine ultimate animation dominance. With unique move sets and attacks inspired by their personalities, each character has an individual style of play enabling endless action for Nickelodeon’s legion of fans. Select your favorite and then let the intense brawls begin with online and local multiplayer action.\n \n• Playable characters include SpongeBob, Lincoln Loud, Ninja Turtles Michelangelo and Leonardo, Oblina from Aaahh!!! Real Monsters, Invader Zim, and many more!\n• 20 themed levels like Jellyfish Field from the Spongebob Squarepants series, Technodrome from Teenage Mutant Ninja Turtles series, plus many more!\n• Each character offers a completely different and innovative playstyle and move set drawn from their lovable personalities\n• Battle your friends locally with up to 4 players simultaneously or in online competitive multiplayer",
-            "bannerUrl": "https://api.nlib.cc/nx/0100DCF013740000/banner",
-            "iconUrl": "https://api.nlib.cc/nx/0100DCF013740000/icon/200",
-            "screenshots": [
-                "https://api.nlib.cc/nx/0100DCF013740000/screen/1",
-                "https://api.nlib.cc/nx/0100DCF013740000/screen/2",
-                "https://api.nlib.cc/nx/0100DCF013740000/screen/3",
-                "https://api.nlib.cc/nx/0100DCF013740000/screen/4"
-            ],
+            "publisher": "",
+            "releaseDate": "",
+            "description": "",
+            "bannerUrl": "",
+            "iconUrl": "",
+            "screenshots": [],
             "version": 0,
             "size": 2492777650
         },
